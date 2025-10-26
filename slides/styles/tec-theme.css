@@ -1,0 +1,366 @@
+/*
+ * Tema Personalizado Tec de Monterrey
+ * Colores oficiales de la marca
+ */
+
+:root {
+  /* Colores Tec de Monterrey */
+  --tec-azul-reflex: #0062A4;
+  --tec-azul-oscuro: #003E7E;
+  --tec-azul-claro: #009FDA;
+  --tec-verde: #8CC63F;
+  --tec-naranja: #FF6F31;
+  --tec-gris-oscuro: #58595B;
+  --tec-gris-medio: #939598;
+  --tec-gris-claro: #D1D3D4;
+
+  /* Paleta de aplicación */
+  --slidev-theme-primary: var(--tec-azul-reflex);
+  --slidev-theme-secondary: var(--tec-azul-claro);
+  --slidev-theme-accent: var(--tec-verde);
+  --slidev-theme-warning: var(--tec-naranja);
+
+  /* Fondos */
+  --slidev-bg-primary: #ffffff;
+  --slidev-bg-secondary: #f8f9fa;
+  --slidev-bg-dark: var(--tec-azul-oscuro);
+
+  /* Textos */
+  --slidev-text-primary: var(--tec-gris-oscuro);
+  --slidev-text-secondary: var(--tec-gris-medio);
+  --slidev-text-on-dark: #ffffff;
+}
+
+/* Estilos globales */
+.slidev-layout {
+  font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  color: var(--slidev-text-primary);
+}
+
+/* Portada */
+.slidev-layout.cover {
+  background: linear-gradient(135deg, var(--tec-azul-reflex) 0%, var(--tec-azul-oscuro) 100%);
+  color: var(--slidev-text-on-dark);
+}
+
+.slidev-layout.cover h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: var(--slidev-text-on-dark);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  line-height: 1.2;
+}
+
+.slidev-layout.cover h2 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: var(--tec-azul-claro);
+  margin-top: 1rem;
+}
+
+.slidev-layout.cover p {
+  color: var(--slidev-text-on-dark);
+  opacity: 0.9;
+}
+
+/* Títulos de sección */
+.slidev-layout.section {
+  background: linear-gradient(to right, var(--tec-azul-reflex), var(--tec-azul-claro));
+  color: var(--slidev-text-on-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.slidev-layout.section h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  color: var(--slidev-text-on-dark);
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--tec-azul-reflex);
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 4px solid var(--tec-azul-claro);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--tec-azul-claro);
+}
+
+/* Listas */
+ul, ol {
+  line-height: 1.8;
+}
+
+ul li::marker {
+  color: var(--tec-azul-reflex);
+  font-weight: bold;
+}
+
+/* Énfasis */
+strong {
+  color: var(--tec-azul-reflex);
+  font-weight: 700;
+}
+
+em {
+  color: var(--tec-azul-claro);
+  font-style: italic;
+}
+
+/* Code blocks (solo para ecuaciones, no código) */
+code {
+  background-color: var(--slidev-bg-secondary);
+  color: var(--tec-azul-oscuro);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+}
+
+/* Bloques de notas */
+blockquote {
+  border-left: 5px solid var(--tec-verde);
+  background-color: rgba(140, 198, 63, 0.1);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+/* Cajas de alerta */
+.alert {
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border-left: 5px solid;
+}
+
+.alert-info {
+  background-color: rgba(0, 157, 218, 0.1);
+  border-color: var(--tec-azul-claro);
+  color: var(--tec-azul-oscuro);
+}
+
+.alert-warning {
+  background-color: rgba(255, 111, 49, 0.1);
+  border-color: var(--tec-naranja);
+  color: #8B3A00;
+}
+
+.alert-success {
+  background-color: rgba(140, 198, 63, 0.1);
+  border-color: var(--tec-verde);
+  color: #3D5900;
+}
+
+/* Animaciones v-click */
+.slidev-vclick-target {
+  transition: all 0.5s ease;
+}
+
+.slidev-vclick-hidden {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.slidev-vclick-current,
+.slidev-vclick-prior {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Layout two-cols */
+.slidev-layout.two-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.slidev-layout.two-cols .col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Imágenes */
+img {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Tablas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+table th {
+  background-color: var(--tec-azul-reflex);
+  color: var(--slidev-text-on-dark);
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--tec-gris-claro);
+}
+
+table tbody tr:nth-child(even) {
+  background-color: var(--slidev-bg-secondary);
+}
+
+table tbody tr:hover {
+  background-color: rgba(0, 98, 164, 0.05);
+}
+
+/* Botones y badges */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0.25rem;
+}
+
+.badge-primary {
+  background-color: var(--tec-azul-reflex);
+  color: white;
+}
+
+.badge-success {
+  background-color: var(--tec-verde);
+  color: white;
+}
+
+.badge-warning {
+  background-color: var(--tec-naranja);
+  color: white;
+}
+
+/* Ecuaciones matemáticas */
+.math-display {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(to right, rgba(0, 98, 164, 0.05), rgba(0, 157, 218, 0.05));
+  border-radius: 8px;
+  margin: 2rem 0;
+  color: var(--tec-azul-oscuro);
+}
+
+/* Diagramas */
+.mermaid {
+  background-color: transparent;
+}
+
+.mermaid .node rect,
+.mermaid .node circle,
+.mermaid .node ellipse,
+.mermaid .node polygon {
+  fill: var(--tec-azul-claro) !important;
+  stroke: var(--tec-azul-reflex) !important;
+  stroke-width: 2px !important;
+}
+
+.mermaid .edgeLabel {
+  background-color: white !important;
+}
+
+/* Footer personalizado */
+.slidev-layout footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 2rem;
+  right: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--tec-gris-medio);
+}
+
+.slidev-layout footer .left {
+  color: var(--tec-azul-reflex);
+  font-weight: 600;
+}
+
+.slidev-layout footer .right {
+  color: var(--tec-gris-medio);
+}
+
+/* Iconos */
+.iconify {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0.25rem;
+}
+
+/* Utilities */
+.text-center {
+  text-align: center;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--tec-azul-reflex), var(--tec-azul-claro));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.highlight-box {
+  background: linear-gradient(135deg, rgba(0, 98, 164, 0.05), rgba(0, 157, 218, 0.05));
+  border-left: 5px solid var(--tec-azul-reflex);
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Animaciones custom */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Print styles */
+@media print {
+  .slidev-layout {
+    background: white !important;
+  }
+
+  .slidev-layout.cover,
+  .slidev-layout.section {
+    background: linear-gradient(135deg, var(--tec-azul-reflex) 0%, var(--tec-azul-oscuro) 100%) !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cd2001b-slides",
+  "version": "1.0.0",
+  "description": "Slides educativas para CD2001B - Diagnóstico para Líneas de Acción",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.64",
+    "@iconify-json/carbon": "^1.1.28"
+  }
+}
