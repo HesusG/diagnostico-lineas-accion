@@ -57,9 +57,8 @@ diagnostico-lineas-accion/
 ├── Semana2/          # Pruebas estadísticas avanzadas
 ├── Semana3/          # Ética y diagnóstico estratégico
 ├── Semana4/          # Visualización con Python y Looker Studio
-├── Semana5/          # Integración del reto
-├── recursos/         # Bibliografía, guías de instalación
-└── proyecto_reto/    # Instrucciones y plantillas del reto
+├── Semana5/          # Integración y reto final
+└── recursos/         # Bibliografía, guías de instalación, cheat sheets
 ```
 
 ---
@@ -112,27 +111,34 @@ jupyter notebook
 
 ## 📚 Evaluación
 
-| Componente | Porcentaje |
-|-----------|-----------|
-| **Módulo 1** | 25% |
-| Workshops y ejercicios | 15% |
-| Examen módulo 1 | 10% |
-| **Módulo 2** | 25% |
-| Actividades individuales | 15% |
-| Examen módulo 2 | 10% |
-| **Reto** | 50% |
-| Evidencia individual (Tablero + Reporte) | 12.5% |
-| Presentación preliminar | 10% |
-| Reporte final al socio | 10% |
-| Examen final del bloque | 12.5% |
-| Evaluación del proceso | 5% |
+| Componente | Porcentaje | Descripción |
+|-----------|-----------|-------------|
+| **Módulo 1: Análisis Estadístico** | **25%** | Semanas 1-2 |
+| Workshop 1 | 10% | Análisis descriptivo + Pruebas t |
+| Workshop 2 | 10% | Ji-cuadrada + ANOVA + Regresión |
+| Examen Módulo 1 | 5% | Evaluación teórico-práctica |
+| **Módulo 2: Diagnóstico Estratégico** | **25%** | Semanas 3-4 |
+| Actividad #1 Parte 1 | 6.25% | Contexto social y ético |
+| Actividad #1 Parte 2 | 6.25% | Diagnóstico estratégico |
+| Actividad #2 Parte 1 | 6.25% | Preparación de datos |
+| Actividad #2 Parte 2 | 6.25% | Dashboard Looker Studio |
+| **Reto Final** | **50%** | Semana 5 |
+| Reporte Escrito | 20% | Documento integrador 10-15 páginas |
+| Dashboard Looker Studio | 10% | Dashboard interactivo |
+| Presentación Ejecutiva | 15% | Presentación oral 15 minutos |
+| Jupyter Notebook | 5% | Código Python completo |
+
+**Detalles completos:** Ver [EVALUACION_DESGLOSE.md](EVALUACION_DESGLOSE.md)
 
 ---
 
-## 👥 Trabajo en Equipo
+## 👤 Modalidad de Trabajo
 
-- Los **módulos** se trabajan de forma **individual**
-- El **reto** se trabaja en **equipos**
+**Todas las actividades y el reto son INDIVIDUALES**
+
+- Módulo 1: Trabajo individual
+- Módulo 2: Trabajo individual
+- Reto Final: Trabajo individual
 
 ---
 

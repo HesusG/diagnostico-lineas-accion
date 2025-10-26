@@ -99,34 +99,49 @@ from scipy.stats import chi2_contingency, f_oneway, pearsonr
 
 ## 📊 Entregables
 
-### Workshop 2: Ji-Cuadrada, ANOVA, Regresión
-**Fecha límite:** Fin de semana 3
+### Workshop 2: Pruebas Estadísticas Avanzadas
+**Fecha límite:** Miércoles de Semana 2
 
 **Contenido:**
-1. Aplicar Ji-cuadrada a los datos de la ONG o al dataset de alcohol
-2. Realizar ANOVA comparando múltiples grupos
-3. Crear modelo de regresión lineal
-4. Interpretar resultados en contexto de negocios
+1. Prueba Ji-Cuadrada de Independencia (25 puntos)
+   - Tabla de contingencia
+   - Análisis de relación entre variables categóricas
+   - Interpretación de resultados
+2. ANOVA (35 puntos)
+   - Comparación de múltiples grupos
+   - Prueba post-hoc (Tukey)
+   - Visualización comparativa
+3. Regresión Lineal Simple (40 puntos)
+   - Correlación de Pearson
+   - Modelo de regresión
+   - Interpretación de R² y coeficientes
+   - Predicciones
 
 **Formato:** Jupyter Notebook (.ipynb)
+**Dataset:** student-alcohol-consumption.csv
+**Valor:** 10% de la calificación final
 
-**Valor:** 15% de la calificación del módulo 1
+**Archivo:** [workshop2_plantilla.ipynb](ejercicios/workshop2_plantilla.ipynb)
 
 ---
 
-### Examen Final Módulo 1
-**Fecha:** Fin de semana 2
+### Examen Módulo 1
+**Fecha:** Viernes de Semana 2
+
+**Duración:** 2 horas (1h teoría + 1h práctica)
 
 **Contenido:**
-- Medidas de tendencia central
-- Pruebas t (1 y 2 muestras)
-- Ji-cuadrada
-- ANOVA
-- Regresión lineal
+- Medidas de tendencia central y dispersión (15%)
+- Pruebas t para 1 y 2 muestras (20%)
+- Prueba Ji-cuadrada (20%)
+- ANOVA (25%)
+- Regresión lineal y correlación (20%)
 
-**Formato:** Mixto (teórico-práctico en Jupyter)
+**Formato:** Mixto
+- Parte 1: Preguntas teóricas (50%)
+- Parte 2: Ejercicio práctico en Jupyter (50%)
 
-**Valor:** 10% de la calificación del módulo 1
+**Valor:** 5% de la calificación final
 
 ---
 

@@ -80,23 +80,33 @@ import seaborn as sns
 | D2 | Ejercicio: Prueba de hipótesis | Tarea | 3h |
 | D3 | Prueba de hipótesis 2 muestras | Clase | 2h |
 | D3 | Workshop 1 | Tarea | 3h |
-| D4 | Revisión Workshop 1 | Clase | 2h |
-| D4 | **Entregable 1:** Análisis exploratorio | Tarea | 10h |
+| D4 | Revisión de ejercicios | Clase | 2h |
+| D4 | **Workshop 1:** Análisis estadístico básico | Tarea | 3h |
 
 ---
 
 ## 📊 Entregables
 
-### Entregable 1: Análisis Exploratorio de Base de Datos
-**Fecha límite:** Fin de semana 2
+### Workshop 1: Análisis Estadístico Básico
+**Fecha límite:** Viernes de Semana 1
 
-**Requisitos:**
-1. Base de datos en Python (archivo .csv o .xlsx)
-2. Responder preguntas teóricas en un documento PDF o Word
-3. Identificar variables continuas vs discretas
-4. Explicar metodología de investigación
+**Contenido:**
+1. Análisis Descriptivo (40 puntos)
+   - Medidas de tendencia central (media, mediana, moda)
+   - Medidas de dispersión (desviación estándar, IQR)
+   - Visualizaciones (histogramas, boxplots)
+2. Prueba t para una muestra (30 puntos)
+   - Planteamiento de hipótesis
+   - Ejecución e interpretación
+3. Prueba t para dos muestras independientes (30 puntos)
+   - Comparación de grupos
+   - Visualización y análisis
 
-**Valor:** Formativo (prepara para el reto)
+**Formato:** Jupyter Notebook (.ipynb)
+**Dataset:** student-alcohol-consumption.csv
+**Valor:** 10% de la calificación final
+
+**Archivo:** [workshop1_plantilla.ipynb](ejercicios/workshop1_plantilla.ipynb)
 
 ---
 
@@ -112,9 +122,10 @@ import seaborn as sns
 ## 🆘 Recursos de Apoyo
 
 - [Guía de instalación de Python](../recursos/instalacion_python_jupyter.md)
-- [Cheat sheet de Pandas](../recursos/cheat_sheet_pandas.pdf)
-- [Cheat sheet de SciPy Stats](../recursos/cheat_sheet_scipy_stats.pdf)
+- [Cheat sheet de Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) (PDF externo)
+- [Cheat sheet de SciPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf) (PDF externo)
 - [Bibliografía](../recursos/bibliografia.md)
+- [Glosario de términos estadísticos](../recursos/glosario.md)
 
 ---
 

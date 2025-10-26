@@ -32,27 +32,46 @@ Esta carpeta contiene los datasets para practicar durante la Semana 1 del módul
 
 ---
 
-### 2. `alcohol_estudiantes.csv` (Para Workshop 1)
+### 2. `student-alcohol-consumption.csv` ⚠️ **REQUIERE DESCARGA**
+
+**Estado:** ❌ No incluido - Debe descargarse manualmente
+
+**📥 Instrucciones de descarga:** Ver archivo `INSTRUCCIONES_DATASET_ALCOHOL.md` en esta carpeta
 
 **Fuente:** https://www.kaggle.com/uciml/student-alcohol-consumption
 
-**Descripción:** Datos de consumo de alcohol entre estudiantes portugueses.
+**Descripción:** Datos de consumo de alcohol y rendimiento académico de estudiantes portugueses de educación secundaria (395 estudiantes, 33 variables).
 
-**Variables seleccionadas:**
-- `school`: Escuela (GP o MS)
-- `sex`: Género (F o M)
-- `age`: Edad
-- `studytime`: Tiempo de estudio semanal
-- `failures`: Número de reprobaciones pasadas
-- `absences`: Número de ausencias
-- `G1`, `G2`, `G3`: Calificaciones en diferentes periodos
-- `Dalc`: Consumo de alcohol entre semana (1-5)
-- `Walc`: Consumo de alcohol en fin de semana (1-5)
+**Variables principales:**
+- **Demográficas:** `school`, `sex`, `age`, `address`, `famsize`, `Pstatus`
+- **Educativas:** `Medu`, `Fedu`, `Mjob`, `Fjob`, `reason`, `guardian`
+- **Académicas:** `studytime`, `failures`, `absences`, `G1`, `G2`, **`G3`** (calificación final 0-20)
+- **Sociales:** `activities`, `romantic`, `famrel`, `freetime`, `goout`, `health`
+- **Consumo de alcohol:**
+  - **`Dalc`**: Consumo de alcohol en días de semana (1=muy bajo, 5=muy alto)
+  - **`Walc`**: Consumo de alcohol en fin de semana (1=muy bajo, 5=muy alto)
+- **Apoyo:** `schoolsup`, `famsup`, `paid`, `nursery`, `higher`, `internet`
 
-**Uso:**
-- Workshop 1: Análisis exploratorio completo
-- Identificación de correlaciones
-- Pruebas de hipótesis múltiples
+**Tamaño:** ~40 KB, 395 filas, 33 columnas
+
+**Uso en el curso:**
+- **Workshop 1:** Análisis descriptivo + Pruebas t (1 y 2 muestras)
+- **Workshop 2:** Ji-cuadrada, ANOVA, Regresión lineal
+- **Práctica:** Todos los ejercicios de Semanas 1-2
+
+**Cómo cargar (después de descargarlo):**
+```python
+import pandas as pd
+
+# Si el archivo usa ';' como separador
+df = pd.read_csv('../datos/student-alcohol-consumption.csv', sep=';')
+
+# Si el archivo usa ',' como separador (depende de la fuente)
+df = pd.read_csv('../datos/student-alcohol-consumption.csv')
+
+# Verificar
+print(f"Filas: {df.shape[0]}, Columnas: {df.shape[1]}")
+```
 
 ---
 
