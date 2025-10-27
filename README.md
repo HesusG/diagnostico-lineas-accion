@@ -82,7 +82,7 @@ diagnostico-lineas-accion/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/diagnostico-lineas-accion.git
+git clone https://github.com/HesusG/diagnostico-lineas-accion.git
 cd diagnostico-lineas-accion
 ```
 
