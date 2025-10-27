@@ -57,18 +57,53 @@ Al finalizar esta semana, serás capaz de:
 Semana3/
 ├── README.md
 ├── notebooks/
-│   └── 01_analisis_contexto_ong.ipynb
+│   ├── 01_analisis_contexto_ong.ipynb
+│   └── 02_analisis_datos_ong.ipynb
 ├── plantillas/
 │   ├── plantilla_actividad1_parte1.md
 │   └── plantilla_actividad1_parte2.md
-├── guias/
-│   ├── guia_ods_aplicacion.md
-│   ├── guia_diagnostico_estrategico.md
-│   └── guia_identificacion_kpis.md
-└── presentaciones/
-    ├── 01_etica_derechos_humanos.pdf
-    └── 02_administracion_estrategica.pdf
+└── guias/
+    ├── guia_seleccion_ong.md              ← 🆕 EMPIEZA AQUÍ
+    ├── guia_ods_aplicacion.md
+    ├── guia_diagnostico_estrategico.md
+    ├── guia_identificacion_kpis.md
+    ├── guia_diamante_porter.md
+    ├── guia_matriz_bcg.md
+    └── guia_customer_journey_map.md
+
+📊 Presentaciones (Slidev):
+Ver en /slides/
+├── semana3-derechos-humanos-ods.md          ← Derechos Humanos, ODS 16, Ética
+├── semana3-administracion-estrategica.md    ← PESTEL, SWOT, Estrategia
+├── semana3-diamante-porter-bcg.md           ← Porter, BCG Matrix
+└── semana3-customer-journey-kpis.md         ← Journey Map, KPIs
 ```
+
+### 🎬 Cómo usar las presentaciones Slidev
+
+Las presentaciones están en formato [Slidev](https://sli.dev/) (Markdown + Vue).
+
+**Para visualizarlas:**
+```bash
+# Desde la raíz del repositorio
+cd slides
+npm install      # Solo la primera vez
+npm run dev      # Abre servidor en localhost:3030
+```
+
+Luego navega a la presentación deseada desde el menú o edita el archivo `.md` directamente.
+
+**Para exportar a PDF:**
+```bash
+npm run export semana3-derechos-humanos-ods.md
+```
+
+**Ventajas de Slidev:**
+- ✅ Código syntax highlighting
+- ✅ Diagramas Mermaid integrados
+- ✅ Transiciones suaves
+- ✅ Modo presentador con notas
+- ✅ Exportable a PDF
 
 ---
 
@@ -132,10 +167,33 @@ Esta semana es clave porque:
 - Entenderás su problemática social
 - Identificarás sus KPI de calidad en el servicio
 
-**Importante:**
-- Toda la clase trabaja con la MISMA ONG
-- Es una organización NACIONAL (contacto virtual)
-- Debe tener indicadores de calidad en el servicio
+### 📍 Selección de tu ONG
+
+**Cada estudiante selecciona su propia ONG** para trabajar durante el Módulo 2.
+
+**Criterios de selección:**
+- ✅ Organización de la Sociedad Civil (OSC) formal o semiformal
+- ✅ Tamaño pequeño a mediano (5-50 personas)
+- ✅ Dispuesta a compartir información y datos (anónimos)
+- ✅ Preferentemente en Puebla o con acceso virtual
+- ✅ Debe tener o poder generar datos de operaciones/beneficiarios (mínimo 50-200 registros)
+
+**¿Cómo encontrar una ONG?**
+Consulta la **[Guía Completa de Selección de ONGs](guias/guia_seleccion_ong.md)** que incluye:
+- Dónde buscar organizaciones (directorios, redes, contactos del Tec)
+- Cómo hacer el primer contacto
+- Qué información y datos solicitar
+- Plantillas de emails y acuerdos
+- Consideraciones éticas y de confidencialidad
+
+**Timeline de selección:**
+- **Semana 2 (Nov 10-13):** Identificar y contactar ONGs (idealmente 3-5 opciones)
+- **Inicio Semana 3 (Nov 17):** Ya debes tener ONG confirmada para iniciar Actividad #1
+- **Durante Semana 3:** Primera reunión con la ONG, levantamiento de información
+
+**⚠️ Importante:** Empieza a contactar ONGs DESDE LA SEMANA 2. No esperes hasta la última semana o quedarás sin socio formador.
+
+**Si tienes dificultades para conseguir ONG:** Notifica a tu profesor inmediatamente para explorar alternativas (datos públicos, casos simulados).
 
 ---
 
