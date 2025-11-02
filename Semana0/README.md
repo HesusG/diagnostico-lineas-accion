@@ -89,9 +89,13 @@ Al completar la Semana 0, serás capaz de:
 
 ---
 
-### 2. Quiz Diagnóstico (`ejercicios/quiz_diagnostico.ipynb`)
+### 2. Quiz Diagnóstico (2 versiones disponibles)
 
-**Propósito:** Autoevaluación para identificar áreas de mejora.
+**Propósito:** Evaluar conocimientos previos en estadística, Python e IA para adaptar el curso a tu nivel.
+
+#### **Versión A: Quiz Interactivo** (`ejercicios/quiz_diagnostico.ipynb`)
+
+**Formato:** Jupyter Notebook con autoevaluación automática
 
 **Estructura:**
 
@@ -116,6 +120,43 @@ Al completar la Semana 0, serás capaz de:
 - **60-80%:** Bueno - Reforzar algunas áreas
 - **40-60%:** Regular - Dedicar tiempo extra a conceptos clave
 - **<40%:** Necesita apoyo - Trabajar intensamente la Semana 0
+
+---
+
+#### **Versión B: Quiz Markdown** (`quiz_diagnostico.md`) ⭐ **NUEVO**
+
+**Formato:** Formulario en Markdown (compatible con Google Forms/Microsoft Forms)
+
+**Propósito:** Evaluación rápida del grupo completo para que el profesor adapte el curso.
+
+**Estructura:** 20 preguntas divididas en 4 secciones:
+
+| Sección | Temas | Preguntas |
+|---------|-------|-----------|
+| 1. Conocimientos de Estadística | Conceptos de Módulo 1, p-values, correlación vs causalidad | 6 |
+| 2. Python y Programación | Nivel de Python, pandas, Google Colab, ambientes virtuales | 5 |
+| 3. Uso de Inteligencia Artificial | Frecuencia de uso, herramientas (ChatGPT/Gemini/DeepSeek), APIs vs chat, agentes | 7 |
+| 4. Expectativas y Contexto | Objetivos de aprendizaje, situación actual | 2 |
+| **TOTAL** | | **20** |
+
+**Tipos de preguntas:**
+- 🔘 **Opción única:** 13 preguntas (selecciona UNA respuesta)
+- ☑️ **Opción múltiple:** 7 preguntas (selecciona TODAS las que apliquen)
+
+**Ventajas:**
+- ⚡ **Rápido de completar:** 10-15 minutos
+- 📊 **Fácil de analizar:** Script Python incluido (`analizar_quiz_diagnostico.py`)
+- 🎯 **Diagnóstico grupal:** Identifica nivel general del grupo
+- 📝 **Flexible:** Puede usarse en Google Forms, Microsoft Forms, o impreso
+
+**Para profesores:**
+- Usa `analizar_quiz_diagnostico.py` para generar estadísticas y gráficos automáticamente
+- Identifica perfiles (principiantes/intermedios/avanzados)
+- Recibe recomendaciones pedagógicas basadas en resultados
+
+**Cuándo usar cada versión:**
+- **Versión A (Notebook):** Para autoevaluación individual profunda
+- **Versión B (Markdown):** Para diagnóstico grupal rápido antes de iniciar el curso
 
 ---
 
@@ -193,7 +234,9 @@ Puedes usar estos resultados para:
 
 ### **Material del Curso:**
 - [Notebook: Introducción a Herramientas](notebooks/00_introduccion_herramientas.ipynb)
-- [Quiz Diagnóstico](ejercicios/quiz_diagnostico.ipynb)
+- [Quiz Diagnóstico - Versión Interactiva (.ipynb)](ejercicios/quiz_diagnostico.ipynb)
+- [Quiz Diagnóstico - Versión Markdown (.md)](quiz_diagnostico.md) ⭐ **NUEVO**
+- [Script Analizador de Quiz (para profesores)](analizar_quiz_diagnostico.py)
 
 ### **Recursos Externos:**
 
@@ -299,10 +342,22 @@ Si obtuviste <60%, dedica tiempo adicional a reforzar antes de avanzar.
 
 ## 📝 Changelog
 
+**v1.1 (2025-02):**
+- ✨ **NUEVO:** Quiz diagnóstico en Markdown (`quiz_diagnostico.md`)
+  - 20 preguntas (opción única y múltiple)
+  - Cubre estadística del Módulo 1, Python, y uso de IA
+  - Incluye preguntas sobre herramientas (ChatGPT, Gemini, DeepSeek)
+  - Evaluación de uso de agentes vs chat básico
+- ✨ **NUEVO:** Script analizador de quiz (`analizar_quiz_diagnostico.py`)
+  - Genera estadísticas automáticas del grupo
+  - Crea visualizaciones (4 gráficos)
+  - Identifica perfiles (principiantes/intermedios/avanzados)
+  - Provee recomendaciones pedagógicas
+
 **v1.0 (2025-01):**
 - Creación inicial de Semana 0
 - Notebook de introducción completo (7 secciones)
-- Quiz diagnóstico con autoevaluación (100 puntos)
+- Quiz diagnóstico interactivo con autoevaluación (100 puntos)
 - Glosario de 60+ términos
 - Guías de IA generativa (ChatGPT, Gemini, Claude)
 
