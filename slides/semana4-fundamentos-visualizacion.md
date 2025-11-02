@@ -61,11 +61,12 @@ Año  Beneficiarios
 
 ### 📈 Gráfico de Línea
 
-[Imagina un gráfico de línea con tendencia ascendente pronunciada]
+<img src="./assets/visualizations/line-satisfaction-trend.svg" class="w-full max-h-80 object-contain" />
 
 **Insight instantáneo:**
-- Crecimiento acelerado (137% en 3 años)
-- Punto de inflexión en 2022
+- Tendencia clara al primer vistazo
+- Patrones y anomalías visibles
+- Punto de inflexión identificable
 
 **Resultado:** Decisiones más rápidas y acertadas
 
@@ -444,33 +445,17 @@ layout: section
 
 ## Ejemplo
 
-### Beneficiarios por Programa (2023)
+### Satisfacción por Área
 
-```
-Alimentación      ████████████████████ 2,500
-Salud             ███████████████ 1,800
-Educación         ████████████ 1,200
-Vivienda          ███████ 800
-Empleo            ████ 450
+<img src="./assets/visualizations/bar-satisfaction-by-area.svg" class="w-full max-h-96 object-contain" />
 
-                  0    500  1,000  2,000  3,000
-```
+**Insight:** El área Norte supera la meta (8.0), mientras que Oeste requiere atención inmediata.
 
-### Variantes
+### Variante: Barras Agrupadas por Género
 
-**Barras Apiladas:** Mostrar sub-categorías
-```
-              │ Mujeres │ Hombres │
-Alimentación  │████████│████     │
-Salud         │██████  │████     │
-```
+<img src="./assets/visualizations/bar-grouped-gender-program.svg" class="w-full max-h-80 object-contain" />
 
-**Barras Agrupadas:** Comparar 2 grupos lado a lado
-```
-              2022  2023
-Alimentación  ███   ████████
-Salud         ██    ██████
-```
+**Uso:** Comparar dos grupos (género, años, etc.) lado a lado por categoría.
 
 </div>
 </div>
@@ -512,33 +497,17 @@ Salud         ██    ██████
 
 ## Ejemplo
 
-### Satisfacción Mensual (2023)
+### Satisfacción Mensual (2024)
 
-```
-10 │                        ●────● (Meta: 8.5)
-   │                    ●─╱
- 9 │                ●─╱
-   │            ●─╱
- 8 │        ●─╱         📍 Mejora sostenida
-   │    ●─╱              desde Abril
- 7 │●─╱
-   └─────────────────────────────────
-    E F M A M J J A S O N D (2023)
-```
+<img src="./assets/visualizations/line-satisfaction-trend.svg" class="w-full max-h-96 object-contain" />
 
-### Con Múltiples Líneas
+**Insight:** Mejora sostenida de Enero a Marzo, con ligera baja en Abril. Los puntos críticos están resaltados.
 
-```
-10 │
-   │      ●════●════●  Norte (mejor desempeño)
- 9 │    ╱
-   │  ●────●────●     Centro
- 8 │╱
-   │●─────●─────●     Sur (estable pero bajo)
- 7 │
-   └─────────────────────────────────
-    Trim1  Trim2  Trim3
-```
+### Con Múltiples Líneas: Comparación por Área
+
+<img src="./assets/visualizations/line-multiple-areas-comparison.svg" class="w-full max-h-96 object-contain" />
+
+**Insight:** Norte consistentemente supera otras áreas. Este muestra crecimiento notable.
 
 </div>
 </div>
@@ -583,40 +552,19 @@ Para mostrar proporciones, **barras horizontales apiladas al 100%** son más cla
 </div>
 <div v-click>
 
-## Ejemplo
+## Ejemplo: Pie vs Barras
 
-### ❌ Pie Chart Malo
+<img src="./assets/visualizations/pie-vs-bar-comparison.svg" class="w-full max-h-96 object-contain" />
 
-```
-     Programa A: 28%
-   ╱─────────────╲
-  │  A  │   B    │  Programa B: 24%
-  │     │        │  Programa C: 22%
-  │  D  │   C    │  Programa D: 26%
-   ╲─────────────╱
-```
-¿Cuál es más grande, B o D? 🤔 Difícil de ver.
+**Comparación Visual:**
+- **Izquierda (❌ Pie):** ¿Cuál programa tiene más beneficiarios? Difícil comparar.
+- **Derecha (✅ Barras):** Orden y diferencias claras al instante.
 
-### ✅ Barras Apiladas Mejor
+### ✅ Alternativa Mejor: Barra Apilada 100%
 
-```
-│ A (28%) │ B (24%) │ C (22%) │ D (26%) │
-├──────────┼─────────┼─────────┼─────────┤
-0%        28%       52%       74%       100%
-```
-Comparación clara e instantánea.
+<img src="./assets/visualizations/stacked-bar-program-distribution.svg" class="w-full max-h-64 object-contain" />
 
-### ✅ Uso Válido de Pie: Dominancia
-
-```
-   ╱────────╲
-  │         │
-  │    A    │  Programa A: 85%
-  │  85%    │  Otros: 15%
-  │    │15% │
-   ╲────────╱
-```
-Cuando quieres mostrar que algo domina (>80%)
+**Uso:** Cuando necesitas mostrar proporción del total, barras apiladas son más claras que pie charts.
 
 </div>
 </div>
@@ -639,20 +587,12 @@ Cuando quieres mostrar que algo domina (>80%)
 
 ### Ejemplo: Tiempos de Atención
 
-```
-Frecuencia
- 50│     ████
-   │   ████████
- 30│ ██████████
-   │████████████
- 10│████████████████
-   └──────────────────────
-    0  10  20  30  40  50
-      Minutos de Atención
+<img src="./assets/visualizations/histogram-attention-time.svg" class="w-full max-h-80 object-contain" />
 
-Insight: Mayoría 10-20 min,
-         Pero hay casos de 40+ min
-```
+**Insight:**
+- Mayoría de atenciones: 10-30 minutos
+- Distribución ligeramente asimétrica hacia derecha
+- Hay casos de 60+ minutos (outliers)
 
 </div>
 <div v-click>
@@ -667,21 +607,14 @@ Insight: Mayoría 10-20 min,
 - Bigotes: Rango (excluyendo outliers)
 - Puntos: Outliers
 
-### Ejemplo: Satisfacción por Área
+### Ejemplo: Satisfacción por Programa
 
-```
-10│
-  │       ●  (outlier: caso excepcional)
- 9│    ┌──┐
-  │    │  │
- 8│────┤  ├────  Mediana: 8.2
-  │    │  │
- 7│    └──┘
-  │       ●  (outlier bajo)
- 6│
-  └────────────
-      Norte
-```
+<img src="./assets/visualizations/boxplot-satisfaction-by-program.svg" class="w-full max-h-96 object-contain" />
+
+**Insight:**
+- Empleo tiene mayor variabilidad (rango más amplio)
+- Educación muestra consistencia (caja estrecha)
+- Outliers visibles como puntos individuales
 
 **Ventaja:** Compara múltiples grupos fácilmente
 
@@ -723,33 +656,13 @@ Insight: Mayoría 10-20 min,
 
 ## Ejemplo: Tiempo vs Satisfacción
 
-```
-Satisfacción
-10│
-  │ ●
- 9│   ●  ●
-  │       ●    Correlación
- 8│  ●       ●  negativa
-  │      ●   ╲  (más tiempo →
- 7│ ●        ●╲ menor satisfacción)
-  │           ●╲
- 6│              ●
-  └─────────────────────────
-   0  10  20  30  40  50  60
-      Tiempo de Atención (min)
-```
+<img src="./assets/visualizations/scatter-time-vs-satisfaction.svg" class="w-full max-h-96 object-contain" />
 
-### Con Categorías (Color)
-
-```
-10│ ● Norte (alta satisfacción, bajo tiempo)
-  │
- 8│     ○ Sur (variado)
-  │
- 6│         ● Este (problemático)
-  └─────────────────────────
-   0      20     40      60
-```
+**Insight:**
+- **Correlación negativa leve**: Más tiempo no garantiza más satisfacción
+- **Verde**: Casos resueltos exitosamente
+- **Rojo**: Casos no resueltos (generalmente menor satisfacción)
+- **Línea de tendencia**: Muestra relación general entre variables
 
 </div>
 </div>
@@ -789,25 +702,15 @@ Satisfacción
 
 ## Ejemplo: Satisfacción por Área × Mes
 
-```
-        Ene  Feb  Mar  Abr  May  Jun
-Norte   8.5  8.7  8.9  9.0  8.8  8.6
-        ███  ███  ████ ████ ███  ███
+<img src="./assets/visualizations/heatmap-satisfaction-area-month.svg" class="w-full max-h-96 object-contain" />
 
-Sur     7.2  7.5  7.8  7.9  8.1  8.3
-        ███  ███  ███  ███  ███  ███
+**Insight:**
+- **Norte**: Consistentemente alto (verde oscuro)
+- **Este**: Muestra mejora progresiva de Ene a Abr
+- **Centro**: Estable alrededor del promedio
+- **Rojo**: Áreas bajo meta que requieren atención
 
-Este    6.8  7.0  7.2  7.4  7.6  7.9
-        ██   ██   ███  ███  ███  ███
-
-Oeste   8.0  8.1  7.9  8.2  8.4  8.6
-        ███  ███  ███  ███  ███  ███
-
-Escala: █ (6.5-7.5) ██ (7.5-8.0) ███ (8.0-8.5) ████ (8.5-9.0)
-
-Insight: Norte mejora consistentemente
-         Este inicia bajo pero crece
-```
+**Uso:** Identificar patrones en dos dimensiones simultáneamente
 
 </div>
 </div>
@@ -887,25 +790,11 @@ C:    Parece 25%       Realmente 25%
 
 ## Solución: Siempre 2D
 
-### ❌ Pie Chart 3D
+<img src="./assets/visualizations/bar-3d-bad-example.svg" class="w-full max-h-96 object-contain" />
 
-```
-   Perspectiva distorsiona
-   ╱─────────────────╲
-  │   A   │    B     │  A parece más grande
-  │       │          │  por estar al frente
-  │   D   │    C     │
-   ╲─────────────────╱
-```
+**Problema:** La perspectiva 3D distorsiona la percepción visual. Barras en primer plano parecen más grandes.
 
-### ✅ Barras 2D
-
-```
-A  ████████ 35%
-B  ██████████ 40%
-C  █████ 25%
-```
-Comparación precisa y clara.
+**Solución:** Usa siempre gráficos 2D para comparaciones precisas.
 
 <div v-click class="mt-6 p-4 bg-red-500 bg-opacity-10 rounded text-sm">
 
@@ -923,43 +812,15 @@ Comparación precisa y clara.
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-## El Problema
+## Comparación Visual
 
-**Ejes que no inician en 0 exageran diferencias**
+<img src="./assets/visualizations/line-truncated-axis-comparison.svg" class="w-full max-h-96 object-contain" />
 
-### ❌ Eje Truncado
+**Problema:**
+- **Izquierda (❌):** Eje truncado (7.5-8.5) exagera cambios
+- **Derecha (✅):** Eje completo (0-10) muestra contexto real
 
-```
-Satisfacción
-8.5│                    ●
-   │                ●
-8.0│            ●
-   │        ●
-7.5│    ●
-   └────────────────────────
-    Ene Feb Mar Abr May
-
-Parece ENORME mejora (50%)
-```
-
-<div v-click class="mt-6">
-
-### ✅ Eje Completo
-
-```
-10│
- 8│    ●────●────●────●────●
- 6│
- 4│
- 2│
- 0│
-  └────────────────────────
-   Ene Feb Mar Abr May
-
-Mejora real: 6% (de 8.0 a 8.5)
-```
-
-</div>
+**Insight:** La "enorme mejora" en realidad es solo 6% (de 8.0 a 8.5)
 
 </div>
 <div v-click>
@@ -1005,54 +866,19 @@ Temperatura (°C)
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-## El Problema
+## Comparación Visual
 
-**Paletas arcoíris sin significado confunden**
+<img src="./assets/visualizations/bar-color-comparison.svg" class="w-full max-h-96 object-contain" />
 
-### ❌ Sobrecarga de Color
+**Problema (Izquierda ❌):**
+- Paleta arcoíris sin significado
+- Difícil recordar qué significa cada color
+- No hay jerarquía visual clara
 
-```
-Satisfacción por Programa
-
-Alimentación  🟥 8.5
-Salud         🟦 8.2
-Educación     🟩 7.9
-Vivienda      🟨 8.1
-Empleo        🟪 7.5
-Legal         🟧 8.3
-Psicológico   🟫 8.7
-```
-
-**Problema:**
-- ¿Qué significa cada color?
-- Difícil recordar 7 colores
-- No hay jerarquía visual
-
-</div>
-<div v-click>
-
-## Solución: Color con Propósito
-
-### ✅ Enfoque con Color
-
-```
-Satisfacción por Programa
-
-Psicológico   ████████████ 8.7 🟢 (arriba meta)
-Alimentación  ██████████ 8.5 🟢
-Legal         ██████████ 8.3 🟢
-Salud         █████████ 8.2 🟡 (cerca)
-Vivienda      █████████ 8.1 🟡
-Educación     ████████ 7.9 🟡
-Empleo        ███████ 7.5 🔴 (abajo meta)
-
-Meta: ≥ 8.5
-```
-
-**Beneficios:**
-- 3 colores con significado (🟢🟡🔴)
-- Prioridad clara (rojos primero)
-- Fácil de interpretar
+**Solución (Derecha ✅):**
+- 3 colores con significado: 🟢 Verde (meta alcanzada), 🟠 Naranja (cerca), 🔴 Rojo (bajo meta)
+- Prioridad inmediata: atender programas rojos primero
+- Interpretación instantánea sin revisar leyenda
 
 ### Regla: Máximo 5 Colores Distintos
 
@@ -1136,30 +962,14 @@ Cultura         █████ 5%
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-## El Problema
+## El Problema: Doble Eje Y
 
-**Dos escalas en un gráfico confunden**
-
-### ❌ Doble Eje Y
-
-```
-Beneficiarios (izq)  Satisfacción (der)
-3,000│                      │10
-     │        ●             │
-2,000│    ●     ●           │8
-     │●             ●       │
-1,000│                  ●   │6
-     │                      │
-     └──────────────────────┘
-      E F M A M J J (2023)
-
- ─── Beneficiarios (eje izq)
- ─── Satisfacción (eje der)
-```
+<img src="./assets/visualizations/line-double-axis-bad-example.svg" class="w-full max-h-96 object-contain" />
 
 **Problemas:**
-- Fácil manipular escala para "forzar" correlación
-- Difícil comparar
+- **Escalas independientes**: Fácil manipular para forzar correlación visual
+- **Confusión de lectura**: ¿Qué eje corresponde a qué línea?
+- **Interpretación ambigua**: Los ejes pueden ajustarse para mostrar cualquier relación
 
 </div>
 <div v-click>

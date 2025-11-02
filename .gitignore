@@ -1,0 +1,125 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Slidev
+slides/node_modules/
+slides/dist/
+slides/.slidev/
+slides/package-lock.json
+slides/*.log
+slides/npm-debug.log*
+slides/yarn-debug.log*
+slides/yarn-error.log*
+
+# Node.js (general)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.npm
+.yarn
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.cache
+
+# API Keys and secrets
+*.env
+.env.local
+.env.*.local
+secrets.json
+credentials.json
+
+# Data files (large datasets - comment out if needed)
+# *.csv
+# *.xlsx
+# *.json
+
+# Validation/test outputs (optional)
+*_validation_plots.pdf
+*_plots.pdf
+
+# Backup files
+*.backup
+*~
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Testing
+.pytest_cache/
+.tox/
+
+# Documentation builds
+docs/_build/
+site/

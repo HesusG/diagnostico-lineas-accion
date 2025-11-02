@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.48.0",
-    "@slidev/theme-default": "latest"
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "^0.25.0"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.1.64",
-    "@iconify-json/carbon": "^1.1.28"
+    "@iconify-json/carbon": "^1.1.28",
+    "@iconify-json/mdi": "^1.1.64"
   }
 }
