@@ -1,43 +1,284 @@
-# Semana 2: Pruebas Estadísticas Avanzadas
+# 📈 Semana 2: Pruebas Estadísticas Avanzadas
 
 ## 📚 Módulo 1 - Parte 2
 
-### 🎯 Objetivos de Aprendizaje
+---
+
+## 🎯 Objetivos de Aprendizaje
 
 Al finalizar esta semana, serás capaz de:
-- Realizar pruebas Ji-cuadrada de independencia
-- Aplicar ANOVA para comparar múltiples medias
-- Implementar regresión lineal simple
-- Calcular y interpretar correlaciones
-- Integrar todas las técnicas estadísticas en Python
+- ✅ Realizar pruebas Ji-cuadrada para variables categóricas
+- ✅ Aplicar ANOVA para comparar 3+ medias simultáneamente
+- ✅ Implementar regresión lineal simple y predecir valores
+- ✅ Calcular e interpretar correlaciones de Pearson
+- ✅ Decidir cuál prueba estadística usar según tipo de datos
+- ✅ Integrar todas las técnicas en análisis completos
 
 ---
 
-## 📋 Contenidos
+## 📅 Plan por Día (4 clases × 2 horas)
 
-### 1. Prueba Ji-Cuadrada (χ²)
-- Prueba de independencia entre variables categóricas
-- Tablas de contingencia
-- Interpretación de resultados
-- Aplicación: ¿El área de servicio influye en la satisfacción?
+### **📌 Clase 1: Prueba Ji-Cuadrada (χ²)** (2 horas)
 
-### 2. ANOVA (Análisis de Varianza)
-- Comparación de 3 o más medias
-- Supuestos y verificación
-- Pruebas post-hoc (Tukey, Bonferroni)
-- Aplicación: Comparar satisfacción entre múltiples departamentos
+**Contenido:**
+- 🔹 Introducción a pruebas para variables categóricas (15 min)
+  - ¿Cuándo usar chi-cuadrada vs t-test?
+- 🔹 Notebook: [01_ji_cuadrada.ipynb](notebooks/01_ji_cuadrada.ipynb) (70 min)
+  - Tablas de contingencia
+  - Prueba de independencia
+  - Análisis de residuos
+  - Interpretación en contexto
+- 🔹 Ejercicio guiado (20 min)
+- 🔹 Q&A (15 min)
 
-### 3. Regresión Lineal y Correlación
-- Correlación de Pearson
-- Modelo de regresión lineal simple
-- Interpretación de coeficientes (R², pendiente)
-- Predicción
-- Aplicación: Predecir satisfacción basada en tiempo de servicio
+**📚 Material para revisar en casa:**
+- Completar ejercicios de chi-cuadrada
+- Leer inicio de Notebook 02 (conceptos ANOVA)
 
-### 4. Estadística No Paramétrica
-- Prueba de Mann-Whitney U
-- Kruskal-Wallis (alternativa a ANOVA)
-- Cuándo usar pruebas no paramétricas
+**🎮 Actividad de Equipo Opcional:**
+
+<details>
+<summary><b>🔍 FAKE RELATIONSHIPS: Correlaciones Espurias</b> (20 min) ⚠️ OPCIONAL - A DISCRECIÓN DEL PROFESOR</summary>
+
+**Objetivo:** Entender que correlación ≠ causalidad con ejemplos absurdos
+
+**Equipos:** 3-4 personas
+
+**Instrucciones:**
+1. **Buscar correlación espuria con IA** (7 min):
+   ```
+   Prompt para ChatGPT/Gemini:
+   "Dame 3 ejemplos reales de variables que están correlacionadas
+   pero obviamente NO tienen relación causal. Deben ser absurdas
+   y graciosas. Incluye la correlación real si es posible."
+   ```
+
+   Ejemplo: "Consumo de queso per cápita correlaciona (r=0.95) con
+   muertes por ahogamiento en sábanas"
+
+2. **Votar por la más absurda** (5 min):
+   - Cada equipo comparte su favorita
+   - Clase vota: ¿Cuál es la más ridícula?
+
+3. **Discusión seria** (5 min):
+   - ¿Por qué estas correlaciones no implican causalidad?
+   - ¿Qué necesitaríamos para probar causalidad?
+   - Aplicación a chi-cuadrada: Variables independientes vs dependientes
+
+4. **Conclusión** (3 min):
+   - Recordatorio: Chi-cuadrada NO prueba causalidad, solo asociación
+
+**Entregable:** Screenshot del ejemplo más absurdo + explicación de por qué NO hay causalidad
+
+**Beneficios:**
+- ✅ Refuerza concepto crítico de forma divertida
+- ✅ Estudiantes recuerdan ejemplos absurdos fácilmente
+- ✅ Conexión con Semana 1 (correlación vs causalidad)
+
+</details>
+
+---
+
+### **📌 Clase 2: ANOVA (Análisis de Varianza)** (2 horas)
+
+**Contenido:**
+- 🔹 Repaso rápido: t-test vs ANOVA (10 min)
+  - ¿Por qué no hacer múltiples t-tests?
+- 🔹 Notebook: [02_anova.ipynb](notebooks/02_anova.ipynb) (75 min)
+  - ANOVA de un factor (one-way)
+  - Verificación de supuestos (normalidad, homogeneidad)
+  - Interpretación del F-statistic
+  - Pruebas post-hoc (Tukey HSD)
+- 🔹 Práctica guiada (20 min)
+- 🔹 Cierre (15 min)
+
+**📚 Material para revisar en casa:**
+- Ejercicios de ANOVA
+- Leer Notebook 03 (regresión)
+
+**🎮 Actividad de Equipo Opcional:**
+
+<details>
+<summary><b>🎭 ANOVA EXPLAINER: Analogía Challenge</b> (15 min) ⚠️ OPCIONAL - A DISCRECIÓN DEL PROFESOR</summary>
+
+**Objetivo:** Explicar ANOVA con analogías creativas
+
+**Equipos:** 3-4 personas
+
+**Instrucciones:**
+1. **Pedir a IA una analogía** (5 min):
+   ```
+   Prompt para ChatGPT/Claude:
+   "Explica qué es ANOVA usando una analogía del mundo real que
+   un estudiante de 18 años pueda entender. NO uses términos
+   técnicos. Puede ser comida, deportes, videojuegos, etc."
+   ```
+
+2. **Mejorar la analogía** (5 min):
+   - ¿La analogía es clara?
+   - ¿Falta algo?
+   - Modificar/adaptar para que sea MÁS clara
+
+3. **Presentación relámpago** (5 min):
+   - Cada equipo presenta en 45 segundos
+   - Clase vota: ¿Cuál analogía es la mejor?
+   - Ganador explica en pizarrón
+
+**Ejemplo de buena analogía:**
+> "ANOVA es como comparar 3 marcas de hot dogs en un concurso de sabor.
+> Si los 3 jueces de cada marca dan calificaciones MUY diferentes entre sí,
+> no podemos confiar en que las diferencias entre marcas sean reales.
+> Pero si dentro de cada marca las calificaciones son consistentes (varianza
+> baja dentro), y entre marcas son diferentes (varianza alta entre),
+> entonces SÍ podemos decir que una marca es mejor."
+
+**Entregable:** Analogía en 2-3 oraciones
+
+**Beneficios:**
+- ✅ Concepto difícil se vuelve memorable
+- ✅ Creatividad + entendimiento profundo
+- ✅ Diferentes analogías cubren diferentes perspectivas
+
+</details>
+
+---
+
+### **📌 Clase 3: Regresión Lineal y Correlación** (2 horas)
+
+**Contenido:**
+- 🔹 Introducción a predicción con datos (15 min)
+- 🔹 Notebook: [03_regresion_correlacion.ipynb](notebooks/03_regresion_correlacion.ipynb) (70 min)
+  - Correlación de Pearson (r)
+  - Scatter plots con línea de tendencia
+  - Regresión lineal simple (y = mx + b)
+  - Interpretación de R²
+  - Hacer predicciones
+- 🔹 Notebook: [04_integracion_estadistica.ipynb](notebooks/04_integracion_estadistica.ipynb) (20 min)
+  - Árbol de decisión: ¿Qué prueba usar?
+  - Ejercicio integrador
+- 🔹 Cierre (15 min)
+
+**📚 Material para revisar en casa:**
+- Completar ejercicios de regresión
+- Empezar Workshop 2
+
+**🎮 Actividad de Equipo Opcional:**
+
+<details>
+<summary><b>🎯 PREDICTION GAME: ¿Quién predice mejor?</b> (20 min) ⚠️ OPCIONAL - A DISCRECIÓN DEL PROFESOR</summary>
+
+**Objetivo:** Generar modelo de regresión y hacer predicciones reales
+
+**Equipos:** 3-4 personas
+
+**Instrucciones:**
+1. **Dataset:** Usar `ejemplo_satisfaccion_clientes.csv`
+
+2. **Pedir a IA código de regresión** (7 min):
+   ```
+   Prompt para ChatGPT/Gemini:
+   "Genera código Python para crear un modelo de regresión lineal
+   que prediga 'satisfaccion' basado en 'tiempo_servicio'.
+   Usa scikit-learn o statsmodels. Incluye:
+   - Scatter plot con línea de regresión
+   - R² del modelo
+   - Predicción para tiempo_servicio = 24 meses"
+   ```
+
+3. **Ejecutar y analizar** (8 min):
+   - Copiar código a Colab
+   - Ejecutar
+   - Interpretar: ¿El modelo es bueno? (R² > 0.7?)
+   - ¿La predicción tiene sentido?
+
+4. **Competencia de predicción** (5 min):
+   - Profesor da valor: "tiempo_servicio = 36 meses"
+   - Cada equipo predice satisfacción con su modelo
+   - ¿Quién se acerca más a la media real del grupo con ese tiempo?
+
+**Entregable:** Screenshot del gráfico + predicción + valor de R²
+
+**Beneficios:**
+- ✅ Ven utilidad práctica de regresión (predecir)
+- ✅ Aprenden a generar modelos con IA
+- ✅ Competencia crea engagement
+
+</details>
+
+---
+
+### **📌 Clase 4: Integración y Workshop 2** (2 horas)
+
+**Contenido:**
+- 🔹 Repaso integrador (30 min)
+  - ¿Qué prueba usar según tipo de variables?
+  - Árbol de decisión completo (t-test, chi², ANOVA, regresión)
+  - Errores comunes
+- 🔹 Introducción a Workshop 2 (15 min)
+  - Explicación de rúbrica
+  - Dataset: Fundación Esperanza (ONG)
+  - Estructura MEAL
+- 🔹 Tiempo de trabajo en Workshop 2 (60 min)
+  - Estudiantes trabajan en clase
+  - Profesor circula para dudas
+- 🔹 Cierre y próximos pasos (15 min)
+
+**📚 Tarea para entregar:**
+- **Workshop 2:** [workshop2_plantilla.ipynb](ejercicios/workshop2_plantilla.ipynb)
+- **Fecha límite:** Ver calendario del curso
+- **Valor:** 10% de la calificación final
+
+**🎮 Actividad de Equipo Opcional:**
+
+<details>
+<summary><b>🎨 STAT MEME CREATION: Meme Educativo</b> (20 min) ⚠️ OPCIONAL - A DISCRECIÓN DEL PROFESOR</summary>
+
+**Objetivo:** Consolidar conceptos creando memes estadísticos
+
+**Equipos:** 3-4 personas
+
+**Instrucciones:**
+1. **Elegir concepto estadístico** (3 min):
+   - Opciones: p-value, ANOVA, correlación vs causalidad, R², outliers
+   - Cada equipo elige uno diferente
+
+2. **Crear meme con IA** (10 min):
+   ```
+   Prompt para ChatGPT/DALL-E/Gemini:
+   "Genera idea para un meme gracioso que explique [concepto].
+   Usa formato de meme popular (Drake, distracted boyfriend, etc.).
+   Dame el texto para cada panel."
+   ```
+
+   Luego usar:
+   - [Imgflip Meme Generator](https://imgflip.com/memegenerator)
+   - O simplemente escribir texto en PowerPoint/Google Slides
+
+3. **Compartir** (5 min):
+   - Proyectar cada meme
+   - Clase vota: ¿Cuál es el más gracioso Y educativo?
+
+4. **Galería** (2 min):
+   - Profesor compila en presentación
+   - Compartir en canal del curso
+
+**Ejemplo:**
+```
+[Meme de Drake]
+Panel 1 (rechazo): "Usar ANOVA sin verificar supuestos"
+Panel 2 (aprobación): "Verificar normalidad y homogeneidad
+                        antes de ANOVA"
+```
+
+**Entregable:** Imagen del meme (screenshot)
+
+**Beneficios:**
+- ✅ Repaso ligero y divertido
+- ✅ Creatividad + contenido educativo
+- ✅ Gen Z aprende mejor con memes
+- ✅ Material reutilizable para futuros estudiantes
+
+</details>
 
 ---
 
@@ -45,159 +286,215 @@ Al finalizar esta semana, serás capaz de:
 
 ```
 Semana2/
-├── README.md
+├── README.md                                 # Este archivo
 ├── notebooks/
-│   ├── 01_ji_cuadrada.ipynb
-│   ├── 02_anova.ipynb
-│   ├── 03_regresion_correlacion.ipynb
-│   └── 04_integracion_estadistica.ipynb
+│   ├── 01_ji_cuadrada.ipynb                 # Clase 1: Variables categóricas
+│   ├── 02_anova.ipynb                       # Clase 2: Comparar 3+ grupos
+│   ├── 03_regresion_correlacion.ipynb       # Clase 3: Predicción
+│   └── 04_integracion_estadistica.ipynb     # Clase 3-4: Árbol de decisión
 ├── ejercicios/
-│   ├── workshop1_plantilla.ipynb
-│   └── workshop2_plantilla.ipynb
-├── scripts/
-│   ├── analisis_descriptivo.py
-│   └── pruebas_hipotesis.py
-├── guias/
-│   ├── guia_ji_cuadrada.md
-│   ├── guia_anova.md
-│   └── guia_regresion.md
+│   └── workshop2_plantilla.ipynb            # ⭐ ENTREGABLE - 10% calificación
+├── ejercicios_extra/
+│   ├── practica_ong_estadistica_avanzada.ipynb  # Práctica adicional
+│   └── textbook_exercises.ipynb             # Ejercicios de libro
 └── datos/
     └── (reutiliza datos de Semana1/)
 ```
 
 ---
 
+## 📊 Entregables de la Semana
+
+### **🎯 Workshop 2: Análisis Estadístico Avanzado**
+
+**Archivo:** [workshop2_plantilla.ipynb](ejercicios/workshop2_plantilla.ipynb)
+**Dataset:** `fundacion_esperanza_donadores.csv` (ONG - 1000 donadores)
+**Valor:** 10% de la calificación final
+**Fecha límite:** Ver calendario del curso
+
+**Contenido del Workshop:**
+
+| Sección | Descripción | Puntos |
+|---------|-------------|--------|
+| **Parte 1: Chi-cuadrada** | ¿Tipo de donante afecta retención? | 25 pts |
+| **Parte 2: ANOVA** | Comparar satisfacción por canal de donación | 30 pts |
+| **Parte 3: Regresión** | Predecir satisfacción con años como donante | 25 pts |
+| **Parte 4: Integración** | Análisis completo + recomendaciones | 20 pts |
+| **BONUS: Reflexión MEAL** | Análisis académico comparativo (Semana 1 vs 2) | +10 pts |
+| **TOTAL** | | **100 pts** (+10 bonus) |
+
+---
+
 ## 🔧 Herramientas Python
 
+### **Librerías principales:**
 ```python
 import pandas as pd
 import numpy as np
 from scipy import stats
+from scipy.stats import chi2_contingency, f_oneway, pearsonr
 import statsmodels.api as sm
 from statsmodels.formula.api import ols
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import chi2_contingency, f_oneway, pearsonr
 ```
 
----
+### **Comandos clave:**
 
-## 📝 Actividades de la Semana
+**Chi-cuadrada:**
+```python
+from scipy.stats import chi2_contingency
 
-| Día | Actividad | Tipo | Tiempo |
-|-----|-----------|------|--------|
-| D1 | Ji-cuadrada: Teoría y práctica | Clase | 2h |
-| D1 | Ejercicios Ji-cuadrada | Tarea | 3h |
-| D2 | ANOVA: Teoría y práctica | Clase | 1h |
-| D2 | Ejercicios ANOVA | Clase | 1h |
-| D2 | Ejercicios ANOVA (continuación) | Tarea | 3h |
-| D3 | Regresión y Correlación | Clase | 2h |
-| D3 | Workshop 2 | Tarea | 3h |
-| D4 | **Examen Módulo 1** | Clase | 2h |
+# Crear tabla de contingencia
+tabla = pd.crosstab(df['var1'], df['var2'])
 
----
+# Prueba chi-cuadrada
+chi2, p_value, dof, expected = chi2_contingency(tabla)
+```
 
-## 📊 Entregables
+**ANOVA:**
+```python
+from scipy.stats import f_oneway
 
-### Workshop 2: Pruebas Estadísticas Avanzadas
-**Fecha límite:** Miércoles de Semana 2
+# ANOVA de un factor
+f_stat, p_value = f_oneway(grupo1, grupo2, grupo3)
 
-**Contenido:**
-1. Prueba Ji-Cuadrada de Independencia (25 puntos)
-   - Tabla de contingencia
-   - Análisis de relación entre variables categóricas
-   - Interpretación de resultados
-2. ANOVA (35 puntos)
-   - Comparación de múltiples grupos
-   - Prueba post-hoc (Tukey)
-   - Visualización comparativa
-3. Regresión Lineal Simple (40 puntos)
-   - Correlación de Pearson
-   - Modelo de regresión
-   - Interpretación de R² y coeficientes
-   - Predicciones
+# Post-hoc (Tukey)
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+tukey = pairwise_tukeyhsd(df['variable'], df['grupo'])
+```
 
-**Formato:** Jupyter Notebook (.ipynb)
-**Dataset:** student-alcohol-consumption.csv
-**Valor:** 10% de la calificación final
+**Regresión:**
+```python
+from scipy.stats import pearsonr
 
-**Archivo:** [workshop2_plantilla.ipynb](ejercicios/workshop2_plantilla.ipynb)
+# Correlación
+r, p_value = pearsonr(df['x'], df['y'])
 
----
+# Regresión lineal simple
+from scipy.stats import linregress
+slope, intercept, r_value, p_value, std_err = linregress(x, y)
 
-### Examen Módulo 1
-**Fecha:** Viernes de Semana 2
-
-**Duración:** 2 horas (1h teoría + 1h práctica)
-
-**Contenido:**
-- Medidas de tendencia central y dispersión (15%)
-- Pruebas t para 1 y 2 muestras (20%)
-- Prueba Ji-cuadrada (20%)
-- ANOVA (25%)
-- Regresión lineal y correlación (20%)
-
-**Formato:** Mixto
-- Parte 1: Preguntas teóricas (50%)
-- Parte 2: Ejercicio práctico en Jupyter (50%)
-
-**Valor:** 5% de la calificación final
+# Predicción
+y_pred = slope * x_nuevo + intercept
+```
 
 ---
 
 ## 💡 Tips de Estudio
 
-### Para Ji-Cuadrada:
-1. Siempre verifica que las frecuencias esperadas sean > 5
-2. Usa tablas de contingencia para visualizar relaciones
-3. Interpreta el p-value en contexto
+1. **🗺️ Usa el árbol de decisión:**
+   - Antes de cada análisis: ¿Qué tipo de variables tengo?
+   - Categórica vs categórica → Chi-cuadrada
+   - Numérica con 3+ grupos → ANOVA
+   - 2 numéricas para predecir → Regresión
 
-### Para ANOVA:
-1. Verifica supuestos: normalidad y homogeneidad de varianzas
-2. Si rechazas H₀, usa pruebas post-hoc para identificar diferencias
-3. Complementa con boxplots
+2. **📊 SIEMPRE visualiza primero:**
+   - Chi-cuadrada → Gráfico de barras agrupadas
+   - ANOVA → Boxplots por grupo
+   - Regresión → Scatter plot con línea de tendencia
 
-### Para Regresión:
-1. Siempre grafica los datos primero (scatter plot)
-2. Verifica linealidad antes de ajustar el modelo
-3. No extrapoles más allá del rango de tus datos
-4. R² no lo es todo: interpreta la pendiente
+3. **✅ Verifica supuestos:**
+   - Chi-cuadrada: Frecuencias esperadas > 5
+   - ANOVA: Normalidad (Shapiro), homogeneidad (Levene)
+   - Regresión: Linealidad, residuos normales
 
----
-
-## 📚 Lectura Recomendada
-
-**Libro de texto:**
-- Levin & Rubin. Capítulos 10-12
-
-**Complementaria:**
-- Keller, Gerald. "Statistics for management and economics"
-- Newbold, Paul. "Estadística para administración y economía"
+4. **🤖 Usa IA estratégicamente:**
+   - ✅ "Explica cuándo usar ANOVA vs chi-cuadrada"
+   - ✅ "Mi ANOVA dio p=0.03, ¿qué significa?"
+   - ❌ "Dame todo el código del workshop"
 
 ---
 
-## 🎓 Preparación para el Reto
+## 🆘 Recursos de Apoyo
 
-Esta semana es crucial porque aplicarás TODAS estas técnicas en tu proyecto final:
+### **Material del curso:**
+- [Semana 1: Estadística Básica](../Semana1/) - Repasar t-test y conceptos base
+- [CODEBOOK: Dataset ONG](../Semana1/datos/CODEBOOK_fundacion_esperanza.md)
+- [Práctica extra avanzada](ejercicios_extra/practica_ong_estadistica_avanzada.ipynb)
 
-1. **Ji-cuadrada:** ¿El departamento influye en la satisfacción?
-2. **ANOVA:** Comparar satisfacción entre múltiples áreas de la ONG
-3. **Regresión:** Predecir calidad del servicio basado en variables clave
-4. **Correlación:** Identificar relaciones entre variables
+### **Recursos externos:**
+
+**Estadística:**
+- [Stat Quest - ANOVA](https://www.youtube.com/watch?v=0Vj2V2qRU10) - Video explicativo
+- [Seeing Theory - Regresión](https://seeing-theory.brown.edu/regression-analysis/index.html)
+
+**Python:**
+- [SciPy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html) - Todas las pruebas
+- [Statsmodels](https://www.statsmodels.org/stable/index.html) - ANOVA y regresión avanzada
 
 ---
 
 ## ❓ Preguntas Frecuentes
 
-**P: ¿Cuándo usar ANOVA vs múltiples pruebas t?**
-R: ANOVA es preferible cuando comparas 3+ grupos porque controla el error Tipo I. Múltiples pruebas t inflan la probabilidad de falsos positivos.
+**P: ¿Cuándo uso chi-cuadrada vs ANOVA?**
+R:
+- **Chi-cuadrada:** Ambas variables son **categóricas** (ej: género × área)
+- **ANOVA:** Variable numérica comparada entre **3+ grupos categóricos** (ej: satisfacción × 4 áreas)
 
-**P: ¿Qué hacer si los supuestos de ANOVA no se cumplen?**
-R: Usa la alternativa no paramétrica Kruskal-Wallis o transforma tus datos (log, raíz cuadrada).
+**P: ¿Por qué no hacer múltiples t-tests en lugar de ANOVA?**
+R: Múltiples t-tests aumentan el error Tipo I (falsos positivos). ANOVA controla este error.
 
-**P: ¿Cómo interpreto un R² bajo en regresión?**
-R: R² bajo significa que tu modelo explica poca varianza. Puede ser normal si hay muchos factores no medidos que influyen en Y.
+**P: ¿Qué significa R² = 0.65 en regresión?**
+R: El modelo explica 65% de la variabilidad en Y. Mientras más cerca de 1, mejor el modelo.
+
+**P: ¿Puedo usar regresión si las variables no están perfectamente relacionadas linealmente?**
+R: Depende. Si r < 0.3, la relación es muy débil. Usa scatter plot para verificar linealidad.
+
+**P: ¿Las actividades de equipo opcionales cuentan para calificación?**
+R: No, son opcionales y a discreción del profesor. Son para reforzar conceptos de forma interactiva.
 
 ---
 
-**Próxima semana:** Módulo 2 - Ética, Compromiso Social y Diagnóstico Estratégico
+## 🚀 Próximos Pasos
+
+**Al terminar Semana 2:**
+1. ✅ Dominas chi-cuadrada, ANOVA, y regresión
+2. ✅ Sabes elegir prueba correcta según tipo de datos
+3. ✅ Has completado Workshop 2 (10% de tu calificación)
+4. ✅ **Completaste Módulo 1** (estadística completa) 🎉
+
+**Siguiente módulo:**
+- [Semana 3: Análisis Estratégico](../Semana3/)
+  - Matriz BCG
+  - Diamante de Porter
+  - Customer Journey Map
+  - Selección de ONG para proyecto final
+
+---
+
+## 📝 Checklist de la Semana
+
+**Durante Clase 1 (Chi-cuadrada):**
+- [ ] Entendí cuándo usar chi-cuadrada
+- [ ] Sé crear tablas de contingencia
+- [ ] Puedo interpretar p-value de chi-cuadrada
+- [ ] (Opcional) Encontré correlaciones espurias divertidas
+
+**Durante Clase 2 (ANOVA):**
+- [ ] Entendí diferencia entre ANOVA y múltiples t-tests
+- [ ] Sé interpretar F-statistic y p-value
+- [ ] Entiendo para qué sirven pruebas post-hoc
+- [ ] (Opcional) Creé analogía clara de ANOVA
+
+**Durante Clase 3 (Regresión):**
+- [ ] Puedo calcular correlación de Pearson
+- [ ] Sé crear modelo de regresión lineal
+- [ ] Entiendo qué significa R²
+- [ ] Puedo hacer predicciones con el modelo
+- [ ] (Opcional) Competí en Prediction Game
+
+**Durante Clase 4 (Integración):**
+- [ ] Uso árbol de decisión para elegir prueba
+- [ ] Trabajé en Workshop 2 en clase
+- [ ] Resolví dudas con profesor
+- [ ] (Opcional) Creé meme estadístico
+
+**Después de Clase 4:**
+- [ ] **Entregué Workshop 2 completo** ⭐
+
+---
+
+**¡Felicidades por completar el Módulo 1 de Estadística!** 📊🎉
+
+Ahora tienes un arsenal completo de técnicas estadísticas. En el mundo real, **saber CUÁNDO usar cada prueba** es más importante que memorizar fórmulas. ¡Ya estás listo para el proyecto final!
