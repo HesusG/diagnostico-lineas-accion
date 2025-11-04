@@ -1,82 +1,40 @@
----
-theme: default
-colorSchema: light
-class: text-center
-highlighter: shiki
-lineNumbers: false
-info: |
-  ## Introducción a Pruebas de Hipótesis
-  Curso CD2001B - Diagnóstico para Líneas de Acción
-  Tecnológico de Monterrey Campus Puebla
-drawings:
-  persist: false
-transition: slide-left
-title: Pruebas de Hipótesis
-mdc: true
-download: true
-exportFilename: semana1-pruebas-hipotesis
-css: unocss
----
+# Semana1 Pruebas Hipotesis
 
-<style src="./styles/tec-theme.css"></style>
+> **Curso:** CD2001B - Diagnóstico para Líneas de Acción
+> **Tecnológico de Monterrey - Campus Puebla**
+
+---
 
 # Pruebas de Hipótesis
 
 ## Tomando Decisiones Basadas en Evidencia
 
-<div class="pt-12">
-  <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     CD2001B - Diagnóstico para Líneas de Acción
-  </span>
-</div>
 
-<div class="abs-br m-6 flex gap-2">
-  <span class="text-sm opacity-50">Semana 1 | Tec de Monterrey</span>
-</div>
+  Semana 1 | Tec de Monterrey
 
----
-layout: center
-class: text-center
 ---
 
 # ¿Qué es una Hipótesis?
 
-<div v-click class="mt-8">
-
 ## 🤔 Empecemos con lo Básico
 
 Una **hipótesis** es simplemente una **idea** o **suposición** sobre algo que queremos investigar.
-
-</div>
-
-<div v-click class="mt-8">
 
 ### Ejemplos en la Vida Diaria:
 - **"Creo que estudiar más horas me ayuda a tener mejores calificaciones"**
 - **"Pienso que esta marca de café sabe mejor"**
 - **"Esta ONG realmente está ayudando a la comunidad"**
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-info">
-💡 <strong>Observa:</strong> Todas estas son solo <strong>ideas</strong> o <strong>creencias</strong>. Aún no sabemos si son ciertas.
-</div>
-</div>
+💡 **Observa:** Todas estas son solo **ideas** o **creencias**. Aún no sabemos si son ciertas.
 
 ---
 
 # ¿Qué es una Hipótesis Estadística?
 
-<div v-click class="mt-8">
-
 ## 📊 Hipótesis + Datos = Hipótesis Estadística
 
 Es cuando tomamos una **idea** y la convertimos en algo que podemos **probar con números**.
-
-</div>
-
-<div v-click class="mt-8">
 
 ### De Idea a Hipótesis Estadística:
 
@@ -84,39 +42,21 @@ Es cuando tomamos una **idea** y la convertimos en algo que podemos **probar con
 
 **Hipótesis estadística:** "El programa de la ONG redujo la desnutrición infantil de 35% a menos de 30%"
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-success">
-✅ <strong>Lo importante:</strong> Ahora tenemos <strong>números específicos</strong> que podemos medir y comparar
-</div>
-</div>
+✅ **Lo importante:** Ahora tenemos **números específicos** que podemos medir y comparar
 
 ---
 
 # El Propósito: ¿Por Qué Hacemos Esto?
 
-<div v-click class="mt-8">
-
 ### 🎯 No se Trata de "Tener Razón"
 
 Cuando hacemos una prueba de hipótesis, **NO** estamos tratando de demostrar que nuestras ideas son correctas.
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 🔍 Se Trata de Evaluar la Evidencia
 
 Queremos saber: **¿Los datos que tenemos apoyan nuestra idea, o no?**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-warning">
-⚠️ <strong>Ojo:</strong> A veces los datos nos dirán que nuestra idea original estaba equivocada. ¡Y eso está bien! Es parte del proceso científico.
-</div>
-</div>
+⚠️ **Ojo:** A veces los datos nos dirán que nuestra idea original estaba equivocada. ¡Y eso está bien! Es parte del proceso científico.
 
 ---
 
@@ -124,54 +64,32 @@ Queremos saber: **¿Los datos que tenemos apoyan nuestra idea, o no?**
 
 ## Imagina un Juicio Legal
 
-<div v-click class="mt-8">
-
 Cuando un juez evalúa un caso, funciona de manera **muy similar** a una prueba de hipótesis.
 
 Veamos cómo...
-
-</div>
 
 ---
 
 # ⚖️ En un Juicio Legal
 
-<div v-click class="mt-8">
-
 ### 1. Presunción de Inocencia
 
 **"El acusado es inocente hasta que se pruebe lo contrario"**
 
-</div>
-
-<div v-click class="mt-8">
-
 ### 2. Carga de la Prueba
 
 El fiscal debe presentar **evidencia convincente** para cambiar el veredicto.
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 3. El Veredicto
 
 - ✅ **Culpable** → Si hay evidencia suficiente
 - ❌ **No culpable** → Si la evidencia NO es suficiente
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-info">
 💡 Observa que "No culpable" NO significa "Inocente". Solo significa: "No hay suficiente evidencia para condenar"
-</div>
-</div>
 
 ---
 
 # 📊 En una Prueba de Hipótesis
-
-<div v-click class="mt-8">
 
 ### 1. H₀: Hipótesis Nula (Presunción de Inocencia)
 
@@ -179,254 +97,141 @@ El fiscal debe presentar **evidencia convincente** para cambiar el veredicto.
 
 Es como decir: "Asumimos que nada cambió, hasta que los datos demuestren lo contrario"
 
-</div>
-
-<div v-click class="mt-8">
-
 ### 2. H₁: Hipótesis Alternativa (La Acusación)
 
 **"SÍ hay efecto / SÍ hay diferencia"**
 
 Es la afirmación que queremos probar con nuestros datos.
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-warning">
-⚠️ <strong>Dato importante:</strong> Al igual que en el juicio, empezamos asumiendo que H₀ es cierta (igual que la presunción de inocencia).
-</div>
-</div>
+⚠️ **Dato importante:** Al igual que en el juicio, empezamos asumiendo que H₀ es cierta (igual que la presunción de inocencia).
 
 ---
 
 # 🎯 La Decisión Final
 
-<div class="mt-8">
-
 ### Basándonos en la Evidencia (Datos)
-
-<div v-click class="mt-8">
 
 **Si la evidencia es suficiente:**
 - ✅ Rechazamos H₀
 - Concluimos que **SÍ** hay efecto
 
-</div>
-
-<div v-click class="mt-8">
-
 **Si la evidencia NO es suficiente:**
 - ❌ NO rechazamos H₀
 - Concluimos que **NO tenemos evidencia** de un efecto
 
-</div>
+**MUY IMPORTANTE:** "No rechazar H₀" ≠ "Aceptar H₀"
 
-</div>
+Solo significa: **"No hay suficiente evidencia"**
 
-<div v-click class="mt-12">
-<div class="alert alert-danger text-center">
-<strong>MUY IMPORTANTE:</strong> "No rechazar H₀" ≠ "Aceptar H₀"
-<br><br>
-Solo significa: <strong>"No hay suficiente evidencia"</strong>
-<br>
 (Igual que "No culpable" ≠ "Inocente")
-</div>
-</div>
 
----
-layout: center
 ---
 
 # 📚 Ejemplo Práctico: ONG "Comedores Comunitarios"
-
-<div v-click class="mt-8">
 
 ## 📋 La Situación
 
 Una ONG implementó un programa de comedores comunitarios para niños en una comunidad vulnerable.
 
-</div>
-
-<div v-click class="mt-8">
-
 ### Lo que la ONG afirma:
 
 **"Nuestro programa redujo la desnutrición infantil en la comunidad"**
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-info">
 💡 Pero necesitamos **evidencia numérica** para verificar esta afirmación.
-</div>
-</div>
 
 ---
 
 # 📊 Los Datos del Programa
 
-<div class="mt-8">
-
 ### Mediciones Realizadas:
-
-<div v-click class="mt-8">
 
 **🔴 ANTES del programa:**
 - Tasa de desnutrición infantil: **35%**
-
-</div>
-
-<div v-click class="mt-8">
 
 **🟢 DESPUÉS del programa:**
 - Tasa de desnutrición infantil: **28%**
 - Medido en una muestra de **150 niños**
 
-</div>
-
-<div v-click class="mt-8">
-
 **📉 Diferencia observada:** 35% - 28% = **7 puntos porcentuales**
-
-</div>
-
-</div>
 
 ---
 
 # 🤔 La Pregunta Crítica
 
-<div v-click class="mt-8">
-
 ## ¿Esta reducción de 7% es REAL?
-
-</div>
-
-<div v-click class="mt-8">
 
 ### Hay dos posibles explicaciones:
 
-</div>
-
-<div v-click class="mt-8">
-
 **1. 🎯 El programa realmente funciona**
 - La reducción es un efecto genuino del programa
-
-</div>
-
-<div v-click class="mt-8">
 
 **2. 🎲 Es solo casualidad**
 - La muestra aleatoriamente tuvo menos casos de desnutrición
 - El programa en realidad no tuvo ningún efecto
 
-</div>
+**¡Aquí entra la Prueba de Hipótesis!**
 
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>¡Aquí entra la Prueba de Hipótesis!</strong>
-<br><br>
-Nos ayuda a decidir cuál de estas dos explicaciones es más probable, usando <strong>rigor estadístico</strong>.
-</div>
-</div>
+Nos ayuda a decidir cuál de estas dos explicaciones es más probable, usando **rigor estadístico**.
 
----
-layout: default
 ---
 
 # Paso 1: Plantear las Hipótesis
 
-<div class="mt-8">
-
 ### Ahora vamos a formalizar las dos posibles explicaciones
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 🔵 H₀: Hipótesis Nula
 
 **"El programa NO tuvo efecto"**
 
-</div>
-
-<div v-click class="mt-8">
-
 **¿Qué significa esto en números?**
 - La tasa de desnutrición sigue siendo 35%
 - La diferencia que vimos (7%) es solo casualidad de la muestra
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-info">
-💡 Esta es nuestra <strong>"posición escéptica"</strong> que intentaremos refutar con evidencia.
-</div>
-</div>
+💡 Esta es nuestra **"posición escéptica"** que intentaremos refutar con evidencia.
 
 ---
 
 # Paso 1: Plantear las Hipótesis (continuación)
 
-<div v-click class="mt-8">
-
 ### 🟢 H₁: Hipótesis Alternativa
 
 **"El programa SÍ redujo la desnutrición"**
-
-</div>
-
-<div v-click class="mt-8">
 
 **¿Qué significa esto en números?**
 - La tasa de desnutrición es **realmente menor** a 35%
 - La diferencia observada (7%) es un **efecto genuino** del programa
 
-</div>
+✅ Esta es la afirmación que queremos **demostrar con evidencia**.
 
-<div v-click class="mt-8">
-<div class="alert alert-success">
-✅ Esta es la afirmación que queremos <strong>demostrar con evidencia</strong>.
-</div>
-</div>
-
----
-layout: center
 ---
 
 # 🗺️ Proceso de Decisión
 
-<div class="mt-8">
-
 ```mermaid
 flowchart TD
-    A[📊 Observamos los datos<br/>de la muestra] --> B{🤔 ¿Los datos son compatibles<br/>con H₀?}
-    B -->|❌ NO<br/>evidencia fuerte| C[✅ Rechazamos H₀]
-    B -->|✓ SÍ<br/>evidencia débil| D[⚠️ No rechazamos H₀]
-    C --> E[🎉 Conclusión:<br/>El programa SÍ funciona]
-    D --> F[🤷 Conclusión:<br/>No hay evidencia suficiente<br/>para decir que funciona]
+    A[📊 Observamos los datos
+de la muestra] --> B{🤔 ¿Los datos son compatibles
+con H₀?}
+    B -->|❌ NO
+evidencia fuerte| C[✅ Rechazamos H₀]
+    B -->|✓ SÍ
+evidencia débil| D[⚠️ No rechazamos H₀]
+    C --> E[🎉 Conclusión:
+El programa SÍ funciona]
+    D --> F[🤷 Conclusión:
+No hay evidencia suficiente
+para decir que funciona]
 ```
 
-</div>
-
----
-layout: center
 ---
 
 # 🎲 Analogía para Entender el Valor P
 
 ## El Caso de la Moneda
 
-<div v-click class="mt-12">
-
 **Situación:**
 
 Tu amigo lanza una moneda **100 veces** y obtiene **cara 70 veces**.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 🤔 La Gran Pregunta:
 
@@ -434,15 +239,9 @@ Tu amigo lanza una moneda **100 veces** y obtiene **cara 70 veces**.
 
 **¿O solo tuvo mucha suerte?**
 
-</div>
-
 ---
 
 # 🎲 Planteando las Hipótesis
-
-<div class="mt-8">
-
-<div v-click>
 
 ### H₀: Hipótesis Nula
 
@@ -450,103 +249,57 @@ Tu amigo lanza una moneda **100 veces** y obtiene **cara 70 veces**.
 
 Si esto es cierto, esperamos que salga cara aproximadamente **50 veces** de 100 lanzamientos.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### H₁: Hipótesis Alternativa
 
 **"La moneda está cargada"**
 
 Sale cara más frecuentemente de lo que debería por pura casualidad.
 
-</div>
-
-</div>
-
 ---
 
 # 🧮 ¿Qué tan Raro es Obtener 70 Caras?
-
-<div v-click class="mt-8">
 
 Si la moneda **fuera justa** (H₀ es cierta):
 - Esperamos aproximadamente **50 caras**
 - Podría variar un poco: 45-55 caras sería normal
 
-</div>
-
-<div v-click class="mt-12">
-
 Pero obtener **70 caras** sería:
 - ✨ **Extremadamente raro**
 - 📊 Probabilidad: ~0.0001 (solo 0.01% de probabilidad)
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-warning text-center">
-⚠️ <strong>Valor P bajo:</strong> Los datos observados son muy improbables si H₀ fuera cierta
-</div>
-</div>
+⚠️ **Valor P bajo:** Los datos observados son muy improbables si H₀ fuera cierta
 
 ---
 
 # ✅ Conclusión del Experimento de la Moneda
 
-<div v-click class="mt-8">
-
 ### Razonamiento:
 
 **SI** la moneda fuera justa (H₀), sería **casi imposible** obtener 70 caras.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Decisión:
 
 Por tanto: **Rechazamos H₀**
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Conclusión Final:
 
 La moneda probablemente **está cargada**.
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success">
 💡 Este es exactamente el mismo razonamiento que usamos con los datos de la ONG!
-</div>
-</div>
 
 ---
 
 # 📘 Definición Formal del Valor P
 
-<div class="mt-12">
+**Valor P =**
 
-<div class="math-display text-center">
-<strong>Valor P =</strong>
-<br><br>
 Probabilidad de observar datos tan extremos (o más)
-<br>
-<strong>SI</strong> la hipótesis nula (H₀) fuera cierta
-</div>
 
-</div>
+**SI** la hipótesis nula (H₀) fuera cierta
 
-<div v-click class="mt-12">
-<div class="alert alert-info">
-📌 <strong>En palabras simples:</strong>
-<br><br>
-¿Qué tan raro/improbable es lo que observamos, <strong>asumiendo que H₀ es verdadera</strong>?
-</div>
-</div>
+📌 **En palabras simples:**
+
+¿Qué tan raro/improbable es lo que observamos, **asumiendo que H₀ es verdadera**?
 
 ---
 
@@ -554,17 +307,11 @@ Probabilidad de observar datos tan extremos (o más)
 
 ## Símbolos que Verás Frecuentemente
 
-<div v-click class="mt-8">
-
 ### 1. H₀ (se lee: "H sub-cero" o "H cero")
 
 **Significa:** Hipótesis Nula
 
 **Ejemplo:** "H₀: La media es 50" se lee como "La hipótesis nula dice que la media es 50"
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 2. H₁ (se lee: "H sub-uno" o "H uno")
 
@@ -572,49 +319,29 @@ Probabilidad de observar datos tan extremos (o más)
 
 **Ejemplo:** "H₁: La media es diferente de 50"
 
-</div>
-
 ---
 
 # 📖 Cómo Leer la Notación Estadística (cont.)
 
-<div class="mt-8">
-
 ### 3. El símbolo < (se lee: "menor que")
-
-<div v-click class="mt-8">
 
 **P < 0.05** se lee: "P es menor que cero punto cero cinco"
 
 **Significa:** El valor P es más pequeño que 0.05
 
-</div>
-
-<div v-click class="mt-12">
-
 **Ejemplos:**
 - P = 0.03 → 0.03 < 0.05 ✅ (Verdadero: 0.03 es menor que 0.05)
 - P = 0.12 → 0.12 < 0.05 ❌ (Falso: 0.12 NO es menor que 0.05)
 
-</div>
+💡 **Tip:** Piensa en el símbolo < como una "boca abierta" que siempre apunta hacia el número más grande.
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
-💡 <strong>Tip:</strong> Piensa en el símbolo < como una "boca abierta" que siempre apunta hacia el número más grande.
-<br><br>
 <code>3 < 5</code> (la boca se abre hacia el 5 porque es más grande)
-</div>
-</div>
 
 ---
 
 # Interpretando el Valor P
 
 ## ¿Qué Significa Cada Rango?
-
-<div class="mt-8">
 
 | Valor P | Interpretación | Decisión Típica |
 |---------|----------------|-----------------|
@@ -623,21 +350,13 @@ Probabilidad de observar datos tan extremos (o más)
 | **0.05 - 0.10** | Evidencia débil contra H₀ | Zona gris (depende del contexto) |
 | **> 0.10** | Evidencia insuficiente contra H₀ | No rechazar H₀ |
 
-</div>
-
 ---
 
 # 🎯 El Umbral Estándar: α = 0.05
 
-<div v-click class="mt-8">
-
 ### ¿Qué es α (alfa)?
 
 **α** (se lee "alfa") es el **nivel de significancia**: el umbral que usamos para decidir si rechazamos H₀.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### La Regla Más Común:
 
@@ -647,37 +366,21 @@ Probabilidad de observar datos tan extremos (o más)
 
 **Si P ≥ 0.05 → NO rechazamos H₀**
 
-</div>
+⚠️ **¿Qué significa el 5%?**
 
-<div v-click class="mt-12">
-<div class="alert alert-warning">
-⚠️ <strong>¿Qué significa el 5%?</strong>
-<br><br>
-Estamos aceptando un <strong>5% de riesgo</strong> de rechazar H₀ cuando en realidad es verdadera (Error Tipo I).
-</div>
-</div>
+Estamos aceptando un **5% de riesgo** de rechazar H₀ cuando en realidad es verdadera (Error Tipo I).
 
 ---
 
 # ✅ Ejemplo: Volviendo a la ONG
 
-<div class="mt-8">
-
 ### Resultado de la Prueba:
 
 **P = 0.012** (1.2%)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### ¿Qué significa esto?
 
 Hay solo **1.2% de probabilidad** de observar esta reducción (o mayor) si el programa **NO funcionara**.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Decisión:
 
@@ -685,37 +388,21 @@ Hay solo **1.2% de probabilidad** de observar esta reducción (o mayor) si el pr
 
 Por tanto: **Rechazamos H₀**
 
-</div>
+**Conclusión Final:**
 
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>Conclusión Final:</strong>
-<br><br>
-Tenemos evidencia suficiente para decir que el programa de la ONG <strong>SÍ es efectivo</strong>.
-</div>
-</div>
+Tenemos evidencia suficiente para decir que el programa de la ONG **SÍ es efectivo**.
 
 ---
 
 # ❌ Ejemplo Alternativo: Evidencia Insuficiente
 
-<div class="mt-8">
-
 ### Resultado de una Prueba Diferente:
 
 **P = 0.18** (18%)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### ¿Qué significa esto?
 
 Hay **18% de probabilidad** de observar esta diferencia por **pura casualidad**.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Decisión:
 
@@ -723,80 +410,46 @@ Hay **18% de probabilidad** de observar esta diferencia por **pura casualidad**.
 
 Por tanto: **NO rechazamos H₀**
 
-</div>
+**Conclusión Final:**
 
-<div v-click class="mt-12">
-<div class="alert alert-danger text-center">
-<strong>Conclusión Final:</strong>
-<br><br>
 NO tenemos evidencia suficiente para decir que el programa funciona.
-<br>
-(Esto NO significa que "no funciona", solo que no podemos estar seguros con estos datos)
-</div>
-</div>
 
----
-layout: center
+(Esto NO significa que "no funciona", solo que no podemos estar seguros con estos datos)
+
 ---
 
 # ⚠️ Los Dos Tipos de Error
-
-<div class="mt-8">
 
 ### Incluso con pruebas estadísticas, podemos equivocarnos
 
 Como en cualquier decisión basada en evidencia, hay **dos formas** de cometer errores.
 
-</div>
-
-<div v-click class="mt-12">
-
 Veamos esto con un ejemplo que usas todos los días...
-
-</div>
 
 ---
 
 # 📱 Ejemplo Gen Z: Filtro de Spam de Instagram
 
-<div class="mt-8">
-
 ### La Situación:
 
 Instagram tiene que decidir: **¿Este mensaje es spam o es legítimo?**
 
-</div>
-
-<div v-click class="mt-12">
-
 **H₀ (Hipótesis Nula):** El mensaje es legítimo (no es spam)
 
 **H₁ (Hipótesis Alternativa):** El mensaje es spam
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Las Posibles Decisiones:
 
 - **Rechazar H₀** → Marcar el mensaje como spam y bloquearlo
 - **No rechazar H₀** → Dejar pasar el mensaje a tu bandeja principal
 
-</div>
-
 ---
 
 # 🚨 Error Tipo I: Falso Positivo
 
-<div class="mt-8">
-
 ### ¿Qué es?
 
 Rechazar H₀ cuando **en realidad es verdadera**
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 📱 En Instagram:
 
@@ -804,37 +457,21 @@ Un mensaje **legítimo** (como una oportunidad de trabajo real) es marcado como 
 
 **Consecuencia:** Perdiste algo importante 😢
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 📊 En la ONG:
 
 Concluir que el programa **funciona** cuando en realidad **NO tuvo ningún efecto**.
 
 **Consecuencia:** Invertir recursos en un programa inefectivo 💸
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-warning text-center">
-<strong>Probabilidad del Error Tipo I:</strong> α = 0.05 (5%)
-</div>
-</div>
+**Probabilidad del Error Tipo I:** α = 0.05 (5%)
 
 ---
 
 # 😔 Error Tipo II: Falso Negativo
 
-<div class="mt-8">
-
 ### ¿Qué es?
 
 **NO** rechazar H₀ cuando **en realidad es falsa**
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 📱 En Instagram:
 
@@ -842,46 +479,32 @@ Un mensaje de **spam real** (estafa, phishing) pasa como legítimo y llega a tu 
 
 **Consecuencia:** Podrías caer en una estafa 🚨
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 📊 En la ONG:
 
 Concluir que el programa **NO funciona** cuando en realidad **SÍ es efectivo**.
 
 **Consecuencia:** Cancelar un programa que realmente ayudaba 😞
 
-</div>
+**Probabilidad del Error Tipo II:** β (varía según el diseño del estudio)
 
-<div v-click class="mt-8">
-<div class="alert alert-info text-center">
-<strong>Probabilidad del Error Tipo II:</strong> β (varía según el diseño del estudio)
-</div>
-</div>
-
----
-layout: default
 ---
 
 # 📊 Resumen: Tabla de Decisiones
 
-<div class="mt-8">
-
-|  | **H₀ es Verdadera**<br>(No hay efecto real) | **H₀ es Falsa**<br>(Sí hay efecto real) |
+|  | **H₀ es Verdadera**
+(No hay efecto real) | **H₀ es Falsa**
+(Sí hay efecto real) |
 |---|---|---|
-| **Rechazamos H₀** | ❌ **Error Tipo I** (α = 5%)<br>Falso Positivo | ✅ **Decisión Correcta**<br>Detectamos el efecto |
-| **No Rechazamos H₀** | ✅ **Decisión Correcta**<br>No hay efecto y no lo afirmamos | ❌ **Error Tipo II** (β)<br>Falso Negativo |
-
-</div>
+| **Rechazamos H₀** | ❌ **Error Tipo I** (α = 5%)
+Falso Positivo | ✅ **Decisión Correcta**
+Detectamos el efecto |
+| **No Rechazamos H₀** | ✅ **Decisión Correcta**
+No hay efecto y no lo afirmamos | ❌ **Error Tipo II** (β)
+Falso Negativo |
 
 ---
 
 # 🎯 Analogía: Detector de Humo
-
-<div class="mt-8">
-
-<div v-click>
 
 ### Error Tipo I: Falsa Alarma
 
@@ -889,33 +512,17 @@ layout: default
 - Molesto e inconveniente, pero no peligroso
 - Te despierta a las 3am por nada 😴
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Error Tipo II: No Detecta el Peligro
 
 - El detector **NO suena cuando SÍ hay fuego** 🔥
 - Extremadamente peligroso
 - Podría ser fatal
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-danger">
-⚠️ <strong>¿Cuál error prefieres?</strong> En este caso, preferimos Error Tipo I (falsas alarmas) sobre Error Tipo II (no detectar el fuego).
-</div>
-</div>
+⚠️ **¿Cuál error prefieres?** En este caso, preferimos Error Tipo I (falsas alarmas) sobre Error Tipo II (no detectar el fuego).
 
 ---
 
 # 🏥 Analogía: Prueba Médica (COVID-19)
-
-<div class="mt-8">
-
-<div v-click>
 
 ### Error Tipo I: Falso Positivo
 
@@ -923,137 +530,90 @@ layout: default
 - Consecuencia: Cuarentena innecesaria, ansiedad, más pruebas
 - Molesto, pero no crítico
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Error Tipo II: Falso Negativo
 
 - La prueba dice que **NO tienes COVID**, pero en realidad **SÍ estás infectado**
 - Consecuencia: Sigues tu vida normal, contagias a otros
 - Muy peligroso para ti y los demás
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-warning">
 💡 Por eso algunas pruebas médicas son diseñadas para ser "sensibles" (prefieren Error Tipo I sobre Error Tipo II).
-</div>
-</div>
 
 ---
 
 # ⚖️ El Balance (Trade-off)
 
-<div v-click class="mt-8">
-
 ### El Dilema:
 
 No podemos eliminar **completamente** ambos tipos de error al mismo tiempo.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Si somos MÁS estrictos (bajamos α):
 
 - ✅ Reducimos Error Tipo I (menos falsos positivos)
 - ❌ Aumentamos Error Tipo II (más falsos negativos)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Si somos MENOS estrictos (subimos α):
 
 - ❌ Aumentamos Error Tipo I (más falsos positivos)
 - ✅ Reducimos Error Tipo II (menos falsos negativos)
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>💡 La Solución:</strong> Aumentar el tamaño de muestra (n) reduce AMBOS errores simultáneamente!
-</div>
-</div>
+**💡 La Solución:** Aumentar el tamaño de muestra (n) reduce AMBOS errores simultáneamente!
 
 ---
 
 # 🗺️ Panorama: Tipos de Pruebas de Hipótesis
 
-<div class="mt-8">
-
 ### Hay MUCHOS tipos de pruebas estadísticas...
-
-</div>
-
-<div v-click class="mt-8">
 
 Pero **NO te preocupes**: todas siguen la misma lógica que acabamos de aprender.
 
-</div>
-
-<div v-click class="mt-12">
-
 La pregunta clave es: **¿Qué tipo de datos tengo y qué quiero comparar?**
-
-</div>
-
-<div v-click class="mt-12">
 
 Veamos un mapa para ayudarte a decidir cuál usar...
 
-</div>
-
----
-layout: center
 ---
 
 # 🗺️ Diagrama de Decisión: ¿Qué Prueba Usar?
 
-<div class="text-sm mb-4 opacity-75">
 💡 Tip: Haz clic derecho en el diagrama y selecciona "Abrir imagen en nueva pestaña" para verlo más grande
-</div>
 
 ```mermaid
 flowchart TD
     A[🤔 ¿Qué quiero probar?] --> B{📊 ¿Tipo de datos?}
-    B -->|📝 Categóricos<br/>ej: género, región| C[📈 Chi-cuadrado<br/>χ²]
-    B -->|🔢 Numéricos<br/>ej: edad, satisfacción| D{👥 ¿Cuántos grupos?}
-    D -->|1 grupo vs valor fijo| E[📏 Prueba t<br/>de una muestra]
+    B -->|📝 Categóricos
+ej: género, región| C[📈 Chi-cuadrado
+χ²]
+    B -->|🔢 Numéricos
+ej: edad, satisfacción| D{👥 ¿Cuántos grupos?}
+    D -->|1 grupo vs valor fijo| E[📏 Prueba t
+de una muestra]
     D -->|2 grupos| F{🔄 ¿Independientes?}
     D -->|3+ grupos| G[📊 ANOVA]
-    F -->|Sí: grupos diferentes| H[📊 Prueba t<br/>independiente]
-    F -->|No: mismas personas| I[🔁 Prueba t<br/>pareada]
+    F -->|Sí: grupos diferentes| H[📊 Prueba t
+independiente]
+    F -->|No: mismas personas| I[🔁 Prueba t
+pareada]
 
-    C --> C1[💡 Ejemplo: ¿El género<br/>afecta la satisfacción?]
-    E --> E1[💡 Ejemplo: ¿La media<br/>de satisfacción = 7?]
-    H --> H1[💡 Ejemplo: Satisfacción<br/>Hombres vs Mujeres]
-    I --> I1[💡 Ejemplo: Satisfacción<br/>Antes vs Después]
-    G --> G1[💡 Ejemplo: Comparar<br/>5 departamentos]
+    C --> C1[💡 Ejemplo: ¿El género
+afecta la satisfacción?]
+    E --> E1[💡 Ejemplo: ¿La media
+de satisfacción = 7?]
+    H --> H1[💡 Ejemplo: Satisfacción
+Hombres vs Mujeres]
+    I --> I1[💡 Ejemplo: Satisfacción
+Antes vs Después]
+    G --> G1[💡 Ejemplo: Comparar
+5 departamentos]
 ```
 
-<div v-click class="mt-8">
-<div class="alert alert-info text-sm">
-📌 <strong>No te aprendas esto de memoria!</strong> Siempre puedes consultar este diagrama. Lo importante es entender LA LÓGICA detrás de cada prueba.
-</div>
-</div>
+📌 **No te aprendas esto de memoria!** Siempre puedes consultar este diagrama. Lo importante es entender LA LÓGICA detrás de cada prueba.
 
 ---
 
 # 📏 Prueba t: ¿Qué es y Para Qué Sirve?
 
-<div v-click class="mt-8">
-
 ### En Palabras Simples:
 
 La **prueba t** te ayuda a responder: **"¿Estos dos promedios son REALMENTE diferentes, o solo parece por casualidad?"**
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 📊 Ejemplo del Día a Día:
 
@@ -1061,27 +621,13 @@ Tienes dos grupos de personas que usaron los servicios de la ONG:
 - Grupo A (Hombres): Promedio de satisfacción = 7.2
 - Grupo B (Mujeres): Promedio de satisfacción = 6.8
 
-</div>
-
-<div v-click class="mt-12">
-
 **Pregunta:** ¿Esta diferencia de 0.4 puntos es significativa, o podría ser solo variación aleatoria?
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
 💡 La prueba t toma en cuenta NO SOLO la diferencia, sino también la VARIABILIDAD de los datos y el tamaño de las muestras.
-</div>
-</div>
 
 ---
 
 # 📏 Los 3 Tipos de Prueba t
-
-<div class="mt-8">
-
-<div v-click>
 
 ### 1️⃣ Prueba t de Una Muestra
 
@@ -1089,19 +635,11 @@ Tienes dos grupos de personas que usaron los servicios de la ONG:
 
 **Ejemplo ONG:** "¿La satisfacción promedio de nuestros beneficiarios es diferente de 7.0?"
 
-</div>
-
-<div v-click class="mt-8">
-
 ### 2️⃣ Prueba t de Dos Muestras Independientes
 
 **¿Cuándo?** Cuando quieres comparar **dos grupos DIFERENTES** de personas
 
 **Ejemplo ONG:** "¿La satisfacción de hombres es diferente a la de mujeres?"
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 3️⃣ Prueba t Pareada (Antes/Después)
 
@@ -1109,43 +647,23 @@ Tienes dos grupos de personas que usaron los servicios de la ONG:
 
 **Ejemplo ONG:** "¿La satisfacción ANTES del programa es diferente a la satisfacción DESPUÉS?"
 
-</div>
-
-</div>
-
 ---
 
 # 📊 Ejemplo Paso a Paso: Satisfacción por Género
 
-<div class="mt-8">
-
 ### 📋 Los Datos de la ONG:
-
-<div v-click>
 
 - **Hombres:** Media = 7.2, Desviación Estándar = 1.5, n = 80 personas
 - **Mujeres:** Media = 6.8, Desviación Estándar = 1.3, n = 120 personas
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### ❓ La Pregunta:
 
 ¿La satisfacción de hombres es **significativamente diferente** a la de mujeres?
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 📝 Planteamos las Hipótesis:
 
 - **H₀:** No hay diferencia (las medias son iguales: μ₁ = μ₂)
 - **H₁:** SÍ hay diferencia (las medias son diferentes: μ₁ ≠ μ₂)
-
-</div>
 
 ---
 
@@ -1173,62 +691,34 @@ else:
     print("❌ No rechazamos H₀: NO hay evidencia de diferencia")
 ```
 
-<div v-click class="mt-4">
-<div class="alert alert-info text-sm">
-📚 <strong>Documentación:</strong> <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html" target="_blank">scipy.stats.ttest_ind()</a>
-</div>
-</div>
+📚 **Documentación:** [scipy.stats.ttest_ind()](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 
 ---
 
 # 📊 Interpretando los Resultados
 
-<div class="mt-8">
-
 ### Resultado del Código:
-
-<div v-click>
 
 ```
 Estadístico t: 2.05
 Valor P: 0.042
 ```
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ✅ Decisión:
 
 **P = 0.042 < 0.05** → Rechazamos H₀
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 💡 Conclusión en Lenguaje Simple:
 
 Hay evidencia estadísticamente significativa de que la satisfacción de **hombres** es **mayor** que la de **mujeres**.
 
-</div>
+**🎯 Acción Recomendada para la ONG:**
 
-<div v-click class="mt-12">
-<div class="alert alert-success">
-<strong>🎯 Acción Recomendada para la ONG:</strong>
-<br><br>
 Investigar POR QUÉ las mujeres tienen menor satisfacción y diseñar intervenciones específicas para mejorar su experiencia.
-</div>
-</div>
 
 ---
 
 # 📐 Chi-Cuadrada (χ²): ¿Qué es?
-
-<div class="mt-8">
-
-<div v-click>
 
 ### 🗣️ Cómo se Pronuncia:
 
@@ -1238,40 +728,20 @@ Investigar POR QUÉ las mujeres tienen menor satisfacción y diseñar intervenci
 
 Se escribe con el símbolo griego: **χ²**
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 🤔 ¿Por Qué se Llama "Chi-Cuadrada"?
 
 - **Chi (χ)** es una letra del alfabeto griego
 - **Cuadrada (²)** porque la fórmula matemática usa valores al cuadrado
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 💡 En Palabras Simples:
 
 Es una prueba para ver si **dos variables categóricas** (como género y nivel de satisfacción) están **relacionadas** o son **independientes**.
-
-</div>
-
-</div>
 
 ---
 
 # 📊 Chi-Cuadrada: ¿Cuándo Usarla?
 
-<div class="mt-8">
-
-<div v-click>
-
 ### 🔍 Úsala cuando tus datos son **categorías** (no números)
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Ejemplos de Preguntas que Responde:
 
@@ -1279,25 +749,13 @@ Es una prueba para ver si **dos variables categóricas** (como género y nivel d
 2. ¿La **zona geográfica** (Norte/Sur/Centro) afecta el **tipo de necesidad**?
 3. ¿El **nivel educativo** se relaciona con el **conocimiento de la ONG** (Sí/No)?
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
-💡 <strong>Nota clave:</strong> Chi-cuadrada NO compara promedios (eso es prueba t). Chi-cuadrada compara <strong>frecuencias</strong> y <strong>proporciones</strong>.
-</div>
-</div>
+💡 **Nota clave:** Chi-cuadrada NO compara promedios (eso es prueba t). Chi-cuadrada compara **frecuencias** y **proporciones**.
 
 ---
 
 # 📊 Ejemplo ONG: ¿Género Afecta Satisfacción?
 
-<div class="mt-8">
-
 ### 📋 Tabla de Contingencia: Satisfacción × Género
-
-<div v-click>
 
 |  | Alta | Media | Baja | **Total** |
 |---|------|-------|------|-------|
@@ -1305,42 +763,22 @@ Es una prueba para ver si **dos variables categóricas** (como género y nivel d
 | **Mujeres** | 50 | 50 | 20 | 120 |
 | **Total** | 95 | 75 | 30 | 200 |
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ❓ La Pregunta:
 
 ¿Hay una **relación** entre género y nivel de satisfacción?
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 📝 Las Hipótesis:
 
 - **H₀:** NO hay relación (género y satisfacción son independientes)
 - **H₁:** SÍ hay relación (género afecta la satisfacción)
 
-</div>
-
 ---
 
 # 🧮 La Lógica de Chi-Cuadrada
 
-<div class="mt-8">
-
-<div v-click>
-
 ### Si H₀ fuera cierta (NO hay relación):
 
 Esperaríamos que la distribución de satisfacción sea **proporcional** en ambos géneros.
-
-</div>
-
-<div v-click class="mt-12">
 
 **Cálculo rápido:**
 - De 200 personas, 95 tienen satisfacción Alta (47.5%)
@@ -1348,23 +786,11 @@ Esperaríamos que la distribución de satisfacción sea **proporcional** en ambo
   - Hombres con Alta: 47.5% de 80 = **38 personas** (aprox)
   - Mujeres con Alta: 47.5% de 120 = **57 personas** (aprox)
 
-</div>
-
-<div v-click class="mt-12">
-
 **Pero observamos:**
 - Hombres con Alta: **45** (más de lo esperado)
 - Mujeres con Alta: **50** (menos de lo esperado)
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-warning">
-⚠️ <strong>Pregunta:</strong> ¿Esta diferencia entre lo esperado y lo observado es significativa, o solo casualidad?
-</div>
-</div>
-
-</div>
+⚠️ **Pregunta:** ¿Esta diferencia entre lo esperado y lo observado es significativa, o solo casualidad?
 
 ---
 
@@ -1395,21 +821,13 @@ else:
     print("❌ No rechazamos H₀: NO hay evidencia de relación")
 ```
 
-<div v-click class="mt-4">
-<div class="alert alert-info text-sm">
-📚 <strong>Documentación:</strong> <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html" target="_blank">scipy.stats.chi2_contingency()</a>
-</div>
-</div>
+📚 **Documentación:** [scipy.stats.chi2_contingency()](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html)
 
 ---
 
 # 📊 Interpretando los Resultados
 
-<div class="mt-8">
-
 ### Resultado del Código:
-
-<div v-click>
 
 ```
 Chi-cuadrado (χ²): 6.80
@@ -1417,94 +835,50 @@ Valor P: 0.033
 Grados de libertad: 2
 ```
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ✅ Decisión:
 
 **P = 0.033 < 0.05** → Rechazamos H₀
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 💡 Conclusión:
 
 SÍ hay una relación estadísticamente significativa entre **género** y **nivel de satisfacción**.
 
-</div>
+⚠️ **Limitación Importante:**
 
-<div v-click class="mt-8">
-<div class="alert alert-warning">
-⚠️ <strong>Limitación Importante:</strong>
-<br><br>
 Chi-cuadrada te dice que HAY relación, pero NO te dice:
 <ul class="mt-2">
 <li>Qué tan fuerte es la relación</li>
 <li>En qué dirección va (quién está más satisfecho)</li>
 </ul>
 Para eso, necesitas analizar la tabla visualmente o usar medidas adicionales.
-</div>
-</div>
 
 ---
 
 # 📊 ANOVA: ¿Qué es?
 
-<div class="mt-8">
-
-<div v-click>
-
 ### 🗣️ Cómo se Pronuncia:
 
 **ANOVA** se dice **"A-NO-VA"** (se pronuncia cada letra)
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 📝 ¿Qué Significa?
 
 **AN**alysis **O**f **VA**riance (Análisis de Varianza)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 💡 En Palabras Muy Simples:
 
 Es una prueba para comparar los **promedios** de **3 o más grupos** al mismo tiempo.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Ejemplo:
 
 ¿La satisfacción es diferente entre los **5 departamentos** de la ONG? (Legal, Trámites, Atención Social, Psicología, Administración)
 
-</div>
-
-</div>
-
 ---
 
 # 🤔 ¿Por Qué NO Hacer Múltiples Pruebas t?
 
-<div class="mt-8">
-
 ### El Problema:
 
-<div v-click class="mt-8">
-
 Imagina que quieres comparar **5 departamentos** de la ONG.
-
-</div>
-
-<div v-click class="mt-8">
 
 **Opción A: Hacer muchas pruebas t**
 - Departamento 1 vs 2
@@ -1516,25 +890,13 @@ Imagina que quieres comparar **5 departamentos** de la ONG.
 
 **Total:** Necesitas hacer **10 pruebas t** diferentes!
 
-</div>
-
-</div>
-
 ---
 
 # ⚠️ El Peligro de Múltiples Pruebas
 
-<div class="mt-8">
-
-<div v-click>
-
 ### Recuerda:
 
 Cada prueba t tiene α = 0.05 → 5% de probabilidad de **Error Tipo I** (falso positivo)
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Cuando haces 10 pruebas:
 
@@ -1542,37 +904,17 @@ La probabilidad de cometer **AL MENOS UN** Error Tipo I aumenta drásticamente:
 
 **1 - (0.95)^10 ≈ 0.40 = 40%**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-danger">
-⚠️ <strong>Problema:</strong> Con 10 pruebas, hay <strong>40% de probabilidad</strong> de encontrar una "diferencia significativa" que en realidad es solo casualidad!
-</div>
-</div>
-
-<div v-click class="mt-12">
+⚠️ **Problema:** Con 10 pruebas, hay **40% de probabilidad** de encontrar una "diferencia significativa" que en realidad es solo casualidad!
 
 **Analogía:** Es como lanzar una moneda 10 veces. Mientras más veces lances, más probable es que salga una racha rara (5 caras seguidas) solo por suerte.
-
-</div>
-
-</div>
 
 ---
 
 # ✅ ANOVA: La Solución
 
-<div class="mt-8">
-
-<div v-click>
-
 ### Una Sola Prueba para Todos
 
 En lugar de hacer 10 pruebas t separadas, ANOVA hace **UNA SOLA** prueba que compara todos los grupos simultáneamente.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Ventajas:
 
@@ -1580,34 +922,18 @@ En lugar de hacer 10 pruebas t separadas, ANOVA hace **UNA SOLA** prueba que com
 2. Más eficiente estadísticamente
 3. Respuesta clara: "¿Son todos iguales, o al menos uno es diferente?"
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 📝 Las Hipótesis:
 
 - **H₀:** Todas las medias son iguales (los 5 departamentos tienen la misma satisfacción promedio)
 - **H₁:** Al menos UNA media es diferente (al menos un departamento se destaca)
 
-</div>
-
-</div>
-
 ---
 
 # 🧮 ¿Cómo Funciona ANOVA?
 
-<div class="mt-8">
-
-<div v-click>
-
 ### La Lógica en Palabras Simples:
 
 ANOVA compara **dos tipos de variabilidad**:
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 1️⃣ Variabilidad ENTRE Grupos
 
@@ -1615,35 +941,19 @@ ANOVA compara **dos tipos de variabilidad**:
 
 **Ejemplo:** Legal (8.85) vs Trámites (5.95) → Gran diferencia!
 
-</div>
-
-<div v-click class="mt-12">
-
 ### 2️⃣ Variabilidad DENTRO de Cada Grupo
 
 ¿Qué tan dispersos están los datos dentro de cada departamento?
 
 **Ejemplo:** En Legal, algunas personas dan 8.7, otras 9.0 → Poca dispersión
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
-💡 <strong>Si la variabilidad ENTRE grupos es MUCHO MAYOR que la variabilidad DENTRO de los grupos</strong> → Rechazamos H₀ (las medias son diferentes).
-</div>
-</div>
-
-</div>
+💡 **Si la variabilidad ENTRE grupos es MUCHO MAYOR que la variabilidad DENTRO de los grupos** → Rechazamos H₀ (las medias son diferentes).
 
 ---
 
 # 📊 Ejemplo ANOVA: 5 Departamentos de la ONG
 
-<div class="mt-8">
-
 ### Datos de Satisfacción por Departamento:
-
-<div v-click>
 
 | Departamento | Media | Desviación Estándar | n (personas) |
 |--------------|-------|---------------------|--------------|
@@ -1653,17 +963,9 @@ ANOVA compara **dos tipos de variabilidad**:
 | Psicología | 8.10 | 0.45 | 35 |
 | Administración | 6.20 | 1.20 | 30 |
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ❓ La Pregunta:
 
 ¿Hay diferencias significativas en la satisfacción entre estos 5 departamentos?
-
-</div>
 
 ---
 
@@ -1694,80 +996,44 @@ else:
     print("❌ No rechazamos H₀: Todos los departamentos son similares")
 ```
 
-<div v-click class="mt-4">
-<div class="alert alert-info text-sm">
-📚 <strong>Documentación:</strong> <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html" target="_blank">scipy.stats.f_oneway()</a>
-</div>
-</div>
+📚 **Documentación:** [scipy.stats.f_oneway()](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
 
 ---
 
 # 📊 Interpretando el Resultado
 
-<div class="mt-8">
-
 ### Resultado del Código:
-
-<div v-click>
 
 ```
 Estadístico F: 45.3
 Valor P: < 0.001
 ```
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ✅ Decisión:
 
 **P < 0.001 < 0.05** → Rechazamos H₀
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 💡 Conclusión:
 
 Hay evidencia MUY fuerte de que **AL MENOS un departamento** tiene una satisfacción significativamente diferente.
 
-</div>
+⚠️ **Limitación de ANOVA:**
 
-<div v-click class="mt-12">
-<div class="alert alert-warning">
-⚠️ <strong>Limitación de ANOVA:</strong>
-<br><br>
-ANOVA solo te dice que HAY diferencias, pero NO te dice <strong>CUÁLES</strong> departamentos son diferentes entre sí.
-<br><br>
-Para saber eso, necesitas hacer <strong>pruebas post-hoc</strong>.
-</div>
-</div>
+ANOVA solo te dice que HAY diferencias, pero NO te dice **CUÁLES** departamentos son diferentes entre sí.
+
+Para saber eso, necesitas hacer **pruebas post-hoc**.
 
 ---
 
 # 🔍 Pruebas Post-Hoc: ¿Cuál es Diferente?
 
-<div class="mt-8">
-
-<div v-click>
-
 ### ¿Qué son las Pruebas Post-Hoc?
 
 Son pruebas **adicionales** que haces **DESPUÉS** de ANOVA para identificar exactamente **cuáles pares** de grupos son diferentes.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### La Más Común: Tukey HSD
 
 **Tukey HSD** compara **todos los pares** de departamentos, pero ajusta el nivel α para controlar el Error Tipo I.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Resultados Ejemplo (Tukey HSD):
 
@@ -1776,17 +1042,9 @@ Son pruebas **adicionales** que haces **DESPUÉS** de ANOVA para identificar exa
 - Legal vs Trámites: P < 0.001 → **SÍ** hay diferencia (2.9 puntos)
 - Psicología vs Trámites: P < 0.001 → **SÍ** hay diferencia (2.15 puntos)
 
-</div>
-
-</div>
-
 ---
 
 # 🎯 Conclusión Final e Implicaciones
-
-<div class="mt-8">
-
-<div v-click>
 
 ### Lo que Encontramos:
 
@@ -1795,54 +1053,50 @@ Son pruebas **adicionales** que haces **DESPUÉS** de ANOVA para identificar exa
 3. **Atención Social** está en el medio (7.80)
 4. **Administración** también está bajo (6.20)
 
-</div>
+**🚨 Hallazgo Crítico:**
 
-<div v-click class="mt-12">
-<div class="alert alert-danger">
-<strong>🚨 Hallazgo Crítico:</strong>
-<br><br>
-El departamento de <strong>Trámites</strong> tiene una satisfacción significativamente MENOR que todos los demás departamentos.
-<br><br>
-<strong>Diferencia de 2.9 puntos</strong> vs Legal (el mejor evaluado).
-</div>
-</div>
+El departamento de **Trámites** tiene una satisfacción significativamente MENOR que todos los demás departamentos.
 
-<div v-click class="mt-8">
-<div class="alert alert-success">
-<strong>💡 Acción Recomendada:</strong>
-<br><br>
+**Diferencia de 2.9 puntos** vs Legal (el mejor evaluado).
+
+**💡 Acción Recomendada:**
+
 Investigar urgentemente QUÉ está pasando en Trámites y diseñar intervenciones específicas para mejorar la experiencia de los usuarios en ese departamento.
-</div>
-</div>
 
-</div>
-
----
-layout: center
 ---
 
 # Árbol de Decisión: ¿Qué Prueba Usar?
 
-<div class="mt-8">
-
 ```mermaid
 flowchart TD
-    Start([Tengo datos de la ONG]) --> Q1{¿Qué tipo de<br>variables?}
+    Start([Tengo datos de la ONG]) --> Q1{¿Qué tipo de
+variables?}
 
     Q1 -->|Categóricas| Q2{¿Qué busco?}
     Q1 -->|Numéricas| Q3{¿Qué busco?}
 
-    Q2 -->|Relación entre<br>2 categóricas| Chi[Chi-cuadrado<br>📊]
-    Q2 -->|Proporción vs<br>valor conocido| Prop[Prueba de<br>Proporciones]
+    Q2 -->|Relación entre
+2 categóricas| Chi[Chi-cuadrado
+📊]
+    Q2 -->|Proporción vs
+valor conocido| Prop[Prueba de
+Proporciones]
 
-    Q3 -->|Comparar con<br>valor conocido| T1[Prueba t<br>1 muestra]
-    Q3 -->|Comparar grupos| Q4{¿Cuántos<br>grupos?}
+    Q3 -->|Comparar con
+valor conocido| T1[Prueba t
+1 muestra]
+    Q3 -->|Comparar grupos| Q4{¿Cuántos
+grupos?}
 
-    Q4 -->|2 grupos| Q5{¿Independientes<br>o pareados?}
-    Q4 -->|3+ grupos| ANOVA[ANOVA<br>📈]
+    Q4 -->|2 grupos| Q5{¿Independientes
+o pareados?}
+    Q4 -->|3+ grupos| ANOVA[ANOVA
+📈]
 
-    Q5 -->|Independientes| T2[Prueba t<br>independiente]
-    Q5 -->|Pareados| T3[Prueba t<br>pareada]
+    Q5 -->|Independientes| T2[Prueba t
+independiente]
+    Q5 -->|Pareados| T3[Prueba t
+pareada]
 
     Chi --> Ex1[Ejemplo: Género × Satisfacción]
     T2 --> Ex2[Ejemplo: Hombres vs Mujeres]
@@ -1850,55 +1104,29 @@ flowchart TD
     ANOVA --> Ex4[Ejemplo: 5 Departamentos]
 ```
 
-</div>
-
----
-layout: default
 ---
 
 # 📚 Caso Práctico Completo: ONG "Manos Unidas"
-
-<div class="mt-8">
 
 ### 📋 El Contexto
 
 La ONG implementó un **programa de capacitación en habilidades digitales** para adultos mayores.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### ❓ Objetivo del Diagnóstico:
 
 ¿El programa mejoró significativamente las habilidades digitales de los participantes?
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
 💡 Vamos a resolver este caso paso a paso, aplicando todo lo que hemos aprendido.
-</div>
-</div>
 
 ---
 
 # 📊 Paso 1: Los Datos Recolectados
 
-<div class="mt-8">
-
 ### Diseño del Estudio:
-
-<div v-click>
 
 **Tipo:** Antes-Después con el mismo grupo de personas
 - **n = 60** adultos mayores
 - Prueba de habilidades digitales (escala 0-100 puntos)
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Resultados Observados:
 
@@ -1906,58 +1134,28 @@ La ONG implementó un **programa de capacitación en habilidades digitales** par
 - **DESPUÉS del programa:** Media = 58.2, Desviación Estándar = 14.1
 - **Diferencia promedio:** +15.7 puntos
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success">
 ✅ Parece que hay una mejora de casi 16 puntos. Pero, ¿es esto estadísticamente significativo?
-</div>
-</div>
 
 ---
 
 # 🧮 Paso 2: Identificar la Prueba Apropiada
 
-<div class="mt-8">
-
 ### Hagamos las Preguntas Clave:
-
-<div v-click class="mt-8">
 
 **1. ¿Tipo de datos?**
 - Numéricos (puntaje 0-100) ✓
 
-</div>
-
-<div v-click class="mt-8">
-
 **2. ¿Cuántos grupos?**
 - 2 mediciones: antes y después
-
-</div>
-
-<div v-click class="mt-8">
 
 **3. ¿Grupos independientes o pareados?**
 - **Pareados** → Son las MISMAS 60 personas medidas 2 veces ✓
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>✅ Prueba Apropiada: Prueba t Pareada</strong>
-</div>
-</div>
+**✅ Prueba Apropiada: Prueba t Pareada**
 
 ---
 
 # 📝 Paso 3: Plantear las Hipótesis
-
-<div class="mt-8">
-
-<div v-click>
 
 ### H₀: Hipótesis Nula
 
@@ -1967,10 +1165,6 @@ Matemáticamente: μ_después = μ_antes
 
 La diferencia que observamos es solo variación aleatoria.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### H₁: Hipótesis Alternativa
 
 **"El programa SÍ mejoró las habilidades"**
@@ -1979,29 +1173,15 @@ Matemáticamente: μ_después > μ_antes
 
 La diferencia es un efecto real del programa.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Nivel de Significancia:
 
 α = 0.05 (5%)
 
-</div>
-
-</div>
-
----
-layout: default
 ---
 
 # 📈 Paso 4: Resultados Estadísticos
 
-<div class="mt-8">
-
 ### Prueba t Pareada:
-
-<div v-click>
 
 ```
 t = 6.84
@@ -2009,33 +1189,17 @@ gl (grados de libertad) = 59
 P < 0.001
 ```
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### Intervalo de Confianza 95%:
 
 - Diferencia promedio: 15.7 puntos
 - Margen de error: ± 4.6
 - **IC 95%: [11.1, 20.3]**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
 💡 El intervalo de confianza nos dice: "Estamos 95% seguros de que la mejora real está entre 11.1 y 20.3 puntos"
-</div>
-</div>
 
 ---
 
 # ✅ Paso 5: Decisión e Interpretación
-
-<div class="mt-8">
-
-<div v-click>
 
 ### La Decisión:
 
@@ -2043,17 +1207,9 @@ P < 0.001
 
 → **Rechazamos H₀** con altísima confianza
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Conclusión Estadística:
 
 Hay evidencia **muy fuerte** de que el programa mejoró las habilidades digitales de los adultos mayores.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Tamaño de la Mejora:
 
@@ -2061,17 +1217,9 @@ Hay evidencia **muy fuerte** de que el programa mejoró las habilidades digitale
 - Mejora relativa: **37%** (de 42.5 a 58.2)
 - IC 95%: [11.1, 20.3]
 
-</div>
-
-</div>
-
 ---
 
 # 💡 Interpretación Práctica para la ONG
-
-<div class="mt-8">
-
-<div v-click>
 
 ### ✅ Lo que SÍ Podemos Afirmar:
 
@@ -2080,36 +1228,20 @@ Hay evidencia **muy fuerte** de que el programa mejoró las habilidades digitale
 3. El efecto es **consistente** (IC no incluye cero)
 4. La magnitud de la mejora es **sustancial** (37%)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### ⚠️ Lo que NO Podemos Afirmar:
 
 1. Que la mejora se mantendrá a **largo plazo** (necesitamos seguimiento)
 2. Que sea el **único factor** responsable (no hay grupo control)
 3. Que funcione **igual** en otras poblaciones o contextos
 
-</div>
-
-</div>
-
 ---
 
 # 🎯 Recomendaciones para la ONG
-
-<div class="mt-12">
-
-<div v-click>
 
 ### ✅ Acciones Inmediatas:
 
 1. **Continuar el programa** → Hay evidencia sólida de efectividad
 2. **Expandir a más beneficiarios** → El efecto es sustancial
-
-</div>
-
-<div v-click class="mt-12">
 
 ### 📊 Para Fortalecer la Evidencia:
 
@@ -2117,53 +1249,25 @@ Hay evidencia **muy fuerte** de que el programa mejoró las habilidades digitale
 4. **Grupo control en siguiente iteración** → Descartar factores externos
 5. **Replicar en otras comunidades** → Verificar generalización
 
-</div>
+**Veredicto Final:** El programa es efectivo. Se recomienda continuarlo y escalarlo.
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>Veredicto Final:</strong> El programa es efectivo. Se recomienda continuarlo y escalarlo.
-</div>
-</div>
-
----
-layout: default
 ---
 
 # ⚠️ Errores Comunes al Interpretar
 
-<div class="mt-12">
-
 Antes de terminar, es importante conocer los **errores más comunes** que se cometen al interpretar las pruebas de hipótesis.
 
-</div>
-
-<div v-click class="mt-12">
-
 Evita estos errores y tus conclusiones serán mucho más precisas.
-
-</div>
 
 ---
 
 # ❌ Error 1: Malinterpretar el Valor P
 
-<div class="mt-8">
-
 ### ❌ Interpretación INCORRECTA:
-
-<div v-click>
 
 **"P = 0.04 significa que hay 4% de probabilidad de que H₀ sea cierta"**
 
 **ESTO ESTÁ MAL.**
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### ✅ Interpretación CORRECTA:
 
@@ -2171,35 +1275,19 @@ El valor P es la probabilidad de **observar los datos** (o más extremos) **DADO
 
 NO es la probabilidad de que H₀ sea cierta.
 
-</div>
+**Correcto:**
 
-<div v-click class="mt-12">
-<div class="alert alert-success">
-<strong>Correcto:</strong>
-<br><br>
 "Si el programa NO tuviera efecto (H₀), habría solo 4% de probabilidad de observar una mejora tan grande como la que vimos en nuestra muestra."
-</div>
-</div>
 
 ---
 
 # ❌ Error 2: Confundir "No Rechazar" con "Aceptar"
 
-<div class="mt-8">
-
 ### ❌ Interpretación INCORRECTA:
-
-<div v-click>
 
 **"No rechazar H₀ significa que H₀ es verdadera"**
 
 **ESTO ESTÁ MAL.**
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### ✅ Interpretación CORRECTA:
 
@@ -2207,47 +1295,27 @@ NO es la probabilidad de que H₀ sea cierta.
 
 NO significa que H₀ sea verdadera.
 
-</div>
+**Correcto:**
 
-<div v-click class="mt-12">
-<div class="alert alert-info">
-<strong>Correcto:</strong>
-<br><br>
 "No encontramos evidencia suficiente de que el programa tenga efecto. Esto puede deberse a:
 <ul class="mt-2">
 <li>Que realmente NO funciona, O</li>
 <li>Que nuestra muestra es muy pequeña para detectar el efecto</li>
 </ul>
-</div>
-</div>
 
 ---
 
 # ❌ Error 3: Confundir P-value con Tamaño del Efecto
 
-<div class="mt-8">
-
 ### ❌ Interpretación INCORRECTA:
-
-<div v-click>
 
 **"P = 0.001 significa un efecto más grande que P = 0.04"**
 
 **ESTO ESTÁ MAL.**
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### ✅ Interpretación CORRECTA:
 
 El valor P mide la **fuerza de la evidencia**, NO el **tamaño del efecto**.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Ejemplo Ilustrativo:
 
@@ -2255,47 +1323,23 @@ El valor P mide la **fuerza de la evidencia**, NO el **tamaño del efecto**.
 
 **Caso B:** Mejora de 20 puntos, n=10 → **P = 0.08** (evidencia débil)
 
-</div>
-
-<div v-click class="mt-8">
-<div class="alert alert-warning">
 💡 El efecto en Caso B (20 puntos) es MUCHO mayor que en Caso A (2 puntos), pero la evidencia estadística es más débil porque la muestra es pequeña.
-</div>
-</div>
 
----
-layout: default
 ---
 
 # 📊 Significancia Estadística vs Práctica
 
-<div class="mt-12">
-
 ### ¿Son lo Mismo?
 
-<div v-click>
-
 **NO.** Son dos cosas diferentes, y ambas son importantes.
-
-</div>
-
-</div>
 
 ---
 
 # 📊 Significancia Estadística
 
-<div class="mt-8">
-
-<div v-click>
-
 ### La Pregunta que Responde:
 
 **¿Es poco probable que la diferencia observada sea solo casualidad?**
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Cómo se Mide:
 
@@ -2303,41 +1347,21 @@ layout: default
 
 Si P < 0.05 → Estadísticamente significativo
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Qué la Afecta:
 
 1. **Tamaño del efecto** (qué tan grande es la diferencia)
 2. **Tamaño de la muestra** (n)
 3. **Variabilidad de los datos** (DE)
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-warning">
-⚠️ <strong>Importante:</strong> Con una muestra MUY GRANDE, incluso diferencias <strong>minúsculas</strong> pueden ser estadísticamente significativas.
-</div>
-</div>
+⚠️ **Importante:** Con una muestra MUY GRANDE, incluso diferencias **minúsculas** pueden ser estadísticamente significativas.
 
 ---
 
 # 💼 Significancia Práctica
 
-<div class="mt-8">
-
-<div v-click>
-
 ### La Pregunta que Responde:
 
 **¿Es la diferencia lo suficientemente GRANDE como para importar en la vida real?**
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Cómo se Evalúa:
 
@@ -2345,52 +1369,26 @@ Si P < 0.05 → Estadísticamente significativo
 
 NO hay una fórmula. Debes considerar el contexto.
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Qué la Afecta:
 
 1. **Costo de implementación** (¿Vale la pena la inversión?)
 2. **Impacto en beneficiarios** (¿Cambiará sus vidas?)
 3. **Viabilidad operativa** (¿Es factible?)
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
-💡 Una diferencia puede ser estadísticamente significativa pero <strong>irrelevante en la práctica</strong>.
-</div>
-</div>
+💡 Una diferencia puede ser estadísticamente significativa pero **irrelevante en la práctica**.
 
 ---
 
 # 📌 Ejemplo: Método de Enseñanza
 
-<div class="mt-8">
-
 ### El Caso:
 
-<div v-click>
-
 Se probó un nuevo método de enseñanza con **10,000 estudiantes**.
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Resultado Estadístico:
 
 - Mejora promedio: **0.5 puntos** (escala 0-100)
 - **P < 0.001** → ¡Altamente significativo!
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Análisis Práctico:
 
@@ -2401,23 +1399,13 @@ Se probó un nuevo método de enseñanza con **10,000 estudiantes**.
 **Beneficio:**
 - Mejora de **0.5 puntos** → Imperceptible para estudiantes y padres
 
-</div>
-
 ---
 
 # 🎯 Decisión Final del Ejemplo
 
-<div class="mt-12">
-
-<div v-click>
-
 ### A Pesar de P < 0.001...
 
 **Decisión:** **NO implementar** el nuevo método.
-
-</div>
-
-<div v-click class="mt-12">
 
 ### ¿Por Qué?
 
@@ -2427,65 +1415,31 @@ La mejora es **estadísticamente significativa** pero **prácticamente irrelevan
 - El costo es muy alto
 - El esfuerzo no justifica el mínimo beneficio
 
-</div>
+**Lección Clave:**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>Lección Clave:</strong>
-<br><br>
 SIEMPRE evalúa TANTO la significancia estadística COMO la significancia práctica antes de tomar decisiones.
-</div>
-</div>
 
----
-layout: default
 ---
 
 # 📏 Tamaño del Efecto: Complemento Esencial
 
-<div class="mt-12">
-
 ### ¿Qué es el Tamaño del Efecto?
 
-<div v-click>
-
 Es una medida de **qué tan grande** es la diferencia, independientemente de si es estadísticamente significativa.
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### ¿Por Qué es Importante?
 
 El valor P te dice si hay evidencia de una diferencia, pero NO te dice qué tan grande es esa diferencia.
 
-</div>
-
 ---
 
 # 📊 d de Cohen: La Medida Más Común
 
-<div class="mt-8">
-
 ### Para Pruebas t:
-
-<div v-click>
 
 **Fórmula:**
 
-<div class="math-display">
 d = (Media₁ - Media₂) / Desviación Estándar Combinada
-</div>
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Interpretación de los Valores:
 
@@ -2494,33 +1448,17 @@ d = (Media₁ - Media₂) / Desviación Estándar Combinada
 - **d = 0.8** → Efecto **grande**
 - **d > 1.0** → Efecto **muy grande**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
 💡 Mientras mayor sea d, mayor es la diferencia práctica entre los grupos.
-</div>
-</div>
 
 ---
 
 # 📊 Ejemplo: Programa de Capacitación
 
-<div class="mt-8">
-
 ### Recordemos los Datos:
-
-<div v-click>
 
 - **Media ANTES:** 42.5 (DE = 12.3)
 - **Media DESPUÉS:** 58.2 (DE = 14.1)
 - **Diferencia:** 15.7 puntos
-
-</div>
-
-</div>
-
-<div v-click class="mt-12">
 
 ### Cálculo de d de Cohen:
 
@@ -2530,130 +1468,59 @@ d = 15.7 / 13.2 = 1.19
 
 (13.2 es la DE combinada de antes y después)
 
-</div>
-
-<div v-click class="mt-12">
-
 ### Interpretación:
 
 **d = 1.19** → Efecto **MUY GRANDE**
-
-</div>
 
 ---
 
 # 💡 Interpretación Completa
 
-<div class="mt-8">
-
 ### ¿Qué Significa d = 1.19?
-
-<div v-click class="mt-8">
 
 1. La mejora es de **más de 1 desviación estándar**
 2. Es una diferencia **muy sustancial** en términos prácticos
 3. NO solo es estadísticamente significativa (P < 0.001)
 4. También es **prácticamente importante** (d > 1.0)
 
-</div>
+**✅ Decisión:**
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-success text-center">
-<strong>✅ Decisión:</strong>
-<br><br>
 Fuerte evidencia de efectividad REAL. El programa tiene un impacto grande y significativo.
-</div>
-</div>
 
 ---
 
 # 📋 Buena Práctica: Reporte Completo
-
-<div class="mt-8">
-
-<div v-click>
 
 ### Siempre Reporta AMBOS:
 
 1. **Significancia estadística** (valor P)
 2. **Tamaño del efecto** (d de Cohen, IC, etc.)
 
-</div>
-
-</div>
-
-<div v-click class="mt-12">
-
 ### Ejemplo de Reporte Completo:
 
-<div class="highlight-box mt-4">
-"El programa mejoró significativamente las habilidades digitales (<strong>t = 6.84, P < 0.001, d = 1.19</strong>), con una mejora promedio de <strong>15.7 puntos [IC 95%: 11.1-20.3]</strong>. El tamaño del efecto es <strong>grande</strong>, indicando no solo significancia estadística sino también <strong>relevancia práctica</strong>."
-</div>
+"El programa mejoró significativamente las habilidades digitales (**t = 6.84, P < 0.001, d = 1.19**), con una mejora promedio de **15.7 puntos [IC 95%: 11.1-20.3]**. El tamaño del efecto es **grande**, indicando no solo significancia estadística sino también **relevancia práctica**."
 
-</div>
-
-<div v-click class="mt-12">
-<div class="alert alert-info">
 💡 Este reporte completo le da al lector TODA la información necesaria para evaluar tanto la evidencia estadística como la importancia práctica del resultado.
-</div>
-</div>
 
----
-layout: center
-class: text-center
 ---
 
 # Resumen: Lecciones Clave
 
-<div class="mt-12">
-
-<div v-click>
-
 ### 1️⃣ Las pruebas de hipótesis evalúan **evidencia**, no prueban "verdades absolutas"
-
-</div>
-
-<div v-click class="mt-6">
 
 ### 2️⃣ Valor P pequeño (< 0.05) → Evidencia fuerte contra H₀
 
-</div>
-
-<div v-click class="mt-6">
-
 ### 3️⃣ Hay dos tipos de error: condenar a un inocente (Tipo I) vs absolver a un culpable (Tipo II)
-
-</div>
-
-<div v-click class="mt-6">
 
 ### 4️⃣ Elegir la prueba correcta depende del tipo de datos y diseño del estudio
 
-</div>
-
-<div v-click class="mt-6">
-
 ### 5️⃣ Significancia estadística ≠ Significancia práctica
-
-</div>
-
-<div v-click class="mt-6">
 
 ### 6️⃣ Reportar siempre: valor P + tamaño del efecto + intervalo de confianza
 
-</div>
-
-</div>
-
----
-layout: two-cols
 ---
 
 # Checklist para Tu Diagnóstico
-
-<div v-click>
 
 ### ✅ Antes de Recolectar Datos
 
@@ -2663,10 +1530,6 @@ layout: two-cols
 - [ ] ¿Cuál es mi nivel de significancia? (α)
 - [ ] ¿Qué tamaño de muestra necesito?
 
-</div>
-
-<div v-click class="mt-6">
-
 ### ✅ Durante el Análisis
 
 - [ ] ¿Qué prueba es apropiada para mis datos?
@@ -2674,12 +1537,6 @@ layout: two-cols
 - [ ] ¿Cuál es el valor P?
 - [ ] ¿Cuál es el tamaño del efecto?
 - [ ] ¿Cuál es el intervalo de confianza?
-
-</div>
-
-::right::
-
-<div v-click class="ml-8">
 
 ### ✅ Al Interpretar Resultados
 
@@ -2689,10 +1546,6 @@ layout: two-cols
 - [ ] ¿Es relevante para la ONG?
 - [ ] ¿Qué limitaciones tiene mi análisis?
 
-</div>
-
-<div v-click class="ml-8 mt-6">
-
 ### ✅ Al Reportar a la ONG
 
 - [ ] Explicar en lenguaje sencillo
@@ -2701,70 +1554,30 @@ layout: two-cols
 - [ ] Dar recomendaciones accionables
 - [ ] Sugerir pasos siguientes
 
-</div>
+**Recuerda:** El objetivo no es solo hacer cálculos correctos, sino **generar insights útiles** para que la ONG tome mejores decisiones
 
-<div v-click class="ml-8 mt-8">
-<div class="alert alert-success">
-<strong>Recuerda:</strong> El objetivo no es solo hacer cálculos correctos, sino <strong>generar insights útiles</strong> para que la ONG tome mejores decisiones
-</div>
-</div>
-
----
-layout: center
-class: text-center
 ---
 
 # Para Tu Workshop
 
-<div class="mt-12">
-
-<div v-click>
-
 ### 📊 Aplicarás estos conceptos con datos reales de ONGs
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 🔍 Identificarás qué prueba usar en cada caso
 
-</div>
-
-<div v-click class="mt-8">
-
 ### 📈 Interpretarás resultados de Python (pandas, scipy)
-
-</div>
-
-<div v-click class="mt-8">
 
 ### 💡 Generarás recomendaciones basadas en evidencia
 
-</div>
+**Recuerda:** La estadística es una herramienta para tomar **mejores decisiones**, no un fin en sí misma
 
-</div>
-
-<div v-click class="mt-12">
-<div class="highlight-box">
-<strong>Recuerda:</strong> La estadística es una herramienta para tomar <strong>mejores decisiones</strong>, no un fin en sí misma
-<br><br>
 Tu objetivo es ayudar a las ONGs a entender si sus programas funcionan y cómo mejorarlos
-</div>
-</div>
 
----
-layout: end
-class: text-center
 ---
 
 # ¡Gracias!
 
-<div class="pt-12">
-  <span class="text-6xl">📊</span>
-</div>
+  📊
 
 ### Preguntas
 
-<div class="abs-br m-6 flex gap-2">
-  <span class="text-sm opacity-50">CD2001B | Tec de Monterrey Campus Puebla</span>
-</div>
+  CD2001B | Tec de Monterrey Campus Puebla

@@ -1,71 +1,34 @@
----
-theme: default
-colorSchema: light
-class: text-center
-highlighter: shiki
-lineNumbers: false
-info: |
-  ## Medidas de Tendencia Central y Dispersión
-  Curso CD2001B - Diagnóstico para Líneas de Acción
-  Tecnológico de Monterrey Campus Puebla
-drawings:
-  persist: false
-transition: slide-left
-title: Medidas Descriptivas
-mdc: true
-download: true
-exportFilename: semana1-medidas-descriptivas
-css: unocss
----
+# Semana1 Medidas Descriptivas
 
-<style src="./styles/tec-theme.css"></style>
+> **Curso:** CD2001B - Diagnóstico para Líneas de Acción
+> **Tecnológico de Monterrey - Campus Puebla**
+
+---
 
 # Medidas de Tendencia Central y Dispersión
 
 ## Entendiendo los Datos a Través de Números
 
-<div class="pt-12">
-  <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     CD2001B - Diagnóstico para Líneas de Acción
-  </span>
-</div>
 
-<div class="abs-br m-6 flex gap-2">
-  <span class="text-sm opacity-50">Semana 1 | Tec de Monterrey</span>
-</div>
+  Semana 1 | Tec de Monterrey
 
----
-layout: center
-class: text-center
 ---
 
 # ¿Por Qué Necesitamos Estadística Descriptiva?
-
-<div class="grid grid-cols-2 gap-8 mt-12">
-<div v-click>
 
 ### 📊 Tenemos Datos
 Una ONG tiene **200 encuestas** de satisfacción
 
 **Pregunta:** ¿Cómo resumimos 200 números en algo útil?
 
-</div>
-<div v-click>
-
 ### 🎯 Necesitamos Respuestas
 - ¿Qué calificación es "típica"?
 - ¿Los usuarios están contentos o no?
 - ¿Las opiniones son consistentes?
 
-</div>
-</div>
-
-<div v-click class="mt-12 text-2xl font-bold text-gradient">
 Las medidas descriptivas transforman DATOS en INFORMACIÓN
-</div>
 
----
-layout: section
 ---
 
 # Medidas de Tendencia Central
@@ -76,61 +39,35 @@ layout: section
 
 # Escenario Real: Satisfacción de una ONG
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## Los Datos
 
 Calificaciones de **7 usuarios** (escala 1-10):
 
-<div class="math-display">
 8, 9, 8, 7, 9, 10, 2
-</div>
-
-<div v-click>
 
 ### 🤔 Pregunta Clave
-Si un donador pregunta:<br>
+Si un donador pregunta:
+
 **"¿Qué tan satisfechos están los usuarios?"**
 
 ¿Qué número le damos?
 
-</div>
-
-</div>
-<div v-click>
-
 ## Tres Respuestas Posibles
-
-<div v-click class="highlight-box">
 
 ### Opción 1: MEDIA
 **7.6** puntos promedio
 
-<small>Suma todo / Cantidad de datos</small>
-
-</div>
-
-<div v-click class="highlight-box">
+*Suma todo / Cantidad de datos*
 
 ### Opción 2: MEDIANA
 **8** puntos (valor del medio)
 
-<small>Ordenar datos y tomar el central</small>
-
-</div>
-
-<div v-click class="highlight-box">
+*Ordenar datos y tomar el central*
 
 ### Opción 3: MODA
 **8** puntos (más frecuente)
 
-<small>Valor que más se repite</small>
-
-</div>
-
-</div>
-</div>
+*Valor que más se repite*
 
 ---
 
@@ -140,25 +77,17 @@ Si un donador pregunta:<br>
 
 El **"punto de balance"** de los datos
 
-<v-clicks>
-
 **Fórmula:**
 
-<div class="math-display">
 μ = (Σ datos) / n
-</div>
 
 **Ejemplo:** Datos → 8, 9, 8, 7, 9, 10, 2
-
-</v-clicks>
 
 ---
 
 # 📐 La Media: Cálculo
 
-<div class="math-display">
 (8 + 9 + 8 + 7 + 9 + 10 + 2) / 7 = 7.6
-</div>
 
 La media es **7.6** puntos
 
@@ -169,8 +98,10 @@ La media es **7.6** puntos
 ```mermaid
 flowchart TD
     A[Imagina un balancín] --> B[Cada dato es un peso]
-    B --> C[La media es el punto<br/>donde se equilibra]
-    C --> D[Si quitas un peso pesado,<br/>el balancín se inclina]
+    B --> C[La media es el punto
+donde se equilibra]
+    C --> D[Si quitas un peso pesado,
+el balancín se inclina]
     style A fill:#0062A4,color:#fff
     style C fill:#009FDA,color:#fff
 ```
@@ -179,15 +110,11 @@ flowchart TD
 
 # 📐 Media: Problema con Outliers
 
-<div class="alert alert-warning">
-
 ⚠️ **La media es sensible a valores extremos**
 
 En nuestro ejemplo: el **2** jala la media hacia abajo
 
 **Resultado:** Media = 7.6 (no representa bien el grupo)
-
-</div>
 
 ---
 
@@ -197,13 +124,9 @@ En nuestro ejemplo: el **2** jala la media hacia abajo
 
 El valor que **divide los datos a la mitad**
 
-<v-clicks>
-
 **Procedimiento:**
 1. Ordenar datos de menor a mayor
 2. Tomar el valor del medio
-
-</v-clicks>
 
 ---
 
@@ -211,9 +134,7 @@ El valor que **divide los datos a la mitad**
 
 **Datos ordenados:**
 
-<div class="math-display">
-2, 7, 8, <strong style="color:#FF6F31">8</strong>, 9, 9, 10
-</div>
+2, 7, 8, <strong style="color:#FF6F31">8**, 9, 9, 10
 
 Mediana = **8** (el valor central)
 
@@ -237,15 +158,11 @@ Imagina 7 personas ordenadas por altura:
 
 # 📊 Mediana: Ventaja
 
-<div class="alert alert-success">
-
 ✅ **NO le afectan los valores extremos**
 
 Si la persona más alta midiera 2.50m, la mediana seguiría siendo 1.70m
 
 En nuestro ejemplo: el "2" no cambia la mediana (sigue siendo 8)
-
-</div>
 
 ---
 
@@ -259,9 +176,7 @@ El valor que **aparece con mayor frecuencia**
 
 # 🎯 Moda: Ejemplo
 
-<div class="math-display">
-2(1×), 7(1×), <strong style="color:#8CC63F">8(2×)</strong>, 9(2×), 10(1×)
-</div>
+2(1×), 7(1×), <strong style="color:#8CC63F">8(2×)**, 9(2×), 10(1×)
 
 Tenemos **dos modas**: 8 y 9
 
@@ -295,8 +210,6 @@ pie
 
 # 🎯 Moda: Uso Típico
 
-<div class="alert alert-info">
-
 💡 **Variables categóricas**
 
 **Ejemplo:** "¿Qué servicio prefieren?"
@@ -306,17 +219,11 @@ pie
 
 La moda te dice cuál es el más solicitado
 
-</div>
-
----
-layout: two-cols
 ---
 
 # Media vs Mediana vs Moda
 
 ## ¿Cuándo usar cada una?
-
-<div v-click class="highlight-box">
 
 ### 📐 MEDIA
 **Cuándo usarla:**
@@ -327,10 +234,6 @@ layout: two-cols
 **Ejemplo:**
 Edad promedio de usuarios (25, 28, 30, 32, 35)
 
-</div>
-
-<div v-click class="highlight-box">
-
 ### 📊 MEDIANA
 **Cuándo usarla:**
 - ✅ Datos con outliers
@@ -339,12 +242,6 @@ Edad promedio de usuarios (25, 28, 30, 32, 35)
 
 **Ejemplo:**
 Salarios (hay CEOs que ganan 100x más)
-
-</div>
-
-::right::
-
-<div v-click class="highlight-box mt-12">
 
 ### 🎯 MODA
 **Cuándo usarla:**
@@ -355,10 +252,6 @@ Salarios (hay CEOs que ganan 100x más)
 **Ejemplo:**
 Preferencia de servicios (Legal, Trámites, Salud)
 
-</div>
-
-<div v-click class="alert alert-warning mt-8">
-
 ### 🚨 Caso Real: Salarios en Startup
 
 5 empleados: $15k, $18k, $20k, $22k, $500k
@@ -368,95 +261,61 @@ Preferencia de servicios (Legal, Trámites, Salud)
 
 ¿Cuál representa mejor el salario "típico"?
 
-</div>
-
----
-layout: center
-class: text-center
 ---
 
 # ¿Las Medidas de Tendencia Central son Suficientes?
 
-<div v-click class="text-6xl mt-12">
 ❌ NO
-</div>
 
-<div v-click class="mt-12 text-2xl">
-Dos datasets pueden tener la misma media<br>
+Dos datasets pueden tener la misma media
+
 pero ser completamente diferentes
-</div>
 
 ---
 
 # El Problema: Dos ONGs con Media Idéntica
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## ONG A
 
 Satisfacción de 10 usuarios:
 
-<div class="math-display">
 8, 8, 8, 8, 8, 8, 8, 8, 8, 8
-</div>
-
-<v-clicks>
 
 **Media:** 8.0 ✅
 
 **Observación:** Todos están **exactamente igual** de satisfechos
 
-</v-clicks>
-
-</div>
-<div v-click>
-
 ## ONG B
 
 Satisfacción de 10 usuarios:
 
-<div class="math-display">
 1, 2, 4, 6, 8, 8, 10, 12, 14, 15
-</div>
-
-<v-clicks>
 
 **Media:** 8.0 ✅
 
 **Observación:** Opiniones **muy divididas**
 
-</v-clicks>
-
-</div>
-</div>
-
 ---
 
 # ¿Misma Media = Mismos Datos?
 
-<div class="flex items-center justify-center h-full">
-
 ```mermaid
 graph LR
-    A[Misma Media<br/>8.0] --> B{¿Son iguales?}
-    B --> C[NO<br/>ONG A: Consistente<br/>Todos = 8]
-    B --> D[NO<br/>ONG B: Variable<br/>Rango 1-15]
+    A[Misma Media
+8.0] --> B{¿Son iguales?}
+    B --> C[NO
+ONG A: Consistente
+Todos = 8]
+    B --> D[NO
+ONG B: Variable
+Rango 1-15]
     style A fill:#0062A4,color:#fff
     style C fill:#8CC63F,color:#fff
     style D fill:#FF6F31,color:#fff
 ```
 
-</div>
-
-<div v-click class="alert alert-warning mt-8 text-center">
-
 🔑 **Necesitamos medir la DISPERSIÓN (variabilidad)**
 
-</div>
-
----
-layout: section
 ---
 
 # Medidas de Dispersión
@@ -471,9 +330,7 @@ layout: section
 
 **Diferencia entre el valor más alto y el más bajo**
 
-<div class="math-display">
 Rango = Máximo - Mínimo
-</div>
 
 ---
 
@@ -503,15 +360,11 @@ Rango = Máximo - Mínimo
 
 # 📏 Rango: Limitación
 
-<div class="alert alert-warning">
-
 ⚠️ **Solo usa 2 datos** (max y min)
 
 Ignora todo lo demás
 
 No es una buena medida de dispersión
-
-</div>
 
 ---
 
@@ -521,12 +374,8 @@ No es una buena medida de dispersión
 
 **Qué tan "dispersos" están los datos respecto al promedio**
 
-<v-clicks>
-
 - **DE baja:** Datos concentrados
 - **DE alta:** Datos dispersos
-
-</v-clicks>
 
 ---
 
@@ -569,51 +418,37 @@ Tiros dispersos
 
 # 📊 DE: Interpretación
 
-<div class="alert alert-success">
-
 ✅ **DE baja = Consistencia**
 
 ✅ **DE alta = Variabilidad**
-
-</div>
 
 ---
 
 # 🧮 ¿Cómo se Calcula la Desviación Estándar?
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## Paso a Paso (Intuición)
 
-<v-clicks>
-
 1. **Calcula la media**
-2. **Resta la media a cada dato**<br>
-   <small>(qué tan lejos está cada uno)</small>
-3. **Eleva al cuadrado** cada diferencia<br>
-   <small>(evitar negativos)</small>
-4. **Promedia** esos cuadrados<br>
-   <small>(esto es la VARIANZA)</small>
-5. **Saca raíz cuadrada**<br>
-   <small>(volver a unidades originales)</small>
+2. **Resta la media a cada dato**
+
+   *(qué tan lejos está cada uno)*
+3. **Eleva al cuadrado** cada diferencia
+
+   *(evitar negativos)*
+4. **Promedia** esos cuadrados
+
+   *(esto es la VARIANZA)*
+5. **Saca raíz cuadrada**
+
+   *(volver a unidades originales)*
 
 **Fórmula:**
 
-<div class="math-display">
 DE = √[Σ(x - μ)² / n]
-</div>
-
-</v-clicks>
-
-</div>
-<div v-click>
 
 ## Ejemplo Numérico
 
 Datos: **8, 9, 10** (Media = 9)
-
-<v-clicks>
 
 **Paso 2:** Diferencias
 - 8 - 9 = -1
@@ -633,20 +468,11 @@ Datos: **8, 9, 10** (Media = 9)
 
 **DE = 0.82 puntos**
 
-</v-clicks>
-
-</div>
-</div>
-
 ---
 
 # 🎯 Interpretando la Desviación Estándar
 
-<div class="highlight-box">
-
 ## Regla Empírica (Distribución Normal)
-
-<v-clicks>
 
 **~68%** de los datos está a **±1 DE** de la media
 
@@ -654,34 +480,21 @@ Datos: **8, 9, 10** (Media = 9)
 
 **~99.7%** de los datos está a **±3 DE** de la media
 
-</v-clicks>
-
-</div>
-
-<div v-click class="grid grid-cols-2 gap-8 mt-8">
-<div>
-
 ### Ejemplo: Tiempo de Espera
 
-**Media:** 20 minutos<br>
+**Media:** 20 minutos
+
 **DE:** 5 minutos
 
-<v-clicks>
+**68%** de usuarios espera entre:
 
-**68%** de usuarios espera entre:<br>
 15 min (20-5) y 25 min (20+5)
 
-**95%** de usuarios espera entre:<br>
+**95%** de usuarios espera entre:
+
 10 min (20-10) y 30 min (20+10)
 
-</v-clicks>
-
-</div>
-<div v-click>
-
 ### ¿Qué significa?
-
-<v-clicks>
 
 **Si DE es pequeña (ej: 2 min):**
 - Servicio **predecible**
@@ -693,18 +506,11 @@ Datos: **8, 9, 10** (Media = 9)
 - Algunos esperan mucho, otros poco
 - ⚠️ **Problema a resolver**
 
-</v-clicks>
-
-</div>
-</div>
-
 ---
 
 # 🎯 Desviación Estándar: ¿Para Qué Sirve?
 
 ## Aplicaciones Prácticas en ONGs
-
-<v-clicks>
 
 - **Medir consistencia del servicio**
   - ¿Todos los usuarios tienen experiencia similar?
@@ -718,14 +524,9 @@ Datos: **8, 9, 10** (Media = 9)
 - **Reportes a stakeholders**
   - "Satisfacción: 8.5 ± 0.2"
 
-</v-clicks>
-
 ---
 
 # 💼 Ejemplo Real: Tiempo de Espera
-
-<div class="grid grid-cols-2 gap-8">
-<div>
 
 ## Escenario A
 
@@ -740,9 +541,6 @@ Datos: **8, 9, 10** (Media = 9)
 - Servicio **predecible**
 - ✅ Experiencia consistente
 
-</div>
-<div>
-
 ## Escenario B
 
 **Mismo tiempo promedio:**
@@ -756,17 +554,10 @@ Datos: **8, 9, 10** (Media = 9)
 - Servicio **impredecible**
 - ⚠️ **Problema** a resolver
 
-</div>
-</div>
-
-<div v-click class="alert alert-warning mt-4">
-
 ⚠️ **Cuándo NO usar DE:**
 - Distribuciones multimodales (dos picos)
 - Datos muy asimétricos (usar IQR)
 - Outliers extremos sin justificación
-
-</div>
 
 ---
 
@@ -788,13 +579,9 @@ print(f"DE muestral: {de_muestra:.3f}")    # 0.213
 print(f"DE poblacional: {de_poblacion:.3f}")  # 0.203
 ```
 
-<div v-click class="alert alert-info mt-4">
-
 💡 **Importante:** Usa `ddof=1` para **muestras** (lo más común en análisis de ONGs)
 
 📚 **Documentación:** [numpy.std()](https://numpy.org/doc/stable/reference/generated/numpy.std.html)
-
-</div>
 
 ---
 
@@ -823,13 +610,9 @@ Trámites     1.478
 Salud        0.856
 ```
 
-<div v-click class="alert alert-success mt-4">
-
 ✅ **Pandas usa `ddof=1` por defecto** (diferente a NumPy)
 
 📚 **Documentación:** [DataFrame.std()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html)
-
-</div>
 
 ---
 
@@ -838,8 +621,6 @@ Salud        0.856
 ## Cómo Pedir Ayuda a la IA
 
 Un buen prompt tiene **4 secciones**:
-
-<v-clicks>
 
 1. **📋 Contexto del problema**
    - ¿Qué quieres lograr?
@@ -856,8 +637,6 @@ Un buen prompt tiene **4 secciones**:
 4. **⚠️ Supuestos a verificar**
    - Errores comunes a evitar
    - Validaciones de datos necesarias
-
-</v-clicks>
 
 ---
 
@@ -903,8 +682,6 @@ Necesito calcular DE para evaluar consistencia del servicio.
 
 # 🤖 Por Qué Este Formato Funciona
 
-<v-clicks>
-
 ### ✅ Específico, no vago
 - "Calcular DE" → ❌ Vago
 - "Calcular DE muestral por departamento con boxplot" → ✅ Específico
@@ -917,24 +694,13 @@ Necesito calcular DE para evaluar consistencia del servicio.
 - No solo "calcula estadísticas"
 - Sino "evaluar consistencia del servicio"
 
-</v-clicks>
-
 ---
 
 # 📐 Coeficiente de Variación (CV)
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## ¿Por qué lo necesitamos?
 
-<v-click>
-
 **Problema:** No podemos comparar DE directamente si las escalas son diferentes
-
-</v-click>
-
-<v-click>
 
 **Ejemplo:**
 
@@ -943,22 +709,11 @@ Necesito calcular DE para evaluar consistencia del servicio.
 
 ¿Cuál es más variable?
 
-</v-click>
-
-<div v-click class="alert alert-info mt-4">
-
 💡 **Solución:** Coeficiente de Variación
 
-<div class="math-display">
 CV = (DE / Media) × 100%
-</div>
 
 Expresa la DE como **porcentaje de la media**
-
-</div>
-
-</div>
-<div v-click>
 
 ## Aplicación
 
@@ -967,16 +722,10 @@ Expresa la DE como **porcentaje de la media**
 - DE: 2
 - **CV:** (2/8) × 100 = **25%**
 
-<v-click>
-
 **Variable B: Tiempo Espera**
 - Media: 30 min
 - DE: 15 min
 - **CV:** (15/30) × 100 = **50%**
-
-</v-click>
-
-<div v-click class="alert alert-success mt-4">
 
 ✅ **Interpretación:**
 
@@ -984,84 +733,52 @@ Tiempo de espera es **MÁS variable** (50% vs 25%)
 
 Aunque DE es mayor (15 vs 2), el CV nos permite comparar
 
-</div>
-
-</div>
-</div>
-
 ---
 
 # Resumen: Medidas Descriptivas
-
-<div class="grid grid-cols-2 gap-8">
-
-<div class="highlight-box">
 
 ## Tendencia Central
 
 🎯 **¿Dónde está el centro?**
 
-<v-clicks>
-
 - **Media:** Balance matemático
 - **Mediana:** Valor del medio
 - **Moda:** Más frecuente
-
-</v-clicks>
-
-</div>
-
-<div v-click class="highlight-box">
 
 ## Dispersión
 
 📊 **¿Qué tan dispersos?**
 
-<v-clicks>
-
 - **Rango:** Max - Min
 - **Desviación Estándar:** Dispersión promedio
 - **CV:** DE relativa a la media
 
-</v-clicks>
-
-</div>
-
-</div>
-
-<div v-click class="alert alert-warning mt-8 text-center">
-
 ⚠️ **Nunca reportes solo la media - SIEMPRE incluye una medida de dispersión**
-
-</div>
 
 ---
 
 # Flujo de Análisis Estadístico
-
-<div class="flex items-center justify-center h-full">
 
 ```mermaid
 graph TD
     A[Datos de ONG] --> B{¿Qué queremos saber?}
     B -->|Centro| C[Media/Mediana/Moda]
     B -->|Variabilidad| D[Rango/DE/CV]
-    C --> E[Reportar<br/>tendencia central]
-    D --> F[Reportar<br/>dispersión]
-    E --> G[Análisis<br/>Completo]
+    C --> E[Reportar
+tendencia central]
+    D --> F[Reportar
+dispersión]
+    E --> G[Análisis
+Completo]
     F --> G
-    G --> H[Tomar<br/>Decisiones]
+    G --> H[Tomar
+Decisiones]
     style A fill:#0062A4,color:#fff
     style B fill:#009FDA,color:#fff
     style G fill:#8CC63F,color:#fff
     style H fill:#8CC63F,color:#fff
 ```
 
-</div>
-
----
-layout: center
-class: text-center
 ---
 
 # Caso Práctico: Dos Departamentos de ONG
@@ -1070,18 +787,11 @@ class: text-center
 
 # Análisis Completo: Departamento Legal vs Trámites
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## Departamento Legal
 
 **Satisfacción (1-10):**
 
-<div class="math-display">
 8.5, 9.0, 8.7, 9.2, 8.8, 9.1, 8.6, 9.0, 8.9, 8.7
-</div>
-
-<v-clicks>
 
 **Análisis:**
 
@@ -1093,20 +803,11 @@ class: text-center
 
 **Interpretación:** ✅ **MUY consistente**
 
-</v-clicks>
-
-</div>
-<div v-click>
-
 ## Departamento Trámites
 
 **Satisfacción (1-10):**
 
-<div class="math-display">
 6.0, 4.5, 7.2, 3.8, 8.1, 5.5, 6.8, 4.2, 7.5, 5.9
-</div>
-
-<v-clicks>
 
 **Análisis:**
 
@@ -1118,21 +819,11 @@ class: text-center
 
 **Interpretación:** ⚠️ **MUY variable**
 
-</v-clicks>
-
-</div>
-</div>
-
 ---
 
 # Comparación y Líneas de Acción
 
-<div class="grid grid-cols-2 gap-8">
-<div>
-
 ## Observaciones
-
-<v-clicks>
 
 **Dept. Legal:**
 - Alta satisfacción (8.85)
@@ -1144,24 +835,13 @@ class: text-center
 - Muy inconsistente (DE = 1.48)
 - **Experiencia impredecible**
 
-</v-clicks>
-
-</div>
-<div v-click>
-
 ## Líneas de Acción
-
-<div class="alert alert-success">
 
 ✅ **Departamento Legal**
 
 - Mantener prácticas actuales
 - Documentar qué hacen bien
 - Replicar en otros departamentos
-
-</div>
-
-<div v-click class="alert alert-warning">
 
 ⚠️ **Departamento Trámites**
 
@@ -1170,27 +850,11 @@ class: text-center
 - Capacitar personal
 - Medir impacto de mejoras
 
-</div>
-
-</div>
-</div>
-
-<div v-click class="highlight-box mt-8 text-center">
-
 **🔑 Sin medidas de dispersión, NO habríamos detectado el problema**
 
-</div>
-
----
-layout: center
-class: text-center
 ---
 
 # Lecciones Clave
-
-<div class="grid grid-cols-3 gap-8 mt-12">
-
-<div v-click class="highlight-box">
 
 ## 1️⃣ Contexto
 
@@ -1198,19 +862,11 @@ class: text-center
 
 Usa la apropiada según tus datos
 
-</div>
-
-<div v-click class="highlight-box">
-
 ## 2️⃣ Ambas
 
 **Centro + Dispersión**
 
 Media sin DE es información incompleta
-
-</div>
-
-<div v-click class="highlight-box">
 
 ## 3️⃣ Interpretación
 
@@ -1218,27 +874,14 @@ Media sin DE es información incompleta
 
 Traduce a implicaciones prácticas
 
-</div>
-
-</div>
-
-<div v-click class="mt-12 text-2xl font-bold text-gradient">
 La estadística descriptiva es el primer paso para entender tus datos
-</div>
 
----
-layout: end
-class: text-center
 ---
 
 # ¡Gracias!
 
-<div class="pt-12">
-  <span class="text-6xl">📊</span>
-</div>
+  📊
 
 ### Preguntas
 
-<div class="abs-br m-6 flex gap-2">
-  <span class="text-sm opacity-50">CD2001B | Tec de Monterrey Campus Puebla</span>
-</div>
+  CD2001B | Tec de Monterrey Campus Puebla
