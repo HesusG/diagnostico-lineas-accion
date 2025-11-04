@@ -4,6 +4,21 @@ Material de apoyo visual para el curso **Diagnóstico para Líneas de Acción** 
 
 ---
 
+## ⚡ ¿Necesitas algo más simple? Prueba Remark
+
+**Si quieres abrir las presentaciones SIN instalar nada:**
+
+👉 **Archivos `.html` con Remark** - ¡Solo doble clic para abrir!
+
+- `semana1-medidas-descriptivas-remark.html` - Versión simplificada de Semana 1
+- **No requiere Node.js ni instalaciones**
+- **Funciona offline**
+- **Perfecto para presentar en clase rápidamente**
+
+📖 **[Ver guía completa de Remark](README_REMARK.md)**
+
+---
+
 ## 📚 Contenido Disponible
 
 ### **Semana 1: Estadística Básica**
