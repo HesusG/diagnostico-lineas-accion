@@ -1,0 +1,101 @@
+﻿edad_categoria,nivel_educacion,rango_ingreso,tipo_donante,frecuencia_donacion,canal_donacion,participacion_eventos,voluntariado,años_como_donante,monto_ultima_donacion,confianza_financiera,confianza_mision,confianza_transparencia,confianza_liderazgo,satisfaccion_comunicacion,satisfaccion_impacto,satisfaccion_reconocimiento,satisfaccion_general,satisfaccion_transparencia,conexion_emocional,identificacion_mision,orgullo_donante,compromiso_futuro,percepcion_impacto,percepcion_eficacia,donara_proximo_año
+36-45,Secundaria,1M-2M,Individual,Primera vez,Transferencia,Nunca,No,0,74000,6,6,10,10,6,10,3,10,4,4,6,7,6,8,8,Sí
+66+,Universitario,<500k,Individual,Trimestral,Web,Nunca,No,1,11000,8,9,8,3,8,5,5,6,10,6,6,10,9,5,6,Sí
+46-55,Técnico,<500k,Individual,Anual,Teletón anual,Nunca,No,4,152000,7,10,2,6,7,10,9,9,10,7,9,9,8,4,5,No
+46-55,Universitario,2M-4M,Individual,Trimestral,Presencial,Nunca,No,4,40000,7,4,10,10,10,6,6,10,4,8,8,6,6,9,9,No
+26-35,Postgrado,1M-2M,Individual,Anual,Transferencia,Nunca,No,2,27000,9,7,10,10,7,4,5,9,5,7,10,9,7,8,9,Sí
+26-35,Técnico,<500k,Fundación,Trimestral,Teletón anual,Nunca,Sí,6,2620000,7,8,10,4,6,10,8,10,9,10,7,7,6,6,7,Sí
+18-25,Técnico,<500k,Individual,Anual,Presencial,Nunca,No,12,176000,8,8,8,10,7,8,9,2,5,10,6,10,7,6,8,Sí
+56-65,Universitario,1M-2M,Individual,Primera vez,Presencial,Nunca,Sí,0,21000,5,10,2,3,7,1,7,1,5,10,4,8,6,8,6,No
+46-55,Técnico,<500k,Empresa,Trimestral,Otro,Nunca,No,3,1291000,7,10,10,10,7,10,9,9,4,10,4,6,4,5,5,Sí
+46-55,Secundaria,<500k,Individual,Primera vez,Transferencia,1 vez,No,0,9000,6,5,8,5,6,1,4,5,2,7,4,8,7,9,8,Sí
+18-25,Técnico,500k-1M,Individual,Anual,Web,Nunca,No,19,8000,9,3,10,10,6,8,4,10,4,9,8,3,5,6,8,Sí
+66+,Secundaria,1M-2M,Individual,Mensual,Web,1 vez,No,8,103000,7,10,10,7,6,7,10,1,10,10,8,2,3,9,9,No
+56-65,Postgrado,1M-2M,Individual,Mensual,Otro,Nunca,No,1,11000,10,7,9,6,4,10,6,10,8,8,5,4,7,7,7,No
+26-35,Universitario,<500k,Fundación,Anual,Presencial,Nunca,No,11,2847000,6,10,5,8,10,6,6,10,7,4,9,9,10,8,8,Sí
+26-35,Universitario,1M-2M,Empresa,Semestral,Teletón anual,2-3 veces,No,9,2150000,7,8,10,10,5,9,10,2,2,10,7,10,6,6,6,Sí
+26-35,Universitario,<500k,Individual,Anual,Teletón anual,2-3 veces,Sí,3,411000,7,9,8,8,6,10,8,10,2,9,8,10,7,7,8,No
+36-45,Universitario,500k-1M,Individual,Anual,Teletón anual,Nunca,Sí,4,4000,10,6,10,10,6,10,8,10,8,2,10,10,9,7,8,Sí
+36-45,Técnico,1M-2M,Individual,Anual,Presencial,Nunca,Sí,2,383000,8,10,2,4,9,9,10,1,10,10,9,10,7,5,6,No
+36-45,Postgrado,1M-2M,Individual,Semestral,Otro,1 vez,No,0,64000,9,5,10,9,6,7,6,9,4,7,7,3,6,9,8,No
+26-35,Universitario,1M-2M,Individual,Semestral,Teletón anual,1 vez,No,2,45000,5,10,9,10,9,1,9,1,10,7,6,7,7,6,7,No
+46-55,Universitario,1M-2M,Individual,Trimestral,Web,Nunca,Sí,7,26000,8,10,3,7,6,3,7,1,10,10,4,7,6,7,7,Sí
+26-35,Postgrado,500k-1M,Individual,Semestral,Teletón anual,Nunca,No,0,81000,9,8,3,4,8,5,8,5,6,9,6,5,4,5,6,No
+26-35,Técnico,<500k,Individual,Primera vez,Otro,Nunca,No,0,48000,6,4,7,8,4,8,9,1,4,9,6,5,7,1,6,No
+36-45,Secundaria,500k-1M,Individual,Anual,Presencial,Nunca,No,2,188000,9,8,7,8,10,5,8,6,10,7,6,7,5,7,7,No
+36-45,Técnico,500k-1M,Fundación,Primera vez,Presencial,Nunca,No,0,380000,5,10,7,8,4,6,7,8,6,7,6,1,4,10,8,No
+56-65,Técnico,<500k,Individual,Anual,Web,Nunca,Sí,11,57000,10,2,6,9,8,7,9,10,3,9,8,10,9,9,8,Sí
+26-35,Universitario,4M+,Individual,Anual,Web,Nunca,No,2,60000,10,6,4,5,8,6,6,5,10,10,7,4,8,7,8,Sí
+36-45,Universitario,500k-1M,Individual,Trimestral,Teletón anual,1 vez,No,2,32000,7,5,10,9,8,9,5,10,2,10,6,7,5,7,7,No
+46-55,Secundaria,2M-4M,Individual,Anual,Teletón anual,Nunca,No,6,47000,7,10,10,10,7,7,5,5,9,5,8,10,6,7,7,No
+18-25,Universitario,1M-2M,Individual,Primera vez,Presencial,Nunca,No,0,72000,9,1,9,5,6,1,2,1,8,8,7,3,5,7,8,No
+46-55,Técnico,1M-2M,Individual,Primera vez,Presencial,1 vez,No,0,6000,9,1,5,6,6,3,10,1,5,6,5,1,6,4,7,No
+26-35,Técnico,500k-1M,Empresa,Semestral,Otro,2-3 veces,Sí,3,1271000,6,10,9,7,7,6,5,10,10,10,10,7,8,9,8,No
+18-25,Secundaria,500k-1M,Individual,Semestral,Otro,Nunca,No,1,10000,6,10,7,6,9,1,7,1,7,8,7,9,8,9,7,No
+66+,Técnico,500k-1M,Individual,Primera vez,Web,Nunca,No,0,122000,6,5,1,5,10,4,5,9,10,10,7,10,7,8,8,No
+66+,Postgrado,<500k,Individual,Primera vez,Transferencia,Nunca,No,0,61000,4,6,8,9,5,10,7,10,7,5,8,3,6,7,6,No
+56-65,Técnico,1M-2M,Individual,Semestral,Otro,Nunca,Sí,2,40000,6,10,1,3,4,10,9,9,9,8,8,10,8,7,8,Sí
+36-45,Universitario,500k-1M,Empresa,Primera vez,Presencial,Nunca,No,0,47000,4,4,10,10,6,5,8,10,2,5,8,6,7,8,6,No
+18-25,Universitario,<500k,Individual,Trimestral,Teletón anual,Nunca,Sí,2,51000,6,1,10,10,10,10,6,10,7,8,8,9,8,8,9,Sí
+46-55,Técnico,1M-2M,Individual,Semestral,Web,Nunca,No,4,76000,7,10,6,6,5,9,7,8,6,10,6,10,9,7,6,Sí
+36-45,Postgrado,<500k,Individual,Primera vez,Teletón anual,Nunca,No,0,26000,7,3,10,10,9,2,7,1,1,2,7,4,9,5,7,No
+26-35,Postgrado,2M-4M,Individual,Primera vez,Otro,Nunca,No,0,20000,9,1,1,5,9,2,6,8,6,5,4,8,8,6,6,No
+36-45,Técnico,2M-4M,Individual,Mensual,Web,Nunca,No,5,63000,6,10,1,1,6,4,10,1,10,5,8,9,8,10,8,No
+18-25,Universitario,2M-4M,Individual,Anual,Teletón anual,Nunca,No,1,15000,9,8,7,7,8,5,8,1,10,10,7,9,7,5,6,Sí
+56-65,Técnico,500k-1M,Individual,Anual,Transferencia,Nunca,No,15,82000,8,6,10,10,10,6,8,1,1,10,7,7,4,5,7,No
+26-35,Técnico,<500k,Individual,Trimestral,Web,Nunca,No,1,6000,7,2,10,10,6,7,8,9,3,7,7,9,7,8,8,No
+46-55,Secundaria,2M-4M,Individual,Mensual,Teletón anual,2-3 veces,Sí,2,172000,9,10,2,6,7,7,9,2,10,10,4,7,7,7,8,Sí
+36-45,Universitario,500k-1M,Individual,Mensual,Teletón anual,Nunca,No,0,88000,5,10,10,10,6,10,7,10,5,8,7,8,7,8,9,Sí
+36-45,Universitario,2M-4M,Individual,Semestral,Transferencia,1 vez,No,26,68000,9,8,7,8,5,10,4,10,9,10,8,5,6,8,6,Sí
+36-45,Secundaria,2M-4M,Individual,Anual,Web,1 vez,Sí,3,163000,8,10,4,4,6,10,8,10,6,6,8,10,8,7,9,Sí
+26-35,Técnico,2M-4M,Individual,Primera vez,Transferencia,Nunca,No,0,369000,7,1,10,9,4,1,5,1,5,8,5,6,8,9,8,No
+66+,Postgrado,500k-1M,Individual,Semestral,Web,Nunca,No,0,169000,8,1,10,8,7,1,6,1,5,8,10,7,7,4,5,No
+56-65,Técnico,500k-1M,Empresa,Anual,Presencial,Nunca,Sí,6,168000,10,3,1,1,5,10,8,10,10,10,6,8,7,6,6,No
+66+,Secundaria,2M-4M,Individual,Anual,Web,Nunca,No,1,5000,6,8,10,10,7,1,9,1,6,7,9,10,8,7,7,Sí
+56-65,Universitario,500k-1M,Individual,Trimestral,Web,1 vez,No,10,11000,7,10,10,9,4,10,7,7,9,9,8,6,7,4,7,Sí
+46-55,Postgrado,<500k,Individual,Primera vez,Presencial,Nunca,No,0,24000,5,7,4,3,7,1,7,1,9,1,5,4,8,6,6,No
+56-65,Técnico,500k-1M,Individual,Anual,Web,Nunca,No,1,52000,6,9,9,3,9,1,10,1,8,8,10,10,7,10,10,Sí
+18-25,Universitario,2M-4M,Individual,Primera vez,Teletón anual,Nunca,No,0,93000,5,3,10,8,2,10,6,10,4,5,4,5,5,6,5,No
+26-35,Universitario,1M-2M,Individual,Anual,Teletón anual,Nunca,No,3,21000,9,10,6,2,8,10,10,6,6,1,9,7,8,8,8,No
+18-25,Técnico,500k-1M,Empresa,Primera vez,Transferencia,Nunca,Sí,0,345000,9,5,2,6,8,3,7,1,10,9,8,6,4,4,4,No
+36-45,Universitario,<500k,Individual,Primera vez,Web,Nunca,No,0,63000,5,10,3,6,4,1,2,1,6,10,5,9,6,5,6,No
+36-45,Técnico,1M-2M,Individual,Primera vez,Transferencia,Nunca,No,0,20000,5,9,6,5,9,2,8,3,6,4,9,2,4,6,7,No
+26-35,Universitario,4M+,Individual,Semestral,Teletón anual,4+,No,3,24000,8,9,10,10,8,9,8,3,10,10,7,10,9,7,7,Sí
+56-65,Universitario,<500k,Individual,Semestral,Teletón anual,Nunca,No,3,9000,6,10,9,10,6,1,10,1,3,10,8,8,7,10,6,No
+36-45,Universitario,500k-1M,Individual,Anual,Teletón anual,Nunca,No,3,17000,8,8,6,5,7,7,8,2,10,10,8,7,7,8,8,No
+26-35,Secundaria,2M-4M,Empresa,Mensual,Teletón anual,Nunca,No,2,447000,8,9,10,3,8,7,7,3,10,10,7,5,7,5,7,No
+36-45,Universitario,1M-2M,Individual,Anual,Web,Nunca,No,4,10000,5,10,1,3,7,9,5,10,10,9,9,7,7,8,8,Sí
+26-35,Técnico,1M-2M,Fundación,Anual,Teletón anual,Nunca,No,1,491000,10,6,9,4,8,6,7,5,1,7,9,8,8,8,9,Sí
+56-65,Técnico,1M-2M,Empresa,Trimestral,Web,Nunca,Sí,1,1269000,10,9,1,1,5,3,5,5,10,7,4,10,9,9,7,Sí
+18-25,Secundaria,500k-1M,Individual,Primera vez,Presencial,Nunca,No,0,16000,5,6,6,9,6,9,5,10,10,4,9,9,8,9,9,Sí
+66+,Universitario,500k-1M,Individual,Mensual,Teletón anual,Nunca,Sí,13,177000,7,10,2,7,4,10,8,3,10,8,5,10,7,5,8,Sí
+56-65,Universitario,1M-2M,Individual,Primera vez,Web,Nunca,No,0,16000,7,4,1,7,6,7,9,5,6,10,8,4,1,5,4,Sí
+26-35,Secundaria,1M-2M,Individual,Mensual,Transferencia,2-3 veces,Sí,1,1177000,8,10,9,8,5,5,8,1,5,8,10,9,7,5,7,No
+18-25,Universitario,2M-4M,Individual,Primera vez,Teletón anual,Nunca,No,0,90000,7,6,3,5,5,5,4,1,10,8,5,6,8,6,6,No
+56-65,Técnico,2M-4M,Individual,Trimestral,Web,Nunca,No,2,62000,10,1,9,10,9,1,8,1,8,8,7,10,10,8,8,No
+46-55,Universitario,500k-1M,Individual,Anual,Presencial,Nunca,No,0,18000,7,6,7,9,9,4,9,8,7,9,6,9,9,9,9,No
+46-55,Secundaria,500k-1M,Individual,Mensual,Otro,4+,No,1,116000,6,6,10,10,8,10,6,10,4,10,7,1,5,7,7,Sí
+56-65,Universitario,1M-2M,Empresa,Primera vez,Teletón anual,Nunca,No,0,653000,4,10,5,5,4,1,6,1,5,4,6,10,9,6,6,No
+18-25,Técnico,1M-2M,Individual,Anual,Otro,Nunca,No,5,25000,6,6,4,6,6,1,7,1,6,7,9,8,8,8,8,No
+36-45,Postgrado,1M-2M,Empresa,Mensual,Web,2-3 veces,No,0,67000,7,6,10,9,9,10,5,10,9,4,10,8,7,6,6,No
+26-35,Secundaria,1M-2M,Individual,Anual,Teletón anual,2-3 veces,No,1,58000,10,1,5,6,7,5,8,9,7,2,10,8,8,10,8,No
+56-65,Técnico,2M-4M,Individual,Semestral,Web,1 vez,No,1,1079000,6,6,1,1,10,4,7,1,10,6,6,10,10,4,7,No
+46-55,Secundaria,500k-1M,Individual,Semestral,Otro,Nunca,No,5,45000,8,1,9,9,8,10,8,10,10,7,7,10,10,8,7,No
+36-45,Postgrado,500k-1M,Individual,Anual,Web,Nunca,No,0,199000,7,1,10,10,7,3,5,7,6,8,4,6,6,10,10,Sí
+18-25,Universitario,<500k,Empresa,Semestral,Teletón anual,1 vez,No,0,884000,9,10,9,4,6,10,6,10,5,6,6,9,8,7,8,No
+36-45,Técnico,500k-1M,Individual,Anual,Web,2-3 veces,No,7,22000,10,10,4,5,7,9,8,6,10,3,9,7,8,7,6,No
+36-45,Universitario,<500k,Empresa,Trimestral,Teletón anual,Nunca,Sí,1,1249000,6,10,7,10,7,5,6,9,7,8,10,6,7,7,7,No
+46-55,Universitario,500k-1M,Individual,Primera vez,Teletón anual,Nunca,No,0,48000,5,2,8,10,7,10,9,10,2,4,4,6,5,6,8,No
+46-55,Universitario,500k-1M,Individual,Anual,Teletón anual,Nunca,No,1,419000,9,5,10,6,9,2,6,4,6,10,6,9,4,10,8,Sí
+56-65,Universitario,500k-1M,Empresa,Mensual,Teletón anual,1 vez,No,0,1158000,8,8,9,5,5,10,7,10,3,8,7,9,8,3,5,Sí
+36-45,Técnico,500k-1M,Empresa,Trimestral,Teletón anual,Nunca,Sí,1,2530000,10,1,9,10,4,10,9,8,9,5,8,10,8,10,9,No
+26-35,Secundaria,<500k,Fundación,Anual,Teletón anual,Nunca,No,6,7864000,9,10,8,5,3,10,4,10,5,7,6,10,8,5,7,Sí
+46-55,Postgrado,<500k,Individual,Semestral,Web,Nunca,No,9,24000,7,10,8,7,8,10,3,10,7,5,8,9,8,7,7,No
+46-55,Postgrado,1M-2M,Individual,Primera vez,Teletón anual,Nunca,No,0,440000,7,6,5,6,4,8,3,9,8,7,6,4,5,5,5,Sí
+46-55,Universitario,500k-1M,Empresa,Primera vez,Teletón anual,Nunca,No,0,1747000,8,4,5,2,2,4,9,1,5,10,6,6,7,7,8,No
+56-65,Técnico,<500k,Individual,Anual,Presencial,Nunca,No,5,117000,9,8,5,6,8,10,6,9,10,2,8,10,10,4,7,No
+36-45,Técnico,500k-1M,Empresa,Anual,Web,Nunca,Sí,1,996000,8,1,8,6,10,2,10,1,5,9,8,10,9,8,9,No
+36-45,Universitario,1M-2M,Empresa,Anual,Transferencia,Nunca,Sí,2,450000,9,5,10,7,7,10,6,10,8,10,7,10,9,10,9,No
+36-45,Postgrado,<500k,Individual,Primera vez,Teletón anual,Nunca,No,0,25000,8,3,5,7,8,6,6,10,2,9,6,8,5,4,5,No
+18-25,Postgrado,1M-2M,Empresa,Mensual,Teletón anual,Nunca,No,0,41000,10,1,10,6,7,4,10,1,5,8,7,8,9,8,7,No
+26-35,Universitario,<500k,Empresa,Mensual,Teletón anual,Nunca,Sí,0,952000,8,6,6,7,7,8,10,1,10,8,7,10,8,6,7,No
