@@ -491,6 +491,8 @@ Concluir que el programa **NO funciona** cuando en realidad **SÍ es efectivo**.
 
 # 📊 Resumen: Tabla de Decisiones
 
+
+
 |  | **H₀ es Verdadera**
 (No hay efecto real) | **H₀ es Falsa**
 (Sí hay efecto real) |
@@ -501,6 +503,7 @@ Detectamos el efecto |
 | **No Rechazamos H₀** | ✅ **Decisión Correcta**
 No hay efecto y no lo afirmamos | ❌ **Error Tipo II** (β)
 Falso Negativo |
+
 
 ---
 
