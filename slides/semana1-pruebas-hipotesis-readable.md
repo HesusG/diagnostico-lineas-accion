@@ -493,16 +493,10 @@ Concluir que el programa **NO funciona** cuando en realidad **SÍ es efectivo**.
 
 
 
-|  | **H₀ es Verdadera**
-(No hay efecto real) | **H₀ es Falsa**
-(Sí hay efecto real) |
-|---|---|---|
-| **Rechazamos H₀** | ❌ **Error Tipo I** (α = 5%)
-Falso Positivo | ✅ **Decisión Correcta**
-Detectamos el efecto |
-| **No Rechazamos H₀** | ✅ **Decisión Correcta**
-No hay efecto y no lo afirmamos | ❌ **Error Tipo II** (β)
-Falso Negativo |
+|                           | **H₀ es Verdadera**<br>(No hay efecto real) | **H₀ es Falsa**<br>(Sí hay efecto real) |
+|---------------------------|---------------------------------------------|------------------------------------------|
+| **Rechazamos H₀**         | ❌ **Error Tipo I** (α = 5%)<br>Falso Positivo | ✅ **Decisión Correcta**<br>Detectamos el efecto |
+| **No Rechazamos H₀**      | ✅ **Decisión Correcta**<br>No hay efecto y no lo afirmamos | ❌ **Error Tipo II** (β)<br>Falso Negativo |
 
 
 ---
