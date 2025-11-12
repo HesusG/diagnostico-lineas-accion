@@ -143,12 +143,12 @@ d) Compara las medias de dos grupos pareados (mismos individuos)
 ---
 
 ### Pregunta 13 (6 puntos)
-**¿Qué devuelve la función `chi2_contingency(tabla)` de scipy?**
+**¿Qué mide el estadístico Chi-cuadrado (χ²)?**
 
-a) Solo el valor de χ² (chi-cuadrado)
-b) χ², p-value, grados de libertad, y frecuencias esperadas
-c) χ², p-value, y la tabla de contingencia ordenada
-d) χ², grados de libertad, y la fuerza de la relación (Cramér's V)
+a) La diferencia entre las frecuencias observadas y las esperadas si no hubiera relación
+b) La correlación lineal entre dos variables categóricas en una escala de -1 a 1
+c) El porcentaje de casos que están en cada categoría de la tabla
+d) La probabilidad de que dos variables categóricas sean independientes
 
 ---
 
@@ -190,7 +190,7 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 | 10 | b |
 | 11 | b |
 | 12 | a |
-| 13 | b |
+| 13 | a |
 | 14 | a |
 | 15 | b |
 
@@ -319,12 +319,12 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 ---
 
 ### Pregunta 13
-**Respuesta correcta: b) χ², p-value, grados de libertad, y frecuencias esperadas**
+**Respuesta correcta: a) La diferencia entre las frecuencias observadas y las esperadas si no hubiera relación**
 
 **Por qué las otras son incorrectas:**
-- **a)** INCORRECTO (misconception): Devuelve una tupla con 4 elementos, no solo χ²
-- **c)** INCORRECTO (similar pero error): NO devuelve la tabla de contingencia, devuelve frecuencias esperadas
-- **d)** INCORRECTO (misconception): NO calcula Cramér's V automáticamente (lo debes calcular aparte)
+- **b)** INCORRECTO (misconception común): Chi-cuadrada NO mide correlación lineal; eso es para variables numéricas (Pearson). Chi-cuadrada trabaja con variables categóricas y no usa escala -1 a 1
+- **c)** INCORRECTO (misconception): Chi-cuadrada NO calcula porcentajes simples; compara observado vs esperado para ver si hay diferencias significativas
+- **d)** INCORRECTO (similar pero error): Esto describe el p-value, no el estadístico χ². El estadístico χ² mide qué tan grandes son las diferencias, el p-value te dice la probabilidad
 
 ---
 
@@ -373,7 +373,7 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 10. **Chi-Cuadrada** (limitaciones)
 11. **Pandas** (df.describe)
 12. **Scipy** (ttest_ind)
-13. **Scipy** (chi2_contingency)
+13. **Chi-Cuadrada** (qué mide el estadístico χ²)
 14. **Pandas** (mean vs median)
 15. **Seaborn** (boxplot)
 
