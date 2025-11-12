@@ -263,6 +263,38 @@ d) El 14% de las personas no tienen internet
 
 ---
 
+# 🔍 Otros Tipos de Pruebas Chi-Cuadrada
+
+## 📌 Chi-Cuadrada de Independencia (la que vimos)
+
+La más común. Evalúa si **dos variables categóricas** están relacionadas.
+
+**Ejemplo:** ¿El género está relacionado con el programa elegido?
+
+## 📌 Chi-Cuadrada de Bondad de Ajuste
+
+Evalúa si una **única variable categórica** sigue una distribución esperada.
+
+**Ejemplo:** Una ONG espera que sus beneficiarios se distribuyan equitativamente entre 4 regiones (25% cada una). Los datos reales son: Norte 30%, Sur 20%, Centro 35%, Oeste 15%. ¿Esta diferencia es significativa o por azar?
+
+**Python:** `chisquare(observado, esperado)`
+
+---
+
+# 🔍 Otros Tipos de Pruebas Chi-Cuadrada (cont.)
+
+## 📌 Chi-Cuadrada de Homogeneidad
+
+Similar a independencia, pero evalúa si **diferentes poblaciones** tienen la **misma distribución** en una variable categórica.
+
+**Ejemplo:** Una ONG opera en 3 ciudades diferentes. ¿La distribución de satisfacción (Alta, Media, Baja) es la misma en las 3 ciudades?
+
+**Diferencia con independencia:** Aquí comparas distribuciones entre poblaciones separadas, no relación entre dos variables en una misma población.
+
+💡 **En este curso** nos enfocamos principalmente en la **Chi-Cuadrada de Independencia** porque es la más útil para analizar relaciones entre variables en datos de ONGs.
+
+---
+
 # ANOVA
 
 ## Análisis de Varianza
@@ -383,23 +415,34 @@ ANOVA compara **dos tipos de variabilidad**:
 
 # 📊 Visualización: Boxplot con Seaborn
 
-```python {all|1-2|4-9|11-15|all}
+```python {all|1-3|5-11|13-21|all}
 import seaborn as sns
 import matplotlib.pyplot as plt
+import numpy as np
 
-# Datos de ejemplo (simulados)
+# Generar datos simulados con distribución normal
+np.random.seed(42)  # Para reproducibilidad
+legal = np.random.normal(8.85, 0.21, 40)
+tramites = np.random.normal(5.95, 1.48, 45)
+atencion = np.random.normal(7.80, 0.65, 50)
+psicologia = np.random.normal(8.10, 0.45, 35)
+admin = np.random.normal(6.20, 1.20, 30)
+
+# Crear DataFrame para visualización
 df = pd.DataFrame({
-    'departamento': ['Legal']*40 + ['Trámites']*45 + ['Atención Social']*50,
-    'satisfaccion': [8.85]*40 + [5.95]*45 + [7.80]*50  # Simplificado
+    'departamento': (['Legal']*40 + ['Trámites']*45 + ['Atención Social']*50 +
+                     ['Psicología']*35 + ['Administración']*30),
+    'satisfaccion': np.concatenate([legal, tramites, atencion, psicologia, admin])
 })
 
 # Boxplot comparativo
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(12, 6))
 sns.boxplot(data=df, x='departamento', y='satisfaccion', palette='Set2')
 plt.axhline(y=df['satisfaccion'].mean(), color='red', linestyle='--',
             linewidth=2, label='Media General')
-plt.title('Satisfacción por Departamento')
+plt.title('Satisfacción por Departamento (Datos Simulados)')
 plt.ylabel('Satisfacción (1-10)')
+plt.xlabel('Departamento')
 plt.legend()
 plt.xticks(rotation=45)
 plt.tight_layout()
