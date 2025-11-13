@@ -1,0 +1,23 @@
+# Configuración del Dashboard de Fundación Teletón
+# Este archivo personaliza la apariencia de Streamlit con los colores de Teletón
+
+[theme]
+# Colores base de Teletón
+primaryColor = "#F7C600"        # Amarillo Teletón (botones, acentos)
+backgroundColor = "#FFFFFF"      # Blanco (fondo principal)
+secondaryBackgroundColor = "#F5F5F5"  # Gris claro (tarjetas, sidebar)
+textColor = "#2D3436"           # Gris oscuro (texto principal)
+
+# Fuente
+font = "sans serif"
+
+[server]
+# Configuración del servidor
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+# Recolección de uso
+gatherUsageStats = false
