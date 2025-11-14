@@ -82,9 +82,14 @@ Al finalizar esta semana, serás capaz de:
 ```
 Semana4/
 ├── README.md
+├── workshop/
+│   └── workshop_4_visualizacion_teleton.ipynb  # 🆕 Workshop con datos de Teletón
+├── ejercicios_extra/
+│   └── practica_dashboard_teleton.ipynb        # 🆕 Práctica adicional Teletón
 ├── notebooks/
 │   ├── 01_preparacion_datos_looker.ipynb
-│   └── 02_visualizacion_python.ipynb
+│   ├── 02_visualizacion_python.ipynb
+│   └── 03_dashboard_streamlit_basico.ipynb
 ├── plantillas/
 │   ├── plantilla_dashboard_ong.md
 │   └── checklist_visualizacion.md
@@ -95,9 +100,50 @@ Semana4/
 ├── ejemplos/
 │   ├── dashboard_ejemplo_ong.pdf
 │   └── dashboard_ejemplo_kpis.pdf
-└── datos/
-    └── datos_procesados_para_looker.csv
+├── datos/
+│   ├── datos_procesados_para_looker.csv
+│   └── teleton_benefactores.csv              # 🆕 Dataset Fundación Teletón
+├── actividades/
+├── evaluaciones/
+└── recursos/
 ```
+
+---
+
+## 🆕 Contenido Nuevo: Fundación Teletón
+
+### Workshop 4: Visualización con Datos de Teletón
+**Archivo:** `workshop/workshop_4_visualizacion_teleton.ipynb`
+
+Workshop práctico que usa el dataset de satisfacción de empresas benefactoras de Fundación Teletón (274 registros).
+
+**Contenido:**
+- Principios de visualización efectiva
+- KPIs y scorecards con paleta Teletón
+- Gráficos de comparación (por giro, canal)
+- Visualizaciones de distribución (boxplot, violin)
+- Heatmaps de correlación
+- Dashboard layout integrado
+- Exportación para Looker Studio
+
+**Tiempo:** 2-3 horas
+
+---
+
+### Práctica Extra: Dashboard Ejecutivo Teletón
+**Archivo:** `ejercicios_extra/practica_dashboard_teleton.ipynb`
+
+Práctica guiada para crear un dashboard ejecutivo completo para la Junta Directiva de Teletón.
+
+**Secciones:**
+1. KPIs Ejecutivos (4 scorecards)
+2. Análisis de Segmentos (giro y canal)
+3. Distribución y Outliers
+4. Análisis Geográfico
+5. Dashboard Integrado
+6. Recomendaciones Accionables
+
+**Tiempo:** 90-120 minutos
 
 ---
 
