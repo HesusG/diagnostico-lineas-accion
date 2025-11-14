@@ -7,12 +7,14 @@
 
 ## 📋 Instrucciones
 
-- **Total de preguntas:** 15 (valor: 100 puntos)
+- **Total de preguntas:** 20 (valor: 100 puntos)
 - **Formato:** Opción múltiple (4 opciones por pregunta)
 - **Secciones:**
   - Preguntas 1-5: Semana 1 (Medidas Descriptivas y Pruebas de Hipótesis)
   - Preguntas 6-10: Semana 2 (Chi-Cuadrada y ANOVA)
   - Preguntas 11-15: Funciones Python
+  - Preguntas 16-18: Correlación y Regresión Lineal
+  - Preguntas 19-20: Casos de Código (Análisis Crítico)
 
 ---
 
@@ -172,6 +174,105 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 
 ---
 
+## 🟧 SECCIÓN 4: CORRELACIÓN Y REGRESIÓN LINEAL
+
+### Pregunta 16 (5 puntos)
+**Una ONG encuentra que r = 0.85 entre años de educación y salario. ¿Qué significa esto?**
+
+a) Hay una correlación positiva fuerte; a mayor educación, mayor salario
+b) La educación causa directamente el 85% del aumento en salario
+c) El 85% de las personas con más educación tienen mayor salario
+d) Hay una correlación negativa moderada entre educación y salario
+
+---
+
+### Pregunta 17 (5 puntos)
+**Creaste un modelo de regresión lineal con R² = 0.45 prediciendo donaciones futuras basadas en años como donador. ¿Qué significa R²?**
+
+a) El modelo predice correctamente el 45% de los donadores
+b) Hay 45% de probabilidad de que el modelo sea estadísticamente significativo
+c) El 45% de la variabilidad en donaciones futuras es explicada por años como donador
+d) El modelo tiene 45% de error en sus predicciones
+
+---
+
+### Pregunta 18 (5 puntos)
+**En un modelo de regresión lineal simple obtuviste: donacion = 100 + 50 × años. ¿Cómo interpretas el coeficiente 50?**
+
+a) Por cada año adicional como donador, la donación aumenta en promedio $50
+b) El 50% del incremento en donaciones se debe a los años como donador
+c) Un donador con 50 años de antigüedad donará $100
+d) La donación mínima es $50 independientemente de los años
+
+---
+
+## 🟥 SECCIÓN 5: CASOS DE CÓDIGO (Análisis Crítico)
+
+### Pregunta 19 (5 puntos - CASO TRICKY)
+
+**Contexto:** Una ONG quiere predecir el **monto de donación** basándose en la **satisfacción del donador**.
+
+**Código usado:**
+```python
+from sklearn.linear_model import LinearRegression
+import pandas as pd
+
+df = pd.read_csv('donadores.csv')
+modelo = LinearRegression()
+
+# Entrenar modelo
+X = df[['monto_donacion']]  # Variable independiente
+y = df['satisfaccion']       # Variable dependiente
+
+modelo.fit(X, y)
+print(f"R² = {modelo.score(X, y):.2f}")
+```
+
+**El código ejecuta sin errores y muestra R² = 0.68. ¿Cuál es el problema?**
+
+a) Falta escalar las variables antes de ajustar el modelo
+b) Las variables X e Y están invertidas; estamos prediciendo satisfacción en vez de monto
+c) El modelo necesita incluir más variables independientes para ser válido
+d) Debería usar regresión logística en lugar de regresión lineal
+
+---
+
+### Pregunta 20 (5 puntos - CASO TRICKY)
+
+**Contexto:** Una ONG analiza si hay correlación entre **edad de beneficiarios** (18-80 años) y **nivel de participación** (escala 1-10).
+
+**Código usado:**
+```python
+from scipy.stats import pearsonr
+import pandas as pd
+
+df = pd.read_csv('beneficiarios.csv')
+
+# Calcular correlación
+r, p_value = pearsonr(df['edad'], df['participacion'])
+
+print(f"Correlación de Pearson: r = {r:.3f}")
+print(f"p-value = {p_value:.4f}")
+
+if p_value < 0.05:
+    print("✓ Hay correlación significativa")
+else:
+    print("✗ No hay correlación significativa")
+```
+
+**Resultado:** `r = 0.12, p-value = 0.15`
+
+**La ONG concluye:** *"No hay relación entre edad y participación"*
+
+**Al graficar los datos, observas un patrón de U invertida (participación alta en jóvenes, baja en adultos medios, alta en adultos mayores). ¿Cuál es el problema principal?**
+
+a) El tamaño de muestra es insuficiente para detectar la correlación
+b) Pearson solo detecta relaciones lineales; aquí hay una relación no lineal (cuadrática)
+c) El código debería usar correlación de Spearman en lugar de Pearson
+d) El p-value > 0.05 significa que definitivamente no hay ninguna relación
+
+---
+
 ---
 
 ## ✅ HOJA DE RESPUESTAS
@@ -193,6 +294,11 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 | 13 | a |
 | 14 | a |
 | 15 | b |
+| 16 | a |
+| 17 | c |
+| 18 | a |
+| 19 | b |
+| 20 | b |
 
 ---
 
@@ -348,14 +454,107 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 
 ---
 
+### Pregunta 16
+**Respuesta correcta: a) Hay una correlación positiva fuerte; a mayor educación, mayor salario**
+
+**Por qué las otras son incorrectas:**
+- **b)** INCORRECTO (misconception común): Correlación NO implica causalidad. r = 0.85 significa asociación fuerte, no que "causa el 85%"
+- **c)** INCORRECTO (misconception): r = 0.85 no es un porcentaje de personas; es el coeficiente de correlación que mide la fuerza de la relación lineal
+- **d)** INCORRECTO (error fundamental): r = 0.85 es POSITIVA (no negativa) y FUERTE (no moderada). Valores cercanos a 1 son correlación positiva fuerte
+
+---
+
+### Pregunta 17
+**Respuesta correcta: c) El 45% de la variabilidad en donaciones futuras es explicada por años como donador**
+
+**Por qué las otras son incorrectas:**
+- **a)** INCORRECTO (misconception común): R² no es el porcentaje de predicciones correctas; es la proporción de varianza explicada
+- **b)** INCORRECTO (misconception): R² no es una probabilidad de significancia; eso es el p-value
+- **d)** INCORRECTO (similar pero error): R² no mide el error; mide qué porcentaje de la variabilidad es explicada por el modelo. El error sería 1 - R² = 55%
+
+---
+
+### Pregunta 18
+**Respuesta correcta: a) Por cada año adicional como donador, la donación aumenta en promedio $50**
+
+**Por qué las otras son incorrectas:**
+- **b)** INCORRECTO (misconception): El coeficiente 50 no es un porcentaje; es la pendiente que indica cambio en Y por unidad de X
+- **c)** INCORRECTO (error de cálculo): Un donador con 50 años donaría: 100 + 50×50 = $2,600, no $100
+- **d)** INCORRECTO (confusión de términos): La donación mínima sería el intercepto ($100) cuando años = 0, no $50
+
+---
+
+### Pregunta 19 (CASO TRICKY)
+**Respuesta correcta: b) Las variables X e Y están invertidas; estamos prediciendo satisfacción en vez de monto**
+
+**Por qué esta pregunta es "tricky":**
+- ✅ El código **SÍ ejecuta sin errores** (sintácticamente correcto)
+- ✅ `LinearRegression()` acepta esta configuración
+- ✅ Muestra un R² razonable (0.68)
+- ❌ **PERO:** El objetivo era predecir **monto** usando **satisfacción**, no al revés
+- 🎯 **Error conceptual:** Las variables están invertidas. Debería ser:
+  ```python
+  X = df[['satisfaccion']]      # Predictor
+  y = df['monto_donacion']       # Variable a predecir
+  ```
+
+**Por qué las otras son incorrectas:**
+- **a)** INCORRECTO: LinearRegression no requiere escalado (no afecta los coeficientes en regresión lineal simple)
+- **c)** INCORRECTO: El problema no es falta de variables; es que las variables están invertidas
+- **d)** INCORRECTO: Ambas variables son continuas; regresión lineal es apropiada
+
+**Lo que un LLM sin contexto diría:**
+- "El código es sintácticamente correcto ✓"
+- "fit() y score() están bien usados ✓"
+- "Muestra resultados ✓"
+- Pero **NO detectaría** que se está resolviendo el problema inverso
+
+---
+
+### Pregunta 20 (CASO TRICKY)
+**Respuesta correcta: b) Pearson solo detecta relaciones lineales; aquí hay una relación no lineal (cuadrática)**
+
+**Por qué esta pregunta es "tricky":**
+- ✅ El código **SÍ ejecuta sin errores** (sintácticamente correcto)
+- ✅ `pearsonr()` está bien usado
+- ✅ La lógica del if/else es correcta
+- ❌ **PERO:** Pearson r = 0.12 solo mide correlación **lineal**
+- 🎯 **Error conceptual:** Cuando la relación es en forma de U (cuadrática), Pearson puede dar valores cercanos a 0 aunque SÍ haya relación fuerte
+
+**Ejemplo del problema:**
+- Participación alta en jóvenes (edad 20): 9/10
+- Participación baja en adultos medios (edad 50): 3/10
+- Participación alta en adultos mayores (edad 75): 8/10
+- → Patrón de U invertida = Relación **no lineal**
+- → Pearson r ≈ 0 porque no hay tendencia lineal ascendente/descendente
+
+**Por qué las otras son incorrectas:**
+- **a)** INCORRECTO (podría ser cierto, pero no es el problema PRINCIPAL): Con r = 0.12 y p = 0.15, el tamaño de muestra no es el issue central
+- **c)** INCORRECTO (similar pero no resuelve el problema): Spearman detecta relaciones monótonas, pero aquí la relación es en U (no monótona)
+- **d)** INCORRECTO (misconception crítico): p > 0.05 significa "no hay evidencia de correlación LINEAL", NO que no haya ninguna relación
+
+**Lo que un LLM sin contexto diría:**
+- "El código usa correctamente pearsonr() ✓"
+- "La interpretación del p-value es correcta ✓"
+- "La lógica estadística es válida ✓"
+- Pero **NO detectaría** que Pearson es inapropiado para relaciones no lineales sin ver el gráfico
+
+**Solución correcta:** Graficar primero (scatter plot) para detectar patrones no lineales, o usar regresión polinomial/splines
+
+---
+
 ## 📈 Distribución de Puntos
 
 | Sección | Preguntas | Puntos por Pregunta | Total |
 |---------|-----------|---------------------|-------|
-| Semana 1 | 1-5 | 6 puntos | 30 pts |
-| Semana 2 | 6-10 | 8 puntos | 40 pts |
-| Python | 11-15 | 6 puntos | 30 pts |
-| **TOTAL** | **15** | - | **100 pts** |
+| Semana 1 (Descriptivos y Pruebas t) | 1-5 | 6 puntos | 30 pts |
+| Semana 2 (Chi² y ANOVA) | 6-10 | 8 puntos | 40 pts |
+| Python (Funciones) | 11-15 | 6 puntos | 30 pts |
+| Correlación y Regresión | 16-18 | 5 puntos | 15 pts |
+| Casos Tricky (Código) | 19-20 | 5 puntos | 10 pts |
+| **TOTAL** | **20** | - | **125 pts** |
+
+**Nota:** Quiz sobre 125 puntos totales. Se puede ajustar a escala de 100 si es necesario.
 
 ---
 
@@ -376,6 +575,11 @@ d) Para visualizar la distribución y mediana de una variable, pero sin mostrar 
 13. **Chi-Cuadrada** (qué mide el estadístico χ²)
 14. **Pandas** (mean vs median)
 15. **Seaborn** (boxplot)
+16. **Correlación** (interpretación del coeficiente r, correlación ≠ causalidad)
+17. **Regresión Lineal** (interpretación de R²)
+18. **Regresión Lineal** (interpretación de coeficientes/pendiente)
+19. **CASO TRICKY** (Variables invertidas en regresión - error conceptual)
+20. **CASO TRICKY** (Correlación de Pearson con relación no lineal - limitación metodológica)
 
 ---
 
