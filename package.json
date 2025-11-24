@@ -1,0 +1,17 @@
+{
+  "name": "diagnostico-lineas-accion-slides",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:slide1 && npm run build:slide2 && npm run build:index",
+    "build:slide1": "slidev build semana3_reduced_localized/slide1_estrategia_analisis.md --base /diagnostico-lineas-accion/slide1/ --out dist/slide1",
+    "build:slide2": "slidev build semana3_reduced_localized/slide2_herramientas_medicion.md --base /diagnostico-lineas-accion/slide2/ --out dist/slide2",
+    "build:index": "node scripts/generate_index.js"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "vue": "^3.0.0"
+  }
+}
