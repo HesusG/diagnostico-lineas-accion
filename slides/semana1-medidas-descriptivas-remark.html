@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Medidas Descriptivas - Semana 1</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Montserrat:wght@600;800&display=swap');
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    h1, h2, h3 {
+      font-family: 'Montserrat', sans-serif;
+      color: #0062A4;
+    }
+
+    .remark-slide-content {
+      background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+      font-size: 22px;
+      padding: 1em 2.5em;
+    }
+
+    .remark-slide-content h1 {
+      font-size: 2.2em;
+      margin-top: 0.3em;
+      margin-bottom: 0.5em;
+      color: #0062A4;
+    }
+
+    .remark-slide-content h2 {
+      font-size: 1.5em;
+      color: #009FDA;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+    }
+
+    .remark-slide-content h3 {
+      font-size: 1.2em;
+      color: #0062A4;
+      margin-top: 0.5em;
+      margin-bottom: 0.3em;
+    }
+
+    .highlight-box {
+      background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+      border-left: 5px solid #0062A4;
+      padding: 0.8em;
+      margin: 0.8em 0;
+      border-radius: 5px;
+    }
+
+    .alert-warning {
+      background: #fff3cd;
+      border-left: 5px solid #FF6F31;
+      padding: 0.8em;
+      margin: 0.8em 0;
+      border-radius: 5px;
+    }
+
+    .alert-success {
+      background: #d4edda;
+      border-left: 5px solid #8CC63F;
+      padding: 0.8em;
+      margin: 0.8em 0;
+      border-radius: 5px;
+    }
+
+    .alert-info {
+      background: #d1ecf1;
+      border-left: 5px solid #009FDA;
+      padding: 0.8em;
+      margin: 0.8em 0;
+      border-radius: 5px;
+    }
+
+    .math-display {
+      text-align: center;
+      font-size: 1.3em;
+      font-weight: bold;
+      color: #FF6F31;
+      margin: 0.8em 0;
+      padding: 0.5em;
+      background: #f8f9fa;
+      border-radius: 5px;
+    }
+
+    .text-center {
+      text-align: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5em;
+    }
+
+    .three-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 1em;
+    }
+
+    code {
+      background: #f4f4f4;
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+      font-size: 0.85em;
+    }
+
+    strong {
+      color: #FF6F31;
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 12px;
+      right: 20px;
+      font-size: 0.5em;
+      color: #666;
+    }
+
+    ul, ol {
+      line-height: 1.5;
+      margin: 0.5em 0;
+    }
+
+    li {
+      margin: 0.3em 0;
+    }
+
+    p {
+      margin: 0.5em 0;
+    }
+
+    .small-text {
+      font-size: 0.85em;
+      color: #666;
+      font-style: italic;
+    }
+
+    .big-emoji {
+      font-size: 3em;
+    }
+  </style>
+</head>
+<body>
+  <textarea id="source">
+
+class: center, middle
+
+# Medidas de Tendencia Central y Dispersión
+
+## Entendiendo los Datos a Través de Números
+
+**CD2001B - Diagnóstico para Líneas de Acción**
+
+.footer[Semana 1 | Tec de Monterrey Campus Puebla]
+
+---
+
+class: center, middle
+
+# ¿Por Qué Necesitamos Estadística Descriptiva?
+
+---
+
+# El Problema
+
+.two-col[
+.highlight-box[
+### 📊 Tenemos Datos
+Una ONG tiene **200 encuestas** de satisfacción
+
+**Pregunta:** ¿Cómo resumimos esto?
+]
+
+.highlight-box[
+### 🎯 Necesitamos Respuestas
+- ¿Qué calificación es "típica"?
+- ¿Los usuarios están contentos?
+- ¿Las opiniones son consistentes?
+]
+]
+
+---
+
+class: center, middle
+
+# Las medidas descriptivas transforman
+
+# DATOS → INFORMACIÓN
+
+---
+
+class: center, middle
+
+# Medidas de Tendencia Central
+
+## ¿Dónde está el "centro" de nuestros datos?
+
+---
+
+# Escenario: Satisfacción de una ONG
+
+Calificaciones de **7 usuarios** (escala 1-10):
+
+.math-display[
+8, 9, 8, 7, 9, 10, 2
+]
+
+--
+
+## 🤔 Pregunta Clave
+
+Si un donador pregunta:
+
+**"¿Qué tan satisfechos están los usuarios?"**
+
+### ¿Qué número le damos?
+
+---
+
+# Tres Respuestas Posibles
+
+.three-col[
+.highlight-box[
+### MEDIA
+**7.6** puntos
+
+.small-text[Suma todo / Cantidad]
+]
+
+.highlight-box[
+### MEDIANA
+**8** puntos
+
+.small-text[Valor del medio]
+]
+
+.highlight-box[
+### MODA
+**8** puntos
+
+.small-text[Más frecuente]
+]
+]
+
+---
+
+# 📐 La Media (Promedio)
+
+## ¿Qué es?
+
+El **"punto de balance"** de los datos
+
+--
+
+**Fórmula:**
+
+.math-display[
+μ = (Σ datos) / n
+]
+
+--
+
+**En nuestro ejemplo:**
+
+.math-display[
+(8+9+8+7+9+10+2) / 7 = 7.6
+]
+
+---
+
+# La Media: Analogía del Balancín
+
+**Imagina un balancín:**
+
+- Cada dato es un peso
+- La media es el punto donde se equilibra
+- Si quitas un peso pesado, el balancín se inclina
+
+--
+
+.alert-warning[
+### ⚠️ Problema
+
+La media es **sensible a valores extremos**
+
+En nuestro caso: el **2** jala la media hacia abajo
+]
+
+---
+
+# 📊 La Mediana (Valor Central)
+
+## ¿Qué es?
+
+El valor que **divide los datos a la mitad**
+
+--
+
+**Procedimiento:**
+
+1. Ordenar datos de menor a mayor
+2. Tomar el valor del medio
+
+--
+
+**En nuestro ejemplo:**
+
+.math-display[
+2, 7, 8, **8**, 9, 9, 10
+]
+
+Mediana = **8**
+
+---
+
+# La Mediana: Analogía
+
+Imagina 7 personas ordenadas por altura:
+
+```
+👤 👤 👤 🧑‍🦱 👤 👤 👤
+↓   ↓   ↓   ↓   ↓   ↓   ↓
+1.50 1.60 1.65 1.70 1.75 1.80 1.85
+            ⬆️
+          MEDIANA
+```
+
+--
+
+**La persona del medio** tiene altura mediana
+
+Ni siquiera importa si la más alta mide 1.85 o 2.50m
+
+--
+
+.alert-success[
+✅ **Ventaja:** NO le afectan los valores extremos
+]
+
+---
+
+# 🎯 La Moda (Valor Más Común)
+
+## ¿Qué es?
+
+El valor que **aparece con mayor frecuencia**
+
+--
+
+**En nuestro ejemplo:**
+
+.math-display[
+2(1×), 7(1×), **8(2×)**, 9(2×), 10(1×)
+]
+
+--
+
+Tenemos **dos modas**: 8 y 9 → **Bimodal**
+
+---
+
+# La Moda: Analogía
+
+Si preguntamos: **"¿Qué calificación es más popular?"**
+
+La respuesta es la **moda**
+
+--
+
+Como en una votación: El candidato que más votos tiene
+
+--
+
+.alert-info[
+### 💡 Uso típico
+
+Variables categóricas
+
+**Ejemplo:** "¿Qué servicio prefieren?"
+- Legal
+- Trámites
+- Salud
+]
+
+---
+
+# ¿Cuándo usar cada una?
+
+.three-col[
+.highlight-box[
+### 📐 MEDIA
+
+✅ Datos simétricos
+
+✅ Sin outliers
+
+✅ Distribución normal
+
+**Ej:** Edades
+]
+
+.highlight-box[
+### 📊 MEDIANA
+
+✅ Datos con outliers
+
+✅ Asimétricos
+
+✅ Valor "típico"
+
+**Ej:** Salarios
+]
+
+.highlight-box[
+### 🎯 MODA
+
+✅ Categóricos
+
+✅ Lo más popular
+
+✅ Multimodal
+
+**Ej:** Preferencias
+]
+]
+
+---
+
+# 🚨 Caso Real: Salarios en Startup
+
+5 empleados:
+
+.math-display[
+$15k, $18k, $20k, $22k, $500k
+]
+
+--
+
+.two-col[
+<div>
+
+### Media: $115,000
+
+.big-emoji[😱]
+
+¿Esto representa el salario "típico"?
+
+</div>
+
+<div>
+
+### Mediana: $20,000
+
+.big-emoji[✅]
+
+Esta es mucho más representativa
+
+</div>
+]
+
+---
+
+class: center, middle
+
+# ¿Las Medidas de Tendencia Central son Suficientes?
+
+--
+
+# .big-emoji[❌]
+
+---
+
+class: center, middle
+
+# Dos datasets pueden tener la misma media
+
+# pero ser completamente diferentes
+
+---
+
+# El Problema: Misma Media, Diferentes Datos
+
+.two-col[
+.highlight-box[
+### ONG A
+
+.math-display[
+8, 8, 8, 8, 8
+8, 8, 8, 8, 8
+]
+
+**Media:** 8.0 ✅
+
+**Todos** exactamente igual
+]
+
+.highlight-box[
+### ONG B
+
+.math-display[
+1, 2, 4, 6, 8
+8, 10, 12, 14, 15
+]
+
+**Media:** 8.0 ✅
+
+**Opiniones** muy divididas
+]
+]
+
+--
+
+.alert-warning[
+### 🔑 Clave
+
+**Necesitamos medir la DISPERSIÓN (variabilidad)**
+]
+
+---
+
+class: center, middle
+
+# Medidas de Dispersión
+
+## ¿Qué tan dispersos están los datos?
+
+---
+
+# 📏 El Rango
+
+## ¿Qué es?
+
+Diferencia entre el valor más alto y el más bajo
+
+.math-display[
+Rango = Máximo - Mínimo
+]
+
+---
+
+# El Rango: Ejemplo
+
+.two-col[
+<div>
+
+### ONG A
+
+- Máximo: 8
+- Mínimo: 8
+- **Rango:** 0
+
+</div>
+
+<div>
+
+### ONG B
+
+- Máximo: 15
+- Mínimo: 1
+- **Rango:** 14
+
+</div>
+]
+
+--
+
+.alert-warning[
+### ⚠️ Limitación
+
+Solo usa **2 datos** (max y min)
+
+Ignora todo lo demás
+]
+
+---
+
+# 📊 Desviación Estándar
+
+## La medida más importante
+
+**Qué tan "dispersos" están los datos respecto al promedio**
+
+--
+
+- **DE baja:** Datos concentrados cerca de la media
+- **DE alta:** Datos dispersos, alejados de la media
+
+---
+
+# Desviación Estándar: Comparación
+
+.two-col[
+.highlight-box[
+### ONG A
+
+- Media: 8.0
+- Todos = 8
+- **DE:** 0
+
+.small-text[Sin variabilidad]
+]
+
+.highlight-box[
+### ONG B
+
+- Media: 8.0
+- Datos: 1 a 15
+- **DE:** ~4.5
+
+.small-text[Muy variable]
+]
+]
+
+---
+
+# Analogía: Tiros al Blanco
+
+.two-col[
+<div>
+
+### Jugador A (DE baja)
+
+```
+    🎯
+  🔴🔴🔴
+  🔴🎯🔴
+  🔴🔴🔴
+```
+
+Todos cerca del centro
+
+</div>
+
+<div>
+
+### Jugador B (DE alta)
+
+```
+🔴      🔴
+    🎯
+🔴      🔴
+```
+
+Tiros dispersos
+
+</div>
+]
+
+--
+
+.alert-success[
+✅ **DE baja** = Consistencia
+
+✅ **DE alta** = Variabilidad
+]
+
+---
+
+# ¿Cómo se Calcula la DE?
+
+## Paso a Paso
+
+1. Calcula la media
+
+2. Resta la media a cada dato
+
+3. Eleva al cuadrado cada diferencia
+
+4. Promedia esos cuadrados
+
+5. Saca raíz cuadrada
+
+---
+
+# Fórmula de la Desviación Estándar
+
+.math-display[
+DE = √[Σ(x - μ)² / n]
+]
+
+**Donde:**
+- x = cada dato
+- μ = media
+- n = cantidad de datos
+
+---
+
+# Ejemplo Numérico: Parte 1
+
+Datos: **8, 9, 10**
+
+Media = 9
+
+--
+
+### Paso 1: Diferencias
+
+- 8 - 9 = **-1**
+- 9 - 9 = **0**
+- 10 - 9 = **1**
+
+---
+
+# Ejemplo Numérico: Parte 2
+
+### Paso 2: Cuadrados
+
+- (-1)² = **1**
+- (0)² = **0**
+- (1)² = **1**
+
+--
+
+### Paso 3: Promedio
+
+(1 + 0 + 1) / 3 = **0.67**
+
+---
+
+# Ejemplo Numérico: Resultado
+
+### Paso 4: Raíz
+
+√0.67 = **0.82**
+
+--
+
+.math-display[
+DE = 0.82 puntos
+]
+
+---
+
+# Interpretando la Desviación Estándar
+
+## Regla Empírica (Distribución Normal)
+
+- **~68%** de datos a **±1 DE** de la media
+
+- **~95%** de datos a **±2 DE** de la media
+
+- **~99.7%** de datos a **±3 DE** de la media
+
+---
+
+# Ejemplo: Tiempo de Espera
+
+**Media:** 20 minutos
+
+**DE:** 5 minutos
+
+--
+
+**68%** de usuarios espera entre:
+- 15 min (20-5) y 25 min (20+5)
+
+--
+
+**95%** de usuarios espera entre:
+- 10 min (20-10) y 30 min (20+10)
+
+---
+
+# ¿Qué significa esto?
+
+.two-col[
+.alert-success[
+### DE pequeña (2 min)
+
+- Servicio **predecible**
+- Tiempo similar
+- ✅ **Bueno**
+]
+
+.alert-warning[
+### DE grande (15 min)
+
+- Servicio **inconsistente**
+- Tiempos muy variables
+- ⚠️ **Problema**
+]
+]
+
+---
+
+# 📐 Coeficiente de Variación (CV)
+
+## ¿Por qué lo necesitamos?
+
+No podemos comparar DE directamente si las escalas son diferentes
+
+--
+
+**Ejemplo:**
+
+- **Variable A:** Satisfacción (1-10), DE = 2
+- **Variable B:** Tiempo (minutos), DE = 15
+
+¿Cuál es más variable?
+
+---
+
+# Solución: Coeficiente de Variación
+
+.math-display[
+CV = (DE / Media) × 100%
+]
+
+Expresa la DE como **porcentaje de la media**
+
+---
+
+# CV: Aplicación
+
+.two-col[
+<div>
+
+### Variable A
+
+**Satisfacción**
+
+- Media: 8
+- DE: 2
+- **CV:** (2/8) × 100
+
+.math-display[
+= 25%
+]
+
+</div>
+
+<div>
+
+### Variable B
+
+**Tiempo Espera**
+
+- Media: 30 min
+- DE: 15 min
+- **CV:** (15/30) × 100
+
+.math-display[
+= 50%
+]
+
+</div>
+]
+
+---
+
+# CV: Interpretación
+
+.alert-success[
+### ✅ Conclusión
+
+Tiempo de espera es **MÁS variable** (50% vs 25%)
+
+Aunque DE es mayor (15 vs 2), el CV nos permite comparar variables en diferentes escalas
+]
+
+---
+
+# Resumen: Medidas Descriptivas
+
+.two-col[
+.highlight-box[
+## Tendencia Central
+
+🎯 **¿Dónde está el centro?**
+
+- **Media:** Balance
+- **Mediana:** Valor del medio
+- **Moda:** Más frecuente
+]
+
+.highlight-box[
+## Dispersión
+
+📊 **¿Qué tan dispersos?**
+
+- **Rango:** Max - Min
+- **DE:** Dispersión promedio
+- **CV:** DE relativa
+]
+]
+
+---
+
+# Regla de Oro
+
+.alert-warning[
+### ⚠️ Nunca reportes solo la media
+
+**SIEMPRE** incluye una medida de dispersión
+
+Media sin DE = información incompleta
+]
+
+---
+
+class: center, middle
+
+# Caso Práctico
+
+## Dos Departamentos de ONG
+
+---
+
+# Departamento Legal
+
+**Satisfacción (1-10):**
+
+.math-display[
+8.5, 9.0, 8.7, 9.2, 8.8
+
+9.1, 8.6, 9.0, 8.9, 8.7
+]
+
+--
+
+**Análisis:**
+- Media: **8.85**
+- Mediana: **8.85**
+- DE: **0.21**
+- Rango: **0.7**
+
+--
+
+.alert-success[
+✅ **MUY consistente**
+]
+
+---
+
+# Departamento Trámites
+
+**Satisfacción (1-10):**
+
+.math-display[
+6.0, 4.5, 7.2, 3.8, 8.1
+
+5.5, 6.8, 4.2, 7.5, 5.9
+]
+
+--
+
+**Análisis:**
+- Media: **5.95**
+- Mediana: **6.0**
+- DE: **1.48**
+- Rango: **4.3**
+
+--
+
+.alert-warning[
+⚠️ **MUY variable**
+]
+
+---
+
+# Comparación
+
+.two-col[
+<div>
+
+### Dept. Legal
+
+- Alta satisfacción (8.85)
+- Muy consistente (DE = 0.21)
+- **Todos contentos**
+
+</div>
+
+<div>
+
+### Dept. Trámites
+
+- Baja satisfacción (5.95)
+- Muy inconsistente (DE = 1.48)
+- **Experiencia impredecible**
+
+</div>
+]
+
+---
+
+# Líneas de Acción
+
+.alert-success[
+### ✅ Departamento Legal
+
+- Mantener prácticas actuales
+- Documentar qué hacen bien
+- Replicar en otros departamentos
+]
+
+--
+
+.alert-warning[
+### ⚠️ Departamento Trámites
+
+- **Urgente:** Investigar causas
+- Estandarizar procesos
+- Capacitar personal
+- Medir impacto de mejoras
+]
+
+---
+
+class: center, middle
+
+# 🔑 Sin medidas de dispersión
+
+# NO habríamos detectado el problema
+
+---
+
+# Lecciones Clave
+
+.three-col[
+.highlight-box[
+### 1️⃣ Contexto
+
+Ninguna medida es perfecta
+
+Usa la apropiada
+]
+
+.highlight-box[
+### 2️⃣ Ambas
+
+Centro + Dispersión
+
+Información completa
+]
+
+.highlight-box[
+### 3️⃣ Interpretación
+
+Los números cuentan historias
+
+Traduce a acciones
+]
+]
+
+---
+
+class: center, middle
+
+# La estadística descriptiva es el primer paso
+
+# para entender tus datos
+
+---
+
+class: center, middle
+
+# ¡Gracias!
+
+.big-emoji[📊]
+
+### Preguntas
+
+.footer[CD2001B | Tec de Monterrey Campus Puebla]
+
+  </textarea>
+
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+  <script>
+    var slideshow = remark.create({
+      ratio: '16:9',
+      highlightStyle: 'github',
+      highlightLines: true,
+      countIncrementalSlides: false,
+      navigation: {
+        scroll: false,
+        touch: true,
+        click: false
+      }
+    });
+  </script>
+</body>
+</html>
