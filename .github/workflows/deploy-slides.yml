@@ -1,0 +1,80 @@
+name: Deploy Slides to GitHub Pages
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'semana3_reduced_localized/**'
+      - '.github/workflows/deploy-slides.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install -g @slidev/cli @slidev/theme-default @slidev/theme-seriph @slidev/theme-default
+
+      - name: Build Slide 1 (Estrategia)
+        run: |
+          npx slidev build semana3_reduced_localized/slide1_estrategia_analisis.md --base /diagnostico-lineas-accion/slide1/ --out dist/slide1
+
+      - name: Build Slide 2 (Herramientas)
+        run: |
+          npx slidev build semana3_reduced_localized/slide2_herramientas_medicion.md --base /diagnostico-lineas-accion/slide2/ --out dist/slide2
+
+      - name: Create Landing Page
+        run: |
+          echo '<!DOCTYPE html>
+          <html lang="es">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Slides Semana 3 - Diagnóstico</title>
+              <style>
+                  body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; line-height: 1.5; }
+                  h1 { color: #2563eb; }
+                  .card { border: 1px solid #e5e7eb; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1rem; transition: transform 0.2s; }
+                  .card:hover { transform: translateY(-2px); box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+                  a { text-decoration: none; color: inherit; display: block; }
+                  .tag { background: #dbeafe; color: #1e40af; padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.875rem; display: inline-block; margin-bottom: 0.5rem; }
+              </style>
+          </head>
+          <body>
+              <h1>📚 Slides Semana 3: Administración Estratégica</h1>
+              <p>Material para el curso CD2001B - Diagnóstico para Líneas de Acción (Caso Teletón)</p>
+              
+              <a href="./slide1/" class="card">
+                  <span class="tag">Parte 1</span>
+                  <h2>🔭 Estrategia y Análisis del Entorno</h2>
+                  <p>Fundamentos, Misión/Visión, PESTEL, FODA y Controversia ONU.</p>
+              </a>
+
+              <a href="./slide2/" class="card">
+                  <span class="tag">Parte 2</span>
+                  <h2>🛠️ Herramientas de Medición</h2>
+                  <p>Objetivos SMART, KPIs, 5 Fuerzas de Porter y Matriz BCG.</p>
+              </a>
+              
+              <footer style="margin-top: 3rem; font-size: 0.875rem; color: #6b7280;">
+                  Generado automáticamente con Slidev y GitHub Actions.
+              </footer>
+          </body>
+          </html>' > dist/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
