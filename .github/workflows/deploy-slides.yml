@@ -24,7 +24,7 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        run: npm install -g @slidev/cli @slidev/theme-default @slidev/theme-seriph @slidev/theme-default
+        run: npm install @slidev/cli @slidev/theme-default @slidev/theme-seriph
 
       - name: Build Slide 1 (Estrategia)
         run: |
