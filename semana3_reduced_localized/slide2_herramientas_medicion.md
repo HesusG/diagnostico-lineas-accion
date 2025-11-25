@@ -36,7 +36,40 @@ css: unocss
 layout: section
 ---
 
-# 1. Objetivos Estratégicos y KPIs
+# 1. Contexto Histórico: Los Gigantes de la Estrategia
+## ¿De dónde vienen estas herramientas?
+
+---
+
+# Harvard Business School: La Cuna de la Estrategia
+
+<div class="grid grid-cols-2 gap-8 mt-4">
+<div>
+
+### Michael Porter (1947-)
+**"El Padre de la Estrategia Moderna"**
+- Profesor en Harvard.
+- En 1979 revolucionó el campo con las **5 Fuerzas**.
+- Antes de él, la estrategia era "arte"; él le dio **rigor económico**.
+- **Concepto Clave:** Ventaja Competitiva.
+
+</div>
+<div v-click>
+
+### Clayton Christensen (1952-2020)
+**"El Dilema del Innovador" (1997)**
+- Explicó por qué las grandes empresas fallan.
+- **Disrupción:** Innovaciones baratas que al principio parecen "malas" (ej. Netflix vs Blockbuster).
+- **Lección para Teletón:** ¿Quién podría "disrumpir" la caridad tradicional? (ej. GoFundMe).
+
+</div>
+</div>
+
+---
+layout: section
+---
+
+# 2. Objetivos Estratégicos y KPIs
 ## Lo que no se mide, no se mejora
 
 ---
@@ -118,12 +151,17 @@ Son métricas cuantificables que nos dicen si estamos cumpliendo los objetivos.
 <div class="p-4 bg-gray-100 rounded">
 ### Tus KPIs del Dashboard (Teletón)
 
-| KPI | Definición | Contexto Estratégico |
-|-----|------------|-------------------|
-| **NPS** | `% Promotores - % Detractores` | Contrarresta la "fatiga del donante". |
-| **Transparencia** | Percepción (1-10) | Clave para mantener estatus SAT. |
-| **Índice Calidad** | Promedio Dimensiones | Evidencia contra críticas de "mal trato". |
-| **Antigüedad** | Años donando | Mide lealtad (Lifetime Value). |
+| KPI | Definición | Valor Actual (Tu Dashboard) | Contexto Estratégico |
+|-----|------------|---------------------------|-------------------|
+| **NPS** | `% Promotores - % Detractores` | **+40** (Bueno) | Contrarresta la "fatiga del donante". |
+| **Transparencia** | Percepción (1-10) | **79%** (Alto) | Clave para mantener estatus SAT. |
+| **Índice Calidad** | Promedio Dimensiones | **73%** (Aceptable) | Evidencia contra críticas de "mal trato". |
+| **Responsiveness** | Rapidez de respuesta | **3.60/5** (Bajo) | **¡Alerta Roja!** El punto débil a mejorar. |
+</div>
+
+<div v-click class="mt-4 p-2 bg-red-500 bg-opacity-10 rounded text-sm">
+**Insight del Dashboard:**
+Aunque el NPS es positivo (+40), la dimensión de **Responsiveness** (3.60) es un "foco rojo". Sin tu dashboard, Teletón seguiría creyendo que todo es perfecto.
 </div>
 </div>
 
@@ -154,18 +192,22 @@ Si el NPS bajó de 70 a 50, eso significa que **perdieron palanca para recaudar*
 </div>
 </div>
 
-<div v-click class="mt-8 p-6 bg-orange-500 bg-opacity-20 rounded-xl">
-
-**Reflexión:** Tu dashboard con KPIs no es "decorativo". Es la forma en que Teletón **rinde cuentas** a 100,000+ donantes.
-
-</div>
 
 ---
 layout: section
 ---
 
-# 2. Las 5 Fuerzas de Porter
-## Análisis de la Industria
+---
+layout: center
+class: text-center
+---
+
+---
+layout: section
+---
+
+# 3. Las 5 Fuerzas de Porter
+## Análisis de la Industria (Michael Porter, 1979)
 
 ---
 
@@ -224,7 +266,7 @@ Proveedores de tecnología médica especializada. Inflación médica es alta.
 ### 5. Clientes (Donantes)
 **Muy Alto.**
 Las empresas exigen recibos deducibles y reportes.
-**Tu dashboard** es la herramienta para satisfacer este poder.
+**Evidencia:** Tu dashboard muestra que las **Empresas** son el segmento MENOS satisfecho (**NPS +29** vs +40 promedio). Son exigentes y castigan la falta de atención.
 </div>
 </div>
 
@@ -269,76 +311,88 @@ class: text-center
 layout: section
 ---
 
-# 3. Matriz BCG (Boston Consulting Group)
-## Análisis del Portafolio
+---
+layout: center
+class: text-center
+---
+
+# 🔍 Perspectiva Crítica: ¿Cuándo Fallan los KPIs?
+## La Ley de Goodhart
+
+<div class="grid grid-cols-2 gap-8 mt-12 text-left">
+<div>
+
+### "Cuando una medida se convierte en objetivo, deja de ser una buena medida."
+
+**El Riesgo en Teletón:**
+Si presionamos demasiado por subir el **NPS** (la calificación), los empleados podrían empezar a "rogar" por dieces en lugar de dar un buen servicio.
+
+</div>
+<div v-click>
+
+### El Antídoto: Balance
+Por eso tu dashboard mide **Calidad (SERVQUAL)** y **Transparencia** al mismo tiempo.
+
+- Un NPS alto con baja Calidad es sospechoso.
+- Un NPS alto con alta Calidad es **real**.
+
+</div>
+</div>
+
+# 4. Matriz BCG (Boston Consulting Group)
+## Gestión de Portafolio (Bruce Henderson, 1970)
 
 ---
 
-# ¿Qué es la Matriz BCG?
+# Historia: ¿Por qué "Boston Consulting Group"?
 
-Herramienta para analizar la cartera de productos/servicios de una organización en base a dos ejes:
+<div class="grid grid-cols-2 gap-8 mt-6">
+<div>
 
-1.  **Crecimiento del Mercado:** ¿Qué tanto crece la demanda?
-2.  **Participación de Mercado:** ¿Qué tan fuertes somos nosotros?
+### El Origen (1970)
+- Creada por **Bruce Henderson**, fundador de BCG.
+- En los 70s, los conglomerados tenían muchos negocios y no sabían a cuál darle dinero.
+- **La Solución:** Una matriz simple de 2x2 para decidir dónde **invertir** y dónde **cortar**.
 
-<div class="grid grid-cols-2 gap-4 mt-6 text-center text-sm">
-<div class="border border-yellow-500 p-2 rounded">
-**ESTRELLA 🌟**
-Alto Crecimiento, Alta Participación.
-(Invertir)
 </div>
-<div class="border border-gray-500 p-2 rounded">
-**INTERROGANTE ❓**
-Alto Crecimiento, Baja Participación.
-(¿Apostar o dejar?)
-</div>
-<div class="border border-green-500 p-2 rounded">
-**VACA LECHERA 🐮**
-Bajo Crecimiento, Alta Participación.
-(Genera efectivo)
-</div>
-<div class="border border-red-500 p-2 rounded">
-**PERRO 🐶**
-Bajo Crecimiento, Baja Participación.
-(Descartar)
+<div>
+
+### ¿Qué hacen las Consultoras?
+- Firmas como **BCG, McKinsey y Bain** cobran millones por responder una pregunta:
+- **"¿En qué canasta pongo mis huevos?"**
+- Esta matriz fue la primera herramienta visual para responderlo.
+
 </div>
 </div>
 
 ---
 
-# Matriz BCG: Portafolio Teletón
+# Matriz BCG: Portafolio Teletón (Resumen)
 
-<div class="grid grid-cols-2 gap-8 mt-8">
+<div class="grid grid-cols-2 gap-4 mt-4 text-sm">
 
-<div class="border border-yellow-500 p-4 rounded relative">
-<div class="absolute top-0 right-0 bg-yellow-500 text-black px-2 text-xs font-bold">ESTRELLA 🌟</div>
-### CRITs (Rehabilitación)
-- **Alta Demanda:** Listas de espera históricas.
-- **Alto Impacto:** Modelo reconocido.
-- **Estrategia:** Invertir para mantener calidad.
+<div class="border border-yellow-500 p-3 rounded">
+**ESTRELLA 🌟 (CRITs)**
+Alta Inversión / Alto Crecimiento.
+*Estrategia: Mantener liderazgo.*
 </div>
 
-<div class="border border-gray-500 p-4 rounded relative">
-<div class="absolute top-0 right-0 bg-gray-500 text-white px-2 text-xs font-bold">INTERROGANTE ❓</div>
-### Centro de Autismo
-- **Alta Demanda:** Diagnósticos en aumento.
-- **Baja Participación:** Pocos centros.
-- **Estrategia:** ¿Expandir modelo? Requiere inversión.
+<div class="border border-gray-500 p-3 rounded">
+**INTERROGANTE ❓ (Autismo)**
+Alta Demanda / Baja Participación.
+*Dilema: ¿Apostar doble o salir?*
 </div>
 
-<div class="border border-green-500 p-4 rounded relative">
-<div class="absolute top-0 right-0 bg-green-500 text-black px-2 text-xs font-bold">VACA LECHERA 🐮</div>
-### Evento Teletón (Recaudación)
-- **Bajo Crecimiento:** TV abierta pierde audiencia.
-- **Alta Participación:** Fuente principal de cash ($1.8MM).
-- **Estrategia:** Ordeñar para financiar la operación.
+<div class="border border-green-500 p-3 rounded">
+**VACA LECHERA 🐮 (Evento TV)**
+Bajo Crecimiento / Alta Participación.
+*Estrategia: "Ordeñar" fondos para los CRITs.*
 </div>
 
-<div class="border border-red-500 p-4 rounded relative">
-<div class="absolute top-0 right-0 bg-red-500 text-white px-2 text-xs font-bold">PERRO 🐶</div>
-### Proyectos Descontinuados
-- Iniciativas sin impacto medible.
-- **Estrategia:** Cerrar para cuidar recursos.
+<div class="border border-red-500 p-3 rounded">
+**PERRO 🐶 (Proyectos Viejos)**
+Bajo Crecimiento / Baja Participación.
+*Estrategia: Eliminar.*
 </div>
 
 </div>
@@ -370,34 +424,102 @@ Tu análisis de `teleton.xlsx` provee la **evidencia** para:
 </div>
 
 ---
+layout: section
+---
+
+# 📚 Evidencia: ¿Sirve Medir?
+## La ciencia detrás de los KPIs
+
+---
+
+# El ROI de la Medición (Balanced Scorecard)
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+### Kaplan & Norton (Harvard)
+Los creadores del **Balanced Scorecard** demostraron que medir solo finanzas es un error.
+
+**Hallazgo:**
+Las organizaciones que miden **activos intangibles** (como satisfacción del cliente/donante) tienen un desempeño superior a largo plazo.
+
+</div>
+<div v-click>
+
+### McKinsey Global Institute
+**"Data-Driven Organizations"**
+
+- **23x** más probabilidades de adquirir clientes (donantes).
+- **6x** más probabilidades de retenerlos.
+- **19x** más probabilidades de ser rentables.
+
+**Tu Proyecto:**
+Al medir NPS y Calidad, estás convirtiendo a Teletón en una "Data-Driven NGO".
+
+</div>
+</div>
+
+---
 layout: center
 class: text-center
 ---
 
-# 💡 El "Por Qué" Final: Tu Rol Estratégico
+# 💡 El Poder de los Datos en la Medición
 
 <div class="grid grid-cols-2 gap-8 mt-12">
+<div>
+
+### Sin Datos (La "Fe")
+- "Yo siento que los donantes nos quieren."
+- "Creo que los CRITs atienden bien."
+- "Supongo que las empresas están felices."
+
+</div>
 <div v-click>
 
-### Datos Sin Estrategia = Desperdicio
-- Puedes hacer el dashboard más bonito del mundo.
-- Pero si no entiendes **por qué** el NPS importa (Porter), **qué hacer** si baja (FODA), o **dónde invertir** (BCG), el dashboard es inútil.
-
-</div>
-<div v-click>
-
-### Estrategia Sin Datos = Ficción
-- Puedes tener el FODA más brillante.
-- Pero sin datos de satisfacción (tu Excel), las "Fortalezas" son solo **opiniones**.
-
-**La magia está en la intersección:**
-**Estrategia + Datos = Decisiones que Salvan Vidas.**
+### Con Datos (Tu Dashboard)
+- "Sabemos que el **NPS es +40** (nos quieren, pero pueden mejorar)."
+- "Sabemos que **Responsiveness es 3.60** (hay que atender más rápido)."
+- "Sabemos que las **Empresas tienen NPS +29** (no están tan felices)."
 
 </div>
 </div>
+
+<div v-click class="mt-8 p-6 bg-gradient-to-r from-blue-500 to-green-500 bg-opacity-20 rounded-xl">
+
+**Tu dashboard es la diferencia entre administrar por "fe" y administrar con ESTRATEGIA.**
+
+</div>
+
+---
+layout: center
+class: text-center
+---
+
 
 <div v-click class="mt-8 p-6 bg-gradient-to-r from-purple-500 to-pink-500 bg-opacity-30 rounded-xl text-lg font-bold">
 
 🎯 **Misión Cumplida:** Ahora entiendes que no eres solo un "analista de datos". Eres un **estratega con datos**.
+
+</div>
+---
+
+# Lecturas Recomendadas (Open Access)
+
+<div class="text-sm">
+
+### Para Profundizar
+
+1. 🔗 **SMART Goals in Nonprofits** - Global Alliance for Communities  
+   <a href="https://globalallianceforcommunities.org" target="_blank">globalallianceforcommunities.org</a> (Buscar: "SMART goals effectiveness")
+
+2. 🔗 **Porter's 5 Forces for Nonprofits** - Wharton Global Youth Program  
+   <a href="https://globalyouth.wharton.upenn.edu" target="_blank">globalyouth.wharton.upenn.edu</a> (Lesson Plan: Nonprofit Strategy)
+
+3. 🔗 **BCG Matrix in Social Sector** - Management Centre UK  
+   <a href="https://www.managementcentre.co.uk" target="_blank">managementcentre.co.uk</a> (Fundraising Portfolio Analysis)
+
+4. 🔗 **The Balanced Scorecard for Public Sector** - Kaplan & Norton (HBR)  
+   <a href="https://hbr.org" target="_blank">hbr.org</a> (Classic Article)
 
 </div>
