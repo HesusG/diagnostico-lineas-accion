@@ -1,0 +1,445 @@
+{
+  "estudiante": "José Pablo Garza Albuerne",
+  "fecha": "2025-12-02T20:00:03.837960",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica claramente las variables esenciales (R1, R2, R3) y su impacto en la calidad del servicio.",
+        "Utiliza herramientas tecnológicas (SERVQUAL, Looker Studio) para resumir y visualizar la información de manera efectiva.",
+        "Presenta gráficos y tablas descriptivas que muestran de manera atractiva la información relevante.",
+        "Interpreta coherentemente los resultados en el contexto de la problemática de la Fundación Teletón, vinculándolos con los ODS y principios éticos."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables clave (R1, R2, R3) con estadísticas descriptivas claras.",
+        "Excelente integración de herramientas tecnológicas para la visualización y análisis de datos.",
+        "Interpretación contextualizada y relevante para la problemática social y organizacional."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre la metodología de recolección de datos (muestreo, instrumentos).",
+        "Profundizar en la comparación entre regiones con análisis inferencial para mayor robustez."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis descriptivo y la interpretación contextual. Considera en futuros proyectos incluir análisis inferencial para fortalecer las conclusiones."
+    },
+    "SCD0105": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos claros y atractivos en Looker Studio",
+        "Identificación precisa de los niveles de medición de las variables (R1, R2, R3)",
+        "Selección congruente del tipo de gráfico según los niveles de medición",
+        "Interpretación clara y efectiva de la información en los gráficos"
+      ],
+      "fortalezas": [
+        "Excelente uso del modelo SERVQUAL para evaluar la calidad del servicio",
+        "Análisis detallado y comparativo por giro, región y antigüedad",
+        "Propuestas de líneas de acción táctica basadas en evidencia"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre la metodología de visualización en Looker Studio",
+        "Ampliar la interpretación de los gráficos para incluir más dimensiones del SERVQUAL"
+      ],
+      "retroalimentacion": "El trabajo demuestra un desempeño óptimo en la generación y análisis de gráficos dinámicos, con un enfoque claro en la toma de decisiones basada en datos. Las propuestas de mejora son pertinentes y bien fundamentadas."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpretación efectiva de los insights de los tableros inteligentes y seguimiento de indicadores del plan estratégico.",
+        "Uso adecuado del modelo SERVQUAL para el análisis de la calidad del servicio.",
+        "Identificación clara de riesgos y oportunidades, como la variabilidad en la flexibilidad (R3) y la disposición a ayudar (R2) como fortaleza.",
+        "Propuesta de líneas de acción estratégicas basadas en evidencia, como capacitación en flexibilidad y optimización de rapidez."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de las dimensiones de calidad del servicio.",
+        "Propuestas de acción claras y específicas para mejorar los indicadores identificados.",
+        "Integración de aspectos éticos y de impacto social en las conclusiones y propuestas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las líneas de acción propuestas.",
+        "Sería útil un análisis más profundo de las diferencias regionales y su impacto en la calidad del servicio."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Continúa profundizando en la implementación de las mejoras y el análisis regional para un impacto aún mayor."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa de fidelización Benefactor Cercano' y capacitaciones específicas para mejorar flexibilidad y atención personalizada.",
+        "Valida las características de los prototipos mediante el análisis de datos de 273 encuestas utilizando el modelo SERVQUAL, identificando fortalezas y áreas de mejora en las dimensiones de capacidad de respuesta.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como regiones geográficas y diferentes giros de benefactores, proponiendo acciones tácticas basadas en evidencia."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que permite identificar claramente las áreas de oportunidad.",
+        "Propuestas de acción concretas y fundamentadas en los resultados del análisis.",
+        "Enfoque en la mejora continua y la replicación de buenas prácticas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán y validarán las soluciones propuestas.",
+        "Sería beneficioso explorar más a fondo cómo las soluciones innovadoras podrían escalarse a otros contextos o unidades estratégicas de la organización."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y propone soluciones innovadoras basadas en datos. Para alcanzar un nivel destacado, considera profundizar en la validación y escalabilidad de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis SERVQUAL, identificando fortalezas y áreas de mejora en la calidad del servicio.",
+        "Establece compromisos y propuestas de acción específicas como capacitación en flexibilidad, optimización de rapidez y fortalecimiento de disposición a ayudar.",
+        "Logra los objetivos planteados al presentar un análisis completo y propuestas basadas en evidencia."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos reales.",
+        "Propuestas de acción claras y específicas.",
+        "Contribución al impacto social y cumplimiento de ODS."
+      ],
+      "areas_mejora": [
+        "Podría incluir más evidencias de trabajo colaborativo en la generación de las propuestas.",
+        "Falta detalle sobre la implementación y seguimiento de las acciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas. Para alcanzar el nivel Destacado, considera incluir más detalles sobre el proceso colaborativo en la generación de las propuestas y cómo se implementarán."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante propone soluciones constructivas y solidarias como el 'Programa de fidelización Benefactor Cercano' y capacitaciones específicas para mejorar la flexibilidad y atención personalizada.",
+        "Demuestra sensibilidad social al analizar las desigualdades en el acceso a rehabilitación y servicios de salud especializados en México.",
+        "Muestra compromiso comunitario al evaluar y proponer mejoras para la Fundación Teletón, una organización que atiende a personas con discapacidad, autismo y cáncer.",
+        "Respeto a la dignidad humana al argumentar éticamente la propuesta de intervención, destacando principios como dignidad humana, acceso equitativo, transparencia y justicia social."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respalda las propuestas de mejora.",
+        "Enfoque en principios éticos y de responsabilidad social en todas las propuestas.",
+        "Sensibilidad hacia las necesidades de grupos vulnerables y compromiso con su bienestar."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las capacitaciones y programas propuestos.",
+        "Profundizar en cómo las soluciones propuestas impactarían directamente a los beneficiarios finales."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar ética y responsabilidad social en tu análisis y propuestas. Continúa desarrollando soluciones que promuevan la dignidad y bienestar de las personas."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza todas las variables esenciales en la información, incluyendo rapidez (R1), disposición a ayudar (R2) y flexibilidad (R3).",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, presentando los resultados de manera clara y atractiva.",
+        "Interpreta de manera coherente los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, relacionándolos con los ODS y principios éticos.",
+        "Propone líneas de acción táctica basadas en evidencia, como capacitación en flexibilidad, optimización de rapidez y fortalecimiento de disposición a ayudar."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables clave.",
+        "Uso efectivo de herramientas tecnológicas para la visualización de datos.",
+        "Interpretación contextualizada y relevante para la problemática social.",
+        "Propuestas de acción concretas y basadas en datos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre las limitaciones del estudio o posibles sesgos en los datos.",
+        "Profundizar en la justificación de las herramientas tecnológicas utilizadas."
+      ],
+      "retroalimentacion": "Excelente trabajo. Has demostrado un dominio completo de la estadística descriptiva y su aplicación en un contexto social relevante. Tus propuestas de acción son sólidas y bien fundamentadas. Sigue así."
+    },
+    "SCD0105": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos claros y atractivos en Looker Studio",
+        "Identificación precisa de los niveles de medición de las variables (R1, R2, R3)",
+        "Selección congruente del tipo de gráfico para cada variable analizada",
+        "Interpretación clara y efectiva de la información en los comparativos por giro, región y antigüedad"
+      ],
+      "fortalezas": [
+        "Uso de herramientas tecnológicas actuales (Looker Studio) para la visualización de datos",
+        "Capacidad para destacar información relevante para la toma de decisiones",
+        "Presentación de datos de manera clara y profesional"
+      ],
+      "areas_mejora": [
+        "Incluir más variedad de gráficos dinámicos para representar diferentes tipos de datos",
+        "Profundizar en el análisis visual de las correlaciones entre variables"
+      ],
+      "retroalimentacion": "Excelente trabajo en la creación e interpretación de gráficos dinámicos. Los visuales son claros, relevantes y apoyan efectivamente la toma de decisiones. Continúa explorando nuevas formas de visualización para enriquecer tus análisis."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta efectivamente los insights de los tableros inteligentes y el seguimiento de indicadores del plan estratégico, identificando fortalezas y áreas de mejora en las dimensiones de capacidad de respuesta (R1, R2, R3).",
+        "Utiliza herramientas de análisis pertinentes como el modelo SERVQUAL y tableros de visualización para el estudio.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la variabilidad en la flexibilidad (R3) y las diferencias regionales en la percepción del servicio.",
+        "Propone líneas de acción estratégicas basadas en evidencia, como capacitación en flexibilidad, optimización de rapidez y fortalecimiento de la disposición a ayudar."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de las variables clave (R1, R2, R3) utilizando estadísticas descriptivas y comparativos por giro, región y antigüedad.",
+        "Propuestas de acción claras y específicas que abordan las áreas de mejora identificadas.",
+        "Integración de aspectos éticos y de impacto social en las líneas de acción, alineadas con los ODS."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de las variables globales (desempeño, recomendación, claridad de información) para complementar las conclusiones.",
+        "Incluir más detalles sobre la implementación práctica de las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la identificación de insights y propuesta de líneas de acción estratégicas. El análisis es robusto y bien fundamentado, con un claro enfoque en la mejora continua del servicio. Continúa desarrollando tu capacidad para integrar más variables en futuros análisis."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el Programa de fidelización 'Benefactor Cercano' y la Estrategia geográfica de fortalecimiento del servicio.",
+        "Valida las características de los prototipos mediante el análisis de datos de 273 encuestas utilizando el modelo SERVQUAL.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como regiones geográficas y diferentes giros de benefactores."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respalda las soluciones propuestas.",
+        "Propuestas de acción táctica claras y específicas para mejorar la calidad del servicio."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán y validarán las soluciones propuestas en el campo.",
+        "Falta de prototipos físicos o simulaciones que demuestren la viabilidad de las soluciones."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación de soluciones innovadoras basadas en datos. Para alcanzar el nivel Destacado, considera incluir más detalles sobre la implementación y validación práctica de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Análisis exhaustivo de la calidad del servicio utilizando el modelo SERVQUAL con 273 encuestas",
+        "Identificación clara de fortalezas (disposición a ayudar) y áreas de mejora (flexibilidad)",
+        "Propuesta de tres líneas de acción táctica basadas en evidencia estadística",
+        "Comparativos detallados por giro, región y antigüedad del benefactor",
+        "Vinculación explícita con ODS 16, 3 y 10, demostrando impacto social y ético"
+      ],
+      "fortalezas": [
+        "Profundidad analítica en el tratamiento de datos cuantitativo-cualitativos",
+        "Estructura lógica y coherente que integra diagnóstico, análisis y propuestas",
+        "Uso estratégico de visualizaciones para comunicar hallazgos",
+        "Alineación perfecta entre hallazgos estadísticos y recomendaciones prácticas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en metodologías cualitativas complementarias",
+        "Oportunidad para incluir benchmarking con otras ONGs similares"
+      ],
+      "retroalimentacion": "Excelente trabajo que supera los criterios de desempeño. El estudiante demuestra dominio avanzado en análisis de datos aplicado a problemáticas sociales reales, con propuestas accionables y bien fundamentadas. La integración de dimensiones éticas y de sostenibilidad agrega valor estratégico al análisis."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como el 'Programa de fidelización Benefactor Cercano' y capacitaciones específicas para mejorar flexibilidad y atención personalizada.",
+        "Demuestra sensibilidad social al analizar las desigualdades en el acceso a rehabilitación y servicios de salud especializados en México.",
+        "Muestra compromiso comunitario al proponer estrategias para mejorar la calidad del servicio en diferentes regiones y para distintos grupos de beneficiarios.",
+        "Respeto a la dignidad humana al argumentar éticamente la propuesta de intervención, destacando principios como dignidad humana, acceso equitativo, transparencia y justicia social."
+      ],
+      "fortalezas": [
+        "Análisis profundo y basado en evidencia de las necesidades de la comunidad.",
+        "Propuestas de acción claras y enfocadas en mejorar la calidad del servicio y la experiencia de los usuarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las capacitaciones y cómo se medirá su impacto."
+      ],
+      "retroalimentacion": "Excelente trabajo en demostrar ética y responsabilidad social. Las propuestas son sólidas y bien fundamentadas, mostrando un claro compromiso con la mejora continua y el respeto a la dignidad de las personas."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "ronda1": 88,
+        "ronda2": 100,
+        "diferencia": 12
+      }
+    ],
+    "areas_debiles": [],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0104",
+        "nombre": "Estadística Descriptiva",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis exhaustivo y detallado de las variables clave.",
+          "Uso efectivo de herramientas tecnológicas para la visualización de datos.",
+          "Interpretación contextualizada y relevante para la problemática social.",
+          "Propuestas de acción concretas y basadas en datos."
+        ]
+      },
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Uso de herramientas tecnológicas actuales (Looker Studio) para la visualización de datos",
+          "Capacidad para destacar información relevante para la toma de decisiones",
+          "Presentación de datos de manera clara y profesional"
+        ]
+      },
+      {
+        "codigo": "SCD0303",
+        "nombre": "Insights y Líneas de Acción",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis detallado y bien fundamentado de las variables clave (R1, R2, R3) utilizando estadísticas descriptivas y comparativos por giro, región y antigüedad.",
+          "Propuestas de acción claras y específicas que abordan las áreas de mejora identificadas.",
+          "Integración de aspectos éticos y de impacto social en las líneas de acción, alineadas con los ODS."
+        ]
+      },
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "promedio": 94.0,
+        "fortalezas": [
+          "Profundidad analítica en el tratamiento de datos cuantitativo-cualitativos",
+          "Estructura lógica y coherente que integra diagnóstico, análisis y propuestas",
+          "Uso estratégico de visualizaciones para comunicar hallazgos",
+          "Alineación perfecta entre hallazgos estadísticos y recomendaciones prácticas"
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y basado en evidencia de las necesidades de la comunidad.",
+          "Propuestas de acción claras y enfocadas en mejorar la calidad del servicio y la experiencia de los usuarios."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza todas las variables esenciales en la información, incluyendo rapidez (R1), disposición a ayudar (R2) y flexibilidad (R3).",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, presentando los resultados de manera clara y atractiva.",
+        "Interpreta de manera coherente los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, relacionándolos con los ODS y principios éticos.",
+        "Propone líneas de acción táctica basadas en evidencia, como capacitación en flexibilidad, optimización de rapidez y fortalecimiento de disposición a ayudar."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables clave.",
+        "Uso efectivo de herramientas tecnológicas para la visualización de datos.",
+        "Interpretación contextualizada y relevante para la problemática social.",
+        "Propuestas de acción concretas y basadas en datos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre las limitaciones del estudio o posibles sesgos en los datos.",
+        "Profundizar en la justificación de las herramientas tecnológicas utilizadas."
+      ],
+      "retroalimentacion": "Excelente trabajo. Has demostrado un dominio completo de la estadística descriptiva y su aplicación en un contexto social relevante. Tus propuestas de acción son sólidas y bien fundamentadas. Sigue así.",
+      "promedio_delphi": 100.0
+    },
+    "SCD0105": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos claros y atractivos en Looker Studio",
+        "Identificación precisa de los niveles de medición de las variables (R1, R2, R3)",
+        "Selección congruente del tipo de gráfico para cada variable analizada",
+        "Interpretación clara y efectiva de la información en los comparativos por giro, región y antigüedad"
+      ],
+      "fortalezas": [
+        "Uso de herramientas tecnológicas actuales (Looker Studio) para la visualización de datos",
+        "Capacidad para destacar información relevante para la toma de decisiones",
+        "Presentación de datos de manera clara y profesional"
+      ],
+      "areas_mejora": [
+        "Incluir más variedad de gráficos dinámicos para representar diferentes tipos de datos",
+        "Profundizar en el análisis visual de las correlaciones entre variables"
+      ],
+      "retroalimentacion": "Excelente trabajo en la creación e interpretación de gráficos dinámicos. Los visuales son claros, relevantes y apoyan efectivamente la toma de decisiones. Continúa explorando nuevas formas de visualización para enriquecer tus análisis.",
+      "promedio_delphi": 100.0
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta efectivamente los insights de los tableros inteligentes y el seguimiento de indicadores del plan estratégico, identificando fortalezas y áreas de mejora en las dimensiones de capacidad de respuesta (R1, R2, R3).",
+        "Utiliza herramientas de análisis pertinentes como el modelo SERVQUAL y tableros de visualización para el estudio.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la variabilidad en la flexibilidad (R3) y las diferencias regionales en la percepción del servicio.",
+        "Propone líneas de acción estratégicas basadas en evidencia, como capacitación en flexibilidad, optimización de rapidez y fortalecimiento de la disposición a ayudar."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de las variables clave (R1, R2, R3) utilizando estadísticas descriptivas y comparativos por giro, región y antigüedad.",
+        "Propuestas de acción claras y específicas que abordan las áreas de mejora identificadas.",
+        "Integración de aspectos éticos y de impacto social en las líneas de acción, alineadas con los ODS."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de las variables globales (desempeño, recomendación, claridad de información) para complementar las conclusiones.",
+        "Incluir más detalles sobre la implementación práctica de las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la identificación de insights y propuesta de líneas de acción estratégicas. El análisis es robusto y bien fundamentado, con un claro enfoque en la mejora continua del servicio. Continúa desarrollando tu capacidad para integrar más variables en futuros análisis.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el Programa de fidelización 'Benefactor Cercano' y la Estrategia geográfica de fortalecimiento del servicio.",
+        "Valida las características de los prototipos mediante el análisis de datos de 273 encuestas utilizando el modelo SERVQUAL.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como regiones geográficas y diferentes giros de benefactores."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respalda las soluciones propuestas.",
+        "Propuestas de acción táctica claras y específicas para mejorar la calidad del servicio."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán y validarán las soluciones propuestas en el campo.",
+        "Falta de prototipos físicos o simulaciones que demuestren la viabilidad de las soluciones."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación de soluciones innovadoras basadas en datos. Para alcanzar el nivel Destacado, considera incluir más detalles sobre la implementación y validación práctica de las soluciones propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Análisis exhaustivo de la calidad del servicio utilizando el modelo SERVQUAL con 273 encuestas",
+        "Identificación clara de fortalezas (disposición a ayudar) y áreas de mejora (flexibilidad)",
+        "Propuesta de tres líneas de acción táctica basadas en evidencia estadística",
+        "Comparativos detallados por giro, región y antigüedad del benefactor",
+        "Vinculación explícita con ODS 16, 3 y 10, demostrando impacto social y ético"
+      ],
+      "fortalezas": [
+        "Profundidad analítica en el tratamiento de datos cuantitativo-cualitativos",
+        "Estructura lógica y coherente que integra diagnóstico, análisis y propuestas",
+        "Uso estratégico de visualizaciones para comunicar hallazgos",
+        "Alineación perfecta entre hallazgos estadísticos y recomendaciones prácticas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en metodologías cualitativas complementarias",
+        "Oportunidad para incluir benchmarking con otras ONGs similares"
+      ],
+      "retroalimentacion": "Excelente trabajo que supera los criterios de desempeño. El estudiante demuestra dominio avanzado en análisis de datos aplicado a problemáticas sociales reales, con propuestas accionables y bien fundamentadas. La integración de dimensiones éticas y de sostenibilidad agrega valor estratégico al análisis.",
+      "promedio_delphi": 94.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como el 'Programa de fidelización Benefactor Cercano' y capacitaciones específicas para mejorar flexibilidad y atención personalizada.",
+        "Demuestra sensibilidad social al analizar las desigualdades en el acceso a rehabilitación y servicios de salud especializados en México.",
+        "Muestra compromiso comunitario al proponer estrategias para mejorar la calidad del servicio en diferentes regiones y para distintos grupos de beneficiarios.",
+        "Respeto a la dignidad humana al argumentar éticamente la propuesta de intervención, destacando principios como dignidad humana, acceso equitativo, transparencia y justicia social."
+      ],
+      "fortalezas": [
+        "Análisis profundo y basado en evidencia de las necesidades de la comunidad.",
+        "Propuestas de acción claras y enfocadas en mejorar la calidad del servicio y la experiencia de los usuarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las capacitaciones y cómo se medirá su impacto."
+      ],
+      "retroalimentacion": "Excelente trabajo en demostrar ética y responsabilidad social. Las propuestas son sólidas y bien fundamentadas, mostrando un claro compromiso con la mejora continua y el respeto a la dignidad de las personas.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 98.2,
+  "nivel_final": "Destacado"
+}

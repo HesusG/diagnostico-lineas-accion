@@ -1,0 +1,400 @@
+{
+  "estudiante": "Raymundo Díaz Tijera",
+  "fecha": "2025-12-02T20:07:27.867404",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identificación completa de variables esenciales en el dataset de Teletón",
+        "Uso de herramientas tecnológicas (Python, Tableau) para análisis estadístico y visualización",
+        "Presentación de resultados mediante tablas de frecuencia, estadísticas descriptivas y gráficos",
+        "Interpretación coherente de resultados estadísticos en el contexto de la problemática"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto con múltiples técnicas (chi-cuadrada, regresión)",
+        "Integración efectiva de visualizaciones en dashboard",
+        "Contextualización adecuada del análisis en el marco de los ODS"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis exploratorio de datos inicial",
+        "Mejorar presentación visual de algunos gráficos",
+        "Incluir más detalle en la interpretación de correlaciones"
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico y contextualización. Para alcanzar el nivel Destacado, enfócate en mejorar la presentación visual y profundizar en las interpretaciones de los patrones encontrados."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "El trabajo presentado no incluye gráficos dinámicos ni evidencia de su generación o interpretación."
+      ],
+      "retroalimentacion": "No se encontraron evidencias relacionadas con la generación o interpretación de gráficos dinámicos en el trabajo presentado. Es importante incluir esta evidencia para demostrar la competencia en la creación y uso de gráficos dinámicos para la toma de decisiones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante la metodología CRISP-DM",
+        "Utiliza herramientas de análisis apropiadas como SERVQUAL, chi-cuadrada y regresión múltiple",
+        "Identifica riesgos y oportunidades relevantes para Teletón, como la calidad del servicio y la satisfacción de los benefactores",
+        "Propone líneas de acción estratégicas basadas en los resultados estadísticos y el dashboard en Tableau"
+      ],
+      "fortalezas": [
+        "Análisis detallado y contextualizado de la problemática",
+        "Uso de metodologías y herramientas estadísticas adecuadas",
+        "Presentación clara de los resultados y su impacto en la organización"
+      ],
+      "areas_mejora": [
+        "Profundizar en la interpretación de los insights para generar recomendaciones más específicas",
+        "Incluir más variables en el análisis para aumentar la robustez de los resultados",
+        "Mejorar la visualización de datos para facilitar la toma de decisiones"
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de los insights y propone líneas de acción adecuadas. Para alcanzar un nivel destacado, se recomienda profundizar en la interpretación de los datos y mejorar la visualización para facilitar la toma de decisiones estratégicas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras mediante la aplicación de la metodología SERVQUAL y CRISP-DM.",
+        "Valida las características de los prototipos a través de pruebas estadísticas como Chi-cuadrada y regresión múltiple.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón mediante el desarrollo de un dashboard en Tableau."
+      ],
+      "fortalezas": [
+        "Análisis detallado y sistemático de los datos utilizando metodologías reconocidas.",
+        "Integración de herramientas estadísticas y visuales para presentar los resultados.",
+        "Enfoque en la mejora de la calidad del servicio y la satisfacción de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de los prototipos con más pruebas o interacciones con los usuarios finales.",
+        "Explorar más variables o dimensiones que puedan influir en la satisfacción y calidad del servicio.",
+        "Incluir retroalimentación directa de los beneficiarios o aliados para enriquecer el análisis."
+      ],
+      "retroalimentacion": "El trabajo presenta un sólido análisis y propuestas innovadoras para mejorar la calidad del servicio en la Fundación Teletón. Se recomienda ampliar la validación con más interacciones y retroalimentación directa para optimizar aún más las soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Análisis detallado del contexto social, económico, político y ambiental que impacta en la labor de la organización",
+        "Identificación clara de la problemática atendida por la organización y su relevancia en el país",
+        "Uso de metodología SERVQUAL para evaluar la calidad del servicio y detectar áreas de oportunidad",
+        "Aplicación de metodología CRISP-DM para el análisis de datos y desarrollo de propuestas basadas en datos",
+        "Realización de pruebas de hipótesis (Chi-cuadrada y regresión múltiple) con resultados estadísticamente significativos",
+        "Creación de un dashboard en Tableau con visualizaciones efectivas para la toma de decisiones"
+      ],
+      "fortalezas": [
+        "Comprensión profunda del impacto social y ético de la organización",
+        "Uso adecuado de herramientas estadísticas y de visualización de datos",
+        "Capacidad para generar propuestas estratégicas basadas en evidencia",
+        "Claridad en la comunicación de los resultados y su relevancia para la organización"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre la implementación práctica de las propuestas",
+        "Profundizar en el análisis de las limitaciones del estudio y posibles sesgos"
+      ],
+      "retroalimentacion": "El estudiante ha demostrado un desempeño óptimo en el trabajo colaborativo, generando resultados significativos y estableciendo compromisos claros. Su análisis es integral y bien fundamentado, contribuyendo de manera efectiva al objetivo de mejorar la calidad del servicio de la organización."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del contexto social, económico, político y ambiental que afecta a la Fundación Teletón, destacando su impacto en la vida y dignidad de las personas.",
+        "Presenta soluciones constructivas y solidarias mediante el análisis SERVQUAL, identificando áreas de oportunidad para mejorar la calidad del servicio y fortalecer las relaciones institucionales.",
+        "Muestra un compromiso comunitario evidente al abordar problemáticas relevantes como la accesibilidad a servicios de rehabilitación y la inclusión educativa para personas con discapacidad.",
+        "Respalda sus argumentos con datos estadísticos y análisis cuantitativos, evidenciando un enfoque basado en datos para la toma de decisiones."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de la problemática y su relevancia en el contexto nacional.",
+        "Uso de metodologías estructuradas como CRISP-DM y herramientas como Tableau para presentar datos de manera clara y efectiva.",
+        "Aplicación de pruebas estadísticas robustas (chi-cuadrada, regresión múltiple) para validar hipótesis y tomar decisiones informadas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las propuestas estratégicas en la práctica.",
+        "Profundizar en el impacto específico de las mejoras propuestas en los beneficiarios directos de Teletón."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de compromiso con la ética y responsabilidad social. El análisis es riguroso y las propuestas son sólidas y bien fundamentadas. Continúa integrando perspectivas de los beneficiarios para enriquecer aún más tus propuestas."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como fiabilidad, calidad percibida y satisfacción en el análisis SERVQUAL",
+        "Utiliza herramientas tecnológicas (Python, Tableau) para resumir información mediante estadísticas descriptivas y visualizaciones",
+        "Muestra información relevante en gráficos de mapa, pastel, barras y líneas en el dashboard",
+        "Interpreta resultados de pruebas estadísticas (chi-cuadrada, regresión) en el contexto de la problemática de Teletón"
+      ],
+      "fortalezas": [
+        "Análisis estadístico completo que incluye pruebas de hipótesis y modelado predictivo",
+        "Integración coherente de diferentes técnicas estadísticas para abordar la problemática",
+        "Presentación estructurada de los resultados en dashboard con visualizaciones adecuadas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la interpretación contextual de las estadísticas descriptivas básicas",
+        "Mejorar la integración visual entre los diferentes componentes del dashboard",
+        "Incluir más detalles sobre el proceso de selección y transformación de variables"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de herramientas estadísticas y tecnológicas. Para alcanzar el nivel Destacado, podría enfatizar más en la narrativa que conecta los hallazgos estadísticos con las implicaciones prácticas para Teletón."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "No se presentaron gráficos dinámicos en el trabajo",
+        "Falta de visualización de datos en formatos dinámicos como dashboards o gráficos interactivos"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Se recomienda incluir visualizaciones interactivas o dashboards que muestren claramente la relación entre las variables analizadas para cumplir con la subcompetencia."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante la metodología CRISP-DM",
+        "Utiliza herramientas de análisis apropiadas como chi-cuadrada, correlaciones y regresión lineal múltiple",
+        "Identifica riesgos y oportunidades relevantes para Teletón, como la desconfianza social y la necesidad de fortalecer relaciones institucionales",
+        "Propone líneas de acción estratégicas basadas en el análisis SERVQUAL para mejorar la calidad del servicio"
+      ],
+      "fortalezas": [
+        "Análisis estadístico sólido y bien fundamentado",
+        "Contextualización clara de la problemática y su relevancia",
+        "Uso adecuado de metodologías analíticas (CRISP-DM, SERVQUAL)"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la propuesta de acciones concretas derivadas de los insights",
+        "Falta mayor detalle sobre cómo implementar las líneas de acción identificadas",
+        "Podría incluir más visualizaciones de datos para apoyar los insights"
+      ],
+      "retroalimentacion": "Buen trabajo analítico y contextualización del problema. Para mejorar, desarrollar más las acciones concretas derivadas de los insights y su plan de implementación."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras a través del análisis SERVQUAL y la metodología CRISP-DM",
+        "Valida las características de los prototipos mediante pruebas estadísticas como Chi-cuadrada y regresión lineal múltiple",
+        "Garantiza aplicabilidad efectiva en el contexto de Teletón mediante dashboards y propuestas basadas en datos"
+      ],
+      "fortalezas": [
+        "Uso de metodologías sistemáticas (CRISP-DM) para abordar la problemática",
+        "Validación estadística robusta de las hipótesis planteadas",
+        "Integración de herramientas tecnológicas (Python, Tableau) para la visualización y análisis de datos"
+      ],
+      "areas_mejora": [
+        "Profundizar en la innovación de las soluciones propuestas, más allá del análisis estadístico tradicional",
+        "Incluir prototipos más tangibles o pilotos para validar la implementación de las soluciones",
+        "Ampliar el contexto de aplicación a otros escenarios similares para demostrar mayor versatilidad"
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en generación y validación de soluciones basadas en datos. Para alcanzar el nivel Destacado, se sugiere incorporar elementos más innovadores en las propuestas y demostrar su aplicabilidad en contextos adicionales."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante presenta un análisis detallado y estructurado de la problemática de la Fundación Teletón, utilizando la metodología SERVQUAL para evaluar la calidad del servicio.",
+        "Se evidencia un trabajo colaborativo en la recopilación y análisis de datos, así como en la creación de un dashboard en Tableau que integra diversas variables y técnicas estadísticas.",
+        "El estudiante establece compromisos claros y propuestas estratégicas basadas en los resultados obtenidos, como la mejora en la transparencia y comunicación entre Teletón y sus aliados.",
+        "Se logran los objetivos planteados, como el análisis de la relación entre las variables de fiabilidad y la satisfacción de los beneficiarios, mediante pruebas de hipótesis y modelos de regresión."
+      ],
+      "fortalezas": [
+        "Capacidad para integrar y analizar datos complejos utilizando herramientas como Python y Tableau.",
+        "Habilidad para establecer relaciones significativas entre variables y proponer acciones estratégicas basadas en evidencia.",
+        "Excelente comunicación de los resultados y su impacto en la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre el proceso de colaboración con otros miembros del equipo, si los hubiera, para fortalecer la evidencia del trabajo colaborativo."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas estratégicas para Teletón. Tu capacidad para integrar datos y generar insights valiosos es destacable. Sigue fortaleciendo la documentación del trabajo colaborativo para enriquecer aún más tu desempeño."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del impacto social de la Fundación Teletón, destacando cómo su labor respeta y promueve la dignidad de las personas con discapacidad.",
+        "Presenta soluciones constructivas y solidarias mediante el análisis SERVQUAL para mejorar la calidad del servicio y fortalecer las relaciones institucionales.",
+        "Muestra un compromiso comunitario claro al abordar problemáticas sociales relevantes como el acceso a servicios de rehabilitación y la inclusión educativa.",
+        "Integra argumentos éticos basados en los ODS, específicamente el ODS 16, para justificar la labor de la organización y su contribución a instituciones más justas y transparentes."
+      ],
+      "fortalezas": [
+        "Sensibilidad social y compromiso con la comunidad evidenciado en el análisis detallado de las necesidades de los beneficiarios.",
+        "Capacidad para generar soluciones basadas en datos que respetan la dignidad y derechos de las personas.",
+        "Articulación clara de cómo el trabajo contribuye al bienestar social y al cumplimiento de objetivos de desarrollo sostenible."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactan directamente en la vida cotidiana de los beneficiarios.",
+        "Incluir más testimonios o casos específicos que ilustren el impacto humano de las mejoras propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Continúa integrando perspectivas humanas para enriquecer aún más tus análisis."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "No se presentaron gráficos dinámicos en el trabajo",
+          "Falta de visualización de datos en formatos dinámicos como dashboards o gráficos interactivos"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Capacidad para integrar y analizar datos complejos utilizando herramientas como Python y Tableau.",
+          "Habilidad para establecer relaciones significativas entre variables y proponer acciones estratégicas basadas en evidencia.",
+          "Excelente comunicación de los resultados y su impacto en la organización."
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Sensibilidad social y compromiso con la comunidad evidenciado en el análisis detallado de las necesidades de los beneficiarios.",
+          "Capacidad para generar soluciones basadas en datos que respetan la dignidad y derechos de las personas.",
+          "Articulación clara de cómo el trabajo contribuye al bienestar social y al cumplimiento de objetivos de desarrollo sostenible."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como fiabilidad, calidad percibida y satisfacción en el análisis SERVQUAL",
+        "Utiliza herramientas tecnológicas (Python, Tableau) para resumir información mediante estadísticas descriptivas y visualizaciones",
+        "Muestra información relevante en gráficos de mapa, pastel, barras y líneas en el dashboard",
+        "Interpreta resultados de pruebas estadísticas (chi-cuadrada, regresión) en el contexto de la problemática de Teletón"
+      ],
+      "fortalezas": [
+        "Análisis estadístico completo que incluye pruebas de hipótesis y modelado predictivo",
+        "Integración coherente de diferentes técnicas estadísticas para abordar la problemática",
+        "Presentación estructurada de los resultados en dashboard con visualizaciones adecuadas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la interpretación contextual de las estadísticas descriptivas básicas",
+        "Mejorar la integración visual entre los diferentes componentes del dashboard",
+        "Incluir más detalles sobre el proceso de selección y transformación de variables"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de herramientas estadísticas y tecnológicas. Para alcanzar el nivel Destacado, podría enfatizar más en la narrativa que conecta los hallazgos estadísticos con las implicaciones prácticas para Teletón.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "No se presentaron gráficos dinámicos en el trabajo",
+        "Falta de visualización de datos en formatos dinámicos como dashboards o gráficos interactivos"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Se recomienda incluir visualizaciones interactivas o dashboards que muestren claramente la relación entre las variables analizadas para cumplir con la subcompetencia.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante la metodología CRISP-DM",
+        "Utiliza herramientas de análisis apropiadas como chi-cuadrada, correlaciones y regresión lineal múltiple",
+        "Identifica riesgos y oportunidades relevantes para Teletón, como la desconfianza social y la necesidad de fortalecer relaciones institucionales",
+        "Propone líneas de acción estratégicas basadas en el análisis SERVQUAL para mejorar la calidad del servicio"
+      ],
+      "fortalezas": [
+        "Análisis estadístico sólido y bien fundamentado",
+        "Contextualización clara de la problemática y su relevancia",
+        "Uso adecuado de metodologías analíticas (CRISP-DM, SERVQUAL)"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la propuesta de acciones concretas derivadas de los insights",
+        "Falta mayor detalle sobre cómo implementar las líneas de acción identificadas",
+        "Podría incluir más visualizaciones de datos para apoyar los insights"
+      ],
+      "retroalimentacion": "Buen trabajo analítico y contextualización del problema. Para mejorar, desarrollar más las acciones concretas derivadas de los insights y su plan de implementación.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras a través del análisis SERVQUAL y la metodología CRISP-DM",
+        "Valida las características de los prototipos mediante pruebas estadísticas como Chi-cuadrada y regresión lineal múltiple",
+        "Garantiza aplicabilidad efectiva en el contexto de Teletón mediante dashboards y propuestas basadas en datos"
+      ],
+      "fortalezas": [
+        "Uso de metodologías sistemáticas (CRISP-DM) para abordar la problemática",
+        "Validación estadística robusta de las hipótesis planteadas",
+        "Integración de herramientas tecnológicas (Python, Tableau) para la visualización y análisis de datos"
+      ],
+      "areas_mejora": [
+        "Profundizar en la innovación de las soluciones propuestas, más allá del análisis estadístico tradicional",
+        "Incluir prototipos más tangibles o pilotos para validar la implementación de las soluciones",
+        "Ampliar el contexto de aplicación a otros escenarios similares para demostrar mayor versatilidad"
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en generación y validación de soluciones basadas en datos. Para alcanzar el nivel Destacado, se sugiere incorporar elementos más innovadores en las propuestas y demostrar su aplicabilidad en contextos adicionales.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante presenta un análisis detallado y estructurado de la problemática de la Fundación Teletón, utilizando la metodología SERVQUAL para evaluar la calidad del servicio.",
+        "Se evidencia un trabajo colaborativo en la recopilación y análisis de datos, así como en la creación de un dashboard en Tableau que integra diversas variables y técnicas estadísticas.",
+        "El estudiante establece compromisos claros y propuestas estratégicas basadas en los resultados obtenidos, como la mejora en la transparencia y comunicación entre Teletón y sus aliados.",
+        "Se logran los objetivos planteados, como el análisis de la relación entre las variables de fiabilidad y la satisfacción de los beneficiarios, mediante pruebas de hipótesis y modelos de regresión."
+      ],
+      "fortalezas": [
+        "Capacidad para integrar y analizar datos complejos utilizando herramientas como Python y Tableau.",
+        "Habilidad para establecer relaciones significativas entre variables y proponer acciones estratégicas basadas en evidencia.",
+        "Excelente comunicación de los resultados y su impacto en la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre el proceso de colaboración con otros miembros del equipo, si los hubiera, para fortalecer la evidencia del trabajo colaborativo."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas estratégicas para Teletón. Tu capacidad para integrar datos y generar insights valiosos es destacable. Sigue fortaleciendo la documentación del trabajo colaborativo para enriquecer aún más tu desempeño.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del impacto social de la Fundación Teletón, destacando cómo su labor respeta y promueve la dignidad de las personas con discapacidad.",
+        "Presenta soluciones constructivas y solidarias mediante el análisis SERVQUAL para mejorar la calidad del servicio y fortalecer las relaciones institucionales.",
+        "Muestra un compromiso comunitario claro al abordar problemáticas sociales relevantes como el acceso a servicios de rehabilitación y la inclusión educativa.",
+        "Integra argumentos éticos basados en los ODS, específicamente el ODS 16, para justificar la labor de la organización y su contribución a instituciones más justas y transparentes."
+      ],
+      "fortalezas": [
+        "Sensibilidad social y compromiso con la comunidad evidenciado en el análisis detallado de las necesidades de los beneficiarios.",
+        "Capacidad para generar soluciones basadas en datos que respetan la dignidad y derechos de las personas.",
+        "Articulación clara de cómo el trabajo contribuye al bienestar social y al cumplimiento de objetivos de desarrollo sostenible."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactan directamente en la vida cotidiana de los beneficiarios.",
+        "Incluir más testimonios o casos específicos que ilustren el impacto humano de las mejoras propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Continúa integrando perspectivas humanas para enriquecer aún más tus análisis.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 72.8,
+  "nivel_final": "Básico"
+}

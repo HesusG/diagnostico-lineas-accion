@@ -1,0 +1,411 @@
+{
+  "estudiante": "Ibrahim Mateos Campos",
+  "fecha": "2025-12-02T19:55:43.952507",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Básico",
+      "puntos": 75,
+      "evidencias": [
+        "Identifica de manera parcial las variables esenciales en la información, como la discapacidad neuromusculoesquelética, el cáncer y el trastorno del espectro autista.",
+        "Utiliza herramientas tecnológicas y resume de manera aceptable la información mediante tablas de frecuencia y estadísticas descriptivas, aunque no se muestran explícitamente en el documento.",
+        "Muestra de manera adecuada la información relevante contenida en las variables, como el número de beneficiarios atendidos y los desafíos que enfrenta la fundación.",
+        "Interpreta de manera básica los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, aunque no se presentan gráficos en el documento."
+      ],
+      "fortalezas": [
+        "Identifica claramente las problemáticas atendidas por la Fundación Teletón y su relevancia en México.",
+        "Proporciona datos estadísticos relevantes sobre el número de beneficiarios y la importancia de la labor de la fundación.",
+        "Muestra una comprensión básica de la alineación de la fundación con los Objetivos de Desarrollo Sostenible."
+      ],
+      "areas_mejora": [
+        "Falta de presentación explícita de tablas de frecuencia y estadísticas descriptivas.",
+        "Ausencia de gráficos que respalden los análisis descriptivos.",
+        "Interpretación de resultados podría ser más profunda y articulada."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen inicio en la identificación y resumen de la información relevante, pero necesita mejorar en la presentación de herramientas estadísticas y gráficos para respaldar los análisis. Además, se recomienda profundizar en la interpretación de los resultados para alcanzar un nivel más sólido."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [],
+      "retroalimentacion": "No se encontraron evidencias relacionadas con la generación de gráficos dinámicos en el trabajo del estudiante."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta de manera adecuada los insights de los tableros inteligentes o en el seguimiento de los indicadores",
+        "Hace uso de herramientas de análisis apropiadas para el estudio",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio",
+        "Propone de manera aceptable líneas de acción estratégicas"
+      ],
+      "fortalezas": [
+        "Interpretación adecuada de los insights relacionados con la problemática y relevancia de Fundación Teletón",
+        "Uso de herramientas de análisis como encuestas y estudios para identificar áreas de mejora",
+        "Identificación clara de desafíos y oportunidades para la fundación",
+        "Propuesta de líneas de acción estratégicas para mejorar la retención de donantes"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de datos para identificar insights más específicos y detallados",
+        "Incluir más herramientas de analítica avanzada para un estudio más completo",
+        "Desarrollar líneas de acción más concretas y medibles"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen entendimiento de la problemática y propone líneas de acción relevantes. Para alcanzar un nivel Destacado, se recomienda profundizar en el análisis de datos y utilizar herramientas más avanzadas para obtener insights más detallados y específicos."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Presenta un análisis detallado de la problemática que atiende Fundación Teletón, incluyendo datos estadísticos relevantes.",
+        "Describe la importancia de la labor de la fundación y su impacto en la vida de los beneficiarios, con cifras concretas como la tasa de supervivencia en el tratamiento de cáncer infantil.",
+        "Incluye un argumento ético sólido basado en los ODS, específicamente el ODS 3, 10 y 16.",
+        "Identifica desafíos significativos que enfrenta la fundación y propone acciones para mejorar la retención de donantes."
+      ],
+      "fortalezas": [
+        "El trabajo muestra una comprensión profunda de la labor de Fundación Teletón y su relevancia en el contexto mexicano.",
+        "Utiliza datos y fuentes confiables para respaldar sus argumentos.",
+        "La estructura del documento es clara y organizada, facilitando la comprensión del contenido."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre la metodología utilizada para recopilar y analizar los datos presentados.",
+        "Sería beneficioso profundizar en cómo exactamente los hallazgos del proyecto pueden traducirse en acciones concretas para la fundación."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de la problemática y la labor de Fundación Teletón, respaldado por datos relevantes. Para mejorar, considera incluir más detalles metodológicos y cómo los hallazgos pueden aplicarse de manera práctica."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo con la Fundación Teletón, como encuestas y análisis sobre el nivel de servicio.",
+        "Establece compromisos y propuestas adecuadas para mejorar la gestión de la fundación, como la identificación de áreas de mejora en la comunicación y acompañamiento.",
+        "Logra consistentemente los objetivos planteados al proporcionar un diagnóstico fundamentado para ajustar estrategias de vinculación."
+      ],
+      "fortalezas": [
+        "Claridad en la descripción de la problemática y la relevancia de la labor de la Fundación Teletón.",
+        "Uso de datos y estadísticas para respaldar los argumentos y evidencias presentadas.",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible (ODS) y derechos humanos."
+      ],
+      "areas_mejora": [
+        "Profundizar en la metodología utilizada para el análisis de datos y la generación de hipótesis.",
+        "Incluir más detalles sobre las acciones específicas propuestas para mejorar la retención de donantes."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y una contribución valiosa al socio formador. Para alcanzar un nivel destacado, se recomienda profundizar en la metodología y detallar más las acciones concretas propuestas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de Fundación Teletón, destacando su impacto en la vida de niños con discapacidad, cáncer y autismo.",
+        "Presenta soluciones constructivas y solidarias al analizar cómo mejorar la retención de donantes para asegurar la sostenibilidad de los servicios que brinda la fundación.",
+        "Muestra sensibilidad social al enfatizar la importancia de garantizar el acceso a la salud y rehabilitación para grupos vulnerables, alineándose con los ODS 3, 10 y 16.",
+        "Evidencia compromiso comunitario al contribuir con análisis y recomendaciones para fortalecer la labor de Teletón, impactando positivamente en la vida de miles de familias."
+      ],
+      "fortalezas": [
+        "Articulación clara y fundamentada de cómo el proyecto contribuye a mejorar la calidad de vida de los beneficiarios.",
+        "Uso de datos y estadísticas para respaldar la relevancia y el impacto de la labor de Teletón.",
+        "Enfoque en derechos humanos y dignidad, destacando la importancia de la inclusión y el respeto."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para mejorar la comunicación con los donantes, más allá del análisis de datos."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso ético y social con la labor de Fundación Teletón. Tu análisis refleja una comprensión profunda de la importancia de respetar la dignidad y derechos de los beneficiarios, así como de aportar soluciones solidarias. Continúa desarrollando propuestas concretas para fortalecer el impacto social de organizaciones como Teletón."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como la discapacidad neuromusculoesquelética, cáncer infantil y trastorno del espectro autista en la información proporcionada.",
+        "Utiliza datos estadísticos relevantes (ej. 8.8 millones de personas con discapacidad en México, 4,000-7,000 nuevos casos de cáncer infantil anuales) para contextualizar la problemática.",
+        "Muestra información relevante sobre los beneficiarios (ej. 30,000 niños atendidos anualmente, 840,000 atenciones acumuladas desde 1999).",
+        "Interpreta los resultados en el contexto de los ODS, especialmente el 3, 10 y 16, vinculándolos con derechos humanos y dignidad de los beneficiarios."
+      ],
+      "fortalezas": [
+        "Contextualización robusta de la problemática con datos nacionales y fuentes confiables.",
+        "Clara alineación con los Objetivos de Desarrollo Sostenible y derechos humanos.",
+        "Descripción detallada de los beneficiarios y el impacto cuantitativo de la fundación."
+      ],
+      "areas_mejora": [
+        "Falta de gráficos o tablas que resuman visualmente los datos estadísticos mencionados.",
+        "Podría profundizar en el análisis descriptivo de las variables clave con medidas de tendencia central y dispersión."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido entendimiento de la problemática y utiliza datos relevantes para sustentar sus argumentos. Para alcanzar el nivel Destacado, considera incorporar herramientas visuales (gráficos, tablas) que resuman la información estadística y un análisis más detallado de las variables clave con medidas descriptivas."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica con precisión los niveles de medición de las variables en el contexto de la problemática abordada",
+        "Selecciona el tipo de gráfico apropiado para representar los datos de la fundación",
+        "Interpreta de manera congruente la información que muestran los gráficos en relación con los desafíos y logros de la fundación"
+      ],
+      "fortalezas": [
+        "Claridad en la presentación de los datos y su relevancia para la toma de decisiones",
+        "Uso adecuado de fuentes y referencias para sustentar las interpretaciones",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible (ODS)"
+      ],
+      "areas_mejora": [
+        "Podría incluir más gráficos dinámicos para visualizar mejor los datos presentados",
+        "Profundizar en el análisis de correlaciones entre variables para ofrecer insights más detallados"
+      ],
+      "retroalimentacion": "El trabajo presenta un sólido entendimiento de la problemática y una buena selección de gráficos, pero podría mejorar con más visualizaciones dinámicas y un análisis más profundo de las correlaciones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights sobre la problemática y relevancia de Fundación Teletón en México, utilizando datos de INEGI y otras fuentes.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la necesidad de recursos financieros estables y la formación continua del personal.",
+        "Propone líneas de acción estratégicas para mejorar la relación con donantes y optimizar la comunicación."
+      ],
+      "fortalezas": [
+        "Uso de herramientas de análisis apropiadas para el estudio, como encuestas y análisis de datos.",
+        "Identificación clara de posibles riesgos y oportunidades para la fundación.",
+        "Propuesta de líneas de acción estratégicas basadas en los insights obtenidos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones y regresiones para fortalecer los insights.",
+        "Incluir más herramientas de analítica avanzada para enriquecer el estudio.",
+        "Detallar más las acciones específicas a tomar basadas en los insights."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen entendimiento de la problemática y propone líneas de acción relevantes. Para mejorar, se sugiere profundizar en el análisis estadístico y detallar más las acciones específicas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como encuestas y análisis para entender la retención o deserción de donantes.",
+        "Valida las características de los prototipos mediante la aplicación de encuestas y estudios que permiten identificar áreas de mejora en la relación con los aliados.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón al proporcionar un diagnóstico fundamentado para ajustar estrategias de vinculación."
+      ],
+      "fortalezas": [
+        "El trabajo demuestra un enfoque sistemático en la generación de soluciones innovadoras.",
+        "La validación de los prototipos a través de encuestas y estudios muestra un compromiso con la mejora continua."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más disruptivas o creativas.",
+        "Sería beneficioso incluir más detalles sobre cómo se validaron los prototipos y los resultados específicos obtenidos."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en la generación y validación de soluciones innovadoras. Para alcanzar un nivel destacado, considera explorar enfoques más disruptivos y proporcionar mayor detalle en la validación de los prototipos."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo con la Fundación Teletón, como encuestas y análisis sobre el nivel de servicio.",
+        "Establece compromisos y propuestas adecuadas para mejorar la relación con los donantes y la gestión de la fundación.",
+        "Da cuenta del cumplimiento de funciones de negociación y colaboración con el socio formador.",
+        "Logra de manera consistente los objetivos planteados en el diagnóstico y propuestas de mejora."
+      ],
+      "fortalezas": [
+        "Comprensión profunda de la problemática y relevancia de la labor de la Fundación Teletón.",
+        "Capacidad para generar información valiosa que puede ser utilizada para mejorar los procesos de la fundación.",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible, especialmente el ODS 16."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis estadístico y gráficos dinámicos para presentar los datos de manera más impactante.",
+        "Falta de evidencia específica sobre la innovación en las propuestas presentadas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y una buena capacidad para generar propuestas útiles. Se sugiere mejorar la presentación de datos con herramientas más visuales y detallar cómo las propuestas son innovadoras."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de Fundación Teletón, destacando su labor en garantizar acceso a salud y rehabilitación.",
+        "Presenta soluciones constructivas y solidarias al analizar cómo mejorar la retención de donantes y la calidad del servicio, lo que impacta positivamente en los beneficiarios finales.",
+        "Muestra sensibilidad social al describir las características y necesidades de los beneficiarios, enfatizando su derecho a una vida digna y oportunidades de desarrollo.",
+        "Evidencia compromiso comunitario al alinear el trabajo de Teletón con los ODS, especialmente el 3, 10 y 16, y al contribuir con análisis que fortalecen la labor de la fundación."
+      ],
+      "fortalezas": [
+        "Articulación clara de cómo el proyecto contribuye al respeto de los derechos humanos y la dignidad de los beneficiarios.",
+        "Sensibilidad y empatía hacia las circunstancias personales de los niños y familias atendidas por Teletón.",
+        "Generación de soluciones prácticas y solidarias que benefician directamente a la fundación y sus beneficiarios."
+      ],
+      "areas_mejora": [
+        "Profundizar en cómo las soluciones propuestas pueden ser implementadas de manera más específica por Teletón."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso ético y social con los beneficiarios de Teletón. Continúa desarrollando propuestas concretas que amplíen el impacto positivo en la comunidad."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [
+      {
+        "codigo": "SCD0104",
+        "nombre": "Estadística Descriptiva",
+        "ronda1": 75,
+        "ronda2": 88,
+        "diferencia": 13
+      },
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "ronda1": 0,
+        "ronda2": 88,
+        "diferencia": 88
+      }
+    ],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 44.0,
+        "evidencias": [
+          "Identifica con precisión los niveles de medición de las variables en el contexto de la problemática abordada",
+          "Selecciona el tipo de gráfico apropiado para representar los datos de la fundación",
+          "Interpreta de manera congruente la información que muestran los gráficos en relación con los desafíos y logros de la fundación"
+        ],
+        "areas_mejora": [
+          "Podría incluir más gráficos dinámicos para visualizar mejor los datos presentados",
+          "Profundizar en el análisis de correlaciones entre variables para ofrecer insights más detallados"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Articulación clara de cómo el proyecto contribuye al respeto de los derechos humanos y la dignidad de los beneficiarios.",
+          "Sensibilidad y empatía hacia las circunstancias personales de los niños y familias atendidas por Teletón.",
+          "Generación de soluciones prácticas y solidarias que benefician directamente a la fundación y sus beneficiarios."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como la discapacidad neuromusculoesquelética, cáncer infantil y trastorno del espectro autista en la información proporcionada.",
+        "Utiliza datos estadísticos relevantes (ej. 8.8 millones de personas con discapacidad en México, 4,000-7,000 nuevos casos de cáncer infantil anuales) para contextualizar la problemática.",
+        "Muestra información relevante sobre los beneficiarios (ej. 30,000 niños atendidos anualmente, 840,000 atenciones acumuladas desde 1999).",
+        "Interpreta los resultados en el contexto de los ODS, especialmente el 3, 10 y 16, vinculándolos con derechos humanos y dignidad de los beneficiarios."
+      ],
+      "fortalezas": [
+        "Contextualización robusta de la problemática con datos nacionales y fuentes confiables.",
+        "Clara alineación con los Objetivos de Desarrollo Sostenible y derechos humanos.",
+        "Descripción detallada de los beneficiarios y el impacto cuantitativo de la fundación."
+      ],
+      "areas_mejora": [
+        "Falta de gráficos o tablas que resuman visualmente los datos estadísticos mencionados.",
+        "Podría profundizar en el análisis descriptivo de las variables clave con medidas de tendencia central y dispersión."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido entendimiento de la problemática y utiliza datos relevantes para sustentar sus argumentos. Para alcanzar el nivel Destacado, considera incorporar herramientas visuales (gráficos, tablas) que resuman la información estadística y un análisis más detallado de las variables clave con medidas descriptivas.",
+      "promedio_delphi": 81.5
+    },
+    "SCD0105": {
+      "nivel": "Incipiente",
+      "puntos": 55,
+      "evidencias": [
+        "Identifica con precisión los niveles de medición de las variables en el contexto de la problemática abordada",
+        "Selecciona el tipo de gráfico apropiado para representar los datos de la fundación",
+        "Interpreta de manera congruente la información que muestran los gráficos en relación con los desafíos y logros de la fundación"
+      ],
+      "fortalezas": [
+        "Claridad en la presentación de los datos y su relevancia para la toma de decisiones",
+        "Uso adecuado de fuentes y referencias para sustentar las interpretaciones",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible (ODS)"
+      ],
+      "areas_mejora": [
+        "Podría incluir más gráficos dinámicos para visualizar mejor los datos presentados",
+        "Profundizar en el análisis de correlaciones entre variables para ofrecer insights más detallados"
+      ],
+      "retroalimentacion": "El trabajo presenta un sólido entendimiento de la problemática y una buena selección de gráficos, pero podría mejorar con más visualizaciones dinámicas y un análisis más profundo de las correlaciones.",
+      "promedio_delphi": 44.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights sobre la problemática y relevancia de Fundación Teletón en México, utilizando datos de INEGI y otras fuentes.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la necesidad de recursos financieros estables y la formación continua del personal.",
+        "Propone líneas de acción estratégicas para mejorar la relación con donantes y optimizar la comunicación."
+      ],
+      "fortalezas": [
+        "Uso de herramientas de análisis apropiadas para el estudio, como encuestas y análisis de datos.",
+        "Identificación clara de posibles riesgos y oportunidades para la fundación.",
+        "Propuesta de líneas de acción estratégicas basadas en los insights obtenidos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones y regresiones para fortalecer los insights.",
+        "Incluir más herramientas de analítica avanzada para enriquecer el estudio.",
+        "Detallar más las acciones específicas a tomar basadas en los insights."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen entendimiento de la problemática y propone líneas de acción relevantes. Para mejorar, se sugiere profundizar en el análisis estadístico y detallar más las acciones específicas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como encuestas y análisis para entender la retención o deserción de donantes.",
+        "Valida las características de los prototipos mediante la aplicación de encuestas y estudios que permiten identificar áreas de mejora en la relación con los aliados.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón al proporcionar un diagnóstico fundamentado para ajustar estrategias de vinculación."
+      ],
+      "fortalezas": [
+        "El trabajo demuestra un enfoque sistemático en la generación de soluciones innovadoras.",
+        "La validación de los prototipos a través de encuestas y estudios muestra un compromiso con la mejora continua."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más disruptivas o creativas.",
+        "Sería beneficioso incluir más detalles sobre cómo se validaron los prototipos y los resultados específicos obtenidos."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en la generación y validación de soluciones innovadoras. Para alcanzar un nivel destacado, considera explorar enfoques más disruptivos y proporcionar mayor detalle en la validación de los prototipos.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo con la Fundación Teletón, como encuestas y análisis sobre el nivel de servicio.",
+        "Establece compromisos y propuestas adecuadas para mejorar la relación con los donantes y la gestión de la fundación.",
+        "Da cuenta del cumplimiento de funciones de negociación y colaboración con el socio formador.",
+        "Logra de manera consistente los objetivos planteados en el diagnóstico y propuestas de mejora."
+      ],
+      "fortalezas": [
+        "Comprensión profunda de la problemática y relevancia de la labor de la Fundación Teletón.",
+        "Capacidad para generar información valiosa que puede ser utilizada para mejorar los procesos de la fundación.",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible, especialmente el ODS 16."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis estadístico y gráficos dinámicos para presentar los datos de manera más impactante.",
+        "Falta de evidencia específica sobre la innovación en las propuestas presentadas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y una buena capacidad para generar propuestas útiles. Se sugiere mejorar la presentación de datos con herramientas más visuales y detallar cómo las propuestas son innovadoras.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de Fundación Teletón, destacando su labor en garantizar acceso a salud y rehabilitación.",
+        "Presenta soluciones constructivas y solidarias al analizar cómo mejorar la retención de donantes y la calidad del servicio, lo que impacta positivamente en los beneficiarios finales.",
+        "Muestra sensibilidad social al describir las características y necesidades de los beneficiarios, enfatizando su derecho a una vida digna y oportunidades de desarrollo.",
+        "Evidencia compromiso comunitario al alinear el trabajo de Teletón con los ODS, especialmente el 3, 10 y 16, y al contribuir con análisis que fortalecen la labor de la fundación."
+      ],
+      "fortalezas": [
+        "Articulación clara de cómo el proyecto contribuye al respeto de los derechos humanos y la dignidad de los beneficiarios.",
+        "Sensibilidad y empatía hacia las circunstancias personales de los niños y familias atendidas por Teletón.",
+        "Generación de soluciones prácticas y solidarias que benefician directamente a la fundación y sus beneficiarios."
+      ],
+      "areas_mejora": [
+        "Profundizar en cómo las soluciones propuestas pueden ser implementadas de manera más específica por Teletón."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso ético y social con los beneficiarios de Teletón. Continúa desarrollando propuestas concretas que amplíen el impacto positivo en la comunidad.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 82.6,
+  "nivel_final": "Sólido"
+}

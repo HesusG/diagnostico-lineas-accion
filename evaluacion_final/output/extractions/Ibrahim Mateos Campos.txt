@@ -1,0 +1,490 @@
+--- Página 1 ---
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Campus Monterrey
+Diagnóstico para líneas de acción (Gpo 570)
+Evidencia 1- Instrumento para la interpretación de la información
+(Interpretación)
+Ibrahim Mateos Campos A01174965
+Professor:
+Beatriz Ochoa Ramírez
+Fecha de creación: 18/11/2025
+0
+
+--- Página 2 ---
+Índice
+Problemática que Atiende la Organización.............................................................2
+Relevancia de la Problemática en México...............................................................2
+Importancia de la Labor de Fundación Teletón......................................................3
+Características de sus Beneficiarios.......................................................................3
+Número de Beneficiarios Atendidos........................................................................3
+Argumento Ético que Sustenta su Labor (ODS).....................................................4
+Desafíos para Realizar su Labor..............................................................................4
+Aportación de los Productos del Proyecto al Trabajo de la Fundación...............5
+Impacto en Derechos Humanos y Dignidad de sus Beneficiarios........................5
+Alineación con el Objetivo de Desarrollo Sostenible 16........................................6
+Integración Evidencia 1:........................................................................................... 6
+Descripción de la base de datos y Metodología.................................................................6
+Medidas de tendencia central y dispersión por pregunta.....................................8
+Hipótesis :.................................................................................................................. 8
+Diferencias en la calidad del servicio entre segmentos de usuario...................10
+Segmentos de Oportunidad....................................................................................10
+Regresión lineal.......................................................................................................11
+Correlación entre variables independientes y dependientes..............................12
+Acciones a tomar.....................................................................................................12
+Referencias:.............................................................................................................15
+1
+
+--- Página 3 ---
+Socio Formador: Fundación Teletón
+Problemática que Atiende la Organización
+Fundación Teletón se dedica a atender tres grandes causas de salud infantil: la discapacidad
+neuromusculoesquelética, el cáncer y el trastorno del espectro autista. En sus centros
+especializados brinda rehabilitación integral a niñas, niños y adolescentes con discapacidades
+físicas como parálisis cerebral, lesiones neuromotoras, ofrece tratamiento oncológico
+pediátrico de alta especialidad a menores con cáncer, y proporciona terapia y apoyo a niños
+con autismo y sus familias. Estas tres problemáticas representan áreas de gran necesidad
+social, y Teletón ha enfocado su misión en ofrecer servicios médicos y de rehabilitación
+donde suele haber carencias en el sistema público.
+Relevancia de la Problemática en México
+Las causas que atiende Teletón son muy relevantes en México por su magnitud e impacto. Ya
+que en Mexico existen 8.8 millones de personas de 5 años y más con alguna discapacidad
+según INEGI (2024). Dentro del grupo de 0 a 17 años, se estima que alrededor de 7.8% de
+niñas, niños y adolescentes presentan alguna discapacidad, lo cual representa una porción
+significativa de la infancia mexicana en situación de vulnerabilidad. Estos menores requieren
+atención especializada continua: terapias, accesibilidad, apoyo educativo y rehabilitación
+servicios que no siempre están garantizados por el sistema público.
+Por ejemplo en cuanto al cáncer infantil, en México se registran cada año entre 4,000 y 7,000
+nuevos casos de cáncer en menores de 18 años, convirtiéndolo en una problemática grave y
+urgente desde el punto de vista epidemiológico. (Fuente: Gaceta UNAM).
+Estos datos reflejan que las problemáticas atendidas por Teletón afectan a cientos de miles de
+familias mexicanas, y que existe una brecha importante entre la demanda de servicios
+especializados y la oferta pública disponible. Además, factores como los costos elevados de
+tratamiento, la falta de infraestructura accesible y episodios de desabasto de medicamentos
+oncológicos reflejan que el contexto social y sanitario del país no garantiza, por sí mismo, la
+atención integral que estas niñas y niños requieren para ejercer plenamente sus derechos a la
+salud, rehabilitación y desarrollo. (Fuentes: INEGI 2024 / ONGs de defensa de pacientes).
+2
+
+--- Página 4 ---
+Importancia de la Labor de Fundación Teletón
+Lo que hace Fundación Teletón es altamente relevante porque cubre necesidades críticas que,
+de otro modo, quedarían insatisfechas para miles de familias. La fundación ha construido el
+sistema de rehabilitación infantil, con presencia en todo México, lo que le permite
+proporcionar terapias físicas y ocupacionales, educación especial y apoyo psicológico a niños
+con discapacidad que difícilmente obtendrían ese nivel de atención en otros espacios. En el
+ámbito oncológico, su impacto es evidente: en el Hospital Infantil Teletón de Oncología
+(HITO) aproximadamente 8 de cada 10 niños con cáncer sobreviven, mientras que a nivel
+nacional solo 5 de cada 10 lo logran (Fuente: Teletón,2024). Esta diferencia significativa en
+la tasa de exito refleja la calidad de atención y seguimiento que brinda Teletón, literalmente
+salvando vidas. Asimismo, la fundación ha logrado involucrar a la sociedad mexicana de
+manera masiva en estas causas; millones de mexicanos han creído en esta causa y con sus
+donativos a lo largo de 27 años han hecho posible transformar la vida de miles de personas.
+Características de sus Beneficiarios
+Los beneficiarios de Fundación Teletón son principalmente niñas, niños y adolescentes
+(generalmente de 0 a 18 años) que enfrentan condiciones que requieren atención
+especializada. En el área de discapacidad, atienden sobre todo discapacidades
+neuromusculoesqueléticas, es decir, condiciones que afectan la movilidad, la postura o el
+sistema neurológico-muscular .También son beneficiarios menores diagnosticados con cáncer
+que reciben tratamiento oncológico integral, y niños con autismo que acceden a terapias
+conductuales y educativas especializadas. Por lo general, se trata de familias de escasos
+recursos, dado que el costo de estos tratamientos es muy elevado: por ejemplo, tratar a un
+niño con cáncer puede costar alrededor de $200,000 a $350,000 mil pesos (Fuente: Met Life)
+lo que podría resultar imposible de asumir para una familia con ingreso promedio de $9,000
+mensuales que es el salario minimo en México, y la terapia anual para un niño con autismo
+implica decenas de miles de pesos en cuidados. La fundación subsidia gran parte de estos
+costos mediante donativos, por lo que sus beneficiarios comparten la característica de
+necesitar apoyo financiero y especializado para ejercer su derecho a la salud.
+Número de Beneficiarios Atendidos
+Fundación Teletón atiende a una cantidad muy significativa de beneficiarios a nivel nacional.
+Actualmente, sus 24 Centros de Rehabilitación e Inclusión Infantil Teletón (CRIT), el Centro
+Autismo Teletón y el Hospital de Oncología Teletón benefician a más de 30,000 niñas, niños
+y adolescentes cada año en México. Esta cifra anual da una idea del alcance: son decenas de
+miles de menores que reciben terapias físicas, servicios médicos, educación especial o
+tratamientos oncológicos gracias a la infraestructura de Teletón. A lo largo de su historia
+(desde 1997), el número acumulado de atenciones es de cientos de miles; de hecho, según
+3
+
+--- Página 5 ---
+datos oficiales de la fundación, más de 840,000 personas han sido atendidas en un Centro
+Teletón desde 1999. Estos datos muestran la amplitud del impacto de Teletón en la población
+objetivo, convirtiéndolo en uno de los principales proveedores de servicios de rehabilitación
+y atención pediátrica especializada en el país.
+Argumento Ético que Sustenta su Labor (ODS)
+Fundación Teletón se sustenta en un fuerte argumento ético de inclusión y derechos humanos,
+en línea con los Objetivos de Desarrollo Sostenible (ODS) de la ONU. En esencia, parte del
+principio de que ningún niño debe quedarse atrás en el acceso a la salud, la rehabilitación y
+una vida digna. Esto refleja la promesa central de la Agenda 2030, especialmente relevante
+para grupos vulnerables como las personas con discapacidad, los ODS enfatizan la inclusión
+de todos los sectores de la sociedad en el desarrollo; de hecho, se reconoce que no se podrá
+lograr la agenda global sin integrar plenamente a las personas con discapacidad y otras
+poblaciones marginadas. Fundación Teletón pone en práctica este compromiso ético al
+garantizar atención y apoyo a niños y niñas que, de otra forma, verían violado su derecho a la
+salud, a la educación y a la participación social. Su trabajo se alinea con objetivos como el
+ODS 3 Salud y Bienestar, que busca asegurar una vida sana y promover el bienestar para
+todos en todas las edades, y el ODS 10 Reducción de las Desigualdades, que implica
+empoderar y promover la inclusión social, económica y política de todas las personas,
+independientemente de su condición. Y ya de manera global vemos que esta alineado a la
+ODS 16 paz, justicia e instituciones solidas ya que cada niño con discapacidad, con cáncer o
+con autismo merece las mismas oportunidades de desarrollo y felicidad que cualquier otro,
+principio respaldado por la comunidad internacional a través de los ODS y los tratados de
+derechos humanos.
+Desafíos para Realizar su Labor
+Los desafíos que enfrenta Fundación Teletón son significativos y determinantes para la
+sostenibilidad de su labor social. Entre ellos destaca la necesidad constante de garantizar
+recursos financieros estables para mantener y fortalecer su red de atención, ya que su
+operación depende en gran parte de donativos y colaboraciones con instituciones públicas y
+privadas, lo que obliga a desarrollar estrategias efectivas de comunicación, agradecimiento y
+retención de donantes. Además, la atención especializada que brinda requiere equipos
+interdisciplinarios altamente capacitados, lo que implica asegurar la formación continua del
+personal clínico y terapéutico, así como mantener estándares de calidad homogéneos en todos
+sus centros. Otro desafío relevante es responder a la creciente demanda de servicios de
+rehabilitación, oncología y atención del autismo, que supera la capacidad instalada y exige
+ampliar horarios, infraestructura o modelos de atención híbrida. Asimismo, la fundación debe
+enfrentar contextos sociales y mediáticos que en ocasiones cuestionan la legitimidad de
+organizaciones civiles, por lo que mantener transparencia, rendición de cuentas y confianza
+pública resulta esencial. En conjunto, estos desafíos influyen directamente en la capacidad de
+4
+
+--- Página 6 ---
+Teletón de seguir garantizando atención de calidad a niñas y niños en situación de
+vulnerabilidad.
+Aportación de los Productos del Proyecto al Trabajo de la Fundación
+En el marco del bloque de colaboración con el socio formador, los productos y evidencias
+desarrollados por nosotros los estudiantes apor tan información valiosa para mejorar la
+gestión de Teletón. Específicamente, durante este proyecto se aplicaron encuestas y análisis
+sobre el nivel de servicio que brindan los promotores de la fundación a las instituciones
+benefactoras, con el fin de entender las causas de la retención o deserción de donantes. Los
+resultados de estas encuestas y estudios constituyen una retroalimentación concreta para
+Teletón: permiten identificar qué está funcionando bien en la relación con sus aliados y qué
+áreas requieren mejora, desde la comunicación y acompañamiento que ofrece cada promotor,
+hasta aspectos logísticos de las campañas de recaudación. En otras palabras, las evidencias
+generan un diagnóstico fundamentado que la organización puede usar para ajustar sus
+estrategias de vinculación.
+Contribución del Reto a la Mejora del Servicio a Usuarios
+El reto lo que busca es poder aportar algo a la fundación de teletón que le pueda ser útil para
+mejorar, jugando nosotros un rol como de consultores enfocándonos en datos y evaluaciones
+que a recibido directamente teletón y la idea es tomar toda esa información y convertirla en
+hallazgos útiles: ver qué funciona bien, qué se puede optimizar, y cómo mejorar la relación
+con las instituciones que apoyan a Teletón. Al final, esto impacta directamente en los usuarios
+finales si la fundación logra fortalecer su comunicación y retención de donantes, también se
+traduce en recursos más estables para que los niños reciban mejores terapias, tratamientos y
+servicios sin interrupciones. Nuestro aporte no es intervenir en la parte médica o terapéutica,
+sino ayudar a que la estructura de soporte financiera, administrativa y relacional
+Impacto en Derechos Humanos y Dignidad de sus Beneficiarios
+El labor de Teletón, potenciada por proyectos como el presente reto, contribuye directamente
+al ejercicio de los derechos humanos de sus beneficiarios y al respeto de su dignidad. En
+primer lugar, al brindar acceso a rehabilitación y tratamientos de salud, se garantiza en los
+hechos el derecho a la salud de niños con discapacidad o enfermedades graves, un derecho
+consagrado en instrumentos internacionales. No se les considera receptores de caridad, sino
+sujetos de derechos que merecen oportunidades de desarrollo. Un ejemplo tangible es la
+inclusión educativa: gracias a las terapias y apoyos de Teletón, un 82% de los niños con
+autismo atendidos logran integrarse posteriormente a una escuela regular en sus
+5
+
+--- Página 7 ---
+comunidades. Esto significa que pueden ejercer su derecho a la educación inclusiva y
+participar en igualdad de condiciones con otros niños, algo que impacta profundamente en su
+dignidad y autoestima. Asimismo, en los centros Teletón se promueve un trato respetuoso y
+personalizado; cada niño es valorado por su nombre, y cada vida se aborda con empatía.
+Como señala el propio personal, detrás de las estadísticas hay personas reales, y cada vida
+representa un reto pero también una esperanza que se les puede brindar. Esta filosofía
+enfatiza la dignidad inherente de cada paciente: no se les reduce a su discapacidad o
+enfermedad, sino que se trabaja para que alcancen su máximo potencial dentro de la sociedad.
+En síntesis, Teletón contribuye al cumplimiento de derechos fundamentales y lo hace
+cultivando un entorno de respeto, amor y reconocimiento de su valor como seres humanos.
+Alineación con el Objetivo de Desarrollo Sostenible 16
+Este proyecto contribuye al cumplimiento del ODS 16 al fortalecer la calidad institucional de
+Fundación Teletón mediante mejoras en sus procesos y atención al benefactor. Al optimizar
+su eficiencia, transparencia y capacidad operativa, se impulsa una institución más sólida y
+responsable, alineada con el propósito de promover organizaciones confiables e inclusivas.
+Además, el trabajo de Teletón con niños con discapacidad, cáncer y autismo refuerza la
+construcción de sociedades más justas e integradoras, consolidando su impacto social y su
+capacidad para favorecer la igualdad de oportunidades y la protección de derechos de grupos
+vulnerables.
+Integración Evidencia 1:
+Descripción de la base de datos y Metodología
+La base de datos que se utilizo contiene las respuestas de la encuesta de satisfacción aplicada
+por Teletón a sus benefactores. Teniendo 274 registros, evaluando la calidad del servicio con
+preguntas tipo Likert (1–5), organizadas en cinco dimensiones: empatía, fiabilidad, capacidad
+de respuesta, tangibles y seguridad. Además, incorpora datos del perfil del benefactor (giro,
+puesto, región y años de relación con la institución), lo que permite comparar percepciones
+entre distintos segmentos como empresas, gobierno, personas físicas y grupos internos.
+Para el análisis se emplearon herramientas como Python aplicando pruebas estadísticas como
+Chi-cuadrada y regresión, Power BI(para visualización y segmentación por grupos, así como
+análisis descriptivo de tendencia central y dispersión, lo que permitió identificar patrones,
+contrastar diferencias entre segmentos y obtener conclusiones fundamentadas sobre la
+percepción de calidad del servicio.
+Interpretación
+Datos Generales:
+6
+
+--- Página 8 ---
+Lo que pude encontrar en la base de datos es que la experiencia que tienen los benefactores
+con Teletón es buena, pero no llega todavía a ser excelente. Ya que hay cosas que funcionan
+muy bien y otras que se quedan a medias.
+La confianza es lo que tiene como punto fuerte, ya que genera en prácticamente todos los
+grupos, la gente siente que la institución es seria, profesional y que trata de hacer las cosas
+bien. También noté que la agilidad de respuesta es otro de los puntos más valorados: la gente
+siente que cuando necesitan algo, el personal responde rápido y los atiende. Esto es
+consistente en casi todos los segmentos, y de hecho es de las cosas que mejor evaluadas
+salen.
+Pero hay áreas donde la experiencia baja un poco. Sobre todo lo relacionado con los
+tangibles, o sea la presentación, imagen, materiales, uniformes, etc. No salen mal evaluados,
+pero sí es evidente que no destacan. La mayoría de la gente se queda en un punto neutral. Lo
+mismo pasa con la fiabilidad, que tiene que ver con si se cumple lo que se promete. Aquí sí se
+ve que hay segmentos donde la percepción baja bastante, sobre todo en sectores exigentes
+como gobierno y empresas. Lo que puede ser que ahí probablemente hay diferencias en
+tiempos, procesos o seguimiento.
+Uno de los puntos mas importantes si o si es la empatia ya que uno pensaría que es un punto
+muy fuerte en una institución social, también se queda en un punto medio. La mayoría de las
+personas sienten un trato amable, pero no llega a ser un trato extraordinario o súper cercano.
+Por lo que es algo que hay que tener en cuenta ya que la empatia es lo que más conecta
+emocionalmente con los benefactores, y si está solo “bien”, puede ser una oportunidad para
+mejorar.
+Puntos importantes:
+7
+
+--- Página 9 ---
+● El gobierno es el más crítico, especialmente con el cumplimiento.
+● Las empresas son exigentes y tienden a evaluar más bajo.
+● Las personas físicas, educación y asociaciones civiles suelen tener percepciones más
+estables y positivas.
+● Los grupos internos de Teletón son quienes evalúan mejor. Eso sugiere buena
+coherencia interna y una percepción positiva de quienes están más cerca de la
+operación.
+● Los directores son más equilibrados, pero son duros cuando evalúan servicios hacia
+empresas.
+● Los supervisores son los más positivos, especialmente en temas de confianza.
+Medidas de tendencia central y dispersión por pregunta
+Al analizar los resultados pregunta por pregunta y por dimensión del servicio, se observa que
+la media de las dimensiones se ubica consistentemente en valores de 3.5 a 4 puntos sobre 5,
+lo que sugiere una percepción general de satisfacción positiva pero no sobresaliente. La
+moda, se concentra en respuestas neutral, lo que confirma que la mayoría de los benefactores
+considera el servicio adecuado, pero sin características excepcionales.
+Respecto a la variabilidad, la dispersión de respuestas muestra que las dimensiones con
+mayor consistencia y menor variación son Seguridad y Agilidad de Respuesta, donde la
+concentración de respuestas está agrupada en valores positivos y con poca fluctuación entre
+casos. Por el contrario, las preguntas asociadas a Tangibles y Fiabilidad presentan una mayor
+desviación entre respuestas, especialmente en segmentos como empresas y gobierno, lo que
+indica diferencias en la percepción del cumplimiento y presentación institucional
+dependiendo del tipo de benefactor.
+Los datos muestran que Teletón tiene atributos bien consolidados en la confianza y la
+atención operativa, mientras que existen áreas de mayor dispersión como empatía y
+fiabilidad.
+Hipótesis :
+Pregunta central: ¿En qué medida la empatía percibida por el benefactor influye en la
+satisfacción general con el servicio de Teletón?
+8
+
+--- Página 10 ---
+La empatía es justamente el punto donde Teletón debería destacar por su naturaleza
+humanitaria, pero los datos muestran que se queda en valores medios prom 3.8 de 5 donde
+hay casos más bajos en empresas y gobierno. Esto conecta directamente con la problemática
+central.
+Para validar esta hipótesis utilizaremos como variable independiente a la empatía percibida
+(promedio de los ítems de interacción humana), dado que refleja la dimensión relacional y
+emocional entre Teletón y el benefactor. La variable dependiente será la satisfacción general
+con el servicio, ya que representa la percepción global final del beneficiario. Además, se
+incorporará la variable de segmentación por tipo de benefactor seria especialmente Empresa y
+Gobierno, dado que son los segmentos que muestran menores valores de empatía y mayores
+niveles de evaluación crítica. Esto permitirá evaluar no solo la relación general entre empatía
+y satisfacción, sino también verificar si el efecto de la empatía es más relevante para los
+segmentos más exigentes.
+H₀ (Hipótesis nula):
+No existen diferencias significativas en la empatía percibida entre los diferentes tipos de
+benefactor (Empresa, Gobierno, Persona Física, Educación, Asociación Civil, Grupos
+internos de Teletón).
+H₁ (Hipótesis alternativa):
+Existen diferencias significativas en la empatía percibida entre los diferentes tipos de
+benefactor.
+Prueba Anova:
+9
+
+--- Página 11 ---
+Se realizó una prueba ANOVA para evaluar si el nivel de empatía percibida (Empatía Prom)
+cambia significativamente según el giro del benefactor. Los resultados muestran un valor F =
+0.983 y un p-value = 0.479, muy superior al nivel de significancia de 0.05. Esto indica que no
+existe evidencia estadística suficiente para afirmar que los distintos giros (Empresas,
+Gobierno, Asociación civil, Educación, Teletón interno y Personas físicas) difieran realmente
+en sus niveles promedio de empatía. Dicho en términos prácticos: aunque visualmente
+algunas diferencias parecen existir entre segmentos por ejemplo, Educación (3.93) y Teletón
+interno (3.96) aparecen levemente más altos, mientras que Gobierno (3.786) muestra una
+empatía percibida ligeramente menor, estadísticamente estas variaciones no son lo bastante
+grandes ni consistentes como para concluir que el giro influye en la empatía recibida por el
+benefactor. Esto sugiere que la percepción de empatía es relativamente uniforme entre
+perfiles, y que el problema de “empatía moderada” se presenta de manera transversal en
+Teletón, más como un fenómeno general de relación institucional que un fenómeno
+dependiente del tipo de benefactor.
+Diferencias en la calidad del servicio entre segmentos de usuario
+Existen diferencias claras en la percepción de calidad del servicio entre los distintos tipos de
+benefactores. Los grupos internos de Teletón tienden a evaluar la calidad del servicio de
+manera más positiva, especialmente en la dimensión de Confianza y Agilidad de respuesta, lo
+que indica coherencia interna y valoración positiva hacia la cultura organizacional y los
+procesos operativos.
+Por otro lado, los segmentos de gobierno y empresas muestran evaluaciones más críticas,
+particularmente en Fiabilidad y Empatía, lo que sugiere que estos grupos tienen expectativas
+más elevadas en términos de formalidad, seguimiento y alineación con acuerdos. Las
+diferencias también se observan por puesto: los directores presentan evaluación más analítica
+y exigente, mientras que los supervisores y operativos tienden a evaluar con mayor
+positividad.
+Segmentos de Oportunidad
+Los segmentos que requieren mayor atención y representan oportunidades claras de mejora
+son gobierno y empresas, ya que son los grupos que muestran evaluaciones más exigentes y
+críticas respecto al servicio recibido. Estas instituciones tienden a ser más sensibles a
+aspectos de cumplimiento, seguimiento de compromisos formales y consistencia en procesos,
+especialmente en dimensiones como Fiabilidad y Empatía. Esto sugiere que su expectativa
+está orientada hacia un trato más profesionalizado, con mayor precisión en acuerdos,
+transparencia y estructura administrativa.
+10
+
+--- Página 12 ---
+Además, dentro de la segmentación por rol, los directores y tomadores de decisión de alto
+nivel también exhiben una evaluación más estricta que otros perfiles. Su perspectiva
+estratégica hace que prioricen la imagen institucional, el profesionalismo y la coherencia
+entre lo prometido y lo entregado. Esto indica que, más allá del trato operativo cotidiano, la
+comunicación dirigida a este tipo de perfiles requiere un manejo más personalizado, detallado
+y orientado a resultados medibles.
+Regresión lineal
+Se realizó un modelo de regresión lineal con la satisfacción general como variable
+dependiente y la empatía promedio como variable independiente. El resultado muestra un
+coeficiente significativo para la empatía coef = 0.7328, p < 0.001, lo que indica que por cada
+punto adicional en percepción de empatía, la satisfacción general tiende a incrementarse
+aproximadamente en 0.73 puntos. Este efecto es estadísticamente sólido, con un t = 8.397 que
+confirma la relevancia del predictor. Además, el modelo presenta un R² = 0.206, lo que
+significa que la empatía explica alrededor del 20% de la variabilidad total en la satisfacción
+general. Aunque no es la totalidad de la explicación lo cual es esperable dado que intervienen
+otras dimensiones de servicio como tangibles, fiabilidad, seguridad y capacidad de
+respuesta— el impacto de la empatía es lo suficientemente consistente como para
+considerarlo un factor clave en la experiencia del benefactor.
+En términos prácticos, estos resultados confirman que la empatía no solo tiene relación con la
+satisfacción, sino que ejerce una influencia directa y positiva sobre ella. Esto valida la
+hipótesis planteada originalmente: la calidad humana del trato recibido por el benefactor es
+un componente crítico y cuantificable en su experiencia global con Teletón.
+11
+
+--- Página 13 ---
+Correlación entre variables independientes y dependientes
+Se elaboró una matriz de correlaciones en Python y posteriormente se trasladó al entorno de
+análisis para su interpretación. Para ello, se consolidaron primero las variables del modelo
+SERVQUAL; por ejemplo, empatía, fiabilidad y agilidad estaban compuestas por varios
+ítems individuales en la base de datos original, por lo que se promediaron sus valores para
+obtener un único indicador representativo por dimensión. Además, se reemplazaron los
+nombres técnicos de las variables (como FI_1, E_3, etc.) por etiquetas conceptuales más
+comprensibles como Fiabilidad, Empatía, Agilidad de respuesta, Información recibida y
+Tangibles, con el fin de facilitar la interpretación para la organización y mantener coherencia
+con el lenguaje institucional de Teletón.
+El resultado de la matriz muestra correlaciones positivas entre todas las dimensiones de
+servicio y la calidad percibida, lo cual indica que cada dimensión aporta en alguna medida a
+la experiencia final del beneficiario. Los valores más altos se observaron en Años como
+benefactor (r = 0.269), seguido de Información recibida (r = 0.244) y Fiabilidad (r = 0.216),
+lo cual sugiere que la claridad de comunicación, la regularidad institucional y el vínculo
+acumulado a lo largo del tiempo influyen significativamente en cómo se percibe el servicio.
+La empatía también mostró una correlación positiva (r = 0.191), lo cual respalda la
+importancia de la conexión humana y el trato personalizado. Por otro lado, las dimensiones
+de Tangibles y Agilidad de respuesta reflejan correlaciones positivas más bajas, lo que indica
+que aunque contribuyen a la satisfacción, lo hacen en menor medida comparado con las
+dimensiones anteriormente mencionadas.
+Acciones a tomar
+Programa de vinculación Vinculación Personalizada con Donantes Corporativos y
+Gubernamentales
+Un programa específico de relación cercana y personalizada con representantes de empresas
+y entidades gubernamentales que colaboran con Fundación Teletón. Este programa debe ir
+más allá de la comunicación institucional genérica e incluir:
+● Espacios de escucha activa, donde estos donantes puedan expresar sugerencias o
+retroalimentación directamente con directivos de Teletón, que hagan sentir a los
+12
+
+--- Página 14 ---
+donadores que son parte.
+● Visitas guiadas exclusivas a los centros de atención, donde puedan observar
+directamente el impacto de sus aportaciones.
+● Envío de reportes periódicos personalizados, destacando casos de éxito y uso de
+recursos vinculados a su apoyo.
+● Reconocimiento simbólico, no solo público, sino también emocional, como cartas
+personalizadas de familias beneficiadas.
+Justificación:
+Los datos revelan que las empresas y el gobierno son los segmentos más exigentes y críticos,
+especialmente en dimensiones como empatía y fiabilidad. Esta percepción puede estar
+influenciada por una relación fría o institucionalizada, donde no se percibe un vínculo
+emocional o humano con la fundación.
+A diferencia de otros públicos, estos sectores valoran tanto la eficiencia como el trato
+cercano, especialmente cuando invierten tiempo, recursos o imagen institucional en la causa.
+Por eso, una estrategia de contacto directo y humanizado puede generar una mejora
+significativa en la percepción de empatía, ya que hace tangible el compromiso de Teletón con
+el fortalecimiento de relaciones auténticas y recíprocas con sus aliados estratégicos.
+Sistemas ágiles de respuesta y atención
+Implementar mecanismos operativos que permitan responder rápida y eficientemente a las
+necesidades del paciente a través de IA y chatbots. Esto puede incluir un sistema de citas ágil
+por teléfono, en línea para minimizar tiempos de espera, protocolos de triage y atención
+inmediata en casos urgentes, y canales de comunicación 24/7 para resolver dudas o agendar
+servicios con prontitud. La capacidad de respuesta se refleja en la rapidez con que el paciente
+obtiene ayuda, lo que mejora su experiencia al sentirse atendido sin demoras injustificadas.
+Justificación:
+El análisis mostró que la agilidad de respuesta es una de las dimensiones mejor evaluadas por
+todos los segmentos, lo cual representa una fortaleza clara para Teletón. Consolidar este
+atributo como un sello distintivo permitiría reforzar la percepción de confianza y
+compromiso, especialmente en entornos donde los usuarios valoran la prontitud tanto como la
+calidad (como empresas y gobierno).
+13
+
+--- Página 15 ---
+Rediseño Estratégico de Materiales, Imagen Institucional y Elementos de Presencia Física
+Actualizar de forma integral la imagen institucional en puntos de contacto clave con
+benefactores: materiales impresos, uniformes, señalética de los CRIT, kits de bienvenida para
+nuevos aliados, espacios de atención a benefactores y presentaciones institucionales. Este
+rediseño debe ser coherente con la identidad de Teletón y con estándares de profesionalismo
+esperados por empresas y gobierno, priorizando claridad, accesibilidad visual y percepción de
+alta calidad.
+Justificación:
+Los datos mostraron que la dimensión de tangibles que incluye presentación, instalaciones,
+materiales, etc. tiene una percepción neutral o poco destacada, especialmente en sectores
+exigentes. Esto puede afectar la experiencia general del benefactor, ya que los aspectos
+visuales y de presentación son parte crucial de la credibilidad y profesionalismo percibidos,
+particularmente por aliados institucionales.
+Conclusión
+Los datos analizados reflejan que Teletón mantiene una percepción general positiva entre sus
+benefactores, destacando especialmente en dimensiones como confianza y agilidad de
+respuesta. Sin embargo, dimensiones críticas como la empatía, los tangibles y la fiabilidad
+muestran oportunidades claras de mejora, particularmente con aliados estratégicos como el
+gobierno y las empresas. Fortalecer el trato humano, rediseñar la imagen institucional y
+construir vínculos emocionales más sólidos con estos sectores puede elevar
+significativamente la satisfacción y consolidar relaciones a largo plazo. Implementar acciones
+inspiradas en casos exitosos de otras fundaciones fortalecerá su posicionamiento y la
+sostenibilidad de su impacto social.
+14
+
+--- Página 16 ---
+Referencias:
+INEGI. (2024, noviembre 28). Estadísticas a propósito del Día Internacional de las Personas
+con Discapacidad (comunicado de prensa núm. 684/24).
+https://www.inegi.org.mx/contenidos/saladeprensa/aproposito/2024/EAP_PCD24.pdf
+Admin, & Admin. (2024, 19 febrero). El cáncer, segunda causa de muerte en niños de 5 a 14
+años. Gaceta UNAM.
+https://www.gaceta.unam.mx/el-cancer-segunda-causa-de-muerte-en-ninos-de-5-a-14-anos/?
+Investigación en el HITO a favor del cáncer infantil – Teletón México. (s. f.).
+https://teleton.org/investigacion-en-el-hito-a-favor-del-cancer-infantil/?
+La Salud de la Infancia y Adolescencia, C. N. P. (s. f.). Cáncer infantil en niñas, niños y
+adolescentes. gob.mx.
+https://www.gob.mx/salud/censia/es/articulos/cancer-infantil-en-ninas-ninos-y-adolescentes?
+¿Cuánto cuesta tener cáncer en México? | MetLife México. (s. f.). MetLife.
+https://www.metlife.com.mx/blog/bienestar-financiero/cuanto-cuesta-tener-cancer-en-mexico
+/#:~:text=Ahora%2C%20esto%20es%20un%20promedio,puede%20costar%20$350%2C000
+%20pesos%20anuales.
+Teletón México – EL AMOR y LA CIENCIA AL SERVICIO DE LA VIDA. (s. f.).
+https://teleton.org/#:~:text=%C2%BFQuieres%20saber%20m%C3%A1s%20de%20Fundaci
+%C3%B3n,Telet%C3%B3n
+México | SIODS | Sistema de Información de los Objetivos de Desarrollo Sostenible. (s. f.).
+https://agenda2030.mx/ODSGoalSelected.html?ti=T&cveArb=ODS0160&goal=0&lang=es#/
+ind
+Fundación Garrahan. (2023). Transformación digital en salud pediátrica: mejora en los
+tiempos de atención y satisfacción del paciente. Recuperado de
+https://www.garrahan.gov.ar/noticias/trans-digital-salud-pediatrica
+15
+
+--- Página 17 ---
+Modéer, U., & Viera, J. (2023, 4 de julio). Considerar la inclusión de las personas con
+discapacidad para lograr los ODS. Programa de las Naciones Unidas para el Desarrollo.
+https://www.undp.org/es/latin-america/blog/considerar-la-inclusion-de-las-personas-con-disc
+apacidad-para-lograr-los-ods#:~:text=Objetivos%20de%20Desarrollo%20Sostenible%20,la%
+20acci%C3%B3n%20de%20los%20ODS
+16

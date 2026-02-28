@@ -1,0 +1,405 @@
+{
+  "estudiante": "Jimena Domínguez Carmona",
+  "fecha": "2025-12-02T19:57:04.637635",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información, como la percepción de flexibilidad (%FlexAlta_R3) y segmentos de usuarios.",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas (media, mediana, moda, desviación estándar, rango).",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante dashboards y gráficos.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, como diferencias en percepción por puesto y región."
+      ],
+      "fortalezas": [
+        "Claridad en la presentación de datos estadísticos y visualización.",
+        "Interpretación coherente de los resultados en relación con la problemática social.",
+        "Uso adecuado de herramientas estadísticas como ANOVA y regresión lineal."
+      ],
+      "areas_mejora": [
+        "Profundizar en la interpretación de la desviación estándar y su impacto en la dispersión de los datos.",
+        "Incluir más detalles sobre el proceso de selección de variables para el análisis."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de la estadística descriptiva y su aplicación en un contexto social relevante. Se sugiere profundizar en la interpretación de medidas de dispersión para enriquecer el análisis."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como se muestra en las Fig.1, Fig.2 y Fig.3.",
+        "Identifica con precisión los niveles de medición de las variables y selecciona el tipo de gráfico apropiado.",
+        "Interpreta de manera congruente la información que muestran los gráficos, como en la Fig.4 donde se analiza la variable %FlexAlta_R3."
+      ],
+      "fortalezas": [
+        "La selección del tipo de gráfico es apropiada y congruente con los niveles de medición de las variables.",
+        "La interpretación de los gráficos es clara y efectiva, lo que facilita la toma de decisiones."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la claridad y atractivo visual de los gráficos para hacerlos más impactantes.",
+        "Sería beneficioso incluir más detalles sobre cómo se generaron los gráficos dinámicos y qué herramientas se utilizaron."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de gráficos dinámicos y una interpretación adecuada de los datos. Para alcanzar el nivel Destacado, considera mejorar el diseño visual de los gráficos y detallar más el proceso de creación."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, identificando diferencias significativas en la percepción de flexibilidad entre distintos puestos y regiones.",
+        "Utiliza herramientas de análisis como ANOVA y regresión lineal para validar hipótesis y predecir la calidad del servicio.",
+        "Identifica riesgos y oportunidades relevantes, como la baja percepción de flexibilidad en ciertos puestos y regiones, así como en donantes nuevos.",
+        "Propone líneas de acción estratégicas y tácticas bien fundamentadas, como protocolos flexibles por diseño, estrategias regionales y acompañamiento especializado para donantes nuevos."
+      ],
+      "fortalezas": [
+        "Interpretación profunda y detallada de los datos.",
+        "Uso adecuado de herramientas estadísticas para el análisis.",
+        "Propuestas de acción claras, específicas y basadas en los insights obtenidos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las acciones propuestas en términos de recursos y tiempos."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Las evidencias muestran un análisis profundo y bien fundamentado."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos flexibles por diseño, FastTrack Teletón y estrategias regionales.",
+        "Valida las características de los prototipos mediante análisis estadísticos como ANOVA y regresión lineal.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como puestos de trabajo, regiones geográficas y nuevos donantes."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las propuestas.",
+        "Soluciones adaptadas a diferentes segmentos de usuarios.",
+        "Enfoque en mejorar la percepción de flexibilidad desde múltiples ángulos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas.",
+        "Falta de prototipos físicos o simulaciones para validar las soluciones en un entorno real."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas innovadoras. Para alcanzar el nivel Destacado, considera incluir más detalles sobre la implementación y validación de las soluciones en contextos reales."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Análisis detallado del contexto social, económico, político y ambiental que impacta en la labor de la organización",
+        "Identificación clara de la problemática y su relevancia en el país",
+        "Uso de datos estadísticos (ANOVA, regresión lineal) para validar hipótesis y proponer mejoras",
+        "Propuestas tácticas específicas y relevantes para mejorar la percepción de flexibilidad en diferentes segmentos"
+      ],
+      "fortalezas": [
+        "Comprensión profunda del impacto social de la organización",
+        "Análisis estadístico robusto y bien fundamentado",
+        "Propuestas de mejora concretas y basadas en datos",
+        "Excelente conexión entre los hallazgos y los Objetivos de Desarrollo Sostenible"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se recopilaron los datos de la encuesta",
+        "Profundizar en cómo se implementarían las propuestas tácticas en la práctica"
+      ],
+      "retroalimentacion": "Excelente trabajo. El análisis es completo, bien fundamentado y las propuestas son relevantes y prácticas. Continúa desarrollando tu capacidad para integrar datos cualitativos y cuantitativos en tus análisis."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de las personas con discapacidad al analizar la problemática que aborda el Teletón y su impacto en la vida de los beneficiarios.",
+        "Genera soluciones constructivas y solidarias al proponer acciones tácticas para mejorar la percepción de flexibilidad en diferentes segmentos de usuarios, incluyendo estrategias regionales y acompañamiento especializado para donantes nuevos.",
+        "Muestra sensibilidad social al reconocer las desigualdades estructurales y el rezago histórico en acceso a la salud que enfrentan las personas con discapacidad en México.",
+        "Demuestra compromiso comunitario al analizar cómo el Teletón brinda apoyo que el Estado no puede ofrecer, transformando la vida de niños y familias vulnerables."
+      ],
+      "fortalezas": [
+        "Análisis profundo y detallado de la problemática social y su impacto en la dignidad humana.",
+        "Propuestas de mejora basadas en datos y enfocadas en soluciones solidarias y constructivas.",
+        "Enfoque en derechos humanos y objetivos de desarrollo sostenible."
+      ],
+      "areas_mejora": [
+        "Podría incluir más testimonios o casos concretos de beneficiarios para reforzar el impacto humano de las soluciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un compromiso genuino con la ética y responsabilidad social. Tus propuestas reflejan una comprensión profunda de las necesidades de los beneficiarios y un enfoque solidario para mejorar su calidad de vida."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información, como la percepción de flexibilidad, segmentos de usuarios y ubicación geográfica.",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, mostrando medidas de tendencia central y dispersión.",
+        "Muestra de manera adecuada la información relevante contenida en las variables a través de dashboards y gráficos.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones tácticas para la mejora organizacional."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación y análisis de variables clave.",
+        "Uso adecuado de herramientas tecnológicas para el análisis estadístico.",
+        "Interpretación coherente de los resultados en relación con el contexto de la organización."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva y efectiva.",
+        "Profundizar en el análisis de correlaciones entre variables para enriquecer la interpretación."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en el contexto organizacional. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y profundizar en el análisis de correlaciones."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como se muestra en las Fig.1, Fig.2 y Fig.3, que resumen la distribución y medidas de tendencia central y dispersión de la variable %FlexAlta_R3.",
+        "Identifica con precisión los niveles de medición de las variables, como se evidencia en la interpretación de la variable %FlexAlta_R3 con media de 3.62, mediana de 4, moda de 4, desviación estándar de 0.71 y rango de 4.",
+        "Selecciona el tipo de gráfico apropiado para representar la percepción de flexibilidad por estado y por puesto, como se observa en las figuras mencionadas.",
+        "Interpreta de manera congruente la información que muestran los gráficos, como en la explicación de las diferencias en percepción de flexibilidad entre distintos puestos y estados."
+      ],
+      "fortalezas": [
+        "Los gráficos presentados son claros y adecuados para representar los datos.",
+        "La interpretación de los datos es congruente y apoyada por evidencia estadística.",
+        "La selección de gráficos es apropiada para los niveles de medición de las variables."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros.",
+        "Sería beneficioso incluir más detalles en la interpretación de los gráficos para una comprensión más profunda."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de gráficos dinámicos y una interpretación adecuada de los datos. Para alcanzar un nivel destacado, considera mejorar la presentación visual y profundizar en la interpretación de los gráficos."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta efectivamente los insights de los tableros inteligentes, identificando diferencias significativas en la percepción de flexibilidad entre distintos puestos y regiones.",
+        "Propone líneas de acción estratégicas basadas en análisis estadísticos (ANOVA, regresión lineal) que abordan problemas específicos como la baja percepción de flexibilidad en coordinadores y dueños, y en regiones como CDMX y Quintana Roo.",
+        "Identifica oportunidades de mejora claras, como la creación de equipos regionales con mayor independencia operativa y la implementación de un proceso de integración inicial para donantes nuevos."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas de análisis (ANOVA, regresión lineal) para validar hipótesis y encontrar correlaciones relevantes.",
+        "Propuestas de acción bien fundamentadas y detalladas, con protocolos específicos para diferentes segmentos de usuarios.",
+        "Enfoque en mejorar la percepción de flexibilidad desde múltiples ángulos (puestos, regiones, antigüedad de donantes)."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de por qué ciertos puestos (como coordinadores y dueños) perciben menor flexibilidad, más allá de los datos estadísticos.",
+        "Incluir métricas concretas para evaluar el éxito de las acciones propuestas (ej. % de mejora esperado en percepción de flexibilidad)."
+      ],
+      "retroalimentacion": "Excelente trabajo de análisis y propuesta de acciones. Tus insights son claros y las líneas de acción están bien alineadas con los hallazgos. Sigue profundizando en el 'por qué' detrás de los datos para enriquecer tus recomendaciones."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos flexibles por diseño, FastTrack Teletón y estrategias regionales.",
+        "Valida las características de los prototipos mediante análisis estadísticos (ANOVA, regresión lineal) y segmentación de datos.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como puestos de trabajo, regiones geográficas y nuevos donantes."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las propuestas de mejora.",
+        "Propuestas concretas y detalladas que abordan problemas específicos identificados en los datos.",
+        "Enfoque en la personalización y adaptabilidad de las soluciones propuestas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían y medirían las soluciones propuestas.",
+        "Falta de prototipos físicos o simulaciones que demuestren la viabilidad de las soluciones."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de datos y generación de soluciones innovadoras. Para alcanzar el nivel Destacado, considera incluir más detalles sobre la implementación y validación de tus propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera resultados óptimos derivados del análisis colaborativo de datos, como la identificación de segmentos con mayor y menor percepción de flexibilidad en el servicio del Teletón.",
+        "Establece compromisos estratégicos y acciones integrales para mejorar la percepción de flexibilidad, como protocolos flexibles por diseño, líneas rápidas de atención y estrategias regionales.",
+        "Demuestra cumplimiento eficaz en la negociación y generación de valor al proponer soluciones específicas para diferentes grupos de donantes y regiones.",
+        "Logra consistentemente los objetivos planteados al presentar un análisis detallado y propuestas de mejora basadas en datos estadísticos."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y basado en datos que permite identificar áreas de oportunidad y proponer soluciones efectivas.",
+        "Propuestas de mejora claras y específicas, adaptadas a diferentes segmentos y regiones.",
+        "Integración de objetivos de desarrollo sostenible (ODS) en las propuestas, mostrando un enfoque integral y ético."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se llevaría a cabo la implementación de las propuestas, incluyendo plazos y responsables.",
+        "Sería beneficioso mencionar cómo se medirá el impacto de las acciones propuestas para asegurar su efectividad."
+      ],
+      "retroalimentacion": "Excelente trabajo colaborativo que demuestra un análisis profundo y propuestas estratégicas para mejorar la percepción de flexibilidad en el Teletón. Las acciones propuestas son relevantes y bien fundamentadas, mostrando un alto impacto potencial en la organización."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza la problemática de la discapacidad y falta de acceso a servicios de rehabilitación en México, mostrando sensibilidad hacia las condiciones de vulnerabilidad de los beneficiarios.",
+        "Propone soluciones constructivas y solidarias para mejorar la percepción de flexibilidad en diferentes segmentos de usuarios, incluyendo estrategias regionales y acompañamiento especializado para donantes nuevos.",
+        "Demuestra un compromiso comunitario al vincular las acciones propuestas con los Objetivos de Desarrollo Sostenible (ODS 3, 10 y 16), respetando la dignidad y derechos humanos de los beneficiarios."
+      ],
+      "fortalezas": [
+        "Análisis profundo y articulado de la problemática social y su impacto en la dignidad de las personas.",
+        "Propuestas de mejora basadas en datos y enfocadas en reducir desigualdades y mejorar la calidad de vida de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo las acciones propuestas impactarán directamente en la vida cotidiana de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar un análisis ético y social con propuestas concretas que respetan la dignidad y derechos de los beneficiarios. Tus soluciones son constructivas y demuestran un alto compromiso comunitario."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0303",
+        "nombre": "Insights y Líneas de Acción",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Uso adecuado de herramientas de análisis (ANOVA, regresión lineal) para validar hipótesis y encontrar correlaciones relevantes.",
+          "Propuestas de acción bien fundamentadas y detalladas, con protocolos específicos para diferentes segmentos de usuarios.",
+          "Enfoque en mejorar la percepción de flexibilidad desde múltiples ángulos (puestos, regiones, antigüedad de donantes)."
+        ]
+      },
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis exhaustivo y basado en datos que permite identificar áreas de oportunidad y proponer soluciones efectivas.",
+          "Propuestas de mejora claras y específicas, adaptadas a diferentes segmentos y regiones.",
+          "Integración de objetivos de desarrollo sostenible (ODS) en las propuestas, mostrando un enfoque integral y ético."
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y articulado de la problemática social y su impacto en la dignidad de las personas.",
+          "Propuestas de mejora basadas en datos y enfocadas en reducir desigualdades y mejorar la calidad de vida de los beneficiarios."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información, como la percepción de flexibilidad, segmentos de usuarios y ubicación geográfica.",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, mostrando medidas de tendencia central y dispersión.",
+        "Muestra de manera adecuada la información relevante contenida en las variables a través de dashboards y gráficos.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones tácticas para la mejora organizacional."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación y análisis de variables clave.",
+        "Uso adecuado de herramientas tecnológicas para el análisis estadístico.",
+        "Interpretación coherente de los resultados en relación con el contexto de la organización."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva y efectiva.",
+        "Profundizar en el análisis de correlaciones entre variables para enriquecer la interpretación."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en el contexto organizacional. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y profundizar en el análisis de correlaciones.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como se muestra en las Fig.1, Fig.2 y Fig.3, que resumen la distribución y medidas de tendencia central y dispersión de la variable %FlexAlta_R3.",
+        "Identifica con precisión los niveles de medición de las variables, como se evidencia en la interpretación de la variable %FlexAlta_R3 con media de 3.62, mediana de 4, moda de 4, desviación estándar de 0.71 y rango de 4.",
+        "Selecciona el tipo de gráfico apropiado para representar la percepción de flexibilidad por estado y por puesto, como se observa en las figuras mencionadas.",
+        "Interpreta de manera congruente la información que muestran los gráficos, como en la explicación de las diferencias en percepción de flexibilidad entre distintos puestos y estados."
+      ],
+      "fortalezas": [
+        "Los gráficos presentados son claros y adecuados para representar los datos.",
+        "La interpretación de los datos es congruente y apoyada por evidencia estadística.",
+        "La selección de gráficos es apropiada para los niveles de medición de las variables."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros.",
+        "Sería beneficioso incluir más detalles en la interpretación de los gráficos para una comprensión más profunda."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de gráficos dinámicos y una interpretación adecuada de los datos. Para alcanzar un nivel destacado, considera mejorar la presentación visual y profundizar en la interpretación de los gráficos.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta efectivamente los insights de los tableros inteligentes, identificando diferencias significativas en la percepción de flexibilidad entre distintos puestos y regiones.",
+        "Propone líneas de acción estratégicas basadas en análisis estadísticos (ANOVA, regresión lineal) que abordan problemas específicos como la baja percepción de flexibilidad en coordinadores y dueños, y en regiones como CDMX y Quintana Roo.",
+        "Identifica oportunidades de mejora claras, como la creación de equipos regionales con mayor independencia operativa y la implementación de un proceso de integración inicial para donantes nuevos."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas de análisis (ANOVA, regresión lineal) para validar hipótesis y encontrar correlaciones relevantes.",
+        "Propuestas de acción bien fundamentadas y detalladas, con protocolos específicos para diferentes segmentos de usuarios.",
+        "Enfoque en mejorar la percepción de flexibilidad desde múltiples ángulos (puestos, regiones, antigüedad de donantes)."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de por qué ciertos puestos (como coordinadores y dueños) perciben menor flexibilidad, más allá de los datos estadísticos.",
+        "Incluir métricas concretas para evaluar el éxito de las acciones propuestas (ej. % de mejora esperado en percepción de flexibilidad)."
+      ],
+      "retroalimentacion": "Excelente trabajo de análisis y propuesta de acciones. Tus insights son claros y las líneas de acción están bien alineadas con los hallazgos. Sigue profundizando en el 'por qué' detrás de los datos para enriquecer tus recomendaciones.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos flexibles por diseño, FastTrack Teletón y estrategias regionales.",
+        "Valida las características de los prototipos mediante análisis estadísticos (ANOVA, regresión lineal) y segmentación de datos.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como puestos de trabajo, regiones geográficas y nuevos donantes."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las propuestas de mejora.",
+        "Propuestas concretas y detalladas que abordan problemas específicos identificados en los datos.",
+        "Enfoque en la personalización y adaptabilidad de las soluciones propuestas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían y medirían las soluciones propuestas.",
+        "Falta de prototipos físicos o simulaciones que demuestren la viabilidad de las soluciones."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de datos y generación de soluciones innovadoras. Para alcanzar el nivel Destacado, considera incluir más detalles sobre la implementación y validación de tus propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera resultados óptimos derivados del análisis colaborativo de datos, como la identificación de segmentos con mayor y menor percepción de flexibilidad en el servicio del Teletón.",
+        "Establece compromisos estratégicos y acciones integrales para mejorar la percepción de flexibilidad, como protocolos flexibles por diseño, líneas rápidas de atención y estrategias regionales.",
+        "Demuestra cumplimiento eficaz en la negociación y generación de valor al proponer soluciones específicas para diferentes grupos de donantes y regiones.",
+        "Logra consistentemente los objetivos planteados al presentar un análisis detallado y propuestas de mejora basadas en datos estadísticos."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y basado en datos que permite identificar áreas de oportunidad y proponer soluciones efectivas.",
+        "Propuestas de mejora claras y específicas, adaptadas a diferentes segmentos y regiones.",
+        "Integración de objetivos de desarrollo sostenible (ODS) en las propuestas, mostrando un enfoque integral y ético."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se llevaría a cabo la implementación de las propuestas, incluyendo plazos y responsables.",
+        "Sería beneficioso mencionar cómo se medirá el impacto de las acciones propuestas para asegurar su efectividad."
+      ],
+      "retroalimentacion": "Excelente trabajo colaborativo que demuestra un análisis profundo y propuestas estratégicas para mejorar la percepción de flexibilidad en el Teletón. Las acciones propuestas son relevantes y bien fundamentadas, mostrando un alto impacto potencial en la organización.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza la problemática de la discapacidad y falta de acceso a servicios de rehabilitación en México, mostrando sensibilidad hacia las condiciones de vulnerabilidad de los beneficiarios.",
+        "Propone soluciones constructivas y solidarias para mejorar la percepción de flexibilidad en diferentes segmentos de usuarios, incluyendo estrategias regionales y acompañamiento especializado para donantes nuevos.",
+        "Demuestra un compromiso comunitario al vincular las acciones propuestas con los Objetivos de Desarrollo Sostenible (ODS 3, 10 y 16), respetando la dignidad y derechos humanos de los beneficiarios."
+      ],
+      "fortalezas": [
+        "Análisis profundo y articulado de la problemática social y su impacto en la dignidad de las personas.",
+        "Propuestas de mejora basadas en datos y enfocadas en reducir desigualdades y mejorar la calidad de vida de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo las acciones propuestas impactarán directamente en la vida cotidiana de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar un análisis ético y social con propuestas concretas que respetan la dignidad y derechos de los beneficiarios. Tus soluciones son constructivas y demuestran un alto compromiso comunitario.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 93.4,
+  "nivel_final": "Sólido"
+}

@@ -1,0 +1,193 @@
+--- Página 1 ---
+Campus Guadalajara
+Diagnóstico para líneas de acción (Gpo 570)
+Evidencia única - 2a parte: Medición de la Calidad en el Servicio: Acciones
+Estratégicas e Impacto Social. Individual.
+Fernanda Patrón Tamez LIT A01643495
+Fecha: 22 de Noviembre de 2025.
+
+--- Página 2 ---
+Contexto: en el aspecto social Teletón atiende poblaciones con discapacidad, cáncer
+autismo, etc. Sus beneficios y donantes provienen de distintos sectores/giro (educación,
+empresa, personas físicas, gobierno, etc.)- Hay mucha desigualdad territorial con estados
+con muy pocos o ningún donante.
+En lo económico, dependencia de donativos y alianzas; variabilidad en frecuencia de
+donación (muchos donan solo 1 año). Esto afecta la sostenibilidad de programas y
+continuidad de terapias/servicios. No pudiendo comprometerse a proyectos de largo plazo
+que requieren mucha inversión o riesgo de perder el tratamiento.
+En el contexto político Teletón requiere de alianzas con instituciones públicas y privadas
+para recursos y alcance; la confianza institucional influye en participación sostenida.
+Y en lo ambiental no hay mucha información proporcionada en los videos pero tener
+infraestructura accesible y sostenible para atención; logística para brindar servicios en
+distintas regiones siempre es importante. Mas si tienen pocos departamentos y muchas
+cosas o personas se trasladan para dar servicios.
+Problemática que atiende la organización
+Teletón trabaja con el tema de acceso a servicios de rehabilitación, terapias y apoyo para
+personas con discapacidad, cáncer y trastornos del desarrollo y la necesidad de
+financiamiento y vínculo con donantes/instituciones para sostener esos servicios.
+Específicamente a personas de bajos recursos. Lo cual es un gran problema en México.
+Teletón ayuda a dar servicios especializados que muchas veces no cubre completamente el
+sistema público; promueve inclusión social y reduce inequidades en salud y rehabilitación.
+Ayuda a casos especiales y cubre necesidades que pueden mejorar o alargar la vida de un
+individuo. Fomenta inclusión, provee terapias y servicios con impacto a largo plazo y
+moviliza recursos sociales. Pero si está limitado a sus recursos, alianzas y donaciones.
+Quienes pueden beneficiar
+Niños, jóvenes y familias con necesidades especiales; vulnerabilidad por condición de
+salud; dependientes de servicios especializados; variabilidad socioeconómica (desde
+familias con recursos a población en pobreza).
+ODS
+Teletón toca varios objetivos de los objetivos de desarrollo sostenible.
+● ODS 3 (Salud y bienestar): mejorar acceso a servicios de salud y rehabilitación.
+● ODS 10 (Reducción de las desigualdades): inclusión de personas con discapacidad.
+● ODS 16 (Paz, justicia e instituciones sólidas): transparencia, rendición de cuentas y
+relaciones de confianza entre ONG e instituciones.
+Como organización mencionan que es muy importante ser transparentes, Tanto con lo que
+hacen como para que necesitan el dinero. También se concentran en el área de la salud con
+la meta de reducir la desigualdad. Por eso esos 3 objetivos son los principales que toca la
+empresa.
+
+--- Página 3 ---
+Problemáticas que tiene la organización para llevar a cabo su labor
+● Concentración geográfica de donantes, déficit en regiones. Como no tienen
+donantes en todos los estados no pueden tener ni instalaciones ni ayudantes en
+todos los estados lo cual perjudica a la instalación para buscar donantes y a los
+clientes que necesiten de su ayuda.
+● Alta rotación/ocasionalidad de donantes (muchos donan solo 1 año). Ese es el
+problema principal que queremos resolver con este proyecto, la retención de
+clientes.
+● Percepciones de baja calidad en ciertos departamentos (ej. Teletón y Educación
+mostraron valores más bajos).
+● Recursos limitados para capacitar promotores y estandarizar atención
+personalizada.
+Aportación a la organización
+El tablero y análisis (descriptivos, comparativos por estado, y la evaluación de empatía)
+permiten: identificar zonas con baja retención, analizar correlación entre años de duración y
+satisfacción con servicio, detectar departamentos con percepción de satisfacción más baja,
+priorizar intervenciones y diseñar estrategias de fidelización basadas en evidencia.
+El porqué
+Este proyecto en esta clase nos ayuda tanto a los estudiantes como a la organización. Este
+proyecto tiene la meta de mejorar la empatía y la atención personalizada aumentando la
+satisfacción y la confianza de las instituciones benefactoras, lo que facilita donaciones
+continuas, alianzas estables y, por ende, financiamiento sostenido para los usuarios.
+Mejorar la empatía, fiabilidad y atención personalizada garantiza trato digno, mayor
+accesibilidad a terapias y continuidad en atención; la transparencia y el seguimiento
+fortalecen la rendición de cuentas, cruciales para proteger derechos de los beneficiarios.
+k) ¿Cómo es que el resultado final de este reto puede favorecer al cumplimiento del
+Objetivo de Desarrollo Sostenible 16?
+
+--- Página 4 ---
+2. Entrega de tableros de visualización (Integrar la evidencia 1)
+Teletón realizó una encuesta a 273 personas encuestadas sobre la calidad percibida del
+servicio prestado por los promotores de la Fundación Teletón. El instrumento de la encuesta
+se adaptó del modelo SERVQUAL, y la mayoría de las preguntas emplearon una escala
+Likert de 5 puntos (1 = Totalmente en desacuerdo a 5 = Totalmente de acuerdo). Para este
+estudio se analizará la parte de empatía y su relación con la cantidad de años que una
+empresa, persona o organización dona a Teletón. Se usó las herramientas de excel, colab,
+tableau y looker.
+Con este dashboard (Figura 1) se analizaron los datos de empatía. Comprensión, tiempo de
+atención, entendimiento y preocupación y atención personalizada. Se ve como en promedio
+tienen un valor alto de satisfacción de rango 1-5. 5 siendo en valor máximo. Vemos que en
+la suma de años los principales que donan son los de educación, ellos no nada más donan
+más años sino son más personas o organizaciones que donan. Y las personas físicas
+acumulan más años de donación aunque son menos los que donan. Esto es importante
+para conocer el mercado o clientes que donan.
+Figura 1
+Dashboard Empatía, Teletón
+Nota: En promedio todos tienen un máximo de 5 en opinión y un mínimo de 2 o 3. Con el
+principal donador siendo Estado de México y ciudad de México, elaboración propia
+
+--- Página 5 ---
+.
+Interpretación: con la prueba chi-cuadrada aplicada, no se encontró evidencia
+estadísticamente significativa para afirmar que la dimensión de empatía esté asociada con
+la cantidad de años que dona (según los datos y el test realizado). En términos prácticos: la
+empatía percibida no varía significativamente según cuántos años lleva donando una
+persona/organización. Ver figura 2.
+Figura 2
+Prueba de hipótesis
+Nota: Relación entre empatía y tiempo de donación, elaboración propia
+Diferencia en la calidad en el servicio:
+Al analizar la figura 3 se ve que los valores promedio y mediano son muy parecidos entre
+áreas. No parece haber diferencias grandes entre áreas en cuanto a empatía. Parece que
+en general la organización es percibida muy bien por parte de todos los departamentos y
+áreas.
+Figura 3
+Valores empatía
+Nota: Medidas de tendencia de valores de empatía, elaboración propia
+
+--- Página 6 ---
+Oportunidades de mejora:
+Mejor percepción: en general la mayoría de áreas presentan promedio 4. Preocupación
+por el cliente” tuvo los mejores mínimos y medias (es la más sólida.
+Oportunidades de mejora: Áreas Teletón y Educación aparecen con valores algo más
+bajos en algunas evaluaciones (revisar especialmente atención personalizada y
+entendimiento/empatía en esas áreas). También hay estados con pocos donantes donde
+quizá la percepción sea neutra o promedio; oportunidad para mejorar la captación y
+fidelización.
+
+--- Página 7 ---
+Propuestas relevantes
+Programa de fidelización “Donante Continuo” (targeted retention)
+● Acción: segmento de donantes por años y giro; enviar atención VIP/feedback
+personalizado a donantes con 1 año para convertirlos a donantes recurrentes con
+follow-ups trimestrales e invitaciones a eventos). Ya que muchos de los donantes
+aportan solo 1 año; empatía y atención personalizada aumentan la retención. Sería
+mandar una encuesta de satisfacción ya sea después de la atención y servicio o
+tener una cada cierto tiempo a sus clientes.
+Capacitación focalizada de promotores en áreas con baja percepción (Teletón y
+Educación)
+● Acción: talleres de empatía y atención personalizada, role-playing y protocolos
+estandarizados para interacciones con instituciones (guías, guiones flexibles). Medir
+impacto con pre/post encuesta. Aumentará la satisfacción institucional. Que los
+empleados sepan que atender bien a sus clientes y darles buen servicio es igual de
+importante aunque se logre la venta si o no.
+Estrategia geográfica de crecimiento y comunicación
+● Acción: campañas dirigidas en estados con baja presencia (ej. Coahuila y otros)
+usando mensajes adaptados a su contexto; asignar promotores locales y KPIs para
+captación de donantes a largo plazo. Distribución desigual de donantes puede poner
+en riesgo la cobertura; enfoque geográfico mejora equidad y fuentes de
+financiamiento.
+● Analizar las necesidades de los estados y crear una campaña de promoción de
+Teletón que cumpla esas necesidades específicas. Con datos del gobierno se puede
+entender que servicios específicos de Teletón son los que más se necesitan en
+ciertos estados para promover a Teletón. Que no sea solo una empresa que ayuda
+con una cosa específica, que los clientes sepan todo lo que ofrece Teletón.
+Conclusión:
+La empatía se percibe de forma positiva (media ≈ 4; mediana = 4), en todos los giros.
+La prueba χ² realizada (χ² = 4.9628, χ 2 crítico = 79.082) indica no rechazar H0: no hay
+evidencia suficiente para afirmar que la empatía esté asociada con la cantidad de años
+donando.
+No se detectan diferencias grandes entre áreas en términos de empatía, aunque Teletón y
+Educación muestran valores algo más bajos y deben revisarse.
+Propuestas:
+(1) Programa de fidelización para convertir donantes de 1 año en recurrentes;
+(2) Capacitación focalizada de promotores en empatía y atención personalizada;
+(3) Estrategia geográfica de captación en estados con baja presencia.
+
+--- Página 8 ---
+Aunque la empatía no esté directamente relacionada a la retención de los clientes aún tiene
+sentido que si sea importante. Ya que no sabemos cual es el factor principal que retiene a
+los clientes, pero es sentido común que si descuidamos estos tratos de cliente es más
+probable que empiece a haber una relación se pierdan clientes. Por eso se propone el
+programa de fidelización, capacitación a los trabajadores y una estrategia geográfica. Todo
+para dar atención personalizada para saber qué necesita el cliente, cómo mejorar su
+atención y poder brindar un mejor servicio para que esté más satisfecho.
+
+--- Página 9 ---
+Bibliografía:
+Familiarizarse con Looker Studio: https://support.google.com/looker
+Harnett, Donald L., "Introduction to statistical methods", 3rd ed., Reading, Mass.: Addison-
+Wesley Pub.
+Hildebrand, David K., "Estadística aplicada a la administración y a la economía", 4a. ed.,
+Wilmington, Delaware : Addison-Wesley.
+Keller, Gerald., "Statistics for management and economics", 5th ed., Pacific Grove: Duxbury
+Press.
+Looker Studio in a minute (video): https://www.youtube.com/watch?v=ZBoFvaWr-Dk
+Looker Studio|Overview: https://lookerstudio.google.com/overview
+Newbold, Paul., "Estadística para administración y economía", 6a ed., Madrid:
+Pearson/Prentice Hall.
+Patrón (2025). Looker Studio.
+https://lookerstudio.google.com/u/2/reporting/c566e071-e5cc-4d0a-a3c2-1e344b499
+35e/page/p_iefeinrcyd
+Vázquez, J., Wood, M. y Figueroa, S. (S.f) “Narraciones sobre sostenibilidad. Una
+aproximación desde los objetivos de desarrollo sostenible”. Editorial Tirant lo Blanch.

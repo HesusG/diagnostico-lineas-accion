@@ -1,0 +1,215 @@
+--- Página 1 ---
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Campus Monterrey
+Diagnóstico para líneas de acción
+Grupo 570
+Profa. Beatriz Ochoa Ramírez
+Evidencia 2a parte
+Medición de la Calidad en el Servicio: Acciones Estratégicas e Impacto Social
+Grecia Dayan Basurto González | A01198292
+26 de noviembre del 2025
+
+--- Página 2 ---
+En esta evidencia se busca analizar la dimensión de empatía en conjunto con el giro en el que
+se encuentran los que respondieron la encuesta.
+La fundación Teletón atiende principalmente personas con discapacidad, cáncer y autismo,
+está fundación busca brindarles atención integral y de calidad para promover el desarrollo de
+su máximo potencial, así como su inclusión en la sociedad.
+En México de los 31 millones de familias que componen la población, se calcula que al
+menos en el 20% de ellas existe una persona con discapacidad. De este porcentaje, 7.3
+millones son menores de 14 años. La problemática es relevante en México ya que
+actualmente existe una situación en la que no hay suficiente capacidad de atención tanto
+pública como privada para atender a todos los niños que lo necesitan, por lo que Teletón ha
+ocupado parte de ese nicho.
+La labor que realiza Teletón es relevante por la cobertura del servicio y la visibilidad que
+tienen. Teletón cuenta con 24 Centros de Rehabilitación teniendo el sistema privado de
+rehabilitación más grande y mejor calificado del mundo. Además en cuanto a visibilidad, el
+evento anual de Teletón convoca a todo México a impulsar valores como el amor, la
+generosidad y la solidaridad, además impulsa donación privada y conciencia social sobre
+discapacidad.
+Los beneficiarios son principalmente niños, niñas y adolescentes con discapacidad
+física-motora, cáncer o autismo con edades desde 0-18 años. Otros beneficiarios son las
+familias brindándoles apoyo integral y acompañamiento incluyendo atención psicológica.
+Los centros de rehabilitación benefician a más de 30 mil niños, niñas y adolescentes
+anualmente.
+El código de ética de Teletón está conformado y se sustenta por compromisos. Entre sus
+compromisos están: ética, honestidad y coherencia, enfoque a los Derechos Humanos,
+desarrollo sostenible e inclusivo, observancia de la Ley y transparencia.
+Algunas problemáticas que puede tener Teletón para llevar a cabo su labor son:
+sustentabilidad financiera ya que dependen de campañas masivas de recaudación y
+donaciones privadas por organizaciones. La cobertura y demanda ya que la situación con los
+niños supera la capacidad instalada, lo que requiere ampliar instalaciones y reclutar personal
+especializado.
+Los productos como la visualización de datos permite identificar puntos importantes
+relevantes para la toma de decisiones, entre estos la percepción del servicio, en este caso
+enfocado a la empatía. En cuanto a la evidencia recopilada por gráficos y hallazgos pueden
+mejorar significativamente la calificación de las encuestas relevantes a la empatía que sienten
+las organizaciones privadas que donan a la fundación.
+
+--- Página 3 ---
+Este reto busca encontrar hallazgos de la base de datos para mejorar la calidad del servicio a
+los usuarios involucrados, esto mediante análisis de las variables que conforman la calidad
+del servicio, tomando en cuenta valores importantes como la diferencia de satisfacción entre
+estados, los años de antigüedad principalmente en la dimensión de empatía.
+La labor de la Fundación Teletón contribuye al ejercicio de los derechos humanos y al
+respecto de la dignidad al ofrecer servicios de rehabilitación, inclusión y atención integral
+para los beneficiarios y para sus familias. Su modelo promueve la igualdad de oportunidades
+y la no discriminación.
+El resultado final de este reto contribuye al ODS 16 porque proporciona información útil a la
+fundación Teletón para fortalecer sus procesos internos, evidencia para la futura toma de
+decisiones. Con esta información le permite a Teletón identificar áreas de oportunidad y
+factores que influyen en la calidad del servicio. En conjunto, esta información promueve un
+entorno institucional más justo, inclusivo y responsable.
+Tableros de visualización
+Con la información a continuación se busca saber si existe relación entre la dimensión de
+empatía con los diferentes giros que forman parte de Teletón. Se realizó el análisis a las
+respuestas de la encuesta realizada a 273 usuarios de Teletón. El formato para la encuesta fue
+de Servqual. Para este análisis se utilizaron las herramientas Excel y Google Colab. Excel se
+utilizó para algunas gráficas generales de todas las variables, Google Colab se utilizó para
+cálculos como pruebas de hipótesis, estadísticas y gráficas. La mayoría de las preguntas están
+diseñadas para analizar 4 dimensiones (actitud, flexibilidad, rapidez/respuesta y empatía). Las
+preguntas utilizan una escala Likert del 1-5 donde 1 es totalmente en desacuerdo y 5 como
+totalmente de acuerdo
+Para los siguientes análisis se resumieron las preguntas a la descripción corta de cada
+pregunta. Esto ayuda a tener una mejor visualización de datos, así también para identificar lo
+que se evalúa en cada pregunta. A continuación se mostrarán las medidas de tendencia central
+y dispersión por pregunta.
+Figura 1
+Nota: Medidas de tendencia central.
+
+--- Página 4 ---
+Figura 2
+Nota: Medidas de dispersión.
+Figura 3
+Nota: En esta gráfica se puede observar mucha diferencia entre el promedio de empatía de
+cada pregunta en atención personalizada siendo la más baja, con un rango de 0.26 con la
+pregunta 3 (entiende y se preocupa por el cliente) que es la segunda más baja, y un rango de
+0.3 con actitud comprensiva que es la pregunta con promedio más alto de empatía. Entonces
+el rango varía de 0.26-0.3. En general el rango no es muy alto en comparación con las
+demás preguntas, sin embargo al graficar si se ve una gran diferencia.
+Pregunta de investigación:
+¿Existen diferencias significativas en la empatía entre los diferentes giros?
+Hipótesis
+H (Hipótesis nula): No hay diferencias significativas en la empatía entre los diferentes giros.
+0
+H (Hipótesis alternativa): Hay diferencias significativas en la empatía entre los giros.
+1
+Previo a la prueba ANOVA, se calcularon las estadísticas de empatía (media, mínimo,
+máximo y desviación estándar). Luego de haber sacado las estadísticas de empatía por giro,
+se tomaron los giros con mayor y menor puntaje de empatía. Las variables que se utilizaron
+son:
+
+--- Página 5 ---
+● Empatía general (media de las 4 preguntas de empatía)
+● Actitud comprensiva
+● Dedicación de tiempo
+● Entiende y se preocupa por el cliente
+● Atención personalizada
+A continuación se mostrarán los resultados de las estadísticas de empatía mostrando los giros
+con mayor y menor puntaje de las variables previamente mencionadas.
+Figura 4
+=== Empatía General ===
+Giro n Media Mínimo Máximo Desv.Std
+Giro con mayor empatía
+Teletón 32 3.96 2.25 4.75 0.48
+Giro con menor empatía
+Gubernamental 21 3.79 2.5 4.5 0.58
+Figura 5
+=== 1. Actitud comprensiva ===
+Giro n Media Mínimo Máximo Desv.Std
+Giro con mayor empatía
+Educación 116 4.07 3 5 0.63
+Giro con menor empatía
+Teletón 32 3.91 1 5 0.82
+Figura 6
+=== 2. Dedicación de tiempo ===
+Giro n Media Mínimo Máximo Desv.Std
+Giro con mayor empatía
+Persona física 47 4.09 3 5 0.65
+Giro con menor empatía
+Gubernamental 21 3.67 2 4 0.66
+
+--- Página 6 ---
+Figura 7
+=== 3. Entiende y se preocupa por el cliente ===
+Giro n Media Mínimo Máximo Desv.Std
+Giro con mayor empatía
+Teletón 32 4.16 3 5 0.72
+Giro con menor empatía
+Asociación civil 17 3.82 3 5 0.64
+Figura 8
+=== 4. Atención personalizada ===
+Giro n Media Mínimo Máximo Desv.Std
+Giro con mayor empatía
+Teletón 32 3.94 2 5 0.5
+Giro con menor empatía
+Gubernamental 21 3.52 2 5 0.81
+Luego de obtener los giros con mayor y menor puntaje, se utilizaron gráficas de barras para
+representar la información. El color de los gráficos en gris, poniendo énfasis en el mayor y
+menor puntaje, siendo el color morado como mayor puntaje y el amarillo con el menor
+puntaje. Figura 9
+
+--- Página 7 ---
+Nota: Antes de realizar la prueba ANOVA podemos ver que la diferencia de la media de
+empatía general y de las 4 preguntas individuales es mínima. Sin embargo la gráfica de la
+pregunta 2. Dedicación de tiempo se puede observar que hay un poco más de diferencia entre
+el giro persona física y gubernamental. A grandes rasgos el giro de los grupos internos de
+Teletón es el líder consistente en puntaje promedio de empatía orientada al servicio y la
+preocupación individual en la mayoría de los gráficos a excepción de la pregunta 1. Actitud
+comprensiva. En la gráfica de la pregunta 1 orientada a la actitud comprensiva, los giros de
+Educación, Empresa y Gubernamental son altos y Teletón ligeramente bajo. En la gráfica de
+dedicación de tiempo el giro Persona física y Asociación civil destacan por ser los que más
+tiempo recibe en cuanto a atención.
+
+--- Página 8 ---
+Figura 14
+Nota: En esta gráfica de boxplot podemos ver que de todos los tipos de giros que forman
+parte de Teletón, los más bajos son Asociación civil y Empresa en cuanto a la media general
+de empatía, esto indica que una porción significativa de sus datos está por debajo del
+promedio general. Las mejores puntuaciones son los giros de Educación, Teletón y
+Gubernamental, tienen las medianas de empatía más altas, estando ligeramente por encima
+del promedio general de 3.91, con estos resultados se puede decir que el 50% central de sus
+respuestas tiende a tener un nivel de empatía más alto. Para esta gráfica de boxplot, se
+utilizó la variable de empatía general para los valores de empatía (1-5) y la línea que
+representa media general con un valor de 3.91. Elaboración propia.
+Prueba ANOVA
+Luego de los resultados de la prueba ANOVA, el P-value es significativamente mayor que el
+nivel de significancia. Por lo que la decisión es no rechazar la hipótesis nula debido a que no
+hay evidencia de que haya diferencia entre los diferentes tipos de giro para afirmar que la
+media de la empatía percibida en al menos uno de los giros es diferente a los otros tipos de
+giro.
+Propuestas:
+Enfoque a la “Atención Personalizada”: Implementar protocolos de “atención uno a uno”.
+Esta propuesta tiene impacto en la calidad del servicio al ser la dimensión peor calificada
+(3.70). Con esta propuesta se busca mejorar la atención personalizada impactando
+directamente en la confiabilidad y la capacidad de respuesta.
+Mejora del Giro Gubernamental: El bajo rendimiento del giro gubernamental en variables
+
+--- Página 9 ---
+como “dedicación de tiempo” y “atención personalizada” afecta significativamente la calidad
+del servicio en cuanto a la empatía percibida. Rediseñar flujos para reducir el tiempo de
+espera. Esta propuesta impacta en la calidad del servicio al atacar estos puntos de mejora
+directamente la eficiencia, la accesibilidad y la tangibilidad del servicio. Reducir los tiempos
+de espera mejora la percepción de la calidad del servicio que Teletón ofrece.
+Monitoreo y Ajuste: Definir el 3.90 (cercano a la media general de empatía) como el umbral
+mínimo aceptable para las cuatro dimensiones y crear planes de acción correctivos y
+automáticos si alguna dimensión cae por debajo de este nivel. Esta propuesta impacta en
+cualquier dimensión seleccionada, y en este caso, cero giros con puntuaciones promedio por
+debajo de la media de 3.90.
+Conclusiones:
+En conclusión desde una perspectiva estadística, el tipo de Giro no es un factor que influya de
+manera significativa en el nivel de promedio de empatía percibida. Aunque en las gráficas
+mostradas previamente se pueden observar diferencias, no son estadísticamente
+significativas. Por lo que no hay una correlación entre los tipos de giro con la empatía
+percibida en las 4 preguntas enfocadas en esta dimensión. Esto se puede deber a que la escala
+Likert al ser pequeña en una escala del 1-5, los cambios en las medias de la empatía percibida
+son pequeños y no significativos para rechazar la hipótesis nula. En cuanto a la primera
+gráfica (figura 3) donde se muestran los promedios de empatía por pregunta, la pregunta
+relacionada a la atención personalizada, tiene el resultado de promedio más bajo en
+comparación a las demás preguntas, por lo que la dimensión de “atención personalizada” es
+el área de oportunidad más clara con un promedio general de 3.70, teniendo en cuenta que la
+media general de las 4 preguntas es de 3.91 en una escala de 1-5. Esta debilidad proviene
+principalmente del giro “gubernamental”, que consistentemente obtuvo los puntajes más altos
+en la dimensión de empatía.
+Referencias:
+● https://teleton.org/

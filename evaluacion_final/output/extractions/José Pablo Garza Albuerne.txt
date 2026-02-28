@@ -1,0 +1,230 @@
+--- Página 1 ---
+1
+Evidencia única - 2a parte: Medición de la Calidad en el Servicio: Acciones
+Estratégicas e Impacto Social. Individual.
+José Pablo Garza Albuerne A00837885
+Diagnóstico para líneas de acción (Gpo 570)
+Profesora - Beatriz Ochoa Ramírez
+Campus Monterrey
+26 de noviembre del 2025
+
+--- Página 2 ---
+2
+1. Resumen Ejecutivo de la ONG.
+Fundación Teletón es una de las instituciones más importantes en México en la atención de
+niñas, niños y jóvenes con discapacidad, autismo y cáncer. Su labor se extiende a través de
+una red nacional de centros especializados y programas de acompañamiento a familias en
+situación de vulnerabilidad.
+El presente reporte evalúa la calidad percibida del servicio prestado por los promotores
+de la Fundación, utilizando una base de datos de 273 encuestas construidas bajo el
+modelo SERVQUAL. Se analizaron indicadores como rapidez (R1), disposición a ayudar
+(R2) y flexibilidad (R3), así como dimensiones de empatía, fiabilidad y desempeño global.
+Los resultados muestran que la calidad del servicio se percibe de forma altamente
+positiva, con medias entre 3.58 y 3.62 en las variables principales de la dimensión
+“Capacidad de respuesta” y medianas de 4 en todos los ítems. La fortaleza mayor se
+encuentra en la disposición a ayudar (R2), mientras que la flexibilidad (R3) presenta
+mayor variabilidad y se identifica como el principal punto de mejora institucional.
+El estudio permite proponer tres líneas de acción tácticas basadas en evidencia:
+1. Programa de fidelización “Benefactor Cercano”.
+2. Capacitación específica para mejorar flexibilidad y atención personalizada.
+3. Estrategia geográfica de fortalecimiento del servicio replicando buenas prácticas
+regionales.
+El análisis contribuye directamente a la toma de decisiones informada, al fortalecimiento de
+derechos humanos y al cumplimiento del ODS 16, al promover prácticas de atención más
+justas, transparentes y orientadas a la dignidad humana.
+2. Descripción de la ONG (Misión, Visión y Valores)
+Misión
+Brindar atención integral a personas con discapacidad, autismo y cáncer, mediante servicios
+de rehabilitación, inclusión y acompañamiento especializado que impulsen su autonomía,
+bienestar y calidad de vida.
+
+--- Página 3 ---
+3
+Visión
+Ser la institución líder en México en rehabilitación e inclusión social, fortaleciendo la
+dignidad de todas las personas que atiende y promoviendo igualdad de oportunidades.
+Valores
+Empatía, respeto, inclusión, profesionalismo, solidaridad y transparencia.
+3. Descripción del entorno y análisis del sector del mercado
+Fundación Teletón opera dentro del sector social y de salud, en un país donde la
+infraestructura pública para atención de discapacidad y autismo es limitada. Muchas familias
+carecen de acceso a servicios especializados cercanos o asequibles. El sector no lucrativo
+depende de confianza social, transparencia y calidad humana del servicio, elementos
+esenciales para garantizar continuidad operativa. Teletón complementa capacidades
+estatales y reduce desigualdades mediante atención diversa, multidisciplinaria y accesible.
+4. Identificación de las Unidades Estratégicas de Negocio (UEN)
+● CRIT (Centros de Rehabilitación e Inclusión Infantil)
+● Centros de Autismo Teletón
+● Hospital Infantil Teletón de Oncología
+● Promotoria / Atención ciudadana
+● Captación de fondos y alianzas
+● Voluntariado e inclusión comunitaria
+Este estudio se enfoca en la unidad de Promotoría, la cual influye directamente en la
+experiencia del usuario y del benefactor.
+5. Análisis de contexto e impacto social y de atención ciudadana
+5.a Análisis del contexto y problemática
+En México existen grandes desigualdades en el acceso a rehabilitación y servicios de salud
+especializados. Las familias con menores con discapacidad o autismo enfrentan barreras
+económicas, geográficas, informativas y sociales. La infraestructura pública es insuficiente,
+lo que genera listas de espera prolongadas, atención limitada y desigualdad territorial.
+
+--- Página 4 ---
+4
+Teletón atiende esta problemática mediante centros de rehabilitación con tecnología
+avanzada, personal capacitado y un modelo integral centrado en la persona.
+5.b Reflexión social sobre el impacto de la labor de la organización
+Fundación Teletón contribuye directamente al bienestar social de miles de familias:
+● Mejora movilidad, autonomía y calidad de vida.
+● Reduce desigualdades regionales.
+● Facilita acceso a educación e inclusión comunitaria.
+● Proporciona acompañamiento emocional y orientación familiar.
+Su impacto se extiende más allá del ámbito médico, fortaleciendo redes de apoyo social y
+promoviendo inclusión.
+5.c Argumentación ética de la propuesta de intervención
+Una intervención orientada a mejorar la calidad del servicio respalda principios éticos
+fundamentales:
+● Dignidad humana: atendiendo necesidades particulares con empatía.
+● Acceso equitativo: mejorando protocolos para usuarios de diferentes regiones.
+● Transparencia: decisiones basadas en evidencia.
+● Justicia social: reduciendo brechas en atención.
+Estas mejoras contribuyen al ODS 16 (instituciones sólidas), así como al ODS 3 (salud y
+bienestar) y ODS 10 (reducción de desigualdades).
+6. Construcción de la base de datos para la medición de la calidad del servicio
+La base de datos fue construida a partir de 273 encuestas aplicadas a usuarios y
+benefactores que tuvieron interacción con promotores de Fundación Teletón. Incluye:
+● Dimensiones SERVQUAL: AT (tangibles), FI (fiabilidad), R (capacidad de respuesta),
+E (empatía).
+● Variables globales: desempeño (1–10), recomendación (1–10), claridad de
+información (1–10).
+● Variables demográficas: región, giro, años como benefactor.
+● Transformaciones: agrupación de regiones, categorización de antigüedad.
+
+--- Página 5 ---
+5
+7. Descripción de la metodología de investigación
+El estudio utilizó el modelo SERVQUAL, evaluando:
+● R1: rapidez
+● R2: disposición a ayudar
+● R3: flexibilidad
+● FI: fiabilidad
+● E: empatía
+La base de datos se adaptó para medir percepciones específicas de los promotores de la
+Fundación. Se procesaron datos, se obtuvieron estadísticos descriptivos y se diseñaron
+tableros de visualización.
+8. Identificación de variables que influyen en la calidad del servicio
+El análisis se hizo con base en la dimensión “Capacidad de respuesta” del modelo
+SERVQUAL, centrado exclusivamente en:
+● R1: rapidez
+● R2: disposición a ayudar
+● R3: flexibilidad
+Escalas:
+● Servicio → 1 a 5
+● Globales → 1 a 10
+Además, se compararon estas variables entre giro, región y antigüedad, y se elaboraron
+tableros descriptivos.
+Variable Medi Median Desv. Varianz Mín Máx
+a a Est. a
+AT_1 3.795 4 0.8485 0.7173 1 5
+6
+
+--- Página 6 ---
+6
+AT_2 3.576 4 0.7081 0.4996 1 5
+6
+FI_1 3.558 4 0.6942 0.4801 1 5
+4
+FI_2 3.635 4 0.7449 0.5529 1 5
+0
+FI_3 3.630 4 0.6463 0.4162 1 5
+0
+R1 – Rapidez 3.598 4 0.6680 0.4447 1 5
+5
+R2 – Disposición a ayudar 3.583 4 0.7717 0.5933 1 5
+9
+R3 – Flexibilidad 3.624 4 0.7168 0.5119 1 5
+0
+E_1 3.996 4 0.6657 0.4416 1 5
+3
+E_2 3.970 4 0.6733 0.4517 2 5
+8
+
+--- Página 7 ---
+7
+E_3 3.956 4 0.7147 0.5090 1 5
+2
+E_4 3.700 4 0.6614 0.4359 1 5
+7
+D_1 – Desempeño (1–10) 7.729 8 0.8517 0.7226 1 10
+9
+R_12 – Recomendación (1–10) 8.430 9 0.6027 0.3619 4 10
+6
+C_1 – Calidad percibida 3.631 4 0.7357 0.5393 1 5
+3
+Info – Claridad de información 7.945 8 0.8899 0.7880 1 10
+(1–10) 3
+Años como benefactor 4.441 2 2.7568 24.0203 1 25
+6
+Las variables clave analizadas en este estudio fueron R1 (Rapidez), R2 (Disposición a
+ayudar) y R3 (Flexibilidad), por lo que se presentan en negritas dentro de la tabla para
+destacar su relevancia. Las demás variables aparecen únicamente con fines descriptivos y
+de contexto, sin análisis inferencial ni interpretación profunda, ya que no formaron parte del
+objetivo de este diagnóstico
+
+--- Página 8 ---
+8
+9.b Tableros de visualización de indicadores clave
+
+--- Página 9 ---
+9
+
+--- Página 10 ---
+10
+10. Comparativo de calidad por giro
+Nota: La tabla muestra los promedios de cada giro por las dimensiones del servicio,
+elaboración propia.
+Interpretación:
+- Persona física: evalúa mejor la rapidez.
+- Asociación Civil: mayor valoración en flexibilidad.
+- Teletón (interno): mantiene evaluaciones estables en R1–R3.
+- Gobierno: presenta valores más bajos en flexibilidad → necesita capacitación
+focalizada.
+11. Comparativo por región
+
+--- Página 11 ---
+11
+Conclusiones por región
+Sur = mejor desempeño; Norte = menor flexibilidad; Centro y Oeste = estables.
+12. Comparativo por Años como Benefactor
+Hallazgos principales:
+1–3 años: valores más bajos, necesitan inducción.
+4–10 años: grupo con mayor satisfacción, estable en R1–R3.
+15–20 años: valores más altos en disposición y flexibilidad.
+Conclusión
+La satisfacción aumenta con la antigüedad. R3 crece conforme aumenta la
+relación con la Fundación.
+13. Predicción de cambios en la calidad
+- Mejorar R3 incrementará satisfacción y recomendación.
+- Mantener R1 y R2 asegura estabilidad operativa.
+- Replicar buenas prácticas del Sur mejorará desempeño nacional.
+14. Propuestas de líneas de acción táctica
+1) Capacitación en Flexibilidad (R3)
+
+--- Página 12 ---
+12
+Role-playing, protocolos adaptativos, simulaciones de casos reales.
+2) Optimización de Rapidez (R1)
+Checklists, scripts y rutas ágiles de atención.
+3) Fortalecimiento de Disposición a Ayudar (R2)
+Refuerzos positivos, capacitación continua y reconocimiento.
+15. Conclusiones
+Fundación Teletón ofrece un servicio bien evaluado, con disposición a ayudar como
+principal fortaleza. La flexibilidad es la variable más variable, especialmente por región y
+antigüedad. Con las acciones propuestas, la institución puede mejorar la homogeneidad y
+calidad del servicio en toda la red.
+14. Bibliografía
+Parasuraman, Zeithaml & Berry (1988). SERVQUAL.
+Fundación Teletón México (2024). Reportes institucionales.
+OMS (2023). Rehabilitación en la infancia.
+15. Anexos
+Looker Studio:
+https://lookerstudio.google.com/reporting/63dd7a23-bcac-4f02-b354-cac1647086a7

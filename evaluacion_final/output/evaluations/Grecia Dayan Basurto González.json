@@ -1,0 +1,381 @@
+{
+  "estudiante": "Grecia Dayan Basurto González",
+  "fecha": "2025-12-02T19:53:03.544765",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (empatía general, actitud comprensiva, dedicación de tiempo, entiende y se preocupa por el cliente, atención personalizada).",
+        "Utiliza herramientas tecnológicas (Excel y Google Colab) para resumir la información mediante tablas de frecuencia y estadísticas descriptivas.",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante gráficas de barras y boxplot.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (diferencia en la empatía percibida entre giros)."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para el análisis estadístico.",
+        "Presentación clara y organizada de los resultados mediante gráficas y tablas.",
+        "Interpretación coherente de los resultados en el contexto del problema."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva.",
+        "Profundizar en la interpretación de las diferencias no significativas encontradas en la prueba ANOVA."
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico y la interpretación de los resultados. Sigue trabajando en la presentación visual de los datos para hacerla más impactante y atractiva."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como el boxplot y gráficas de barras para representar la información de empatía por giro.",
+        "Identifica con precisión los niveles de medición de las variables utilizando una escala Likert del 1-5.",
+        "Selecciona el tipo de gráfico apropiado (boxplot y gráficas de barras) para mostrar las diferencias en empatía entre giros.",
+        "Interpreta de manera congruente la información que muestran los gráficos, destacando diferencias y áreas de oportunidad."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas como Excel y Google Colab para generar gráficos.",
+        "Interpretación clara de los resultados estadísticos y su relación con los gráficos presentados."
+      ],
+      "areas_mejora": [
+        "Mejorar la claridad y atractivo visual de los gráficos para hacerlos más impactantes.",
+        "Profundizar en la interpretación de los gráficos para extraer insights más detallados."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y su interpretación. Para alcanzar el nivel Destacado, se sugiere enfocarse en mejorar el diseño visual de los gráficos y profundizar en el análisis de los datos presentados."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, como se muestra en el análisis de las dimensiones de empatía por giro.",
+        "Utiliza herramientas de análisis apropiadas (Excel y Google Colab) para realizar pruebas de hipótesis, estadísticas y gráficas.",
+        "Identifica riesgos y oportunidades relevantes, como la baja calificación en 'Atención Personalizada' y el bajo rendimiento del giro gubernamental.",
+        "Propone líneas de acción estratégicas como la implementación de protocolos de 'atención uno a uno' y el rediseño de flujos para reducir tiempos de espera."
+      ],
+      "fortalezas": [
+        "Análisis detallado y estructurado de las dimensiones de empatía.",
+        "Uso adecuado de herramientas estadísticas y visualización de datos.",
+        "Propuestas de acción claras y enfocadas en áreas de oportunidad identificadas."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones entre variables para identificar relaciones más complejas.",
+        "Incluir más detalles sobre cómo se implementarían las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de herramientas de análisis y una interpretación adecuada de los datos. Las propuestas de acción son relevantes, pero podrían enriquecerse con más detalles sobre su implementación y métricas de éxito."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos de 'atención uno a uno' y rediseño de flujos para el giro gubernamental.",
+        "Valida las características de los prototipos mediante análisis estadísticos y pruebas de hipótesis (ANOVA).",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, abordando problemáticas específicas como la atención personalizada y la eficiencia en el servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y sistemático de los datos recopilados.",
+        "Propuestas concretas y basadas en evidencia para mejorar la calidad del servicio.",
+        "Uso adecuado de herramientas estadísticas para validar las hipótesis."
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de las soluciones propuestas mediante prototipos más detallados o pilotos.",
+        "Explorar más a fondo la escalabilidad de las soluciones propuestas en otros contextos similares."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen nivel de innovación y validación de soluciones. Para alcanzar un nivel Destacado, considera implementar y evaluar las propuestas en un entorno real para asegurar su efectividad y aplicabilidad en diversos contextos."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos sobre la empatía en diferentes giros de la Fundación Teletón",
+        "Establece propuestas claras para mejorar la atención personalizada y el rendimiento del giro gubernamental",
+        "Presenta un análisis estadístico detallado utilizando herramientas como Excel y Google Colab",
+        "Logra los objetivos planteados al identificar áreas de oportunidad y proponer acciones correctivas"
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien estructurado de los datos",
+        "Propuestas concretas y bien fundamentadas para mejorar la calidad del servicio",
+        "Uso adecuado de herramientas estadísticas y visualización de datos"
+      ],
+      "areas_mejora": [
+        "Profundizar en la justificación de las propuestas con más evidencia estadística",
+        "Incluir más detalles sobre cómo se implementarían las propuestas en la práctica"
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen nivel de análisis y propuestas concretas para mejorar la calidad del servicio. Para alcanzar un nivel destacado, sería beneficioso profundizar en la implementación práctica de las propuestas y reforzar su justificación con más evidencia estadística."
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Analiza la dimensión de empatía en el servicio de la Fundación Teletón, mostrando sensibilidad hacia las personas con discapacidad y sus familias.",
+        "Propone soluciones constructivas como protocolos de atención personalizada y mejora en el giro gubernamental para incrementar la calidad del servicio.",
+        "Demuestra respeto a la dignidad de las personas al enfocarse en la inclusión y derechos humanos en el análisis de la fundación."
+      ],
+      "fortalezas": [
+        "Sensibilidad social al abordar un tema relevante como la discapacidad y la inclusión.",
+        "Compromiso comunitario evidenciado en las propuestas para mejorar el servicio de Teletón."
+      ],
+      "areas_mejora": [
+        "Profundizar en la articulación de soluciones más innovadoras y solidarias que impacten de manera más significativa.",
+        "Incluir más evidencias de interacción directa con los beneficiarios para reforzar la empatía demostrada."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen nivel de sensibilidad social y compromiso con la comunidad. Para alcanzar un nivel destacado, se sugiere desarrollar propuestas más innovadoras y evidenciar una mayor interacción con los beneficiarios."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica correctamente las variables esenciales (empatía general, actitud comprensiva, dedicación de tiempo, etc.) y las analiza por giro",
+        "Utiliza herramientas tecnológicas (Excel y Google Colab) para calcular estadísticas descriptivas y generar gráficas",
+        "Presenta tablas con medidas de tendencia central y dispersión para cada variable",
+        "Interpreta los resultados de manera articulada en el contexto de la problemática de Teletón"
+      ],
+      "fortalezas": [
+        "Análisis completo de múltiples variables relacionadas con la empatía",
+        "Uso adecuado de herramientas tecnológicas para el análisis estadístico",
+        "Presentación clara de resultados mediante tablas y gráficas",
+        "Interpretación coherente de los hallazgos en relación al contexto de Teletón"
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos",
+        "Falta profundizar en la interpretación de las medidas de dispersión",
+        "Podría incluir más análisis comparativos entre las diferentes dimensiones"
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico descriptivo. Has identificado adecuadamente las variables clave y utilizado herramientas tecnológicas apropiadas. Para mejorar, podrías trabajar en hacer las visualizaciones más impactantes y profundizar en la interpretación de las medidas de dispersión."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como los boxplots y gráficas de barras que muestran diferencias en empatía por giro",
+        "Identifica con precisión los niveles de medición de las variables (escala Likert 1-5)",
+        "Selecciona el tipo de gráfico apropiado (boxplot para distribución, barras para comparación)",
+        "Interpreta de manera congruente la información que muestran los gráficos, relacionándola con las hipótesis"
+      ],
+      "fortalezas": [
+        "Uso adecuado de visualizaciones para comparar grupos",
+        "Selección apropiada de gráficos según el tipo de datos",
+        "Interpretación coherente de los resultados gráficos"
+      ],
+      "areas_mejora": [
+        "Podría mejorar el diseño visual de los gráficos para hacerlos más atractivos",
+        "Falta mayor detalle en la descripción de cómo se construyeron los gráficos dinámicos"
+      ],
+      "retroalimentacion": "Buen trabajo en la creación e interpretación de gráficos dinámicos. Para mejorar, considera añadir más detalles técnicos sobre la construcción de los gráficos y refinar su presentación visual."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes al analizar las diferencias en empatía entre giros",
+        "Utiliza herramientas de análisis pertinentes como Excel y Google Colab para pruebas de hipótesis y estadísticas",
+        "Identifica oportunidades de mejora en atención personalizada y giro gubernamental",
+        "Propone líneas de acción estratégicas como protocolos de atención uno a uno y rediseño de flujos"
+      ],
+      "fortalezas": [
+        "Análisis estadístico riguroso con pruebas ANOVA",
+        "Identificación clara de áreas de oportunidad basada en datos",
+        "Propuestas de acción alineadas a los hallazgos"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de causas raíz de las diferencias observadas",
+        "Incluir métricas de impacto estimado para las propuestas"
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico y propuestas de mejora. Para alcanzar el nivel destacado, considera profundizar en el porqué de las diferencias observadas y cuantificar el impacto potencial de tus recomendaciones."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos de 'atención uno a uno' y rediseño de flujos para el giro gubernamental.",
+        "Valida las características de los prototipos mediante análisis estadístico (ANOVA) y visualización de datos.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, abordando problemáticas específicas como la atención personalizada y la eficiencia en el servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado con herramientas estadísticas y visuales.",
+        "Propuestas concretas y relevantes para mejorar la calidad del servicio en la Fundación Teletón."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas con pruebas piloto o estudios de caso.",
+        "Incluir más detalles sobre cómo se implementarían las soluciones propuestas en la práctica."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas innovadoras. Para alcanzar el nivel Destacado, considera incluir más evidencia de validación práctica de tus soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos sobre empatía en diferentes giros de la Fundación Teletón.",
+        "Establece compromisos y propuestas claras como la implementación de protocolos de atención personalizada y mejora en el giro gubernamental.",
+        "Da cuenta del cumplimiento de tareas de negociación y análisis mediante el uso de herramientas como Excel y Google Colab.",
+        "Logra consistentemente los objetivos planteados al identificar áreas de oportunidad y proponer acciones específicas."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de los datos.",
+        "Propuestas claras y específicas para mejorar la calidad del servicio.",
+        "Uso adecuado de herramientas estadísticas y visualización de datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se implementarán las propuestas y los mecanismos de seguimiento.",
+        "Incluir más detalles sobre la colaboración con otros miembros del equipo en el proceso de análisis y toma de decisiones."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas. Para mejorar, considera detallar más la implementación de las acciones y cómo se medirá su impacto."
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante demuestra sensibilidad social al analizar la problemática de la atención a personas con discapacidad en México y la labor de la Fundación Teletón.",
+        "Presenta soluciones constructivas y solidarias como la implementación de protocolos de 'atención uno a uno' y la mejora del giro gubernamental.",
+        "Muestra respeto a la dignidad de las personas al enfocarse en la inclusión y atención integral para los beneficiarios y sus familias."
+      ],
+      "fortalezas": [
+        "Análisis detallado de la dimensión de empatía en diferentes giros, mostrando compromiso con la mejora de la calidad del servicio.",
+        "Propuestas concretas para mejorar la atención personalizada y reducir tiempos de espera, evidenciando un enfoque en la solución de problemas reales."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactarán directamente en la vida de los beneficiarios, mostrando aún más sensibilidad social.",
+        "Incluir más detalles sobre cómo se implementarán las propuestas para asegurar su efectividad y sostenibilidad."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de la empatía y en la generación de soluciones constructivas. Continúa enfocándote en cómo tus propuestas impactarán positivamente en la comunidad."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [],
+    "areas_fuertes": [],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica correctamente las variables esenciales (empatía general, actitud comprensiva, dedicación de tiempo, etc.) y las analiza por giro",
+        "Utiliza herramientas tecnológicas (Excel y Google Colab) para calcular estadísticas descriptivas y generar gráficas",
+        "Presenta tablas con medidas de tendencia central y dispersión para cada variable",
+        "Interpreta los resultados de manera articulada en el contexto de la problemática de Teletón"
+      ],
+      "fortalezas": [
+        "Análisis completo de múltiples variables relacionadas con la empatía",
+        "Uso adecuado de herramientas tecnológicas para el análisis estadístico",
+        "Presentación clara de resultados mediante tablas y gráficas",
+        "Interpretación coherente de los hallazgos en relación al contexto de Teletón"
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos",
+        "Falta profundizar en la interpretación de las medidas de dispersión",
+        "Podría incluir más análisis comparativos entre las diferentes dimensiones"
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico descriptivo. Has identificado adecuadamente las variables clave y utilizado herramientas tecnológicas apropiadas. Para mejorar, podrías trabajar en hacer las visualizaciones más impactantes y profundizar en la interpretación de las medidas de dispersión.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como los boxplots y gráficas de barras que muestran diferencias en empatía por giro",
+        "Identifica con precisión los niveles de medición de las variables (escala Likert 1-5)",
+        "Selecciona el tipo de gráfico apropiado (boxplot para distribución, barras para comparación)",
+        "Interpreta de manera congruente la información que muestran los gráficos, relacionándola con las hipótesis"
+      ],
+      "fortalezas": [
+        "Uso adecuado de visualizaciones para comparar grupos",
+        "Selección apropiada de gráficos según el tipo de datos",
+        "Interpretación coherente de los resultados gráficos"
+      ],
+      "areas_mejora": [
+        "Podría mejorar el diseño visual de los gráficos para hacerlos más atractivos",
+        "Falta mayor detalle en la descripción de cómo se construyeron los gráficos dinámicos"
+      ],
+      "retroalimentacion": "Buen trabajo en la creación e interpretación de gráficos dinámicos. Para mejorar, considera añadir más detalles técnicos sobre la construcción de los gráficos y refinar su presentación visual.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes al analizar las diferencias en empatía entre giros",
+        "Utiliza herramientas de análisis pertinentes como Excel y Google Colab para pruebas de hipótesis y estadísticas",
+        "Identifica oportunidades de mejora en atención personalizada y giro gubernamental",
+        "Propone líneas de acción estratégicas como protocolos de atención uno a uno y rediseño de flujos"
+      ],
+      "fortalezas": [
+        "Análisis estadístico riguroso con pruebas ANOVA",
+        "Identificación clara de áreas de oportunidad basada en datos",
+        "Propuestas de acción alineadas a los hallazgos"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de causas raíz de las diferencias observadas",
+        "Incluir métricas de impacto estimado para las propuestas"
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis estadístico y propuestas de mejora. Para alcanzar el nivel destacado, considera profundizar en el porqué de las diferencias observadas y cuantificar el impacto potencial de tus recomendaciones.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como protocolos de 'atención uno a uno' y rediseño de flujos para el giro gubernamental.",
+        "Valida las características de los prototipos mediante análisis estadístico (ANOVA) y visualización de datos.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, abordando problemáticas específicas como la atención personalizada y la eficiencia en el servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado con herramientas estadísticas y visuales.",
+        "Propuestas concretas y relevantes para mejorar la calidad del servicio en la Fundación Teletón."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas con pruebas piloto o estudios de caso.",
+        "Incluir más detalles sobre cómo se implementarían las soluciones propuestas en la práctica."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas innovadoras. Para alcanzar el nivel Destacado, considera incluir más evidencia de validación práctica de tus soluciones.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos sobre empatía en diferentes giros de la Fundación Teletón.",
+        "Establece compromisos y propuestas claras como la implementación de protocolos de atención personalizada y mejora en el giro gubernamental.",
+        "Da cuenta del cumplimiento de tareas de negociación y análisis mediante el uso de herramientas como Excel y Google Colab.",
+        "Logra consistentemente los objetivos planteados al identificar áreas de oportunidad y proponer acciones específicas."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de los datos.",
+        "Propuestas claras y específicas para mejorar la calidad del servicio.",
+        "Uso adecuado de herramientas estadísticas y visualización de datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se implementarán las propuestas y los mecanismos de seguimiento.",
+        "Incluir más detalles sobre la colaboración con otros miembros del equipo en el proceso de análisis y toma de decisiones."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas. Para mejorar, considera detallar más la implementación de las acciones y cómo se medirá su impacto.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante demuestra sensibilidad social al analizar la problemática de la atención a personas con discapacidad en México y la labor de la Fundación Teletón.",
+        "Presenta soluciones constructivas y solidarias como la implementación de protocolos de 'atención uno a uno' y la mejora del giro gubernamental.",
+        "Muestra respeto a la dignidad de las personas al enfocarse en la inclusión y atención integral para los beneficiarios y sus familias."
+      ],
+      "fortalezas": [
+        "Análisis detallado de la dimensión de empatía en diferentes giros, mostrando compromiso con la mejora de la calidad del servicio.",
+        "Propuestas concretas para mejorar la atención personalizada y reducir tiempos de espera, evidenciando un enfoque en la solución de problemas reales."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactarán directamente en la vida de los beneficiarios, mostrando aún más sensibilidad social.",
+        "Incluir más detalles sobre cómo se implementarán las propuestas para asegurar su efectividad y sostenibilidad."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de la empatía y en la generación de soluciones constructivas. Continúa enfocándote en cómo tus propuestas impactarán positivamente en la comunidad.",
+      "promedio_delphi": 88.0
+    }
+  },
+  "nota_final": 88.0,
+  "nivel_final": "Sólido"
+}

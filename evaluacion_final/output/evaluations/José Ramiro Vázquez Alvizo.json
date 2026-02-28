@@ -1,0 +1,412 @@
+{
+  "estudiante": "José Ramiro Vázquez Alvizo",
+  "fecha": "2025-12-02T20:01:28.204807",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas",
+        "Muestra de manera adecuada la información relevante contenida en las variables",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada"
+      ],
+      "fortalezas": [
+        "Identificación clara de las variables esenciales",
+        "Uso adecuado de herramientas tecnológicas para resumir información",
+        "Interpretación coherente de los resultados en el contexto de la problemática"
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva",
+        "Profundizar en el análisis de algunas variables para obtener insights más detallados"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de las herramientas estadísticas y una interpretación adecuada de los resultados. Para alcanzar el nivel destacado, se sugiere mejorar la presentación visual de los datos y profundizar en el análisis de algunas variables clave."
+    },
+    "SCD0105": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos claros y atractivos que muestran información relevante para la toma de decisiones.",
+        "Identificación precisa de los niveles de medición de las variables y selección congruente del tipo de gráfico.",
+        "Interpretación clara y efectiva de la información que muestran los gráficos, con análisis estadísticos detallados."
+      ],
+      "fortalezas": [
+        "Excelente capacidad para analizar y presentar datos de manera visualmente atractiva y comprensible.",
+        "Uso efectivo de herramientas estadísticas para validar hipótesis y mejorar la calidad del servicio.",
+        "Propuestas tácticas bien fundamentadas para la mejora organizacional basadas en los hallazgos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre la metodología utilizada para la creación de los gráficos dinámicos.",
+        "Sería beneficioso explorar más a fondo las diferencias entre segmentos de usuarios para identificar áreas específicas de mejora."
+      ],
+      "retroalimentacion": "El trabajo demuestra un desempeño óptimo en la generación y análisis de gráficos dinámicos, con un enfoque claro en la mejora de la calidad del servicio. Las propuestas de mejora están bien fundamentadas y son relevantes para la organización."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y seguimiento de indicadores, como se muestra en el análisis de medidas de tendencia central y dispersión.",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio, como la sobredemanda y listas de espera, dependencia de donativos, y desigualdad territorial.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como reforzar la claridad de la información, fortalecer la empatía y atención personalizada, y mejorar la capacitación técnica del personal."
+      ],
+      "fortalezas": [
+        "Uso de herramientas de análisis apropiadas para el estudio, como pruebas de hipótesis, ANOVA y regresión lineal.",
+        "Identificación clara de correlaciones entre variables independientes y la variable dependiente (calidad en el servicio).",
+        "Propuestas de acción tácticas bien fundamentadas en los datos analizados."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de posibles riesgos u oportunidades, considerando más variables externas.",
+        "Incluir más herramientas de análisis avanzadas para enriquecer los insights.",
+        "Desarrollar líneas de acción más detalladas y específicas, con métricas claras de éxito."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen uso de herramientas de análisis y una interpretación adecuada de los datos. Para mejorar, se recomienda profundizar en el análisis de riesgos y oportunidades, y desarrollar líneas de acción más detalladas con métricas claras."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como encuestas, análisis estadísticos y tableros para medir la calidad del servicio",
+        "Valida las características de los prototipos mediante pruebas de hipótesis (Chi-cuadrada y ANOVA) y análisis de regresión lineal",
+        "Garantiza aplicabilidad efectiva al proponer acciones tácticas para mejorar la calidad del servicio basadas en los hallazgos estadísticos"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que incluye medidas de tendencia central, dispersión, correlación y regresión",
+        "Propuestas de mejora concretas y basadas en evidencia estadística",
+        "Comprensión clara del impacto social de la organización y su alineación con los ODS"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas con usuarios reales de la organización",
+        "Falta mayor detalle en la implementación práctica de las acciones tácticas sugeridas",
+        "Podría incluir más evidencia visual de los tableros y análisis realizados"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación de soluciones basadas en datos para mejorar la calidad del servicio. Los análisis estadísticos son robustos y las propuestas de mejora están bien fundamentadas. Para alcanzar un nivel destacado, sería valioso incluir más evidencia de la implementación práctica de las soluciones y su validación con usuarios reales."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera resultados derivados de un trabajo colaborativo idóneo mediante encuestas, análisis estadísticos y tableros que convierten percepciones subjetivas en datos medibles.",
+        "Establece compromisos, propuestas o acciones integrales como guías de comunicación institucional, talleres de empatía y capacitación técnica para mejorar la calidad del servicio.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación con benefactores y promotores, logrando consistentemente los objetivos planteados."
+      ],
+      "fortalezas": [
+        "Análisis estadístico detallado y uso de herramientas como regresión lineal y ANOVA para fundamentar propuestas.",
+        "Propuestas de mejora basadas en evidencia y alineadas con los ODS.",
+        "Comprensión profunda del contexto social y necesidades de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Profundizar en estrategias específicas para reducir las listas de espera y mejorar la accesibilidad geográfica.",
+        "Incluir más datos cualitativos para complementar los análisis cuantitativos.",
+        "Explorar más a fondo las diferencias entre segmentos de usuarios para personalizar mejor las estrategias de mejora."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un dominio avanzado del análisis de datos y su aplicación en la mejora de servicios. Las propuestas son sólidas y bien fundamentadas, con un claro impacto en la calidad del servicio y el cumplimiento de los ODS. Continúa explorando estrategias innovadoras para abordar las áreas de mejora identificadas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de la Fundación Teletón, destacando la importancia de su labor en la atención a niños con discapacidades y cáncer.",
+        "Presenta soluciones constructivas y solidarias basadas en datos estadísticos para mejorar la calidad del servicio, como la estandarización de la información, capacitación en empatía y atención personalizada, y mejora en la capacitación técnica del personal.",
+        "Muestra sensibilidad social al analizar las problemáticas de acceso a servicios de rehabilitación y atención médica especializada para familias de bajos recursos.",
+        "Evidencia compromiso comunitario al proponer acciones tácticas que buscan mejorar la experiencia de los usuarios y fortalecer la transparencia institucional."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respalda sus propuestas de mejora.",
+        "Clara alineación con los Objetivos de Desarrollo Sostenible, demostrando una comprensión profunda de su relevancia ética y social.",
+        "Propuestas concretas y viables que abordan las necesidades identificadas en la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo implementar las acciones tácticas propuestas, como plazos y responsables.",
+        "Sería beneficioso explorar más a fondo las diferencias entre segmentos de usuarios para personalizar aún más las soluciones."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Tus propuestas son sólidas y bien fundamentadas, mostrando un gran compromiso con la mejora de la calidad de vida de los beneficiarios. Continúa desarrollando tu capacidad para implementar soluciones prácticas y medibles."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información como claridad de la información, empatía, competencia profesional y rapidez de respuesta.",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante estadísticas descriptivas, prueba de hipótesis, ANOVA y regresión lineal.",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante tablas y análisis descriptivos.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones tácticas para la mejora organizacional."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para analizar datos.",
+        "Interpretación coherente de los resultados en el contexto de la organización.",
+        "Propuestas de mejora basadas en evidencia estadística."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva.",
+        "Falta de detalle sobre las herramientas tecnológicas específicas utilizadas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en un contexto real. Para alcanzar el nivel destacado, considera mejorar la presentación visual de los datos y especificar las herramientas tecnológicas utilizadas."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "El documento no incluye gráficos dinámicos ni evidencia de su generación o uso"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el documento proporcionado. Es necesario incluir y desarrollar esta parte para demostrar la subcompetencia."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, como se muestra en el análisis de medidas de tendencia central y dispersión.",
+        "Hace uso de herramientas de análisis apropiadas, como ANOVA, regresión lineal y pruebas de hipótesis, para el estudio de la calidad del servicio.",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio, como la sobredemanda, listas de espera y desigualdad territorial en el acceso a los servicios.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como reforzar la claridad de la información, fortalecer la empatía y mejorar la capacitación técnica del personal."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para analizar datos y generar insights.",
+        "Identificación clara de áreas de oportunidad y riesgos para la organización.",
+        "Propuestas de acción alineadas con los hallazgos del análisis."
+      ],
+      "areas_mejora": [
+        "Profundizar en la interpretación de los insights para generar recomendaciones más específicas y detalladas.",
+        "Incluir más herramientas de analítica avanzada para enriquecer el análisis.",
+        "Desarrollar líneas de acción con indicadores de éxito y plazos definidos para su implementación."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas de análisis y una interpretación adecuada de los datos. Se proponen líneas de acción relevantes, pero podrían ser más específicas y detalladas. Continúa desarrollando tu capacidad para generar insights profundos y acciones estratégicas más concretas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como guías de comunicación institucional, material visual de apoyo y minicápsulas de capacitación.",
+        "Valida las características de los prototipos mediante análisis estadísticos y pruebas de hipótesis que demuestran su impacto en la calidad percibida del servicio.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo acciones tácticas basadas en datos para mejorar la claridad de la información, la empatía y la competencia profesional."
+      ],
+      "fortalezas": [
+        "El estudiante demuestra un buen entendimiento de las problemáticas de la organización y propone soluciones basadas en evidencia estadística.",
+        "Las soluciones propuestas son relevantes y están alineadas con los hallazgos del análisis de datos, lo que aumenta su potencial de aplicabilidad."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas, incluyendo pruebas piloto o feedback de los beneficiarios para asegurar su efectividad.",
+        "Sería beneficioso explorar soluciones más disruptivas o innovadoras que vayan más allá de mejoras incrementales en los procesos existentes."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en la generación de soluciones innovadoras basadas en datos. Para alcanzar un nivel destacado, considera incorporar validaciones más robustas y explorar soluciones más disruptivas que puedan tener un impacto aún mayor en la organización."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Análisis detallado del contexto social, económico y político de la organización",
+        "Identificación clara de la problemática y su relevancia en el país",
+        "Uso de estadísticas descriptivas y pruebas de hipótesis (Chi-cuadrada y ANOVA)",
+        "Realización de una regresión lineal para predecir la calidad del servicio",
+        "Propuestas tácticas basadas en los hallazgos estadísticos"
+      ],
+      "fortalezas": [
+        "Comprensión profunda del impacto social de la organización",
+        "Uso adecuado de herramientas estadísticas para validar hipótesis",
+        "Propuestas de mejora basadas en evidencia empírica",
+        "Buena correlación entre los hallazgos y los ODS"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las diferencias entre segmentos de usuarios",
+        "Incluir más detalles sobre la metodología de recolección de datos",
+        "Ampliar la discusión sobre las limitaciones del estudio"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento del impacto social de la organización y utiliza herramientas estadísticas adecuadas para validar sus hallazgos. Las propuestas de mejora son relevantes y basadas en evidencia. Se sugiere profundizar en el análisis de segmentos y metodología para alcanzar un nivel destacado."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de Fundación Teletón, destacando su labor en la atención a niños con discapacidades y cáncer.",
+        "Presenta soluciones constructivas y solidarias basadas en datos estadísticos para mejorar la calidad del servicio, como la estandarización de información, capacitación en empatía y mejora en la competencia profesional.",
+        "Muestra un claro compromiso comunitario al analizar cómo las mejoras propuestas impactan positivamente en la vida de los beneficiarios y sus familias."
+      ],
+      "fortalezas": [
+        "Sensibilidad social al abordar problemáticas de acceso a servicios de salud para poblaciones vulnerables.",
+        "Uso de evidencia estadística para fundamentar propuestas de mejora, lo que refleja un enfoque ético y responsable."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las acciones propuestas garantizan específicamente el respeto a los derechos humanos de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar ética y responsabilidad social en el análisis y propuestas. Continúa desarrollando estrategias que aseguren el respeto a la dignidad y derechos de todos los involucrados."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "ronda1": 100,
+        "ronda2": 0,
+        "diferencia": 100
+      },
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "ronda1": 100,
+        "ronda2": 88,
+        "diferencia": 12
+      }
+    ],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 50.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "El documento no incluye gráficos dinámicos ni evidencia de su generación o uso"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "promedio": 94.0,
+        "fortalezas": [
+          "Comprensión profunda del impacto social de la organización",
+          "Uso adecuado de herramientas estadísticas para validar hipótesis",
+          "Propuestas de mejora basadas en evidencia empírica",
+          "Buena correlación entre los hallazgos y los ODS"
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Sensibilidad social al abordar problemáticas de acceso a servicios de salud para poblaciones vulnerables.",
+          "Uso de evidencia estadística para fundamentar propuestas de mejora, lo que refleja un enfoque ético y responsable."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información como claridad de la información, empatía, competencia profesional y rapidez de respuesta.",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante estadísticas descriptivas, prueba de hipótesis, ANOVA y regresión lineal.",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante tablas y análisis descriptivos.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones tácticas para la mejora organizacional."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para analizar datos.",
+        "Interpretación coherente de los resultados en el contexto de la organización.",
+        "Propuestas de mejora basadas en evidencia estadística."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos para hacerla más atractiva.",
+        "Falta de detalle sobre las herramientas tecnológicas específicas utilizadas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en un contexto real. Para alcanzar el nivel destacado, considera mejorar la presentación visual de los datos y especificar las herramientas tecnológicas utilizadas.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Incipiente",
+      "puntos": 55,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "El documento no incluye gráficos dinámicos ni evidencia de su generación o uso"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el documento proporcionado. Es necesario incluir y desarrollar esta parte para demostrar la subcompetencia.",
+      "promedio_delphi": 50.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, como se muestra en el análisis de medidas de tendencia central y dispersión.",
+        "Hace uso de herramientas de análisis apropiadas, como ANOVA, regresión lineal y pruebas de hipótesis, para el estudio de la calidad del servicio.",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio, como la sobredemanda, listas de espera y desigualdad territorial en el acceso a los servicios.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como reforzar la claridad de la información, fortalecer la empatía y mejorar la capacitación técnica del personal."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para analizar datos y generar insights.",
+        "Identificación clara de áreas de oportunidad y riesgos para la organización.",
+        "Propuestas de acción alineadas con los hallazgos del análisis."
+      ],
+      "areas_mejora": [
+        "Profundizar en la interpretación de los insights para generar recomendaciones más específicas y detalladas.",
+        "Incluir más herramientas de analítica avanzada para enriquecer el análisis.",
+        "Desarrollar líneas de acción con indicadores de éxito y plazos definidos para su implementación."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas de análisis y una interpretación adecuada de los datos. Se proponen líneas de acción relevantes, pero podrían ser más específicas y detalladas. Continúa desarrollando tu capacidad para generar insights profundos y acciones estratégicas más concretas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como guías de comunicación institucional, material visual de apoyo y minicápsulas de capacitación.",
+        "Valida las características de los prototipos mediante análisis estadísticos y pruebas de hipótesis que demuestran su impacto en la calidad percibida del servicio.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo acciones tácticas basadas en datos para mejorar la claridad de la información, la empatía y la competencia profesional."
+      ],
+      "fortalezas": [
+        "El estudiante demuestra un buen entendimiento de las problemáticas de la organización y propone soluciones basadas en evidencia estadística.",
+        "Las soluciones propuestas son relevantes y están alineadas con los hallazgos del análisis de datos, lo que aumenta su potencial de aplicabilidad."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas, incluyendo pruebas piloto o feedback de los beneficiarios para asegurar su efectividad.",
+        "Sería beneficioso explorar soluciones más disruptivas o innovadoras que vayan más allá de mejoras incrementales en los procesos existentes."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en la generación de soluciones innovadoras basadas en datos. Para alcanzar un nivel destacado, considera incorporar validaciones más robustas y explorar soluciones más disruptivas que puedan tener un impacto aún mayor en la organización.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Análisis detallado del contexto social, económico y político de la organización",
+        "Identificación clara de la problemática y su relevancia en el país",
+        "Uso de estadísticas descriptivas y pruebas de hipótesis (Chi-cuadrada y ANOVA)",
+        "Realización de una regresión lineal para predecir la calidad del servicio",
+        "Propuestas tácticas basadas en los hallazgos estadísticos"
+      ],
+      "fortalezas": [
+        "Comprensión profunda del impacto social de la organización",
+        "Uso adecuado de herramientas estadísticas para validar hipótesis",
+        "Propuestas de mejora basadas en evidencia empírica",
+        "Buena correlación entre los hallazgos y los ODS"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las diferencias entre segmentos de usuarios",
+        "Incluir más detalles sobre la metodología de recolección de datos",
+        "Ampliar la discusión sobre las limitaciones del estudio"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento del impacto social de la organización y utiliza herramientas estadísticas adecuadas para validar sus hallazgos. Las propuestas de mejora son relevantes y basadas en evidencia. Se sugiere profundizar en el análisis de segmentos y metodología para alcanzar un nivel destacado.",
+      "promedio_delphi": 94.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad y derechos de los beneficiarios de Fundación Teletón, destacando su labor en la atención a niños con discapacidades y cáncer.",
+        "Presenta soluciones constructivas y solidarias basadas en datos estadísticos para mejorar la calidad del servicio, como la estandarización de información, capacitación en empatía y mejora en la competencia profesional.",
+        "Muestra un claro compromiso comunitario al analizar cómo las mejoras propuestas impactan positivamente en la vida de los beneficiarios y sus familias."
+      ],
+      "fortalezas": [
+        "Sensibilidad social al abordar problemáticas de acceso a servicios de salud para poblaciones vulnerables.",
+        "Uso de evidencia estadística para fundamentar propuestas de mejora, lo que refleja un enfoque ético y responsable."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las acciones propuestas garantizan específicamente el respeto a los derechos humanos de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar ética y responsabilidad social en el análisis y propuestas. Continúa desarrollando estrategias que aseguren el respeto a la dignidad y derechos de todos los involucrados.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 83.8,
+  "nivel_final": "Sólido"
+}

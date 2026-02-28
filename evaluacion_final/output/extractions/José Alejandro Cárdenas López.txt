@@ -1,0 +1,444 @@
+--- Página 1 ---
+Diagnóstico para Líneas de Acción
+Reporte Final de Reto
+Presentado por:
+José Alejandro Cárdenas López
+Resumen ejecutivo
+Fundación Teletón es una organización mexicana dedicada a ofrecer servicios de rehabilitación,
+inclusión educativa y atención médica integral para niñas, niños y adolescentes con discapacidad motriz,
+autismo o cáncer. A través de una red de centros especializados distribuidos en el país, la organización
+busca mejorar la calidad de vida de sus beneficiarios mediante intervenciones terapéuticas de alta
+calidad y modelos de acompañamiento familiar. Este proyecto se enfocó en medir la calidad del servicio
+que ofrece la organización a través de indicadores de empatía, atención y comunicación, integrando
+herramientas estadísticas que permitieron identificar áreas de oportunidad y fortalezas dentro de su
+operación.
+La investigación realizada permitió conocer tendencias claras en la percepción de los usuarios respecto
+al servicio recibido. Los resultados indican que la empatía es uno de los factores más influyentes en la
+satisfacción general, mientras que la variación por departamentos o puestos no presenta diferencias
+significativas, lo cual sugiere consistencia en el trato brindado. Con base en el análisis, se desarrollaron
+acciones tácticas orientadas a fortalecer la atención personalizada y estandarizar prácticas de servicio,
+buscando consolidar un modelo institucional más sensible y alineado con los valores de la organización.
+En conjunto, este proyecto ofrece información valiosa para fortalecer los procesos internos y contribuir
+directamente al impacto social que Teletón busca generar.
+Descripción de la ONG. Misión, Visión y Valores
+Fundación Teletón es una institución sin fines de lucro que trabaja para garantizar que niñas, niños y
+adolescentes con discapacidad, autismo o cáncer cuenten con servicios especializados de rehabilitación
+y atención médica integral. Su operación abarca distintos tipos de centros, como los CRIT, los Centros
+Autismo Teletón y los hospitales de oncología infantil.
+Misión:
+Brindar servicios de rehabilitación e inclusión integral para niñas, niños y jóvenes con discapacidad,
+autismo o cáncer, buscando siempre mejorar su calidad de vida.
+Visión:
+Ser una institución reconocida por su modelo de atención especializado, humano, inclusivo y con altos
+estándares técnicos en salud y rehabilitación.
+Valores:
+Empatía, respeto por la dignidad humana, inclusión, transparencia, responsabilidad social, solidaridad
+y profesionalismo. Estos valores sustentan su labor diaria y orientan su toma de decisiones.
+Descripción del entorno y análisis del sector del mercado
+Fundación Teletón opera en un entorno donde el acceso a servicios de salud especializados es desigual
+y limitado. El sistema público presenta carencias en infraestructura y personal capacitado, lo que
+provoca que miles de familias no puedan acceder a los servicios que requieren sus hijos. En este sector,
+Teletón destaca por su modelo integral de atención, altos estándares de calidad y amplia cobertura
+nacional. Sin embargo, enfrenta desafíos importantes, como depender casi por completo de donativos,
+manejar una alta demanda de atención y sostener procesos transparentes ante la opinión pública.
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 2 ---
+Diagnóstico para Líneas de Acción
+El sector en el que opera la organización se caracteriza por una mezcla de instituciones públicas
+saturadas, privados costosos y organizaciones sin fines de lucro con recursos limitados. En este
+entorno, Teletón se posiciona como una institución líder que combina capacidad técnica, infraestructura
+especializada y un enfoque profundamente humano.
+Identificación de las unidades estratégicas de negocio
+Las actividades de Fundación Teletón se pueden clasificar en:
+• CRIT (Centros de Rehabilitación Infantil Teletón): especializados en discapacidad motriz.
+• CAT (Centros Autismo Teletón): enfocados en el diagnóstico y atención del autismo.
+• HITO/ONC: hospitales de oncología infantil que ofrecen tratamiento integral y acompañamiento
+familiar.
+Análisis del contexto y problemática
+Fundación Teletón desarrolla su labor en un entorno donde las desigualdades en el acceso a servicios
+de salud especializados siguen siendo una de las principales barreras para las familias mexicanas. La
+atención a la discapacidad, al autismo y al cáncer infantil ha sido históricamente insuficiente en el
+sistema de salud pública, con tiempos de espera prolongados, cobertura limitada y escasez de
+profesionales especializados. Muchas familias no cuentan con los recursos económicos ni con la
+infraestructura cercana para asegurar la atención adecuada que sus hijos requieren, lo que profundiza
+aún más la brecha social.
+Además de las limitaciones estructurales del sistema público, existe una creciente demanda de servicios
+especializados tanto por el incremento de diagnósticos oportunos como por el reconocimiento de la
+importancia de intervenciones tempranas para mejorar la calidad de vida. Este contexto coloca a Teletón
+en una posición fundamental, pues llena un vacío que otras instituciones no han logrado cubrir,
+atendiendo a miles de niños que, de otra manera, quedarían rezagados en su desarrollo físico,
+emocional y social.
+Reflexión social sobre el impacto de la labor de la organización
+La labor de Fundación Teletón trasciende la prestación de servicios médicos; se convierte en un agente
+activo de transformación social. Su trabajo contribuye a dignificar la vida de niñas, niños y adolescentes,
+permitiéndoles desarrollarse en un entorno más justo y con mayores oportunidades. Cada intervención
+médica o terapéutica no solo impacta al beneficiario directo, sino también a sus familias, quienes
+encuentran acompañamiento, esperanza y un espacio seguro donde sus necesidades son escuchadas.
+Desde una perspectiva social, Teletón reconoce la importancia de generar inclusión y de sensibilizar a
+la sociedad sobre la realidad de las personas con discapacidad o condiciones de alta complejidad
+médica. Su modelo de atención humanizado impulsa una cultura donde la dignidad y la empatía son
+principios centrales. Este enfoque no solo mejora la percepción pública sobre la discapacidad, sino que
+también fomenta el respeto, la solidaridad y la corresponsabilidad entre ciudadanos.
+Argumentación ética de la propuesta de intervención
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 3 ---
+Diagnóstico para Líneas de Acción
+El análisis realizado en este proyecto se fundamenta en una visión ética alineada con el Objetivo de
+Desarrollo Sostenible 16, que promueve instituciones más sólidas, inclusivas, transparentes y
+responsables. La evaluación de la calidad del servicio y la identificación de áreas de mejora representan
+un acto de responsabilidad ética, ya que permiten asegurar que cada niña, niño y familia reciba una
+atención digna, respetuosa y centrada en sus necesidades reales.
+Evaluar la empatía, la atención personalizada y el acompañamiento no es únicamente un ejercicio
+técnico; es también un compromiso moral. La intervención ética se refleja en la intención de mejorar
+procesos que afectan directamente la experiencia humana: la forma en que el personal escucha,
+comprende y responde a quienes atraviesan situaciones de vulnerabilidad. Esto implica reconocer el
+valor de cada persona y promover prácticas institucionales que respeten su dignidad y fortalezcan el
+vínculo entre la organización y sus usuarios.
+La propuesta plantea fortalecer mecanismos de comunicación interna, estandarizar procesos de servicio
+y generar nuevas estrategias de acompañamiento emocional para las familias. Esto no solo contribuye
+al desarrollo institucional, sino que también refuerza principios éticos fundamentales como la justicia, la
+igualdad de oportunidades y el respeto por la vida humana. En esencia, la intervención propuesta busca
+que la organización continúe consolidándose como un espacio seguro, transparente y profundamente
+humano.
+Descripción de la metodología de la investigación
+La metodología utilizada en este proyecto se centró en el análisis sistemático de la base de datos
+proporcionada por la organización, poniendo especial atención en las variables de empatía, ya que estas
+representan uno de los elementos fundamentales dentro de los estándares de calidad del servicio de
+Fundación Teletón. Desde un inicio, el análisis se estructuró considerando que la empatía (representada
+por los reactivos E_1, E_2, E_3 y E_4) es un componente determinante en la percepción general del
+servicio, y por ello se construyó una variable global llamada “Calidad”, obtenida como el promedio de
+dichas dimensiones.
+A partir de esta base estructurada, se desarrolló un dashboard que permitió visualizar patrones,
+identificar comportamientos recurrentes y detectar áreas de oportunidad. Este tablero funcionó como
+punto de partida para aplicar herramientas estadísticas que ayudaron a profundizar en la interpretación
+de los datos. Entre ellas destacan: la prueba de hipótesis para evaluar el cumplimiento del estándar
+organizacional, el ANOVA para identificar diferencias entre grupos o segmentos, el análisis de
+correlaciones para determinar la relación entre las variables de empatía y la calidad del servicio, y un
+modelo de regresión lineal para comprender cómo cada componente de la empatía aporta a la
+calificación global.
+En conjunto, esta metodología permitió transformar los datos en hallazgos claros y accionables,
+manteniendo siempre un enfoque cuantitativo y ordenado que facilitó la interpretación y la toma de
+decisiones. De esta forma, el modelo analítico no solo ofreció información concreta sobre la calidad del
+servicio, sino que también proporcionó bases sólidas para las líneas de acción propuestas al final del
+proyecto.
+Identificación de variables que influyen en la calidad de servicio de la institución
+Dentro del análisis realizado, las variables que demostraron mayor influencia en la percepción de la
+calidad del servicio fueron las relacionadas directamente con la empatía: E_1, E_2, E_3 y E_4. Cada
+una de estas refleja un aspecto esencial del trato y la atención brindada: la actitud comprensiva, el
+tiempo dedicado para entender las necesidades, la atención personalizada y la capacidad de adaptación
+del personal ante situaciones específicas. Estas dimensiones no solo conforman la variable global
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 4 ---
+Diagnóstico para Líneas de Acción
+“Calidad”, sino que también presentaron correlaciones fuertes y consistentes con ella, lo cual confirma
+su relevancia dentro del modelo.
+El comportamiento estadístico de estas variables refuerza la idea de que la calidad del servicio en
+Fundación Teletón depende, en gran medida, de la manera en que el personal se relaciona con los
+usuarios. La empatía no se limita a un gesto emocional; se expresa en acciones concretas que los
+usuarios pueden identificar, evaluar y recordar. Por ello, estas variables se convirtieron en el eje principal
+del análisis y en la base para comprender la percepción del servicio dentro de la institución.
+Descripción de las herramientas utilizadas para la interpretación de la información
+Para interpretar adecuadamente la información y comprender cómo se relacionan las variables de
+empatía con la calidad del servicio, se utilizaron diversas herramientas estadísticas y de análisis visual
+que permitieron transformar los datos en conclusiones claras y accionables. El punto de partida fue la
+elaboración de un dashboard que permitió visualizar el comportamiento general de las variables,
+identificar valores atípicos, comparar promedios y analizar la distribución de los indicadores principales.
+Este tablero facilitó un primer acercamiento a la estructura de los datos y a las tendencias generales
+que posteriormente se confirmarían mediante métodos más específicos.
+Una vez consolidada esta visión inicial, se aplicaron herramientas estadísticas que permitieron evaluar
+el cumplimiento de estándares organizacionales y analizar diferencias entre grupos. La prueba de
+hipótesis permitió determinar si la calidad del servicio alcanzaba el estándar mínimo esperado por la
+organización. Posteriormente, se utilizó un ANOVA de un factor para identificar si existían diferencias
+en la percepción de calidad según los distintos grupos o segmentos dentro de la organización.
+Asimismo, se realizó un análisis de correlación para identificar qué dimensiones de la empatía
+presentaban mayor relación con la variable global “Calidad”. Finalmente, se construyó un modelo de
+regresión lineal que permitió analizar la influencia estadística de cada componente de la empatía en la
+calidad del servicio.
+Cada una de estas herramientas aportó una perspectiva distinta del mismo fenómeno: desde lo
+descriptivo hasta lo inferencial y predictivo. En conjunto, permitieron elaborar un diagnóstico integral que
+va más allá de describir los datos, proporcionando explicaciones sobre los factores que influyen en la
+calidad del servicio y orientando la toma de decisiones estratégicas dentro de la organización.
+Tableros de visualización de los indicadores clave de desempeño de la ONG
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 5 ---
+Diagnóstico para Líneas de Acción
+(Tabla de elabroacion propia, 2025)
+Identificación de las variables más relevantes para medir la calidad en el servicio en la ONG
+El análisis se enfocó exclusivamente en las variables de empatía, ya que representan uno de los pilares
+más importantes de la atención en Fundación Teletón. Dentro del modelo utilizado, estas variables
+fueron definidas como E_1, E_2, E_3 y E_4, y cada una capturaba un matiz distinto del trato que reciben
+los usuarios: la actitud comprensiva, el tiempo que se dedica para entender sus necesidades, la atención
+personalizada y la capacidad de adaptación del personal ante circunstancias específicas.
+Los resultados mostraron que todas las dimensiones de la empatía están fuertemente relacionadas con
+la calidad del servicio, lo que confirma que el componente humano es determinante en la percepción
+general de los usuarios. Sin embargo, al analizar la magnitud de la correlación entre cada variable y el
+indicador global “Calidad”, se observó que E_3 (atención personalizada) y E_1 (actitud comprensiva)
+fueron las más relevantes. Estas dos dimensiones presentaron las correlaciones más altas, lo que indica
+que los usuarios valoran especialmente cuando el personal muestra una actitud genuinamente humana
+y cuando sienten que la atención está orientada de manera específica a sus necesidades.
+Por otro lado, aunque E_4 (adaptación a circunstancias específicas) fue la variable con la correlación
+más baja dentro del conjunto, sigue teniendo una relación significativa con la calidad del servicio. Esto
+quiere decir que la capacidad del personal para ajustarse a situaciones particulares también suma, pero
+no tiene el mismo peso que la comprensión activa o la personalización del trato.
+En conjunto, estos hallazgos permiten afirmar que la empatía no es un concepto abstracto dentro de la
+organización, sino un conjunto de comportamientos medibles cuyos efectos son claros y diferenciados.
+Identificar estas diferencias resulta clave para orientar acciones tácticas que fortalezcan el servicio,
+priorizando aquellos aspectos que más influyen en la experiencia final de los usuarios.
+Identificación de departamentos que ofrecen la mejor calidad en el servicio
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 6 ---
+Diagnóstico para Líneas de Acción
+El análisis de los datos reveló que, aunque no existen diferencias estadísticamente significativas entre
+los distintos puestos o grupos dentro de la organización, sí se observaron tendencias relevantes al
+comparar los promedios de calidad del servicio entre ellos. Este análisis se construyó únicamente a
+partir de las variables de empatía, ya que representan la base principal sobre la que se evaluó la calidad
+del servicio.
+Los resultados mostraron que el grupo identificado como “Persona física” reportó la percepción más alta
+de calidad. Este hallazgo indica que los usuarios individuales tienden a valorar de manera más positiva
+la actitud comprensiva, la atención personalizada y la forma en que el personal se adapta a sus
+necesidades específicas. Uno de los factores que podría explicar esta tendencia es que, al tratarse de
+interacciones más directas, los elementos de empatía son más visibles y generan un impacto inmediato
+en su percepción general del servicio.
+Por otro lado, grupos como “Dueño” y “Supervisor” presentaron los promedios más bajos dentro del
+conjunto, aunque las diferencias no fueron significativas desde un punto de vista estadístico. Aun así,
+estos valores más bajos abren la posibilidad de fortalecer procesos de comunicación, seguimiento o
+personalización del servicio específicamente con estos perfiles, pues su nivel de exigencia suele ser
+más alto o su interacción con la organización puede implicar expectativas más complejas.
+En términos generales, la calidad del servicio ,medida a través de las variables de empatía, se mantiene
+relativamente uniforme, pero las diferencias en los promedios permiten identificar grupos que pueden
+beneficiarse de estrategias más personalizadas para mejorar su experiencia dentro de la organización.
+Predicción de cambios en la calidad en el servicio a partir del análisis de los datos y variables
+identificadas como valiosas durante la investigación
+El modelo de regresión lineal desarrollado en este proyecto permitió observar cómo cada componente
+de la empatía influye directamente en la calidad del servicio. Debido a que “Calidad” se construyó a
+partir del promedio de E_1, E_2, E_3 y E_4, el modelo arrojó coeficientes iguales para cada variable, lo
+que confirma que cualquier cambio positivo en cualquiera de estas dimensiones afecta de manera
+proporcional la percepción global del servicio.
+Esto significa que, si la organización mejora aspectos como la atención personalizada (E_3) o la actitud
+comprensiva del personal (E_1), la calidad del servicio aumentará en la misma proporción. Aunque las
+variables están equilibradas por la forma en que se construyó el indicador, las correlaciones muestran
+que E_3 y E_1 tienen un impacto perceptivo ligeramente mayor, por lo que cualquier fortalecimiento
+dirigido a estas áreas tendría efectos particularmente visibles para los usuarios.
+En términos predictivos, si la organización implementa acciones tácticas dirigidas al fortalecimiento de
+la empatía por ejemplo, capacitar al personal en escucha activa, mejorar la comunicación y promover
+interacciones más personalizadas, se puede anticipar un aumento consistente en la calidad del servicio.
+En este sentido, la empatía se convierte no solo en un indicador actual del desempeño, sino también en
+un predictor confiable de la experiencia futura de los usuarios.
+¿Cuáles son las medidas de tendencia central y dispersión por pregunta?
+Pregunta 9
+Media aritmética: 3.996
+Media ponderada: 3.996
+Media geométrica: 3.934
+Mediana: 4
+Moda: 4
+Máximo: 5
+Mínimo: 1
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 7 ---
+Diagnóstico para Líneas de Acción
+Rango: 4
+Varianza: 0.443
+Desviación estándar: 0.666
+Pregunta 10
+Media aritmética: 3.971
+Media ponderada: 3.971
+Media geométrica: 3.909
+Mediana: 4
+Moda: 4
+Máximo: 5
+Mínimo: 2
+Rango: 3
+Varianza: 0.453
+Desviación estándar: 0.673
+Pregunta 11
+Media aritmética: 3.956
+Media ponderada: 3.956
+Media geométrica: 3.888
+Mediana: 4
+Moda: 4
+Máximo: 5
+Mínimo: 2
+Rango: 3
+Varianza: 0.511
+Desviación estándar: 0.715
+Pregunta 12
+Media aritmética: 3.701
+Media ponderada: 3.701
+Media geométrica: 3.633
+Mediana: 4
+Moda: 4
+Máximo: 5
+Mínimo: 1
+Rango: 4
+Varianza: 0.438
+Desviación estándar: 0.661
+Prueba de Chi Cuadrada de Independencia
+Se aplicó una prueba de Chi cuadrada para determinar si existe relación entre género y conocimiento
+de la marca en el contexto del servicio evaluado.
+• Chi² observado: 19.07
+• Grados de libertad: 1
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 8 ---
+Diagnóstico para Líneas de Acción
+• Valor crítico (α = 0.05): 3.84
+• p-value: 0.0000125
+Interpretación:
+Dado que 19.07 > 3.84 y p < 0.05, se rechaza la hipótesis nula.
+Esto indica que sí existe evidencia estadísticamente significativa de que el conocimiento de la marca
+está asociado al género. Por lo tanto existe independencia entre las variables, por lo que se rechaza
+H₀ y se acepta la relación entre las variables analizadas.
+Realiza una prueba de hipótesis para validar el cumplimiento de un estándar organizacional
+relevante.
+(Tabla de elabroacion propia, 2025)
+Para evaluar si la organización cumple con el estándar mínimo establecido de 4.0 en la dimensión de
+empatía, se realizó una prueba t de una muestra. El promedio observado en los datos fue 3.90,
+ligeramente inferior al estándar esperado. El estadístico t obtenido fue –3.415, con un p-value
+unilateral de 0.9996, lo cual indica que no existe evidencia estadísticamente significativa para afirmar
+que la media poblacional sea igual o superior a 4.0. Aunque las calificaciones son relativamente altas,
+los resultados no permiten confirmar que el estándar organizacional se cumpla, por lo que este
+indicador representa un área de mejora para la institución.
+Considerando las diferentes áreas, departamentos o grupos de la organización sin fines de lucro o
+segmentos de usuarios ¿existe diferencia en la calidad en el servicio?
+( Tabla de elabroacion propia, 2025)
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 9 ---
+Diagnóstico para Líneas de Acción
+Para analizar si distintos grupos dentro de la organización perciben la calidad del servicio de manera
+diferente, se realizó una prueba ANOVA de un factor, utilizando como grupos las categorías del
+campo “Puesto” (Asistente, Coordinador, Director, Dueño, Gerente, Persona Física y Supervisor).
+Los resultados mostraron un estadístico F = 1.627 y un p-value = 0.1398, lo que indica que no existen
+diferencias estadísticamente significativas entre los promedios de calidad del servicio reportados por
+los distintos grupos.
+¿Qué áreas, departamentos o grupos de la organización sin fines de lucro o segmentos de usuarios
+presentan una mejor calidad en el servicio? ¿Cuáles presentan las mayores oportunidades de mejora?
+El análisis de los promedios de calidad del servicio entre los distintos grupos de usuarios de la
+organización muestra que, aunque no existen diferencias estadísticamente significativas entre los
+puestos según la prueba ANOVA, sí es posible identificar tendencias importantes que ayudan a
+comprender cómo cada segmento percibe la calidad del servicio recibido. Al revisar las evaluaciones
+por grupo, se observa que las personas clasificadas como “persona física” presentan las calificaciones
+más altas. Esto indica que este segmento, conformado por usuarios individuales más que por
+representantes institucionales, tiene una percepción ligeramente más positiva respecto al servicio
+brindado. Es posible que esto se deba a expectativas más ajustadas, a una interacción más directa con
+los promotores o a que sus necesidades son atendidas de manera más puntual.
+Por otro lado, los grupos que presentan los promedios más bajos son los “dueños” y, en menor medida,
+los “supervisores”. Aunque estas diferencias no son significativas desde una perspectiva estadística, sí
+reflejan una percepción relativamente menos favorable del servicio. Esto puede deberse a que estos
+perfiles suelen tener expectativas más altas, una visión más crítica de los procesos o un nivel de
+exigencia mayor en cuanto a la comunicación, seguimiento y atención personalizada. Estas
+evaluaciones más bajas representan, por tanto, oportunidades de mejora para la organización,
+especialmente si se desea ofrecer una experiencia uniforme y satisfactoria para todos los segmentos
+de usuarios.
+En conjunto, puede concluirse que la calidad del servicio es percibida de forma similar entre los distintos
+grupos, lo que demuestra consistencia en el trato y la atención. Sin embargo, la ligera variación en los
+promedios sugiere que existe margen para fortalecer la experiencia de ciertos grupos, particularmente
+aquellos con roles de mayor responsabilidad o toma de decisiones, quienes podrían beneficiarse de
+acciones más estratégicas, como una comunicación más directa, un seguimiento más frecuente o una
+atención mejor adaptada a sus necesidades específicas.
+Realiza una regresión lineal para predecir la calidad en el servicio, a partir de las variables relevantes
+de tu investigación.
+( Tabla de elabroacion propia, 2025)
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 10 ---
+Diagnóstico para Líneas de Acción
+Para analizar qué tan determinantes son los distintos componentes de la empatía en la calidad del
+servicio, se estimó un modelo de regresión lineal utilizando únicamente las variables E_1, E_2, E_3 y
+E_4 como predictores. Los resultados muestran que cada una de estas variables tiene un coeficiente
+de 0.25, mientras que el intercepto es prácticamente cero (−1.8E−15), lo cual indica que la calidad del
+servicio se explica de manera proporcional por la suma equitativa de estos cuatro elementos. Esto
+sucede porque la variable “Calidad” se construyó precisamente como el promedio de E_1 a E_4, por lo
+que el modelo refleja matemáticamente esta relación directa. En términos prácticos, esto confirma que
+cada componente de la empatía aporta el mismo peso en la percepción general de calidad del servicio
+y que mejoras en cualquiera de estos aspectos incrementarán la evaluación general en igual magnitud.
+¿Qué correlación existe entre las variables independientes con la variable dependiente (calidad en el
+servicio)?
+( Tabla de elabroacion propia, 2025)
+Para determinar qué tan relacionadas están las dimensiones de empatía con la calidad del servicio, se
+calculó la correlación de Pearson entre las variables E_1, E_2, E_3 y E_4 y la variable dependiente
+Calidad. Los resultados muestran correlaciones positivas y fuertes en todos los casos, lo que indica
+que a mayor puntuación en cualquiera de los indicadores de empatía, mayor es la percepción de
+calidad. Las correlaciones más altas corresponden a E_3 (0.7045) y E_1 (0.7025), lo que sugiere que
+la atención personalizada y la actitud comprensiva son los elementos que más influyen en la
+experiencia general del servicio. Por otro lado, E_4 (0.6175) muestra la correlación más baja, aunque
+sigue siendo significativa, indicando que la capacidad de adaptarse a circunstancias específicas
+también aporta al resultado, pero en menor medida. En conjunto, estos valores confirman que la
+empatía es un componente clave para explicar la calidad del servicio, y que todas sus dimensiones
+aportan de forma relevante.
+3 Propuestas de líneas de acción táctica que contribuyan a la estrategia
+A partir del análisis realizado, y considerando que las variables de empatía fueron los elementos más
+determinantes en la percepción de calidad del servicio, se identificaron tres líneas de acción táctica que
+pueden fortalecer el modelo de atención de Fundación Teletón y elevar los niveles de satisfacción de
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 11 ---
+Diagnóstico para Líneas de Acción
+los usuarios. Estas propuestas no buscan transformar la estructura de la organización, sino potenciar
+su capacidad de respuesta en aspectos clave de la interacción humana, que fueron los que mostraron
+mayor correlación con la calidad del servicio.
+La primera línea de acción consiste en fortalecer la atención personalizada, ya que fue la dimensión con
+mayor impacto dentro del análisis (particularmente E_3). Esto implica impulsar prácticas de escucha
+activa, retroalimentación inmediata y seguimiento individualizado durante la atención. Al mejorar la
+manera en que el personal conecta con los usuarios y les ofrece un trato diferenciado, es posible generar
+una percepción más positiva del servicio, además de construir un entorno de confianza y contención
+emocional que beneficie tanto a los usuarios como a sus familias.
+La segunda acción se orienta hacia la estandarización del trato empático, especialmente en aquellos
+grupos que presentaron promedios más bajos como “Dueño” y “Supervisor”. Aunque no existieron
+diferencias significativas a nivel estadístico, estas variaciones sí revelan oportunidades de mejora. Para
+lograrlo, se propone capacitar al personal en protocolos de comunicación, reforzar guías que definan
+buenas prácticas y establecer momentos específicos dentro del proceso de atención donde se garantice
+que todos los usuarios reciban información clara y acompañamiento adecuado. Esta estandarización
+permite asegurar que la empatía sea una práctica constante y no una característica variable entre
+promotores.
+Finalmente, se propone implementar mecanismos de retroalimentación continua, de manera que la
+organización pueda monitorear el impacto de sus acciones en tiempo real. Esto puede lograrse mediante
+módulos breves de evaluación al finalizar las interacciones, paneles de conversación con grupos clave
+o un sistema interno de seguimiento a patrones recurrentes dentro de las variables de empatía. Al contar
+con esta retroalimentación, Teletón podrá ajustar sus prácticas de forma dinámica, corregir áreas de
+oportunidad rápidamente y reforzar aquellas estrategias que demuestren un impacto positivo. En
+conjunto, estas líneas de acción no solo fortalecen la calidad del servicio, sino que aseguran que la
+empatía, como valor institucional, se convierta en una fortaleza medible y sostenible.
+Conclusión
+El análisis realizado a lo largo de este proyecto permite comprender de manera profunda cómo la
+empatía, entendida como el eje central del modelo de atención de Fundación Teletón, influye
+directamente en la percepción de calidad del servicio por parte de sus usuarios. A través de diversas
+herramientas estadísticas —como las medidas de tendencia central, las pruebas de hipótesis, ANOVA,
+correlaciones y modelos de regresión lineal— fue posible evidenciar que la calidad del servicio no es un
+resultado aislado, sino el reflejo de comportamientos concretos del personal: su capacidad para
+escuchar, comprender, adaptarse y brindar una atención verdaderamente personalizada.
+Los resultados muestran una consistencia general entre los distintos grupos evaluados, lo cual habla de
+un modelo institucional sólido, pero también revelan matices importantes que permiten identificar
+oportunidades de mejora, especialmente en segmentos con expectativas más altas o interacciones más
+complejas. Asimismo, la regresión lineal confirmó que los cuatro componentes de la empatía aportan
+por igual a la construcción de la calidad, aunque las correlaciones demostraron que algunos
+aspectos,como la atención personalizada y la actitud comprensiva, generan un impacto perceptivo
+mayor.
+Más allá de los datos, este proyecto contribuye a fortalecer el compromiso ético que guía la labor de
+Fundación Teletón. Evaluar la calidad del servicio en una organización que atiende a niñas, niños y
+familias en contextos de vulnerabilidad no solo es un ejercicio técnico, sino un acto de responsabilidad
+humana. Implica reconocer que cada mejora propuesta tiene efectos reales en la dignidad, el bienestar
+emocional y la experiencia cotidiana de quienes recurren a la institución buscando apoyo y esperanza.
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 12 ---
+Diagnóstico para Líneas de Acción
+Finalmente, las acciones tácticas sugeridas ofrecen una ruta clara para continuar consolidando un
+modelo de servicio centrado en las personas, que mantenga la empatía como un valor esencial y
+medible dentro de los procesos operativos. Al fortalecer la atención personalizada, estandarizar
+prácticas de comunicación y establecer mecanismos constantes de retroalimentación, Teletón podrá
+seguir construyendo una atención más sensible, transparente y altamente profesional. En conjunto, este
+proyecto demuestra que la combinación de análisis riguroso, sensibilidad institucional y un enfoque
+humano permite avanzar hacia una organización más sólida, más cercana y más alineada con su misión
+de transformar vidas.
+Actualizado al 25 de Noviembre del 2025.
+
+--- Página 13 ---
+Diagnóstico para Líneas de Acción
+Actualizado al 25 de Noviembre del 2025.

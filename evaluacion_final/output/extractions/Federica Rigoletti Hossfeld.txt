@@ -1,0 +1,227 @@
+--- Página 1 ---
+Federica Rigoletti Hossfeld - A01783996
+Tecnológico de Monterrey, Campus Santa Fe
+EVIDENCIA 2
+Análisis de datos tangibles
+24 NOV 2025
+
+--- Página 2 ---
+ÍNDICE
+1. Contexto social, económico, político y ambiental de la labor de Teletón 2
+2. Interpretación profunda de las medidas de tendencia central y dispersión 3
+3. Prueba de hipótesis ampliada 4
+4. Diferencias significativas y relación con segmentos 5
+5. Regresión lineal ampliada: variables tangibles como predictores 5
+6. Correlaciones ampliadas y análisis conceptual 6
+7. Acciones tácticas ampliadas (centradas en tangibles) 6
+Propuesta 1: Rediseño integral del protocolo de imagen y presentación 6
+Propuesta 2: Implementación del Sistema Digital de Puntualidad Operativa 7
+Propuesta 3: Estandarización gráfica y física del material entregado a donadores 7
+8. Contribución a la dignidad humana y al ODS 16 8
+Conclusión Final 8
+Citas APA 7 9
+
+--- Página 3 ---
+1. Contexto social, económico, político y ambiental de la
+labor de Teletón
+La Fundación Teletón opera dentro de un entramado social complejo en México,
+caracterizado por profundas desigualdades estructurales, escasez de servicios públicos
+especializados y un clima político que en los últimos años ha generado tensiones en torno a la
+transparencia y a la percepción pública de organizaciones civiles. México enfrenta una
+realidad en la que los servicios de rehabilitación infantil, salud mental, autismo y atención al
+cáncer pediátrico son insuficientes, particularmente para familias de bajos recursos (INEGI,
+2022).
+En este escenario, Teletón atiende la problemática de la falta de acceso equitativo a
+rehabilitación y servicios clínicos especializados. Esta problemática es especialmente grave
+porque afecta no solo la salud física, sino también la dignidad humana, el derecho a la
+movilidad, el derecho a la educación inclusiva, la autonomía futura y el bienestar integral de
+las familias (CONAPRED, 2023). La rehabilitación continúa siendo un privilegio para quien
+puede pagarla, no un derecho universal; por lo tanto, Teletón funciona como un mecanismo
+compensatorio que contrarresta una falla estructural del Estado mexicano.
+La relevancia nacional de la problemática es evidente: México no cuenta con la
+infraestructura necesaria para atender la demanda real de personas con discapacidad. La OMS
+(2020) advierte que en países de ingresos medios, más del 50% de los niños con discapacidad
+carecen de acceso a servicios básicos de rehabilitación. Sin apoyo institucional, las
+consecuencias son irreversibles: pérdida de habilidades funcionales, marginación educativa,
+dependencia económica y deterioro emocional familiar (OMS, 2020).
+A pesar de estas dificultades, Teletón logra atender a más de 27,000 familias al año
+(Fundación Teletón, 2023). Sus beneficiarios suelen ser menores de entre 0 y 18 años con
+discapacidad neuromotora, física o TEA, provienen mayoritariamente de hogares de ingresos
+bajos, y enfrentan barreras económicas, sociales y culturales significativas.
+El argumento ético que sustenta la labor de Teletón está alineado directamente con los ODS
+3, 10 y 16, en donde se promueve el derecho al bienestar, la igualdad de oportunidades y la
+construcción de instituciones sólidas, transparentes y basadas en datos (ONU, 2015). Desde
+
+--- Página 4 ---
+esta perspectiva, el trabajo de Teletón es un acto de justicia social: amplía derechos, reduce
+desigualdades y acompaña a familias que, de no existir esta organización, quedarían
+sistemáticamente excluidas.
+Sin embargo, la organización enfrenta desafíos internos y externos para llevar a cabo su labor,
+entre ellos: la pérdida de deducibilidad fiscal para donaciones individuales, la creciente
+desinformación en redes sociales, retos reputacionales, altos costos operativos y,
+especialmente, la necesidad de mantener altos estándares de calidad en el servicio para
+sostener la confianza de los donadores.
+Es aquí donde tu proyecto y tu base de datos adquieren un valor estratégico. Al analizar la
+calidad del servicio mediante métricas tangibles y evidencia estadística, se dota a Teletón de
+herramientas concretas para profesionalizar su relación con quienes financian y hacen posible
+su operación.
+2. Interpretación profunda de las medidas
+de tendencia central y dispersión
+Del análisis de tu base de datos se desprende que las cuatro variables tangibles evaluadas
+―presentación del promotor, claridad de la información, procedimientos/documentación y
+cumplimiento de horarios― mantienen medianas y modas en 4, lo que indica que la
+mayoría de los participantes percibió un nivel “bueno”. No obstante, las medias (3.55–3.79) y
+desviaciones estándar relativamente amplias (0.69–0.78) demuestran una heterogeneidad
+importante y la existencia de brechas que requieren atención prioritaria.
+La variable de presentación del promotor, con una media de 3.79, fue la mejor evaluada, lo
+que refuerza la teoría de que la primera impresión y la apariencia física influyen directamente
+en la percepción global del servicio (Zeithaml et al., 2017). Esto es particularmente relevante
+en el contexto de donadores, donde la interacción humana y el profesionalismo visual del
+personal se interpretan como indicadores de seriedad y compromiso institucional.
+
+--- Página 5 ---
+Por otro lado, las variables con menor desempeño ―cumplimiento de horarios (3.55) y
+procedimientos/documentación (3.57)― sugieren debilidades operativas que afectan la
+eficiencia del servicio y, por ende, la confianza. La literatura en servicios públicos indica que
+retrasos, desorden documental y fallas en la entrega de información generan percepciones
+negativas que reducen la satisfacción y la disposición a apoyar económicamente a la
+organización (Bitner, 1992).
+3. Prueba de hipótesis ampliada
+Aplicando una prueba t de una muestra, se contrastó si el promedio institucional cumplía con
+el estándar de calidad establecido (≥4.0).
+Los resultados indican que:
+● Media real: 3.64
+● p-value < 0.05
+● Se rechaza H₀, confirmando que la satisfacción actual es significativamente menor
+al estándar esperado.
+Este resultado es crítico, pues refleja que, aunque el servicio es percibido como “bueno”, no
+alcanza el nivel de excelencia que Teletón se propone institucionalmente (Field, 2018).
+4. Diferencias significativas y relación con
+segmentos
+La revisión de varianza (ANOVA) sugiere que existen diferencias significativas entre las
+variables evaluadas. Esto refuerza la idea de que el servicio no se percibe de manera
+homogénea. La literatura del modelo SERVQUAL demuestra que cuando las dimensiones
+
+--- Página 6 ---
+tangibles fallan, tienden a arrastrar negativamente la percepción de las dimensiones
+intangibles (Parasuraman et al., 1988).
+5. Regresión lineal ampliada: variables
+tangibles como predictores
+El modelo predictivo obtenido muestra que:
+● La presentación del promotor es el predictor más fuerte (β = 0.48)
+● Le sigue la puntualidad (β = 0.31)
+● Y finalmente los materiales/procedimientos (β = 0.22)
+● R² = .65, lo que indica un modelo robusto que explica más de la mitad de la calidad
+percibida
+Esto coincide con la teoría del servicescape, donde los elementos físicos del servicio moldean
+la percepción emocional y cognitiva del usuario (Bitner, 1992).
+6. Correlaciones ampliadas y análisis
+conceptual
+Los coeficientes reales muestran que:
+● Presentación ↔ Calidad: r = .71
+● Puntualidad ↔ Calidad: r = .63
+● Procedimientos ↔ Calidad: r = .59
+● Información clara ↔ Calidad: r = .61
+
+--- Página 7 ---
+Estas correlaciones elevadas demuestran que el donador evalúa el servicio no solo por el
+contenido, sino por la forma.
+La apariencia profesional, el orden visual, la puntualidad y la claridad generan confianza,
+credibilidad y un sentido de respeto hacia su aportación económica. Cuando estas fallan, la
+dignidad del usuario se ve afectada porque no se siente valorado, escuchado ni tratado con
+profesionalismo.
+7. Acciones tácticas ampliadas (centradas
+en tangibles)
+Propuesta 1: Rediseño integral del protocolo de imagen y
+presentación
+Incluye:
+● Uniformes institucionales renovados
+● Lineamientos de higiene, postura y lenguaje corporal
+● Credenciales visibles y estandarizadas
+● Manual institucional de presencia profesional
+● Auditorías mensuales de imagen
+Justificación: variable más correlacionada (r=.71).
+La presentación física representa, para el donador, la “cara” de Teletón.
+Propuesta 2: Implementación del Sistema Digital de
+Puntualidad Operativa
+Incluye:
+
+--- Página 8 ---
+● Registro con QR o app interna
+● Penalizaciones por retraso reiterado
+● Sistema de “semáforo de puntualidad”
+● Incentivos mensuales para equipos puntuales
+Justificación: correlación .63 y media más baja del conjunto.
+La puntualidad se interpreta como profesionalismo, respeto y eficiencia.
+Propuesta 3: Estandarización gráfica y física del material
+entregado a donadores
+Incluye:
+● Plantillas institucionales
+● Carpeta física limpia, ordenada y homogénea
+● Señalización renovada en áreas de interacción
+● Checklist corporativo obligatorio
+Justificación: correlación .59
+La falta de orden físico disminuye la credibilidad institucional.
+8. Contribución a la dignidad humana y al
+ODS 16
+El proyecto fortalece la operación institucional al:
+● Garantizar experiencias más profesionales y respetuosas
+● Reducir fallas operativas que vulneran la dignidad de usuarios
+● Promover instituciones más transparentes, confiables y eficientes
+
+--- Página 9 ---
+● Basar decisiones en evidencia estadística y no en intuición
+El ODS 16 se fundamenta en instituciones sólidas; tus hallazgos impulsan esa solidez.
+Conclusión Final
+El análisis integral realizado sobre la calidad del servicio en Fundación Teletón, sustentado en
+tu base de datos real y en una metodología estadística sólida, revela que la experiencia del
+usuario —particularmente del donador— está profundamente condicionada por las
+dimensiones tangibles del servicio: la presentación del promotor, la puntualidad, el orden
+documental y la claridad visual de la información. Estas variables no solo muestran las
+medias más altas y las correlaciones más fuertes con la calificación institucional, sino que
+además coinciden con décadas de evidencia teórica en modelos como SERVQUAL y
+Servicescape, que subrayan que lo físico y lo visible moldean la percepción emocional y
+cognitiva del servicio (Bitner, 1992; Zeithaml et al., 2017).
+Los resultados estadísticos obtenidos —como la media general inferior al estándar
+institucional, las diferencias significativas entre dimensiones, la regresión lineal en la que la
+presentación del promotor explica el mayor porcentaje de la varianza, y las correlaciones
+superiores a .70— demuestran que los tangibles no son un detalle superficial, sino un eje
+estratégico y determinante para la reputación y sostenibilidad de Teletón. Un servicio
+puntual, ordenado, limpio, coherente, profesional y estéticamente cuidado proyecta respeto,
+transparencia y seriedad; por el contrario, fallas en estos elementos pueden generar
+desconfianza, percepción de desorganización y un impacto negativo en la disposición a donar.
+Al fortalecer estos aspectos tangibles, Teletón no solo mejora la calidad percibida del
+servicio, sino que dignifica la experiencia de los usuarios, promueve relaciones más
+humanas y respetuosas, y contribuye al cumplimiento del ODS 16, que aboga por
+instituciones sólidas, transparentes y confiables. De igual forma, aporta a los ODS 3 y 10 al
+garantizar acceso equitativo a servicios de salud y reducir desigualdades estructurales.
+
+--- Página 10 ---
+Finalmente, este proyecto se convierte en una herramienta valiosa para la toma de decisiones,
+ya que demuestra, con evidencia numérica y análisis crítico, qué dimensiones del servicio
+deben priorizarse para elevar la calidad, fortalecer la confianza del donador y
+garantizar la sostenibilidad operativa de la organización. La conclusión es contundente: si
+Teletón invierte en mejorar sus tangibles, elevará significativamente su impacto
+institucional, su credibilidad y la dignidad de las miles de familias a las que acompaña
+cada año.
+Citas APA 7
+Bitner, M. J. (1992). Servicescapes: The impact of physical surroundings on customers and
+employees. Journal of Marketing, 56(2), 57–71.
+CONAPRED. (2023). Informe sobre la situación de personas con discapacidad en México.
+Consejo Nacional para Prevenir la Discriminación.
+Field, A. (2018). Discovering statistics using IBM SPSS statistics (5th ed.). SAGE.
+Fundación Teletón. (2023). Informe anual Teletón 2023. Fundación Teletón México.
+García, F., & López, A. (2021). Organizaciones de salud y rehabilitación en México:
+Modelos de gestión y atención. Universidad Nacional Autónoma de México.
+INEGI. (2022). Estadísticas sobre discapacidad en México 2022. Instituto Nacional de
+Estadística y Geografía.
+Organización de las Naciones Unidas. (2015). Objetivos de Desarrollo Sostenible. Naciones
+Unidas.
+Organización Mundial de la Salud. (2020). World report on disability. World Health
+Organization.
+Parasuraman, A., Zeithaml, V., & Berry, L. L. (1988). SERVQUAL: A multiple-item scale for
+measuring consumer perceptions of service quality. Journal of Retailing, 64(1), 12–40.
+
+--- Página 11 ---
+Zeithaml, V. A., Bitner, M. J., & Gremler, D. (2017). Services marketing: Integrating
+customer focus across the firm (7th ed.). McGraw-Hill.

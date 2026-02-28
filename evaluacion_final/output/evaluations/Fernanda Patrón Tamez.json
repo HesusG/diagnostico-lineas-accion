@@ -1,0 +1,392 @@
+{
+  "estudiante": "Fernanda Patrón Tamez",
+  "fecha": "2025-12-02T19:51:28.415775",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica las variables esenciales como años de donación, percepción de empatía y áreas de servicio.",
+        "Utiliza herramientas tecnológicas como Excel, Colab, Tableau y Looker para resumir y visualizar datos.",
+        "Muestra información relevante mediante gráficos y tablas de frecuencia.",
+        "Interpreta los resultados de manera articulada en el contexto de la problemática de Teletón."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para el análisis descriptivo.",
+        "Presentación clara de los resultados mediante gráficos y tablas.",
+        "Interpretación coherente de los datos en relación a la retención de donantes."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlación entre variables para una interpretación más robusta.",
+        "Mejorar la presentación visual de los datos para hacerla más atractiva y clara.",
+        "Incluir más detalles sobre el proceso de análisis estadístico realizado."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de las herramientas de estadística descriptiva y una interpretación adecuada de los datos. Para alcanzar un nivel destacado, se recomienda mejorar la presentación visual y profundizar en el análisis de correlaciones entre variables."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos adecuados en el dashboard de empatía (Figura 1)",
+        "Identificación precisa de los niveles de medición de las variables (escala Likert de 5 puntos)",
+        "Selección del tipo de gráfico apropiado para mostrar los datos de empatía y años de donación",
+        "Interpretación congruente de la información mostrada en los gráficos (Figura 1, Figura 2, Figura 3)"
+      ],
+      "fortalezas": [
+        "Uso de herramientas tecnológicas actuales como Excel, Colab, Tableau y Looker",
+        "Interpretación clara de los resultados estadísticos y su relación con los gráficos presentados",
+        "Análisis descriptivo y comparativo por estado y departamento"
+      ],
+      "areas_mejora": [
+        "Mejorar la claridad y atractivo visual de los gráficos dinámicos",
+        "Profundizar en la interpretación de los gráficos para una toma de decisiones más efectiva",
+        "Incluir más detalles sobre la selección del tipo de gráfico y su justificación"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de gráficos dinámicos y herramientas tecnológicas, con una interpretación adecuada de los datos. Para alcanzar un nivel destacado, se recomienda mejorar el diseño visual de los gráficos y profundizar en su interpretación para una toma de decisiones más efectiva."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando áreas con baja retención y percepción de satisfacción más baja.",
+        "Utiliza herramientas de análisis como Excel, Colab, Tableau y Looker para el estudio.",
+        "Identifica riesgos y oportunidades relevantes como la concentración geográfica de donantes y la alta rotación de donantes.",
+        "Propone líneas de acción estratégicas como el programa de fidelización, capacitación focalizada y estrategia geográfica de crecimiento."
+      ],
+      "fortalezas": [
+        "Interpretación adecuada de los datos y uso de herramientas de análisis pertinentes.",
+        "Identificación clara de problemáticas y oportunidades de mejora.",
+        "Propuestas de acción estratégicas y bien fundamentadas."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones entre variables para identificar factores clave de retención.",
+        "Incluir más evidencia estadística que respalde las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de los insights y propone acciones estratégicas relevantes. Para alcanzar un nivel Destacado, sería recomendable profundizar en el análisis estadístico y proporcionar más evidencia que respalde las propuestas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el Programa de fidelización 'Donante Continuo', capacitación focalizada de promotores y estrategia geográfica de crecimiento y comunicación.",
+        "Valida las características de los prototipos mediante análisis estadísticos y datos recopilados de encuestas.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como la retención de donantes y mejora de la percepción del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos recopilados para identificar áreas de oportunidad.",
+        "Propuestas claras y específicas para abordar las problemáticas identificadas.",
+        "Uso de herramientas avanzadas como Excel, Colab, Tableau y Looker para el análisis de datos."
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de las soluciones propuestas mediante pruebas piloto o estudios de caso.",
+        "Incluir más detalles sobre cómo se implementarían las estrategias propuestas en la práctica.",
+        "Explorar más a fondo la relación entre empatía y retención de donantes para fortalecer las propuestas."
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis sólido y propuestas innovadoras para abordar las problemáticas de Teletón. Para alcanzar un nivel destacado, sería beneficioso incluir más detalles sobre la implementación y validación de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos sobre empatía y retención de donantes en Teletón.",
+        "Establece propuestas estratégicas como el programa de fidelización, capacitación focalizada y estrategia geográfica.",
+        "Logra identificar áreas de oportunidad y propone acciones basadas en evidencia para mejorar la retención de donantes."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de los datos de empatía y su relación con la retención de donantes.",
+        "Propuestas claras y específicas para mejorar la retención y satisfacción de los donantes.",
+        "Uso de herramientas estadísticas y de visualización para respaldar sus conclusiones."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se implementarían exactamente las propuestas y qué recursos se necesitarían.",
+        "Falta mayor detalle en cómo se mediría el impacto de las propuestas implementadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y propuestas. Para alcanzar un nivel Destacado, considera detallar más la implementación y medición de impacto de tus propuestas."
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante identifica problemáticas sociales y propone soluciones constructivas para mejorar la retención de donantes en Teletón.",
+        "Demuestra sensibilidad social al analizar las necesidades de personas con discapacidad y en situación de vulnerabilidad.",
+        "Propone estrategias de fidelización y capacitación para mejorar la atención personalizada y la empatía hacia los donantes."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los problemas de la organización y su impacto social.",
+        "Propuestas concretas y basadas en evidencia para mejorar la retención de donantes."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las propuestas impactan directamente la dignidad y derechos de los beneficiarios.",
+        "Falta mayor detalle en cómo se medirá el impacto social de las estrategias propuestas."
+      ],
+      "retroalimentacion": "Tu trabajo muestra un buen entendimiento de las problemáticas sociales y propone soluciones solidarias. Para mejorar, podrías enfatizar más cómo tus propuestas respetan y promueven la dignidad de los beneficiarios y donantes."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica las variables esenciales como años de donación, percepción de empatía y áreas de servicio.",
+        "Utiliza herramientas tecnológicas como Excel, Colab, Tableau y Looker para resumir la información mediante estadísticas descriptivas y gráficos.",
+        "Muestra la información relevante en dashboards que incluyen medidas de tendencia central y dispersión.",
+        "Interpreta los resultados de manera articulada, aunque no encuentra evidencia estadísticamente significativa para la relación entre empatía y años de donación."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para el análisis descriptivo.",
+        "Presentación clara de los datos en dashboards y gráficos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática de Teletón."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las diferencias entre áreas con valores más bajos en empatía.",
+        "Incluir más detalles sobre el proceso de análisis estadístico realizado."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas tecnológicas y un resumen adecuado de la información. Para mejorar, considera profundizar en el análisis de áreas con menores puntuaciones y detallar más el proceso estadístico."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos adecuados en el dashboard de empatía, mostrando valores de satisfacción y años de donación.",
+        "Identificación precisa de los niveles de medición de las variables (escala Likert de 5 puntos).",
+        "Selección del tipo de gráfico apropiado para representar los datos de empatía y años de donación.",
+        "Interpretación congruente de la información mostrada en los gráficos, como la relación entre empatía y tiempo de donación."
+      ],
+      "fortalezas": [
+        "Uso de herramientas tecnológicas actuales como Excel, Colab, Tableau y Looker para generar los gráficos.",
+        "Interpretación clara de los datos, destacando áreas de oportunidad como Teletón y Educación."
+      ],
+      "areas_mejora": [
+        "Mejorar la claridad y atractivo visual de los gráficos para facilitar la interpretación.",
+        "Incluir más detalles sobre la selección del tipo de gráfico y su justificación."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y una interpretación adecuada de los datos. Se sugiere enfocarse en mejorar la presentación visual y la justificación de las elecciones de gráficos para alcanzar un nivel destacado."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando que la empatía percibida no varía significativamente según los años de donación.",
+        "Utiliza herramientas de análisis como Excel, Colab, Tableau y Looker para el estudio.",
+        "Identifica oportunidades de mejora en áreas específicas como Teletón y Educación, y en estados con baja presencia de donantes.",
+        "Propone líneas de acción estratégicas como el programa de fidelización, capacitación focalizada y estrategia geográfica de crecimiento."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con los años de donación.",
+        "Propuestas de acción claras y basadas en los insights obtenidos.",
+        "Uso de herramientas de análisis adecuadas para el estudio."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de otros factores que podrían influir en la retención de donantes, más allá de la empatía.",
+        "Incluir más datos cuantitativos que respalden las propuestas de acción."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas de análisis y una interpretación adecuada de los datos. Las propuestas de acción son relevantes, pero podrían beneficiarse de un análisis más profundo de otros factores influyentes."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa de fidelización Donante Continuo' y la 'Capacitación focalizada de promotores'",
+        "Valida las características de los prototipos mediante análisis estadísticos y datos de encuestas",
+        "Garantiza aplicabilidad efectiva en contextos específicos como la retención de donantes y la mejora de la percepción en áreas con baja satisfacción"
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con la retención de donantes",
+        "Propuestas concretas y basadas en evidencia para mejorar la retención y satisfacción de los donantes",
+        "Enfoque en la aplicación práctica de las soluciones propuestas en contextos reales"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas mediante pruebas piloto o estudios de caso",
+        "Incluir más detalles sobre cómo se implementarían las estrategias geográficas de crecimiento y comunicación"
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de la problemática y propone soluciones innovadoras basadas en datos. Para mejorar, considera incluir más detalles sobre la implementación y validación de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo, como el análisis de datos de empatía y la identificación de áreas de mejora en Teletón.",
+        "Establece compromisos y propuestas adecuadas, como el programa de fidelización y la capacitación focalizada de promotores.",
+        "Da cuenta del cumplimiento de funciones de negociación con otras personas al proponer estrategias geográficas de crecimiento y comunicación.",
+        "Logra consistentemente los objetivos planteados, como mejorar la retención de donantes y la percepción de calidad en el servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con la retención de donantes.",
+        "Propuestas concretas y bien fundamentadas para mejorar la retención y satisfacción de los donantes.",
+        "Uso de herramientas avanzadas como Excel, Colab, Tableau y Looker para el análisis y visualización de datos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las causas subyacentes de la baja retención de donantes, más allá de la empatía percibida.",
+        "Incluir más evidencia cuantitativa o cualitativa que respalde las propuestas de mejora.",
+        "Explorar más a fondo la relación entre los ODS y las acciones propuestas para fortalecer el impacto social."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en trabajo colaborativo, con propuestas bien estructuradas y un análisis detallado. Para alcanzar un nivel destacado, se recomienda profundizar en el análisis de las causas de la baja retención y fortalecer la evidencia que respalda las propuestas."
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Análisis detallado de la problemática de Teletón en diferentes contextos (social, económico, político, ambiental)",
+        "Identificación clara de los ODS relevantes para la organización (3, 10, 16)",
+        "Propuestas concretas para mejorar la retención de donantes (programa de fidelización, capacitación focalizada, estrategia geográfica)",
+        "Uso de herramientas estadísticas (prueba chi-cuadrada) para analizar la relación entre empatía y tiempo de donación",
+        "Interpretación adecuada de los resultados estadísticos y su aplicación práctica"
+      ],
+      "fortalezas": [
+        "Enfoque integral al considerar múltiples dimensiones de la problemática",
+        "Vinculación clara entre las acciones propuestas y los ODS",
+        "Uso apropiado de herramientas analíticas para fundamentar las propuestas",
+        "Propuestas específicas y accionables para la organización"
+      ],
+      "areas_mejora": [
+        "Podría profundizar más en cómo exactamente las propuestas impactarían los ODS específicos",
+        "Sería valioso incluir métricas concretas para medir el éxito de las propuestas",
+        "Podría explorar más a fondo las razones detrás de la falta de correlación estadística encontrada"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática de Teletón y propone soluciones bien fundamentadas. Se nota un buen equilibrio entre análisis cuantitativo y cualitativo. Para mejorar, podría enfatizar más cómo se mediría el impacto de las propuestas y profundizar en las conexiones específicas con los ODS."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [],
+    "areas_fuertes": [],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica las variables esenciales como años de donación, percepción de empatía y áreas de servicio.",
+        "Utiliza herramientas tecnológicas como Excel, Colab, Tableau y Looker para resumir la información mediante estadísticas descriptivas y gráficos.",
+        "Muestra la información relevante en dashboards que incluyen medidas de tendencia central y dispersión.",
+        "Interpreta los resultados de manera articulada, aunque no encuentra evidencia estadísticamente significativa para la relación entre empatía y años de donación."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para el análisis descriptivo.",
+        "Presentación clara de los datos en dashboards y gráficos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática de Teletón."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las diferencias entre áreas con valores más bajos en empatía.",
+        "Incluir más detalles sobre el proceso de análisis estadístico realizado."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas tecnológicas y un resumen adecuado de la información. Para mejorar, considera profundizar en el análisis de áreas con menores puntuaciones y detallar más el proceso estadístico.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elaboración de gráficos dinámicos adecuados en el dashboard de empatía, mostrando valores de satisfacción y años de donación.",
+        "Identificación precisa de los niveles de medición de las variables (escala Likert de 5 puntos).",
+        "Selección del tipo de gráfico apropiado para representar los datos de empatía y años de donación.",
+        "Interpretación congruente de la información mostrada en los gráficos, como la relación entre empatía y tiempo de donación."
+      ],
+      "fortalezas": [
+        "Uso de herramientas tecnológicas actuales como Excel, Colab, Tableau y Looker para generar los gráficos.",
+        "Interpretación clara de los datos, destacando áreas de oportunidad como Teletón y Educación."
+      ],
+      "areas_mejora": [
+        "Mejorar la claridad y atractivo visual de los gráficos para facilitar la interpretación.",
+        "Incluir más detalles sobre la selección del tipo de gráfico y su justificación."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y una interpretación adecuada de los datos. Se sugiere enfocarse en mejorar la presentación visual y la justificación de las elecciones de gráficos para alcanzar un nivel destacado.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando que la empatía percibida no varía significativamente según los años de donación.",
+        "Utiliza herramientas de análisis como Excel, Colab, Tableau y Looker para el estudio.",
+        "Identifica oportunidades de mejora en áreas específicas como Teletón y Educación, y en estados con baja presencia de donantes.",
+        "Propone líneas de acción estratégicas como el programa de fidelización, capacitación focalizada y estrategia geográfica de crecimiento."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con los años de donación.",
+        "Propuestas de acción claras y basadas en los insights obtenidos.",
+        "Uso de herramientas de análisis adecuadas para el estudio."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de otros factores que podrían influir en la retención de donantes, más allá de la empatía.",
+        "Incluir más datos cuantitativos que respalden las propuestas de acción."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen uso de herramientas de análisis y una interpretación adecuada de los datos. Las propuestas de acción son relevantes, pero podrían beneficiarse de un análisis más profundo de otros factores influyentes.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa de fidelización Donante Continuo' y la 'Capacitación focalizada de promotores'",
+        "Valida las características de los prototipos mediante análisis estadísticos y datos de encuestas",
+        "Garantiza aplicabilidad efectiva en contextos específicos como la retención de donantes y la mejora de la percepción en áreas con baja satisfacción"
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con la retención de donantes",
+        "Propuestas concretas y basadas en evidencia para mejorar la retención y satisfacción de los donantes",
+        "Enfoque en la aplicación práctica de las soluciones propuestas en contextos reales"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación de las soluciones propuestas mediante pruebas piloto o estudios de caso",
+        "Incluir más detalles sobre cómo se implementarían las estrategias geográficas de crecimiento y comunicación"
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de la problemática y propone soluciones innovadoras basadas en datos. Para mejorar, considera incluir más detalles sobre la implementación y validación de las soluciones propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo, como el análisis de datos de empatía y la identificación de áreas de mejora en Teletón.",
+        "Establece compromisos y propuestas adecuadas, como el programa de fidelización y la capacitación focalizada de promotores.",
+        "Da cuenta del cumplimiento de funciones de negociación con otras personas al proponer estrategias geográficas de crecimiento y comunicación.",
+        "Logra consistentemente los objetivos planteados, como mejorar la retención de donantes y la percepción de calidad en el servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos de empatía y su relación con la retención de donantes.",
+        "Propuestas concretas y bien fundamentadas para mejorar la retención y satisfacción de los donantes.",
+        "Uso de herramientas avanzadas como Excel, Colab, Tableau y Looker para el análisis y visualización de datos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las causas subyacentes de la baja retención de donantes, más allá de la empatía percibida.",
+        "Incluir más evidencia cuantitativa o cualitativa que respalde las propuestas de mejora.",
+        "Explorar más a fondo la relación entre los ODS y las acciones propuestas para fortalecer el impacto social."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en trabajo colaborativo, con propuestas bien estructuradas y un análisis detallado. Para alcanzar un nivel destacado, se recomienda profundizar en el análisis de las causas de la baja retención y fortalecer la evidencia que respalda las propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Análisis detallado de la problemática de Teletón en diferentes contextos (social, económico, político, ambiental)",
+        "Identificación clara de los ODS relevantes para la organización (3, 10, 16)",
+        "Propuestas concretas para mejorar la retención de donantes (programa de fidelización, capacitación focalizada, estrategia geográfica)",
+        "Uso de herramientas estadísticas (prueba chi-cuadrada) para analizar la relación entre empatía y tiempo de donación",
+        "Interpretación adecuada de los resultados estadísticos y su aplicación práctica"
+      ],
+      "fortalezas": [
+        "Enfoque integral al considerar múltiples dimensiones de la problemática",
+        "Vinculación clara entre las acciones propuestas y los ODS",
+        "Uso apropiado de herramientas analíticas para fundamentar las propuestas",
+        "Propuestas específicas y accionables para la organización"
+      ],
+      "areas_mejora": [
+        "Podría profundizar más en cómo exactamente las propuestas impactarían los ODS específicos",
+        "Sería valioso incluir métricas concretas para medir el éxito de las propuestas",
+        "Podría explorar más a fondo las razones detrás de la falta de correlación estadística encontrada"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática de Teletón y propone soluciones bien fundamentadas. Se nota un buen equilibrio entre análisis cuantitativo y cualitativo. Para mejorar, podría enfatizar más cómo se mediría el impacto de las propuestas y profundizar en las conexiones específicas con los ODS.",
+      "promedio_delphi": 88.0
+    }
+  },
+  "nota_final": 88.0,
+  "nivel_final": "Sólido"
+}

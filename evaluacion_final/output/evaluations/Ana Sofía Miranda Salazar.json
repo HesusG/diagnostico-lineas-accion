@@ -1,0 +1,400 @@
+{
+  "estudiante": "Ana Sofía Miranda Salazar",
+  "fecha": "2025-12-02T19:46:57.081461",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza variables esenciales como tipo de donador, años de relación, dimensiones de calidad (empatía, confiabilidad, etc.)",
+        "Utiliza herramientas estadísticas avanzadas (ANOVA, regresión lineal, prueba t) para analizar los datos",
+        "Presenta visualizaciones claras (gráficos de media por tipo de donador y años de relación)",
+        "Interpreta coherentemente los resultados en el contexto organizacional de Teletón"
+      ],
+      "fortalezas": [
+        "Análisis estadístico completo y riguroso que incluye múltiples técnicas",
+        "Excelente integración de los hallazgos estadísticos con el contexto organizacional",
+        "Visualizaciones efectivas que resumen adecuadamente la información",
+        "Interpretaciones profundas y relevantes para la toma de decisiones"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles metodológicos sobre el proceso de recolección de datos",
+        "Sería valioso ver el código o herramientas específicas utilizadas para los análisis"
+      ],
+      "retroalimentacion": "Excelente trabajo de análisis estadístico descriptivo. Has demostrado un dominio completo de las herramientas y una capacidad sobresaliente para interpretar los resultados en el contexto organizacional. Las visualizaciones son claras y efectivas. Sigue profundizando en la integración entre análisis cuantitativo y cualitativo."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "No se presentaron gráficos dinámicos en el trabajo del estudiante"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Es fundamental incluir visualizaciones de datos que respalden los análisis realizados."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores del plan estratégico de Teletón.",
+        "Utiliza herramientas de análisis apropiadas como ANOVA, regresión lineal y pruebas de hipótesis para el estudio.",
+        "Identifica riesgos y oportunidades relevantes como la dependencia financiera y la retención de donadores.",
+        "Propone líneas de acción estratégicas como el programa 'Promesa Cumplida' y 'Embajadores de Gratitud' basadas en los hallazgos."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado.",
+        "Propuestas de acción alineadas con los insights obtenidos.",
+        "Identificación clara de áreas de oportunidad y fortalezas en el servicio al donador."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones para identificar relaciones más complejas entre variables.",
+        "Incluir más herramientas de visualización de datos para presentar los insights de manera más impactante.",
+        "Explorar estrategias adicionales para abordar la dependencia financiera más allá de la retención de donadores."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone acciones relevantes. Para alcanzar un nivel destacado, considera profundizar en el análisis multivariable y mejorar la presentación visual de los datos. Las propuestas son acertadas, pero podrían enriquecerse con más alternativas estratégicas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa Promesa Cumplida' y 'Embajadores de Gratitud'",
+        "Valida las características de los prototipos mediante análisis estadísticos (T-Test, ANOVA, Regresión Lineal)",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón México"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que sustenta las propuestas",
+        "Soluciones bien fundamentadas en datos reales de la organización",
+        "Enfoque en dimensiones clave identificadas (Confiabilidad, Empatía)"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la validación práctica de las soluciones propuestas",
+        "Falta detalle sobre implementación concreta y recursos requeridos",
+        "Podría explorar más alternativas innovadoras además de las propuestas"
+      ],
+      "retroalimentacion": "Excelente trabajo de análisis y propuestas basadas en datos. Para alcanzar el nivel Destacado, considera desarrollar un plan de implementación más detallado y explorar métodos más innovadores de validación de tus soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de resultados concretos derivados del análisis de calidad en el servicio hacia donadores de Teletón",
+        "Establecimiento de compromisos y propuestas tácticas para mejorar la calidad del servicio",
+        "Cumplimiento eficaz de tareas de análisis estadístico y presentación de hallazgos",
+        "Logro consistente de los objetivos planteados en el análisis organizacional"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado",
+        "Propuestas de mejora alineadas con los hallazgos del estudio",
+        "Integración de conceptos teóricos con la práctica organizacional",
+        "Comunicación clara y estructurada de los resultados"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias de implementación de las acciones propuestas",
+        "Falta mayor detalle en cómo medir el impacto de las mejoras propuestas",
+        "Oportunidad para incluir más perspectivas de stakeholders en el análisis"
+      ],
+      "retroalimentacion": "Excelente trabajo de análisis y propuestas de mejora. Para alcanzar el nivel Destacado, considera desarrollar más detalles sobre la implementación práctica de las acciones y cómo medir su efectividad. También podrías incluir más voces de los diferentes actores involucrados."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como el 'Programa Promesa Cumplida' y 'Embajadores de Gratitud' para mejorar la calidad del servicio hacia donadores.",
+        "Demuestra sensibilidad social al analizar y proponer mejoras para la atención a donadores, lo cual impacta indirectamente en la calidad de vida de los beneficiarios.",
+        "Muestra compromiso comunitario al enfocarse en la sostenibilidad financiera de Teletón, asegurando la continuidad de los servicios para personas con discapacidad.",
+        "Respeto a la dignidad de las personas al alinear las acciones propuestas con los ODS, especialmente en salud, reducción de desigualdades e inclusión."
+      ],
+      "fortalezas": [
+        "Análisis profundo y bien fundamentado de la problemática y las necesidades de la organización.",
+        "Propuestas de acción claras, específicas y alineadas con los hallazgos del análisis estadístico.",
+        "Enfoque ético y de derechos humanos en todas las propuestas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo medir el impacto de las acciones propuestas.",
+        "Profundizar en cómo las acciones específicamente promueven la inclusión y reducción de desigualdades."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las propuestas son innovadoras, bien fundamentadas y muestran un claro compromiso con la dignidad humana y la justicia social. Continúa con este enfoque integral en tus futuros proyectos."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica claramente las variables esenciales en la información, como el Índice de Servicio, tipo de donador, años de relación, y dimensiones de calidad (AT_1, FI_1, R_1, E_1, C_1).",
+        "Utiliza herramientas tecnológicas para realizar análisis estadísticos avanzados, incluyendo pruebas de hipótesis (T-Test), ANOVA, y regresión lineal múltiple.",
+        "Muestra de manera atractiva y clara la información relevante mediante tablas de frecuencia, estadísticas descriptivas, y gráficos de visualización.",
+        "Interpreta de manera coherente y contextualizada los resultados de los análisis estadísticos, relacionándolos directamente con la problemática de la Fundación Teletón y sus objetivos estratégicos."
+      ],
+      "fortalezas": [
+        "Excelente manejo de herramientas estadísticas y tecnológicas para el análisis de datos.",
+        "Interpretación profunda y contextualizada de los resultados, vinculándolos con los objetivos de la organización.",
+        "Presentación clara y atractiva de los datos, facilitando la comprensión de los hallazgos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre las herramientas tecnológicas específicas utilizadas para el análisis.",
+        "Sería beneficioso profundizar en la visualización de datos con más gráficos interactivos o dinámicos."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo. Has demostrado un dominio sobresaliente en la identificación de variables clave, uso de herramientas tecnológicas, y interpretación contextualizada de los resultados. Continúa explorando herramientas de visualización más avanzadas para enriquecer aún más tus presentaciones."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Incluir gráficos dinámicos que muestren la información relevante para la toma de decisiones",
+        "Identificar niveles de medición de las variables",
+        "Seleccionar tipos de gráficos apropiados",
+        "Interpretar la información que muestran los gráficos"
+      ],
+      "retroalimentacion": "El trabajo no incluye gráficos dinámicos ni evidencia de su generación. Es fundamental incorporar visualizaciones que apoyen el análisis y la toma de decisiones, seleccionando tipos de gráficos adecuados a los datos y niveles de medición."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, como se observa en el análisis de las medias del Índice de Servicio por tipo de donador y años de relación.",
+        "Utiliza herramientas de análisis apropiadas como ANOVA, regresión lineal y pruebas de hipótesis para validar los estándares de calidad.",
+        "Identifica riesgos y oportunidades relevantes, como la dependencia financiera y la necesidad de mejorar la confiabilidad y fiabilidad en el servicio.",
+        "Propone líneas de acción estratégicas como el programa 'Promesa Cumplida' y 'Embajadores de Gratitud' basadas en los insights obtenidos."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para validar hipótesis y obtener insights.",
+        "Identificación clara de áreas de oportunidad y fortalezas en el servicio al donador.",
+        "Propuestas de acción bien fundamentadas en los datos analizados."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones para identificar relaciones más complejas entre variables.",
+        "Incluir más visualizaciones gráficas que faciliten la interpretación de los datos.",
+        "Explorar herramientas de analítica más avanzadas para un análisis más detallado."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone líneas de acción relevantes. Para alcanzar un nivel destacado, se recomienda profundizar en el análisis de correlaciones y mejorar la presentación visual de los datos."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de prototipos de soluciones innovadoras como el 'Programa Promesa Cumplida' y 'Embajadores de Gratitud'",
+        "Validación de características mediante análisis estadístico (pruebas de hipótesis, ANOVA, regresión lineal)",
+        "Aplicabilidad efectiva en el contexto de mejora de servicios para donadores de Fundación Teletón"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que sustenta las propuestas",
+        "Propuestas alineadas con las necesidades identificadas en el diagnóstico",
+        "Enfoque en dimensiones clave como confiabilidad y empatía"
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación práctica de las soluciones propuestas",
+        "Incluir más detalles sobre la implementación concreta de los programas",
+        "Explorar soluciones más disruptivas que vayan más allá de mejoras incrementales"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen nivel de innovación con propuestas basadas en evidencia estadística. Para alcanzar el nivel Destacado, sería valioso incluir más detalles sobre cómo se validarían y pilotearían las soluciones propuestas, así como explorar ideas más disruptivas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de resultados concretos derivados del análisis colaborativo de datos sobre la calidad del servicio en Teletón",
+        "Establecimiento de compromisos y acciones tácticas para mejorar la calidad del servicio basadas en hallazgos estadísticos",
+        "Cumplimiento eficaz de funciones de análisis y propuesta de mejoras mediante trabajo en equipo",
+        "Logro consistente de los objetivos planteados en el análisis organizacional"
+      ],
+      "fortalezas": [
+        "Excelente integración de análisis cuantitativo con propuestas de acción concretas",
+        "Trabajo coordinado evidenciado en la coherencia del informe final",
+        "Capacidad para identificar áreas de oportunidad clave basadas en datos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se distribuyeron las tareas específicas entre los miembros del equipo",
+        "Sería valioso mostrar más evidencias del proceso colaborativo (reuniones, discusiones, iteraciones)"
+      ],
+      "retroalimentacion": "El equipo demostró un sólido trabajo colaborativo al integrar diversos análisis estadísticos en propuestas de acción coherentes. Para alcanzar el nivel Destacado, podrían documentar más explícitamente su proceso de colaboración y toma de decisiones conjuntas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El análisis demuestra un profundo respeto por la dignidad de los beneficiarios de Teletón, destacando su vulnerabilidad económica y la importancia de su inclusión social.",
+        "El trabajo propone soluciones constructivas y solidarias para mejorar la calidad del servicio hacia los donadores, lo que indirectamente beneficia a los beneficiarios finales.",
+        "El informe alinea claramente la labor de Teletón con los Objetivos de Desarrollo Sostenible (ODS), mostrando un compromiso con la salud, la reducción de desigualdades y la justicia social.",
+        "Se evidencian acciones tácticas específicas para fortalecer la confiabilidad y empatía hacia los donadores, lo que refleja sensibilidad social y compromiso comunitario."
+      ],
+      "fortalezas": [
+        "El estudiante muestra una comprensión profunda de la problemática social que atiende Teletón y su impacto en la dignidad humana.",
+        "Las propuestas de mejora están bien fundamentadas en datos estadísticos y demuestran un enfoque ético y responsable hacia los donadores y beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más testimonios o casos específicos de beneficiarios para reforzar el impacto social de las soluciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las soluciones propuestas son constructivas, solidarias y están bien fundamentadas en datos. Continúa desarrollando tu sensibilidad social y compromiso comunitario."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Incluir gráficos dinámicos que muestren la información relevante para la toma de decisiones",
+          "Identificar niveles de medición de las variables",
+          "Seleccionar tipos de gráficos apropiados",
+          "Interpretar la información que muestran los gráficos"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0104",
+        "nombre": "Estadística Descriptiva",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Excelente manejo de herramientas estadísticas y tecnológicas para el análisis de datos.",
+          "Interpretación profunda y contextualizada de los resultados, vinculándolos con los objetivos de la organización.",
+          "Presentación clara y atractiva de los datos, facilitando la comprensión de los hallazgos."
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "El estudiante muestra una comprensión profunda de la problemática social que atiende Teletón y su impacto en la dignidad humana.",
+          "Las propuestas de mejora están bien fundamentadas en datos estadísticos y demuestran un enfoque ético y responsable hacia los donadores y beneficiarios."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica claramente las variables esenciales en la información, como el Índice de Servicio, tipo de donador, años de relación, y dimensiones de calidad (AT_1, FI_1, R_1, E_1, C_1).",
+        "Utiliza herramientas tecnológicas para realizar análisis estadísticos avanzados, incluyendo pruebas de hipótesis (T-Test), ANOVA, y regresión lineal múltiple.",
+        "Muestra de manera atractiva y clara la información relevante mediante tablas de frecuencia, estadísticas descriptivas, y gráficos de visualización.",
+        "Interpreta de manera coherente y contextualizada los resultados de los análisis estadísticos, relacionándolos directamente con la problemática de la Fundación Teletón y sus objetivos estratégicos."
+      ],
+      "fortalezas": [
+        "Excelente manejo de herramientas estadísticas y tecnológicas para el análisis de datos.",
+        "Interpretación profunda y contextualizada de los resultados, vinculándolos con los objetivos de la organización.",
+        "Presentación clara y atractiva de los datos, facilitando la comprensión de los hallazgos."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre las herramientas tecnológicas específicas utilizadas para el análisis.",
+        "Sería beneficioso profundizar en la visualización de datos con más gráficos interactivos o dinámicos."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo. Has demostrado un dominio sobresaliente en la identificación de variables clave, uso de herramientas tecnológicas, y interpretación contextualizada de los resultados. Continúa explorando herramientas de visualización más avanzadas para enriquecer aún más tus presentaciones.",
+      "promedio_delphi": 100.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Incluir gráficos dinámicos que muestren la información relevante para la toma de decisiones",
+        "Identificar niveles de medición de las variables",
+        "Seleccionar tipos de gráficos apropiados",
+        "Interpretar la información que muestran los gráficos"
+      ],
+      "retroalimentacion": "El trabajo no incluye gráficos dinámicos ni evidencia de su generación. Es fundamental incorporar visualizaciones que apoyen el análisis y la toma de decisiones, seleccionando tipos de gráficos adecuados a los datos y niveles de medición.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, como se observa en el análisis de las medias del Índice de Servicio por tipo de donador y años de relación.",
+        "Utiliza herramientas de análisis apropiadas como ANOVA, regresión lineal y pruebas de hipótesis para validar los estándares de calidad.",
+        "Identifica riesgos y oportunidades relevantes, como la dependencia financiera y la necesidad de mejorar la confiabilidad y fiabilidad en el servicio.",
+        "Propone líneas de acción estratégicas como el programa 'Promesa Cumplida' y 'Embajadores de Gratitud' basadas en los insights obtenidos."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para validar hipótesis y obtener insights.",
+        "Identificación clara de áreas de oportunidad y fortalezas en el servicio al donador.",
+        "Propuestas de acción bien fundamentadas en los datos analizados."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de correlaciones para identificar relaciones más complejas entre variables.",
+        "Incluir más visualizaciones gráficas que faciliten la interpretación de los datos.",
+        "Explorar herramientas de analítica más avanzadas para un análisis más detallado."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone líneas de acción relevantes. Para alcanzar un nivel destacado, se recomienda profundizar en el análisis de correlaciones y mejorar la presentación visual de los datos.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de prototipos de soluciones innovadoras como el 'Programa Promesa Cumplida' y 'Embajadores de Gratitud'",
+        "Validación de características mediante análisis estadístico (pruebas de hipótesis, ANOVA, regresión lineal)",
+        "Aplicabilidad efectiva en el contexto de mejora de servicios para donadores de Fundación Teletón"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que sustenta las propuestas",
+        "Propuestas alineadas con las necesidades identificadas en el diagnóstico",
+        "Enfoque en dimensiones clave como confiabilidad y empatía"
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación práctica de las soluciones propuestas",
+        "Incluir más detalles sobre la implementación concreta de los programas",
+        "Explorar soluciones más disruptivas que vayan más allá de mejoras incrementales"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen nivel de innovación con propuestas basadas en evidencia estadística. Para alcanzar el nivel Destacado, sería valioso incluir más detalles sobre cómo se validarían y pilotearían las soluciones propuestas, así como explorar ideas más disruptivas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de resultados concretos derivados del análisis colaborativo de datos sobre la calidad del servicio en Teletón",
+        "Establecimiento de compromisos y acciones tácticas para mejorar la calidad del servicio basadas en hallazgos estadísticos",
+        "Cumplimiento eficaz de funciones de análisis y propuesta de mejoras mediante trabajo en equipo",
+        "Logro consistente de los objetivos planteados en el análisis organizacional"
+      ],
+      "fortalezas": [
+        "Excelente integración de análisis cuantitativo con propuestas de acción concretas",
+        "Trabajo coordinado evidenciado en la coherencia del informe final",
+        "Capacidad para identificar áreas de oportunidad clave basadas en datos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se distribuyeron las tareas específicas entre los miembros del equipo",
+        "Sería valioso mostrar más evidencias del proceso colaborativo (reuniones, discusiones, iteraciones)"
+      ],
+      "retroalimentacion": "El equipo demostró un sólido trabajo colaborativo al integrar diversos análisis estadísticos en propuestas de acción coherentes. Para alcanzar el nivel Destacado, podrían documentar más explícitamente su proceso de colaboración y toma de decisiones conjuntas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El análisis demuestra un profundo respeto por la dignidad de los beneficiarios de Teletón, destacando su vulnerabilidad económica y la importancia de su inclusión social.",
+        "El trabajo propone soluciones constructivas y solidarias para mejorar la calidad del servicio hacia los donadores, lo que indirectamente beneficia a los beneficiarios finales.",
+        "El informe alinea claramente la labor de Teletón con los Objetivos de Desarrollo Sostenible (ODS), mostrando un compromiso con la salud, la reducción de desigualdades y la justicia social.",
+        "Se evidencian acciones tácticas específicas para fortalecer la confiabilidad y empatía hacia los donadores, lo que refleja sensibilidad social y compromiso comunitario."
+      ],
+      "fortalezas": [
+        "El estudiante muestra una comprensión profunda de la problemática social que atiende Teletón y su impacto en la dignidad humana.",
+        "Las propuestas de mejora están bien fundamentadas en datos estadísticos y demuestran un enfoque ético y responsable hacia los donadores y beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más testimonios o casos específicos de beneficiarios para reforzar el impacto social de las soluciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las soluciones propuestas son constructivas, solidarias y están bien fundamentadas en datos. Continúa desarrollando tu sensibilidad social y compromiso comunitario.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 74.0,
+  "nivel_final": "Básico"
+}

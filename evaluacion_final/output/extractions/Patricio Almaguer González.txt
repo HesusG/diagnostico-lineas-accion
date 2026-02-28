@@ -1,0 +1,653 @@
+--- Página 1 ---
+Evidencia 2a parte: Medición de la Calidad en el Servicio: Acciones Estratégicas e
+Impacto Social.
+Patricio Almaguer A01286908
+25 – Nov - 2025
+Diagnostico Para Lineas de Accion
+Profesora
+Dra. Beatriz Ochoa Ramírez
+
+--- Página 2 ---
+Índice
+1. Resumen ejecutivo
+2. Contexto (social, económico, político y ambiental)
+3. Metodología
+4. Resultados descriptivos
+5. Prueba(s) de hipótesis
+6. Análisis por áreas / segmentos
+7. Regresión lineal y correlaciones
+8. Hallazgos principales y recomendaciones tácticas
+9. Conclusión
+10. Anexos
+
+--- Página 3 ---
+1. Resumen ejecutivo
+Se analizaron 274 encuestas de benefactores aplicadas a lo largo de diferentes giros y estados.
+La satisfacción promedio es 7.73/10 (desviación estándar ≈ 0.85), nivel aceptable, pero menor al
+estándar organizacional de excelencia (≥ 8/10). La prueba t (t = -5.249, p ≈ 1.54e-7) confirma que
+la media es significativamente menor al estándar.
+El análisis por segmentos (giro_empresa) muestra diferencias leves, aunque no significativas
+(ANOVA p ≈ 0.061). Se detecta una correlación moderada positiva (r ≈ 0.50) entre el desempeño
+percibido y la satisfacción general. El ítem más crítico identificado fue la rapidez de respuesta.
+Se proponen tres líneas de acción prioritarias: (1) programa de mejora en rapidez de respuesta, (2)
+dashboard operativo mensual con alertas, y (3) fortalecimiento del enfoque centrado en la persona
+para mejorar trato digno, claridad y empatía.
+2. Contexto
+A) Problemática que atiende la organización
+La Fundación Teletón atiende la discapacidad infantil, rehabilitación física y neurológica, e
+inclusión social. El acceso a servicios de rehabilitación en México suele ser limitado, lento y
+desigual, afectando a miles de familias con recursos restringidos.
+B) Relevancia en el país
+Más de 20 millones de personas viven con alguna discapacidad en México. La desigualdad
+territorial, esperas prolongadas y escasez de especialistas hacen necesaria la intervención de
+instituciones como Teletón, en una ocasión tomo la atención de la ONU que una organización
+privada tenía que tomar la iniciativa de atender esta problemática ya que el gobierno no tomaba la
+acción necesaria ni debida, y criticaron al gobierno de ese momento por eso.
+C) Relevancia de la labor de la organización
+Teletón complementa al sistema público mediante servicios especializados, equipamiento
+adaptativo, terapia integral y un modelo centrado en la persona.
+D) Características de los beneficiarios
+Los beneficiarios son principalmente niños y jóvenes con discapacidades físicas, neuromotoras o
+múltiples, provenientes de contextos de bajos y medianos ingresos.
+E) Cantidad de beneficiarios
+Teletón atiende más de 27,000 usuarios al año en sus CRIT, servicios de inclusión, autismo y
+cáncer infantil.
+F) Argumento ético y ODS
+Teletón se fundamenta en dignidad, inclusión y justicia social. Aporta al ODS 3, ODS 4, ODS 10
+y ODS 16 mediante rehabilitación, inclusión educativa, reducción de desigualdades y
+fortalecimiento institucional.
+
+--- Página 4 ---
+G) Problemáticas internas para llevar a cabo la labor
+Teletón enfrenta retos de recursos, demanda creciente, necesidad de capacitación constante,
+variabilidad en tiempos de respuesta y dependencia de donaciones.
+H) Aportación de productos realizados en este bloque
+El análisis de encuestas, dashboards y estadística permite identificar brechas, priorizar recursos y
+sustentar decisiones orientadas a la calidad del servicio.
+I) Cómo contribuye el reto a mejorar el servicio
+El reto proporciona métricas claras de desempeño que permiten ajustar procesos y mejorar
+tiempos de atención.
+J) Aporte a derechos humanos y dignidad
+El análisis refuerza el enfoque de derechos humanos al mostrar cómo la rapidez de respuesta, la
+claridad en la información y el trato recibido impactan directamente la dignidad y la experiencia
+del beneficiario. Al identificar estas brechas, la organización puede mejorar procesos para
+asegurar una atención más accesible, clara y respetuosa.
+K) Contribución al ODS 16
+El estudio aporta al ODS 16 al promover transparencia y decisiones basadas en datos. Al
+convertir la percepción de los usuarios en indicadores medibles, fortalece procesos internos,
+mejora la calidad del servicio y contribuye a una institución más confiable, responsable y
+efectiva.
+3. Metodología
+El análisis se realizó utilizando la base Teleton Base de datos.xlsx, que contiene 274
+encuestas recolectadas por muestreo por conveniencia. Se trabajo con la base y fue
+adaptada para que se pudiera analizar mas facilmente, los cambios mas notorios fueron
+con variables de desempeño del promotor (prom_), calidad del servicio institucional (ft_),
+satisfacción general, recomendación y datos contextuales como años como benefactor,
+giro y puesto. La limpieza incluyó estandarización de datos, validación de rangos y
+eliminación lista. Se aplicaron técnicas de estadística descriptiva y pruebas inferenciales
+como t-test, ANOVA, correlaciones de Pearson y Spearman, además de una regresión
+lineal OLS. En este estudio no se utilizó la prueba de Chi-cuadrada debido a que la
+variable principal que fue analizada, satisfacción_general, es numérica continua y no
+categórica. La prueba χ² se aplica únicamente cuando se analizan relaciones entre
+variables categóricas o distribuciones de frecuencias, lo cual no corresponde al objetivo
+del análisis. Todo el procesamiento se realizó en Python usando pandas, scipy y
+statsmodels.
+
+--- Página 5 ---
+4. Resultados descriptivos
+Satisfacción general: media = 7.73, mediana = 8, sd = 0.85.
+Recomendación: media ≈ 7.80.
+Ítems prom_: entre 3.6 y 4.4.
+Ítems ft_: entre 3.7 y 4.3.
+Visualizaciones generadas:
+– Histograma de satisfacción general
+– Boxplot por giro
+– Dispersión entre índice de calidad y satisfacción
+Las tablas completas se incluyen en anexos.
+5. Prueba(s) de hipótesis
+H0: μ ≥ 8
+H1: μ < 8
+Prueba t: t = -5.249, p ≈ 1.54e-7
+Wilcoxon: p ≈ 3.60e-7
+Conclusión: la satisfacción es significativamente menor al estándar.
+6. Análisis por áreas / segmentos
+ANOVA por giro: F = 2.143, p ≈ 0.061
+Kruskal–Wallis: H = 10.965, p ≈ 0.052
+No hay diferencias concluyentes, pero sí patrones que sugieren variabilidad operativa entre
+sectores.
+7. Regresión lineal y correlaciones
+La satisfacción general se explicó mediante un modelo OLS:
+Variables con mayor peso:
+– ft_atencion_personalizada
+– ft_entendimiento_preocupacion
+– prom_calidad_servicio
+El modelo cumplió supuestos de multicolinealidad y heterocedasticidad.
+Las correlaciones más fuertes tuvieron r ≥ 0.40.
+8. Hallazgos principales y recomendaciones tácticas
+Las correlaciones y la regresión lineal muestran que la atención personalizada, el entendimiento
+de las preocupaciones del benefactor y la calidad del servicio del promotor son los factores que
+
+--- Página 6 ---
+más influyen en la satisfacción. En contraste, la rapidez de respuesta aparece consistentemente
+como un punto crítico, reflejando una oportunidad clara de mejora en los tiempos de atención y
+seguimiento.
+A partir de estos hallazgos se proponen tres recomendaciones tácticas prioritarias:
+Programa intensivo de mejora en rapidez de respuesta
+Objetivo: Reducir los tiempos de atención y seguimiento a benefactores.
+Acciones: Definir tiempos objetivo por tipo de solicitud, establecer protocolos de escalamiento y
+capacitar al personal en manejo de agenda y priorización de casos.
+Indicador sugerido: Tiempo promedio de respuesta (meta inicial: reducción del 20 % en tres
+meses).
+Implementación de un dashboard operativo mensual con alertas
+Objetivo: Monitorear de forma continua la calidad del servicio y anticipar desviaciones.
+Acciones: Diseñar un tablero con KPIs clave (satisfacción, rapidez de respuesta, atención
+personalizada, recomendación), desagregados por CRIT, giro y promotor. Configurar alertas
+cuando un indicador se aleje del estándar.
+Indicador sugerido: Porcentaje de indicadores dentro del rango objetivo y número de alertas
+atendidas por periodo.
+Fortalecimiento del enfoque centrado en la persona y trato digno
+Objetivo: Incrementar la percepción de cercanía, empatía y claridad en la comunicación.
+Acciones: Desarrollar talleres breves de trato digno, escucha activa y comunicación clara;
+elaborar guías de lenguaje inclusivo y material informativo sencillo para benefactores.
+Indicador sugerido: Aumento en los promedios de los ítems relacionados con atención
+personalizada y entendimiento de preocupaciones, así como en la recomendación de la
+Fundación.
+9. Conclusión
+El estudio evidencia que Fundación Teletón mantiene una percepción globalmente
+positiva por parte de sus benefactores; sin embargo, también revela una brecha
+importante respecto al estándar de excelencia fijado en 8/10. La satisfacción promedio
+por debajo del objetivo y la variabilidad entre experiencias indican que aún existen áreas
+de mejora, especialmente en la rapidez de respuesta y en la consistencia del servicio entre
+distintos segmentos de usuarios. Lejos de ser un resultado negativo, estos hallazgos
+ofrecen una oportunidad clara para orientar estratégicamente los esfuerzos de mejora
+institucional.
+
+--- Página 7 ---
+Las pruebas estadísticas, la regresión y el análisis descriptivo permiten concluir que la
+calidad en el servicio no depende de un solo factor, sino de la combinación entre trato
+personalizado, claridad en la información, capacidad de respuesta y empatía del personal.
+En la medida en que la organización fortalezca estos elementos, estará contribuyendo no
+solo a incrementar la satisfacción, sino también a consolidar su papel como institución
+comprometida con la inclusión, la justicia social y la protección de la dignidad de las
+personas con discapacidad y sus familias. Finalmente, el uso sistemático de datos para la
+toma de decisiones fortalece el cumplimiento del ODS 16, al promover prácticas de
+transparencia, rendición de cuentas y mejora continua que consolidan a Teletón como una
+organización más sólida, confiable y orientada al bienestar de sus usuarios
+10. Anexos
+Dashboard:
+Satisfaccion Promedio
+7.73
+0.00 10
+Desempeño Global
+3.60
+0.00 5
+Recomendacion Promedio
+8.43
+0.00 10
+Calidad del servicio
+©©22002255 TToommTToomm©©22002255 OOSSMMFFeeeeddbbaacckk
+puesto_responsable Asociación civil Educación Empresa Gubernamental Persona física Teletón Total
+3.63
+Asistente 1 13 3 3 2 7 29
+Coordinador 6 51 11 8 2 2 80 0.00 5
+Director 4 30 2 7 43
+Dueño 3 6 4 4 17
+Gerente 1 12 2 1 16 4.44 274
+Persona física 3 10 2 3 37 22 77 Aguascalientes
+Supervisor 5 7 12
+Total 17 116 41 21 47 32 274 Años Promedio como Benefactor Numero de Encuestas
+
+--- Página 8 ---
+• Código Python utilizado
+# ============================================
+# Análisis de encuestas Teletón - Python
+# ============================================
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import stats
+import statsmodels.api as sm
+from statsmodels.stats.outliers_influence import
+variance_inflation_factor
+from statsmodels.stats.diagnostic import het_breuschpagan
+from google.colab import files
+import os
+# --------------------------------------------
+# 1. Carga de datos y preparación inicial
+# --------------------------------------------
+def load_and_prepare_data(file_path):
+df = pd.read_excel(file_path)
+df.columns = df.columns.str.strip()
+prom_vars = [c for c in df.columns if
+c.lower().startswith("prom_")]
+ft_vars = [c for c in df.columns if
+c.lower().startswith("ft_")]
+
+--- Página 9 ---
+other_numeric = ["satisfaccion_general", "recomendar_ft",
+"años_benefactor"]
+other_numeric = [c for c in other_numeric if c in df.columns]
+return df, prom_vars, ft_vars, other_numeric
+# --------------------------------------------
+# 2. Creación de índice de calidad
+# --------------------------------------------
+def create_quality_index(df, prom_vars, ft_vars):
+items_for_index = prom_vars + ft_vars
+df["indice_calidad"] = df[items_for_index].mean(axis=1)
+return df
+# --------------------------------------------
+# 3. Estadísticos descriptivos
+# --------------------------------------------
+def calculate_descriptive_stats(df, prom_vars, ft_vars,
+other_numeric):
+cols_for_stats = prom_vars + ft_vars + other_numeric +
+["indice_calidad"]
+stats_table = []
+for c in cols_for_stats:
+s = df[c].dropna()
+if s.empty:
+continue
+stats_table.append({
+"variable": c,
+"n": s.count(),
+"mean": s.mean(),
+"median": s.median(),
+"std": s.std(ddof=1),
+"min": s.min(),
+"max": s.max()
+})
+stats_df = pd.DataFrame(stats_table)
+print("Estadísticos descriptivos:")
+print(stats_df)
+# --------------------------------------------
+# 4. Prueba de hipótesis (t-test y Wilcoxon)
+# --------------------------------------------
+def perform_hypothesis_tests(df):
+sat = df["satisfaccion_general"].dropna()
+t_stat, p_val = stats.ttest_1samp(sat, popmean=8,
+alternative="less")
+
+--- Página 10 ---
+print("\nPrueba t una muestra vs 8:")
+print("t =", t_stat, "p =", p_val)
+diffs = sat - 8
+diffs = diffs[diffs != 0]
+if len(diffs) >= 10:
+w_stat, w_p = stats.wilcoxon(diffs, alternative="less",
+zero_method="wilcox", mode="approx")
+print("\nPrueba Wilcoxon vs 8:")
+print("W =", w_stat, "p =", w_p)
+# --------------------------------------------
+# 5. ANOVA y Kruskal–Wallis por giro_empresa
+# --------------------------------------------
+def perform_anova_kruskal(df):
+if "giro_empresa" in df.columns:
+grupos = []
+nombres = []
+for nombre, g in df.groupby("giro_empresa"):
+vals = g["satisfaccion_general"].dropna().values
+if len(vals) > 0:
+grupos.append(vals)
+nombres.append(nombre)
+if len(grupos) >= 2:
+f_stat, p_anova = stats.f_oneway(*grupos)
+print("\nANOVA por giro_empresa:")
+print("F =", f_stat, "p =", p_anova)
+h_stat, p_kw = stats.kruskal(*grupos)
+print("\nKruskal–Wallis por giro_empresa:")
+print("H =", h_stat, "p =", p_kw)
+# --------------------------------------------
+# 6. Correlaciones con satisfaccion_general
+# --------------------------------------------
+def calculate_correlations(df, prom_vars, ft_vars):
+corr_table = []
+for c in prom_vars + ft_vars + ["indice_calidad"]:
+pair = df[["satisfaccion_general", c]].dropna()
+if len(pair) >= 5:
+r_p, p_p = stats.pearsonr(pair["satisfaccion_general"],
+pair[c])
+r_s, p_s = stats.spearmanr(pair["satisfaccion_general"],
+pair[c])
+
+--- Página 11 ---
+corr_table.append({
+"variable": c,
+"pearson_r": r_p,
+"pearson_p": p_p,
+"spearman_r": r_s,
+"spearman_p": p_s
+})
+corr_df = pd.DataFrame(corr_table).sort_values("pearson_r",
+ascending=False)
+print("\nCorrelaciones con satisfaccion_general:")
+print(corr_df)
+# --------------------------------------------
+# 7. Regresión lineal OLS
+# --------------------------------------------
+def run_ols_regression(df, prom_vars, ft_vars):
+predictors = prom_vars + ft_vars + ["años_benefactor"]
+predictors = [p for p in predictors if p in df.columns]
+model_df = df[["satisfaccion_general"] + predictors].dropna()
+if len(model_df) >= 20:
+X = model_df[predictors]
+X = sm.add_constant(X)
+y = model_df["satisfaccion_general"]
+model = sm.OLS(y, X).fit()
+print("\nResumen modelo OLS:")
+print(model.summary())
+vif_data = []
+for i, col in enumerate(X.columns):
+vif_data.append({"variable": col, "VIF":
+variance_inflation_factor(X.values, i)})
+vif_df = pd.DataFrame(vif_data)
+print("\nVIF:")
+print(vif_df)
+bp_test = het_breuschpagan(model.resid, model.model.exog)
+print("\nBreusch–Pagan:")
+print("LM stat:", bp_test[0], "p:", bp_test[1])
+# ============================================
+# Ejecución del análisis
+# ============================================
+
+--- Página 12 ---
+if __name__ == "__main__":
+file_name = "Teleton Base de datos .xlsx" # Corrected file name
+with space
+df = None
+try:
+df, prom_vars, ft_vars, other_numeric =
+load_and_prepare_data(file_name)
+except FileNotFoundError:
+print(f"Error: El archivo '{file_name}' no se encontró en el
+entorno de Colab. Por favor, sube el archivo.")
+uploaded = files.upload()
+if uploaded:
+uploaded_file_name = list(uploaded.keys())[0]
+print(f"Archivo '{uploaded_file_name}' subido con éxito.
+Usando este archivo para el análisis.")
+file_name = uploaded_file_name # Use the name of the
+uploaded file
+df, prom_vars, ft_vars, other_numeric =
+load_and_prepare_data(file_name)
+else:
+print("No se subió ningún archivo. El análisis no puede
+continuar.")
+# Optionally, you could raise an error or exit here if
+the file is strictly required.
+# For now, we'll let the script gracefully stop if df is
+None.
+if df is not None:
+df = create_quality_index(df, prom_vars, ft_vars)
+calculate_descriptive_stats(df, prom_vars, ft_vars,
+other_numeric)
+perform_hypothesis_tests(df)
+perform_anova_kruskal(df)
+calculate_correlations(df, prom_vars, ft_vars)
+run_ols_regression(df, prom_vars, ft_vars)
+generate_plots(df)
+• Gráficas generadas
+• Diccionario de datos
+
+--- Página 13 ---
+Tablas de Estadísticos Descriptivos
+variable n mean me std min max
+dia
+n
+prom_ 2 3.79562043 4.0 0.84851679 1.0 5.0
+apariencia_comporta 7 7956204 36922813
+miento 4
+prom_claridad_docu 2 3.57664233 4.0 0.70811753 1.0 5.0
+mentacion 7 5766423 47612022
+4
+prom_cumplimiento 2 3.55839416 4.0 0.69420862 1.0 5.0
+_tiempos 7 05839415 63956343
+4
+prom_conocimiento_ 2 3.63503649 4.0 0.74495531 1.0 5.0
+competencia 7 63503647 64932526
+4
+prom_info_primer_c 2 3.63138686 4.0 0.64555417 1.0 5.0
+ontacto 7 13138687 5970117
+4
+prom_respuesta_rap 2 3.59854014 4.0 0.66805555 2.0 5.0
+ida 7 59854014 70610316
+4
+prom_disposicion_ay 2 3.58394160 4.0 0.77168134 1.0 5.0
+uda 7 58394162 55965709
+4
+prom_actitud_compr 2 3.99635036 4.0 0.66574024 1.0 5.0
+ensiva 7 49635035 55890254
+4
+prom_tiempo_enten 2 3.97080291 4.0 0.67331780 2.0 5.0
+der_necesidades 7 97080292 1722178
+4
+prom_calidad_servici 2 3.63138686 4.0 0.73571891 1.0 5.0
+o 7 13138687 28020167
+4
+ft_flexibilidad 2 3.62408759 4.0 0.71683324 1.0 5.0
+
+--- Página 14 ---
+7 1240876 21571811
+4
+ft_info_uso_recursos 2 7.94525547 8.0 0.88986732 4.0 10.0
+7 4452555 37666667
+4
+ft_entendimiento_pr 2 3.95620437 4.0 0.71476949 2.0 5.0
+eocupacion 7 95620436 47348129
+4
+ft_atencion_personal 2 3.70072992 4.0 0.66149972 1.0 5.0
+izada 7 70072993 24771582
+4
+satisfaccion_general 2 7.72992700 8.0 0.85166202 6.0 10.0
+7 72992705 20373541
+4
+recomendar_ft 2 8.43065693 8.0 0.60274853 6.0 10.0
+7 4306569 29411663
+4
+años_benefactor 2 4.44160583 2.0 4.91002028 1.0 25.0
+7 94160585 950347
+4
+indice_calidad 2 4.01459854 4.0 0.39019134 2.14285714 5.14285714
+7 0145985 41522133 2857143 2857143
+4
+Estadísticos descriptivos:
+variable n mean median std
+\
+0 prom_ apariencia_comportamiento 274 3.795620 4.0 0.848517
+1 prom_claridad_documentacion 274 3.576642 4.0 0.708118
+2 prom_cumplimiento_tiempos 274 3.558394 4.0 0.694209
+3 prom_conocimiento_competencia 274 3.635036 4.0 0.744955
+4 prom_info_primer_contacto 274 3.631387 4.0 0.645554
+5 prom_respuesta_rapida 274 3.598540 4.0 0.668056
+6 prom_disposicion_ayuda 274 3.583942 4.0 0.771681
+7 prom_actitud_comprensiva 274 3.996350 4.0 0.665740
+8 prom_tiempo_entender_necesidades 274 3.970803 4.0 0.673318
+9 prom_calidad_servicio 274 3.631387 4.0 0.735719
+10 ft_flexibilidad 274 3.624088 4.0 0.716833
+11 ft_info_uso_recursos 274 7.945255 8.0 0.889867
+12 ft_entendimiento_preocupacion 274 3.956204 4.0 0.714769
+13 ft_atencion_personalizada 274 3.700730 4.0 0.661500
+14 satisfaccion_general 274 7.729927 8.0 0.851662
+15 recomendar_ft 274 8.430657 8.0 0.602749
+16 años_benefactor 274 4.441606 2.0 4.910020
+
+--- Página 15 ---
+17 indice_calidad 274 4.014599 4.0 0.390191
+min max
+0 1.000000 5.000000
+1 1.000000 5.000000
+2 1.000000 5.000000
+3 1.000000 5.000000
+4 1.000000 5.000000
+5 2.000000 5.000000
+6 1.000000 5.000000
+7 1.000000 5.000000
+8 2.000000 5.000000
+9 1.000000 5.000000
+10 1.000000 5.000000
+11 4.000000 10.000000
+12 2.000000 5.000000
+13 1.000000 5.000000
+14 6.000000 10.000000
+15 6.000000 10.000000
+16 1.000000 25.000000
+17 2.142857 5.142857
+Prueba t una muestra vs 8:
+t = -5.249152099032103 p = 1.5371393981251277e-07
+Prueba Wilcoxon vs 8:
+W = 3177.5 p = 3.607933334708122e-07
+ANOVA por giro_empresa:
+F = 2.142504655495092 p = 0.060780018200122916
+Kruskal–Wallis por giro_empresa:
+H = 10.965236089047504 p = 0.05207362274800469
+Correlaciones con satisfaccion_general:
+variable pearson_r pearson_p
+spearman_r \
+14 indice_calidad 0.601628 2.300384e-28
+0.594224
+9 prom_calidad_servicio 0.577132 9.858561e-26
+0.573164
+13 ft_atencion_personalizada 0.447682 6.553248e-15
+0.440082
+11 ft_info_uso_recursos 0.420251 3.766444e-13
+0.470659
+3 prom_conocimiento_competencia 0.392556 1.575417e-11
+0.351941
+10 ft_flexibilidad 0.373095 1.777550e-10
+0.363783
+4 prom_info_primer_contacto 0.351265 2.238170e-09
+0.348783
+2 prom_cumplimiento_tiempos 0.342745 5.715021e-09
+0.283179
+12 ft_entendimiento_preocupacion 0.305435 2.516425e-07
+0.279656
+6 prom_disposicion_ayuda 0.285431 1.559777e-06
+0.255428
+
+--- Página 16 ---
+5 prom_respuesta_rapida 0.285156 1.597856e-06
+0.250852
+7 prom_actitud_comprensiva 0.243754 4.541015e-05
+0.218467
+8 prom_tiempo_entender_necesidades 0.228934 1.317792e-04
+0.173360
+1 prom_claridad_documentacion 0.168073 5.282973e-03
+0.144590
+0 prom_ apariencia_comportamiento 0.121023 4.533862e-02
+0.113565
+spearman_p
+14 1.517365e-27
+9 2.509238e-25
+13 2.088907e-14
+11 1.643721e-16
+3 2.075243e-09
+10 5.361002e-10
+4 2.949527e-09
+2 1.898948e-06
+12 2.574696e-06
+6 1.869228e-05
+5 2.660787e-05
+7 2.685951e-04
+8 3.997886e-03
+1 1.661817e-02
+0 6.047382e-02
+Resumen modelo OLS:
+OLS Regression Results
+=======================================================================
+=========
+Dep. Variable: satisfaccion_general R-squared:
+0.458
+Model: OLS Adj. R-squared:
+0.426
+Method: Least Squares F-statistic:
+14.53
+Date: Tue, 25 Nov 2025 Prob (F-statistic):
+1.08e-26
+Time: 07:03:38 Log-Likelihood:
+-260.38
+No. Observations: 274 AIC:
+552.8
+Df Residuals: 258 BIC:
+610.6
+Df Model: 15
+Covariance Type: nonrobust
+=======================================================================
+=============================
+coef std err t
+P>|t| [0.025 0.975]
+-----------------------------------------------------------------------
+-----------------------------
+const 2.6674 0.500 5.330
+0.000 1.682 3.653
+
+--- Página 17 ---
+prom_ apariencia_comportamiento -0.0463 0.049 -0.954
+0.341 -0.142 0.049
+prom_claridad_documentacion -0.0424 0.061 -0.694
+0.488 -0.163 0.078
+prom_cumplimiento_tiempos -0.0095 0.072 -0.131
+0.896 -0.152 0.133
+prom_conocimiento_competencia 0.1517 0.067 2.268
+0.024 0.020 0.283
+prom_info_primer_contacto 0.1443 0.073 1.982
+0.049 0.001 0.288
+prom_respuesta_rapida 0.1385 0.064 2.175
+0.031 0.013 0.264
+prom_disposicion_ayuda 0.0164 0.062 0.263
+0.792 -0.106 0.139
+prom_actitud_comprensiva -0.0046 0.066 -0.069
+0.945 -0.136 0.126
+prom_tiempo_entender_necesidades 0.0365 0.065 0.560
+0.576 -0.092 0.165
+prom_calidad_servicio 0.3628 0.077 4.696
+0.000 0.211 0.515
+ft_flexibilidad -0.0872 0.073 -1.188
+0.236 -0.232 0.057
+ft_info_uso_recursos 0.1742 0.050 3.454
+0.001 0.075 0.273
+ft_entendimiento_preocupacion 0.0960 0.062 1.555
+0.121 -0.026 0.218
+ft_atencion_personalizada 0.2287 0.072 3.189
+0.002 0.087 0.370
+años_benefactor 0.0119 0.008 1.448
+0.149 -0.004 0.028
+=======================================================================
+=======
+Omnibus: 10.138 Durbin-Watson:
+1.990
+Prob(Omnibus): 0.006 Jarque-Bera (JB):
+11.040
+Skew: 0.375 Prob(JB):
+0.00401
+Kurtosis: 3.636 Cond. No.
+211.
+=======================================================================
+=======
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is
+correctly specified.
+VIF:
+variable VIF
+0 const 164.987601
+1 prom_ apariencia_comportamiento 1.112715
+2 prom_claridad_documentacion 1.227556
+3 prom_cumplimiento_tiempos 1.660643
+4 prom_conocimiento_competencia 1.629989
+5 prom_info_primer_contacto 1.449575
+6 prom_respuesta_rapida 1.188168
+7 prom_disposicion_ayuda 1.510107
+
+--- Página 18 ---
+8 prom_actitud_comprensiva 1.285493
+9 prom_tiempo_entender_necesidades 1.265797
+10 prom_calidad_servicio 2.121141
+11 ft_flexibilidad 1.819421
+12 ft_info_uso_recursos 1.321284
+13 ft_entendimiento_preocupacion 1.278949
+14 ft_atencion_personalizada 1.476320
+15 años_benefactor 1.060538
+Gráficas Generadas
+Histograma de Satisfacción General
+Boxplot por Giro de Empresa
+
+--- Página 19 ---
+Dispersión Índice de Calidad vs Satisfacción

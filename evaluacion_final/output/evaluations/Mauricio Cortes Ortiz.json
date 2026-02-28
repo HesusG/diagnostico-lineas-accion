@@ -1,0 +1,387 @@
+{
+  "estudiante": "Mauricio Cortes Ortiz",
+  "fecha": "2025-12-02T20:02:53.794436",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (empatía, satisfacción, capacidad de respuesta, atención personalizada).",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas (gráficos de barras, pastel, árbol, medidas de tendencia central y dispersión).",
+        "Muestra de manera adecuada la información relevante contenida en las variables (distribución por estado, correlación entre empatía y satisfacción).",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (prueba Chi cuadrada, diferencias en calidad de servicio entre segmentos)."
+      ],
+      "fortalezas": [
+        "Identificación clara de las variables clave.",
+        "Uso adecuado de herramientas tecnológicas para visualización de datos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de las medidas de tendencia central y dispersión para una comprensión más completa de los datos.",
+        "Mejorar la presentación visual de los gráficos para hacerlos más atractivos y fáciles de interpretar."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de las herramientas de estadística descriptiva y una interpretación adecuada de los datos. Para alcanzar el nivel destacado, considera mejorar la presentación visual de los gráficos y profundizar en el análisis de las medidas estadísticas."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como gráficos de barras, pastel y árbol para representar los datos de satisfacción y empatía.",
+        "Identifica con precisión los niveles de medición de las variables (Likert del 1 al 5 y del 1 al 10).",
+        "Selecciona el tipo de gráfico apropiado para cada variable (barras para recuentos, pastel para porcentajes, árbol para segmentación).",
+        "Interpreta de manera congruente la información que muestran los gráficos, identificando áreas de oportunidad y fortalezas."
+      ],
+      "fortalezas": [
+        "Uso adecuado de diferentes tipos de gráficos para representar diversos aspectos de los datos.",
+        "Interpretación clara y congruente de los resultados mostrados en los gráficos."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la claridad y atractivo visual de los gráficos para hacerlos más impactantes.",
+        "Incluir más detalles sobre cómo se generaron los gráficos dinámicos (herramientas utilizadas, proceso de creación)."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y una interpretación adecuada de los datos. Para alcanzar el nivel destacado, considera mejorar el diseño visual de los gráficos y detallar más el proceso de creación."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, como se evidencia en el análisis detallado de las variables de empatía y satisfacción.",
+        "Identifica posibles riesgos y oportunidades relevantes para el negocio, como la dependencia de financiamiento y la percepción pública.",
+        "Propone de manera acertada líneas de acción estratégicas, como mejorar la capacidad de respuesta y la atención personalizada para aumentar la satisfacción de los benefactores."
+      ],
+      "fortalezas": [
+        "Uso efectivo de herramientas de análisis para interpretar datos y generar insights relevantes.",
+        "Identificación clara de áreas de oportunidad y fortalezas en el servicio ofrecido por Teletón.",
+        "Propuestas de acción estratégicas basadas en datos y análisis estadísticos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de segmentos específicos de benefactores para acciones más personalizadas.",
+        "Incluir más herramientas de visualización de datos para presentar los insights de manera más impactante."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Continúa profundizando en el análisis segmentado para maximizar el impacto de tus recomendaciones."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera un análisis detallado del contexto PESTEL de Teletón, identificando problemáticas clave en el entorno",
+        "Presenta un dashboard con análisis cuantitativo de percepción de donantes, identificando drivers como transparencia y capacidad de respuesta",
+        "Incluye recomendaciones concretas para capacitación de promotores y mejoras operativas basadas en datos",
+        "Realiza pruebas estadísticas (Chi-cuadrada) para validar correlaciones entre variables clave como empatía y satisfacción"
+      ],
+      "fortalezas": [
+        "Análisis comprehensivo del contexto organizacional",
+        "Uso de herramientas de visualización de datos para presentar insights",
+        "Validación estadística de las relaciones entre variables clave",
+        "Recomendaciones prácticas basadas en hallazgos cuantitativos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el desarrollo de prototipos concretos de soluciones innovadoras",
+        "Falta mayor evidencia de implementación o pilotaje de las recomendaciones propuestas",
+        "Podría explorar más alternativas innovadoras más allá de mejoras operativas"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido análisis del contexto y generación de insights basados en datos. Para alcanzar el nivel Destacado, sería valioso desarrollar prototipos más concretos de soluciones innovadoras y mostrar evidencia de su validación en contextos reales. El análisis estadístico es robusto y aporta validez a los hallazgos."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo, como el análisis de satisfacción y empatía de los benefactores.",
+        "Establece compromisos y acciones adecuadas para mejorar la relación con los benefactores, como protocolos de respuesta y seguimiento.",
+        "Da cuenta del cumplimiento de funciones de negociación con benefactores, evidenciado en la segmentación y análisis por tipo de institución.",
+        "Logra consistentemente los objetivos planteados, como identificar áreas de mejora y fortalezas en la relación con benefactores."
+      ],
+      "fortalezas": [
+        "Análisis detallado y cuantitativo de la percepción de los donantes.",
+        "Identificación clara de drivers clave como transparencia y capacidad de respuesta.",
+        "Uso de herramientas estadísticas (Chi-cuadrada) para validar correlaciones entre variables."
+      ],
+      "areas_mejora": [
+        "Profundizar en estrategias para aumentar la tasa de conversión de benefactores inactivos.",
+        "Mejorar la capacidad de respuesta y atención personalizada en segmentos con evaluaciones bajas.",
+        "Incluir más evidencias cualitativas para complementar los datos cuantitativos."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido análisis colaborativo con resultados concretos y acciones propuestas. Para alcanzar el nivel Destacado, se sugiere enfocarse en implementar estrategias más detalladas para las áreas de mejora identificadas y ampliar la evidencia cualitativa."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias al analizar y proponer mejoras en la relación con benefactores para fortalecer la labor de Teletón.",
+        "Demuestra sensibilidad social al abordar problemáticas de acceso a rehabilitación y derechos de personas con discapacidad.",
+        "Muestra compromiso comunitario al analizar y proponer mejoras en la relación con instituciones benefactoras para impactar positivamente en la comunidad.",
+        "Respeta la dignidad de las personas al enfocarse en mejorar la calidad de servicio y transparencia para beneficiarios y donantes."
+      ],
+      "fortalezas": [
+        "Análisis profundo y basado en datos de las necesidades de los benefactores y áreas de mejora.",
+        "Conexión clara entre las mejoras propuestas y su impacto en los derechos humanos y dignidad de los beneficiarios.",
+        "Integración de los Objetivos de Desarrollo Sostenible (ODS) en el análisis y propuestas."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para abordar las críticas sobre el modelo 'caridad vs derecho'.",
+        "Podría incluir más voces directas de los beneficiarios en el análisis para enriquecer la perspectiva."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso sólido con la ética y responsabilidad social. Tu análisis y propuestas muestran una comprensión profunda del impacto social de Teletón y cómo mejorar su labor. Continúa integrando perspectivas diversas para enriquecer aún más tus propuestas."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (empatía, satisfacción, capacidad de respuesta, atención personalizada).",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas (gráficos de barras, pastel, árbol, medidas de tendencia central y dispersión).",
+        "Muestra de manera adecuada la información relevante contenida en las variables (segmentación por tipo de donante, estado, etc.).",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (correlación entre empatía y satisfacción, diferencias en calidad de servicio)."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para visualización de datos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática de Teletón.",
+        "Identificación clara de áreas de oportunidad y fortalezas en los datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de las medidas de tendencia central y dispersión para enriquecer la interpretación.",
+        "Mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en el contexto de Teletón. Para alcanzar el nivel destacado, considera enriquecer el análisis con más detalle en las medidas estadísticas y mejorar la presentación visual de los gráficos."
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como gráficos de barras, pastel y árbol para representar datos de satisfacción y empatía.",
+        "Identifica con precisión los niveles de medición de las variables (Likert del 1 al 5 y del 1 al 10).",
+        "Selecciona el tipo de gráfico apropiado para cada variable (barras para recuentos, pastel para porcentajes, árbol para segmentación).",
+        "Interpreta de manera congruente la información que muestran los gráficos, identificando áreas de oportunidad y fortalezas."
+      ],
+      "fortalezas": [
+        "Uso de diversos tipos de gráficos adecuados a los datos presentados.",
+        "Interpretación clara y coherente de los insights obtenidos de los gráficos.",
+        "Identificación precisa de áreas de mejora y fortalezas basadas en los datos visualizados."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros.",
+        "Incluir más detalles sobre cómo se generaron los gráficos dinámicos (herramientas utilizadas, proceso de creación)."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y su interpretación. Para alcanzar el nivel destacado, considera mejorar el diseño visual de los gráficos y detallar más el proceso de creación."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, identificando correlaciones entre empatía y satisfacción.",
+        "Utiliza herramientas de análisis como gráficos de barras, pastel y árbol, así como pruebas estadísticas (Chi-cuadrada) para validar insights.",
+        "Identifica riesgos y oportunidades relevantes como la capacidad de respuesta y atención personalizada.",
+        "Propone líneas de acción estratégicas basadas en datos, como mejorar protocolos de seguimiento y comunicación personalizada."
+      ],
+      "fortalezas": [
+        "Análisis profundo y multidimensional de los datos.",
+        "Uso adecuado de herramientas estadísticas y visuales.",
+        "Propuestas de acción claras y basadas en evidencias."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de segmentos específicos de benefactores para acciones más personalizadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones. Sigue desarrollando tu capacidad para segmentar y personalizar recomendaciones."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Extraído de respuesta parcial"
+      ],
+      "fortalezas": [],
+      "areas_mejora": [],
+      "retroalimentacion": "```json\n{\n  \"nivel\": \"Sólido\",\n  \"puntos\": 88,\n  \"evidencias\": [\n    \"Genera prototipos de soluciones innovadoras como el dashboard y análisis cuantitativo para mejorar la relación con benefactores.\",\n    \"Valida las características de los prototipos mediante pruebas estadísticas como la Chi-cuadrada, mostrando correlación entre empatía y satisfacción.\",\n    \"Garantiza aplicabilidad efectiva en el contexto de Teletón, con recomendaciones concretas para mejorar la capacidad de respuesta y atenció",
+      "parsed_fallback": true
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos, como la identificación de áreas de oportunidad en empatía y satisfacción de los benefactores.",
+        "Establece compromisos y acciones adecuadas, como la mejora en protocolos de respuesta y seguimiento para incrementar la satisfacción de los donantes.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación y relación con benefactores, evidenciado en el análisis de satisfacción y recomendación.",
+        "Logra de manera consistente los objetivos planteados, como la identificación de correlaciones entre variables clave para la mejora del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que permite identificar claramente las áreas de mejora.",
+        "Propuestas concretas para mejorar la relación con los benefactores, como la capacitación de promotores y mejoras operativas.",
+        "Uso de herramientas estadísticas (Chi-cuadrada) para validar hipótesis y tomar decisiones informadas."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para mejorar la capacidad de respuesta y atención personalizada, más allá de la identificación del problema.",
+        "Incluir más evidencias de trabajo colaborativo en equipo, como roles asignados o procesos de toma de decisiones conjuntas."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en el análisis y propuestas para mejorar la relación con los benefactores. Para alcanzar un nivel destacado, sería valioso incluir más detalles sobre el proceso colaborativo y estrategias específicas para las áreas de mejora identificadas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias al analizar y proponer mejoras en la relación con benefactores para fortalecer la labor de Teletón.",
+        "Demuestra sensibilidad social al abordar problemáticas de acceso a rehabilitación y derechos de personas con discapacidad.",
+        "Muestra compromiso comunitario al analizar datos para mejorar la transparencia y eficacia de los servicios de Teletón.",
+        "Respeta la dignidad de las personas al enfocarse en mejorar la calidad de servicio y trato hacia usuarios y benefactores."
+      ],
+      "fortalezas": [
+        "Análisis profundo y basado en datos para identificar áreas de mejora en la atención a benefactores.",
+        "Conexión clara entre las acciones propuestas y su impacto en los derechos humanos y los ODS."
+      ],
+      "areas_mejora": [
+        "Podría incluir más testimonios directos de beneficiarios para reforzar el impacto social.",
+        "Profundizar en estrategias específicas para abordar la polarización pública mencionada."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar análisis cuantitativo con consideraciones éticas y de impacto social. Tus recomendaciones son sólidas y bien fundamentadas."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0303",
+        "nombre": "Insights y Líneas de Acción",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y multidimensional de los datos.",
+          "Uso adecuado de herramientas estadísticas y visuales.",
+          "Propuestas de acción claras y basadas en evidencias."
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y basado en datos para identificar áreas de mejora en la atención a benefactores.",
+          "Conexión clara entre las acciones propuestas y su impacto en los derechos humanos y los ODS."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (empatía, satisfacción, capacidad de respuesta, atención personalizada).",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas (gráficos de barras, pastel, árbol, medidas de tendencia central y dispersión).",
+        "Muestra de manera adecuada la información relevante contenida en las variables (segmentación por tipo de donante, estado, etc.).",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (correlación entre empatía y satisfacción, diferencias en calidad de servicio)."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas tecnológicas para visualización de datos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática de Teletón.",
+        "Identificación clara de áreas de oportunidad y fortalezas en los datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de las medidas de tendencia central y dispersión para enriquecer la interpretación.",
+        "Mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido manejo de la estadística descriptiva y su aplicación en el contexto de Teletón. Para alcanzar el nivel destacado, considera enriquecer el análisis con más detalle en las medidas estadísticas y mejorar la presentación visual de los gráficos.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Elabora gráficos dinámicos adecuados como gráficos de barras, pastel y árbol para representar datos de satisfacción y empatía.",
+        "Identifica con precisión los niveles de medición de las variables (Likert del 1 al 5 y del 1 al 10).",
+        "Selecciona el tipo de gráfico apropiado para cada variable (barras para recuentos, pastel para porcentajes, árbol para segmentación).",
+        "Interpreta de manera congruente la información que muestran los gráficos, identificando áreas de oportunidad y fortalezas."
+      ],
+      "fortalezas": [
+        "Uso de diversos tipos de gráficos adecuados a los datos presentados.",
+        "Interpretación clara y coherente de los insights obtenidos de los gráficos.",
+        "Identificación precisa de áreas de mejora y fortalezas basadas en los datos visualizados."
+      ],
+      "areas_mejora": [
+        "Podría mejorar la presentación visual de los gráficos para hacerlos más atractivos y claros.",
+        "Incluir más detalles sobre cómo se generaron los gráficos dinámicos (herramientas utilizadas, proceso de creación)."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de gráficos dinámicos y su interpretación. Para alcanzar el nivel destacado, considera mejorar el diseño visual de los gráficos y detallar más el proceso de creación.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, identificando correlaciones entre empatía y satisfacción.",
+        "Utiliza herramientas de análisis como gráficos de barras, pastel y árbol, así como pruebas estadísticas (Chi-cuadrada) para validar insights.",
+        "Identifica riesgos y oportunidades relevantes como la capacidad de respuesta y atención personalizada.",
+        "Propone líneas de acción estratégicas basadas en datos, como mejorar protocolos de seguimiento y comunicación personalizada."
+      ],
+      "fortalezas": [
+        "Análisis profundo y multidimensional de los datos.",
+        "Uso adecuado de herramientas estadísticas y visuales.",
+        "Propuestas de acción claras y basadas en evidencias."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de segmentos específicos de benefactores para acciones más personalizadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones. Sigue desarrollando tu capacidad para segmentar y personalizar recomendaciones.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Extraído de respuesta parcial"
+      ],
+      "fortalezas": [],
+      "areas_mejora": [],
+      "retroalimentacion": "```json\n{\n  \"nivel\": \"Sólido\",\n  \"puntos\": 88,\n  \"evidencias\": [\n    \"Genera prototipos de soluciones innovadoras como el dashboard y análisis cuantitativo para mejorar la relación con benefactores.\",\n    \"Valida las características de los prototipos mediante pruebas estadísticas como la Chi-cuadrada, mostrando correlación entre empatía y satisfacción.\",\n    \"Garantiza aplicabilidad efectiva en el contexto de Teletón, con recomendaciones concretas para mejorar la capacidad de respuesta y atenció",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos, como la identificación de áreas de oportunidad en empatía y satisfacción de los benefactores.",
+        "Establece compromisos y acciones adecuadas, como la mejora en protocolos de respuesta y seguimiento para incrementar la satisfacción de los donantes.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación y relación con benefactores, evidenciado en el análisis de satisfacción y recomendación.",
+        "Logra de manera consistente los objetivos planteados, como la identificación de correlaciones entre variables clave para la mejora del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que permite identificar claramente las áreas de mejora.",
+        "Propuestas concretas para mejorar la relación con los benefactores, como la capacitación de promotores y mejoras operativas.",
+        "Uso de herramientas estadísticas (Chi-cuadrada) para validar hipótesis y tomar decisiones informadas."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para mejorar la capacidad de respuesta y atención personalizada, más allá de la identificación del problema.",
+        "Incluir más evidencias de trabajo colaborativo en equipo, como roles asignados o procesos de toma de decisiones conjuntas."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido desempeño en el análisis y propuestas para mejorar la relación con los benefactores. Para alcanzar un nivel destacado, sería valioso incluir más detalles sobre el proceso colaborativo y estrategias específicas para las áreas de mejora identificadas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias al analizar y proponer mejoras en la relación con benefactores para fortalecer la labor de Teletón.",
+        "Demuestra sensibilidad social al abordar problemáticas de acceso a rehabilitación y derechos de personas con discapacidad.",
+        "Muestra compromiso comunitario al analizar datos para mejorar la transparencia y eficacia de los servicios de Teletón.",
+        "Respeta la dignidad de las personas al enfocarse en mejorar la calidad de servicio y trato hacia usuarios y benefactores."
+      ],
+      "fortalezas": [
+        "Análisis profundo y basado en datos para identificar áreas de mejora en la atención a benefactores.",
+        "Conexión clara entre las acciones propuestas y su impacto en los derechos humanos y los ODS."
+      ],
+      "areas_mejora": [
+        "Podría incluir más testimonios directos de beneficiarios para reforzar el impacto social.",
+        "Profundizar en estrategias específicas para abordar la polarización pública mencionada."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar análisis cuantitativo con consideraciones éticas y de impacto social. Tus recomendaciones son sólidas y bien fundamentadas.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 92.2,
+  "nivel_final": "Sólido"
+}

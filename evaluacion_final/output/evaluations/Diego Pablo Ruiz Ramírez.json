@@ -1,0 +1,384 @@
+{
+  "estudiante": "Diego Pablo Ruiz Ramírez",
+  "fecha": "2025-12-02T19:48:24.970888",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información mediante el glosario de variables proporcionado.",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, como se muestra en la tabla de medias, medianas, modas, desviaciones estándar, varianzas, máximos y mínimos.",
+        "Muestra de manera adecuada la información relevante contenida en las variables a través de la presentación de resultados estadísticos y pruebas de hipótesis.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, como se evidencia en la discusión de los resultados de las pruebas de hipótesis y el modelo de regresión lineal."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación y definición de las variables utilizadas en el estudio.",
+        "Uso adecuado de herramientas estadísticas para analizar y resumir los datos.",
+        "Interpretación coherente de los resultados en el contexto de la problemática de la Fundación Teletón."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos, como incluir gráficos que hagan más atractiva y comprensible la información.",
+        "Profundizar en la interpretación de los resultados para ofrecer recomendaciones más específicas basadas en los datos."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de las herramientas de estadística descriptiva y una interpretación adecuada de los resultados. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y ofrecer recomendaciones más detalladas basadas en los hallazgos."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Generación de gráficos dinámicos",
+        "Selección de tipos de gráficos apropiados",
+        "Interpretación de información visual"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Se recomienda incluir visualizaciones de datos que apoyen el análisis realizado."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante el análisis de variables como satisfacción general (D₁) y percepción de calidad del servicio (C₁)",
+        "Utiliza herramientas de análisis apropiadas como pruebas Chi-cuadrada y ANOVA para validar hipótesis",
+        "Identifica riesgos y oportunidades relevantes como la alta demanda de servicios y la necesidad de seguimiento personalizado",
+        "Propone líneas de acción estratégicas como revisar prácticas exitosas en regiones con mayor evaluación y replicarlas en otras"
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas para validar hipótesis",
+        "Identificación clara de problemáticas y oportunidades para la organización",
+        "Propuesta de acciones basadas en datos cuantitativos"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis cualitativo para complementar los insights cuantitativos",
+        "Mejorar la explicación de cómo las herramientas de análisis seleccionadas son las más pertinentes para el estudio",
+        "Incluir más detalles sobre cómo se implementarían las líneas de acción propuestas"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone líneas de acción relevantes. Para alcanzar un nivel destacado, sería valioso profundizar en el análisis cualitativo y detallar más la implementación de las acciones propuestas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Realizó un análisis cuantitativo detallado utilizando el modelo SERVQUAL para evaluar la calidad del servicio",
+        "Aplicó pruebas estadísticas (Chi-cuadrada y ANOVA) para validar hipótesis relevantes",
+        "Desarrolló un modelo de regresión lineal para predecir la satisfacción general"
+      ],
+      "fortalezas": [
+        "Metodología sistemática y basada en datos",
+        "Validación estadística de las relaciones entre variables",
+        "Aplicación práctica de los resultados para la mejora del servicio"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en propuestas concretas de innovación basadas en los hallazgos",
+        "Falta de prototipos o soluciones tangibles derivadas del análisis"
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de herramientas analíticas y validación estadística. Para alcanzar el nivel Destacado, sería valioso proponer soluciones innovadoras concretas basadas en los hallazgos, con prototipos validables que aborden las problemáticas identificadas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados de un análisis colaborativo de datos sobre la percepción del servicio en Fundación Teletón",
+        "Establece compromisos y propuestas de mejora basadas en evidencia estadística",
+        "Logra objetivos planteados al demostrar relaciones significativas entre variables de calidad del servicio y satisfacción",
+        "Realiza análisis estadísticos avanzados (prueba Chi-cuadrada, ANOVA, regresión lineal) para fundamentar conclusiones"
+      ],
+      "fortalezas": [
+        "Análisis estadístico riguroso y bien fundamentado",
+        "Capacidad para relacionar los hallazgos con mejoras concretas para la organización",
+        "Integración de diferentes técnicas analíticas para abordar el problema"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en propuestas más estratégicas e integrales para la organización",
+        "Falta mayor detalle sobre el proceso colaborativo seguido para llegar a estos resultados"
+      ],
+      "retroalimentacion": "Excelente trabajo analítico que demuestra comprensión profunda del problema. Para alcanzar nivel Destacado, considera desarrollar propuestas más estratégicas y detallar más el proceso colaborativo que siguió tu equipo."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo respeto por la dignidad de las personas al analizar cómo la Fundación Teletón impacta positivamente en la vida de niñas, niños y jóvenes con discapacidad, autismo y cáncer.",
+        "Genera soluciones constructivas y solidarias al identificar problemáticas específicas de la organización y proponer mejoras basadas en datos para optimizar el servicio.",
+        "Muestra sensibilidad social al destacar la relevancia de la labor de la Fundación Teletón en contextos de vulnerabilidad económica y social.",
+        "Demuestra compromiso comunitario al evaluar cómo las mejoras propuestas pueden contribuir al ejercicio de derechos humanos y al cumplimiento de los ODS, especialmente el ODS 3, 10 y 16."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respalda sus conclusiones y recomendaciones.",
+        "Enfoque humanista y ético al evaluar el impacto de la organización en la vida de las personas.",
+        "Capacidad para articular soluciones que no solo son técnicas, sino también empáticas y centradas en la dignidad humana."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas pueden ser implementadas de manera práctica por la organización.",
+        "Incluir más perspectivas de los beneficiarios directos para enriquecer el análisis."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Tu análisis no solo es detallado y basado en datos, sino que también refleja una profunda sensibilidad hacia las necesidades de los beneficiarios y un compromiso genuino con la mejora de su calidad de vida. Sigue desarrollando tu capacidad para traducir estos hallazgos en acciones concretas que la organización pueda implementar."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (páginas 5-6 con glosario detallado de variables)",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante estadísticas descriptivas (página 7 con tablas de estadísticas descriptivas)",
+        "Interpreta de manera articulada los resultados de los análisis descriptivos en el contexto de la problemática (páginas 8-10 con análisis de hipótesis y regresión lineal)"
+      ],
+      "fortalezas": [
+        "Claridad en la definición de variables y dimensiones del estudio",
+        "Uso apropiado de estadísticas descriptivas para resumir la información",
+        "Interpretación coherente de los resultados en el contexto de la problemática social"
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos (gráficos más atractivos)",
+        "Profundizar en la interpretación contextual de algunas estadísticas descriptivas"
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido manejo de estadística descriptiva y análisis de datos. Para alcanzar el nivel destacado, considera mejorar la visualización de datos y profundizar en las implicaciones sociales de tus hallazgos estadísticos."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Generación de gráficos dinámicos",
+        "Selección de tipos de gráficos adecuados",
+        "Interpretación de información visual"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones de datos que apoyen el análisis y la toma de decisiones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante el análisis de las dimensiones SERVQUAL (Fiabilidad, Capacidad de respuesta, Seguridad, Empatía)",
+        "Identifica posibles riesgos y oportunidades relevantes para Fundación Teletón como alta demanda de servicios y necesidad de seguimiento personalizado",
+        "Propone líneas de acción estratégicas como revisar prácticas exitosas en regiones con mayor evaluación y replicarlas en otras zonas"
+      ],
+      "fortalezas": [
+        "Uso apropiado de herramientas estadísticas (prueba Chi-cuadrada, ANOVA, regresión lineal)",
+        "Identificación clara de variables clave que impactan la satisfacción del usuario",
+        "Relación efectiva entre hallazgos analíticos y propuestas de mejora"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de segmentación de beneficiarios para propuestas más específicas",
+        "Incluir más herramientas de visualización de datos para comunicar insights",
+        "Desarrollar líneas de acción más concretas con plazos y responsables definidos"
+      ],
+      "retroalimentacion": "El trabajo demuestra una sólida capacidad de análisis y propuesta de acciones. Para alcanzar el nivel destacado, se recomienda profundizar en la segmentación de datos y desarrollar planes de acción más detallados con métricas concretas de seguimiento."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras mediante el análisis de datos y la aplicación de pruebas estadísticas para validar hipótesis.",
+        "Valida las características de los prototipos a través de pruebas de hipótesis (Chi-cuadrada y ANOVA) y regresión lineal, demostrando una metodología sistemática.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo mejoras basadas en datos para la calidad del servicio."
+      ],
+      "fortalezas": [
+        "Uso de metodologías estadísticas robustas para validar las soluciones propuestas.",
+        "Enfoque en la mejora de la calidad del servicio basado en datos reales y percepción de los beneficiarios.",
+        "Aplicación de los resultados en un contexto real y relevante, contribuyendo al cumplimiento de los ODS."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más innovadoras, más allá del análisis estadístico tradicional.",
+        "Incluir prototipos o modelos más tangibles que demuestren la aplicabilidad de las soluciones propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación y validación de soluciones basadas en datos. Para alcanzar un nivel destacado, considera incorporar prototipos más innovadores y tangibles que muestren cómo las soluciones pueden implementarse en la práctica."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo, como el análisis de datos y las pruebas de hipótesis realizadas.",
+        "Establece compromisos y propuestas adecuadas, como la identificación de áreas de oportunidad y la recomendación de replicar prácticas exitosas.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación con otras personas, evidenciado en la coordinación para la recolección y análisis de datos.",
+        "Logra de manera consistente los objetivos planteados, como la validación de hipótesis y la identificación de factores que influyen en la satisfacción."
+      ],
+      "fortalezas": [
+        "Análisis detallado y metodológico de los datos.",
+        "Identificación clara de áreas de mejora y propuestas concretas.",
+        "Uso de herramientas estadísticas para validar hipótesis y tomar decisiones basadas en datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de acciones más integrales y estratégicas para mejorar el trabajo colaborativo.",
+        "Incluir más evidencias de la participación activa en la toma de decisiones con otros miembros del equipo."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el trabajo colaborativo, con resultados concretos y propuestas adecuadas. Para alcanzar un nivel destacado, considera generar más acciones estratégicas y evidenciar una mayor participación en la toma de decisiones grupales."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias al analizar la problemática de acceso a servicios de salud para personas con discapacidad y proponer mejoras basadas en datos",
+        "Demuestra sensibilidad social al enfocarse en la dignidad y derechos de personas en situación de vulnerabilidad",
+        "Muestra compromiso comunitario al evaluar el impacto de Fundación Teletón en miles de beneficiarios",
+        "Respeto a la dignidad humana al evaluar dimensiones como empatía, atención personalizada y acompañamiento en el servicio"
+      ],
+      "fortalezas": [
+        "Análisis profundo de la problemática social con enfoque en derechos humanos",
+        "Propuestas de mejora basadas en evidencia que buscan impactar positivamente en la calidad de vida de los beneficiarios",
+        "Enfoque claro en la dignidad humana y aspectos éticos del servicio"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para atender a poblaciones en mayor vulnerabilidad",
+        "Sería valioso incluir más voces directas de los beneficiarios en el análisis"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un compromiso genuino con la ética y responsabilidad social. Tu análisis va más allá de lo técnico para considerar el impacto humano de las soluciones propuestas."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Generación de gráficos dinámicos",
+          "Selección de tipos de gráficos adecuados",
+          "Interpretación de información visual"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo de la problemática social con enfoque en derechos humanos",
+          "Propuestas de mejora basadas en evidencia que buscan impactar positivamente en la calidad de vida de los beneficiarios",
+          "Enfoque claro en la dignidad humana y aspectos éticos del servicio"
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (páginas 5-6 con glosario detallado de variables)",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante estadísticas descriptivas (página 7 con tablas de estadísticas descriptivas)",
+        "Interpreta de manera articulada los resultados de los análisis descriptivos en el contexto de la problemática (páginas 8-10 con análisis de hipótesis y regresión lineal)"
+      ],
+      "fortalezas": [
+        "Claridad en la definición de variables y dimensiones del estudio",
+        "Uso apropiado de estadísticas descriptivas para resumir la información",
+        "Interpretación coherente de los resultados en el contexto de la problemática social"
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos (gráficos más atractivos)",
+        "Profundizar en la interpretación contextual de algunas estadísticas descriptivas"
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido manejo de estadística descriptiva y análisis de datos. Para alcanzar el nivel destacado, considera mejorar la visualización de datos y profundizar en las implicaciones sociales de tus hallazgos estadísticos.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Generación de gráficos dinámicos",
+        "Selección de tipos de gráficos adecuados",
+        "Interpretación de información visual"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones de datos que apoyen el análisis y la toma de decisiones.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante el análisis de las dimensiones SERVQUAL (Fiabilidad, Capacidad de respuesta, Seguridad, Empatía)",
+        "Identifica posibles riesgos y oportunidades relevantes para Fundación Teletón como alta demanda de servicios y necesidad de seguimiento personalizado",
+        "Propone líneas de acción estratégicas como revisar prácticas exitosas en regiones con mayor evaluación y replicarlas en otras zonas"
+      ],
+      "fortalezas": [
+        "Uso apropiado de herramientas estadísticas (prueba Chi-cuadrada, ANOVA, regresión lineal)",
+        "Identificación clara de variables clave que impactan la satisfacción del usuario",
+        "Relación efectiva entre hallazgos analíticos y propuestas de mejora"
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de segmentación de beneficiarios para propuestas más específicas",
+        "Incluir más herramientas de visualización de datos para comunicar insights",
+        "Desarrollar líneas de acción más concretas con plazos y responsables definidos"
+      ],
+      "retroalimentacion": "El trabajo demuestra una sólida capacidad de análisis y propuesta de acciones. Para alcanzar el nivel destacado, se recomienda profundizar en la segmentación de datos y desarrollar planes de acción más detallados con métricas concretas de seguimiento.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras mediante el análisis de datos y la aplicación de pruebas estadísticas para validar hipótesis.",
+        "Valida las características de los prototipos a través de pruebas de hipótesis (Chi-cuadrada y ANOVA) y regresión lineal, demostrando una metodología sistemática.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo mejoras basadas en datos para la calidad del servicio."
+      ],
+      "fortalezas": [
+        "Uso de metodologías estadísticas robustas para validar las soluciones propuestas.",
+        "Enfoque en la mejora de la calidad del servicio basado en datos reales y percepción de los beneficiarios.",
+        "Aplicación de los resultados en un contexto real y relevante, contribuyendo al cumplimiento de los ODS."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más innovadoras, más allá del análisis estadístico tradicional.",
+        "Incluir prototipos o modelos más tangibles que demuestren la aplicabilidad de las soluciones propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación y validación de soluciones basadas en datos. Para alcanzar un nivel destacado, considera incorporar prototipos más innovadores y tangibles que muestren cómo las soluciones pueden implementarse en la práctica.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del trabajo colaborativo, como el análisis de datos y las pruebas de hipótesis realizadas.",
+        "Establece compromisos y propuestas adecuadas, como la identificación de áreas de oportunidad y la recomendación de replicar prácticas exitosas.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación con otras personas, evidenciado en la coordinación para la recolección y análisis de datos.",
+        "Logra de manera consistente los objetivos planteados, como la validación de hipótesis y la identificación de factores que influyen en la satisfacción."
+      ],
+      "fortalezas": [
+        "Análisis detallado y metodológico de los datos.",
+        "Identificación clara de áreas de mejora y propuestas concretas.",
+        "Uso de herramientas estadísticas para validar hipótesis y tomar decisiones basadas en datos."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de acciones más integrales y estratégicas para mejorar el trabajo colaborativo.",
+        "Incluir más evidencias de la participación activa en la toma de decisiones con otros miembros del equipo."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el trabajo colaborativo, con resultados concretos y propuestas adecuadas. Para alcanzar un nivel destacado, considera generar más acciones estratégicas y evidenciar una mayor participación en la toma de decisiones grupales.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias al analizar la problemática de acceso a servicios de salud para personas con discapacidad y proponer mejoras basadas en datos",
+        "Demuestra sensibilidad social al enfocarse en la dignidad y derechos de personas en situación de vulnerabilidad",
+        "Muestra compromiso comunitario al evaluar el impacto de Fundación Teletón en miles de beneficiarios",
+        "Respeto a la dignidad humana al evaluar dimensiones como empatía, atención personalizada y acompañamiento en el servicio"
+      ],
+      "fortalezas": [
+        "Análisis profundo de la problemática social con enfoque en derechos humanos",
+        "Propuestas de mejora basadas en evidencia que buscan impactar positivamente en la calidad de vida de los beneficiarios",
+        "Enfoque claro en la dignidad humana y aspectos éticos del servicio"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias específicas para atender a poblaciones en mayor vulnerabilidad",
+        "Sería valioso incluir más voces directas de los beneficiarios en el análisis"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un compromiso genuino con la ética y responsabilidad social. Tu análisis va más allá de lo técnico para considerar el impacto humano de las soluciones propuestas.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 71.6,
+  "nivel_final": "Básico"
+}

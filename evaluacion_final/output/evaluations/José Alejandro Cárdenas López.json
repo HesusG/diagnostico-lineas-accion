@@ -1,0 +1,390 @@
+{
+  "estudiante": "José Alejandro Cárdenas López",
+  "fecha": "2025-12-02T19:58:31.618618",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (E_1, E_2, E_3, E_4)",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas (dashboard, ANOVA, correlación, regresión lineal)",
+        "Muestra de manera adecuada la información relevante contenida en las variables (correlaciones entre variables de empatía y calidad del servicio)",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (importancia de la empatía en la percepción del servicio)"
+      ],
+      "fortalezas": [
+        "Identificación clara de las variables clave para el análisis",
+        "Uso adecuado de herramientas estadísticas y tecnológicas",
+        "Interpretación coherente de los resultados en el contexto de la organización"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la presentación visual de los datos para hacerla más atractiva",
+        "Sería útil incluir más detalles sobre cómo se construyó el dashboard y las visualizaciones específicas"
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de las herramientas estadísticas y una interpretación adecuada de los datos. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los resultados y detallar más el proceso de construcción del dashboard."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Incluir gráficos dinámicos que muestren información relevante para la toma de decisiones",
+        "Seleccionar tipos de gráficos congruentes con los niveles de medición de las variables",
+        "Interpretar de manera clara la información que muestran los gráficos"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones que apoyen el análisis y la toma de decisiones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes mediante el uso de herramientas estadísticas como ANOVA, correlaciones y regresión lineal.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la importancia de la empatía en la satisfacción del usuario.",
+        "Propone líneas de acción estratégicas como fortalecer la atención personalizada y estandarizar prácticas de servicio."
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas de análisis estadístico para interpretar datos.",
+        "Identificación clara de las variables más influyentes en la calidad del servicio.",
+        "Propuestas de acción alineadas con los valores y objetivos de la organización."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el análisis de riesgos específicos que podrían afectar la implementación de las líneas de acción.",
+        "Sería beneficioso incluir más detalles sobre cómo se monitorearán y evaluarán las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen uso de herramientas analíticas y una interpretación adecuada de los datos. Las líneas de acción propuestas son relevantes y están bien fundamentadas. Para mejorar, considera incluir más detalles sobre el seguimiento y evaluación de las acciones propuestas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de un dashboard para visualizar patrones y áreas de oportunidad en la calidad del servicio",
+        "Aplicación de herramientas estadísticas como prueba de hipótesis, ANOVA, análisis de correlaciones y regresión lineal para validar los hallazgos",
+        "Identificación de variables clave (empatía) que influyen en la percepción de calidad del servicio"
+      ],
+      "fortalezas": [
+        "Metodología sistemática y bien estructurada para el análisis de datos",
+        "Uso de herramientas estadísticas avanzadas para validar las conclusiones",
+        "Enfoque en variables críticas como la empatía para mejorar la calidad del servicio"
+      ],
+      "areas_mejora": [
+        "Desarrollar prototipos de soluciones innovadoras basadas en los hallazgos",
+        "Validar las soluciones propuestas en contextos reales para garantizar su aplicabilidad",
+        "Incluir más evidencias de la implementación de las acciones tácticas sugeridas"
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis sólido y metodológicamente robusto, pero podría fortalecerse con la generación y validación de prototipos innovadores basados en los hallazgos. Es importante asegurar que las soluciones propuestas sean aplicables y efectivas en los contextos identificados."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de variables de empatía en la calidad del servicio",
+        "Establece compromisos y acciones tácticas para fortalecer la atención personalizada y estandarizar prácticas de servicio",
+        "Da cuenta del cumplimiento eficaz en la aplicación de herramientas estadísticas para la toma de decisiones",
+        "Logra consistentemente los objetivos planteados en el análisis de la calidad del servicio"
+      ],
+      "fortalezas": [
+        "Análisis sistemático y metodológico de los datos",
+        "Identificación clara de las variables más influyentes en la calidad del servicio",
+        "Propuesta de acciones concretas para mejorar los procesos internos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de valor a través de propuestas más innovadoras o integrales",
+        "Falta de evidencias específicas sobre la negociación con otras personas o equipos"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el análisis y propuesta de mejoras, pero podría fortalecerse con estrategias más innovadoras y evidencias de colaboración interdisciplinaria."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra sensibilidad social al analizar la calidad del servicio en Fundación Teletón, enfocándose en la empatía como factor clave para la satisfacción de los usuarios.",
+        "Muestra compromiso comunitario al proponer acciones tácticas para fortalecer la atención personalizada y estandarizar prácticas de servicio, contribuyendo al impacto social de la organización.",
+        "Respeto a la dignidad de las personas al argumentar éticamente la propuesta de intervención, destacando la importancia de brindar una atención digna y respetuosa a los beneficiarios."
+      ],
+      "fortalezas": [
+        "Articulación clara de soluciones constructivas y solidarias basadas en datos y análisis estadísticos.",
+        "Enfoque humanizado y ético en la evaluación y mejora de los servicios de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas para asegurar su efectividad."
+      ],
+      "retroalimentacion": "Excelente trabajo al integrar un análisis cuantitativo con una perspectiva ética y social, demostrando un alto nivel de responsabilidad social y empatía hacia los beneficiarios de Fundación Teletón."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica claramente las variables esenciales (E_1, E_2, E_3, E_4) relacionadas con la empatía y su impacto en la calidad del servicio.",
+        "Utiliza herramientas estadísticas avanzadas como ANOVA, correlación y regresión lineal para analizar los datos.",
+        "Presenta un dashboard para visualización de datos y análisis descriptivo.",
+        "Interpreta los resultados de manera articulada en el contexto de la problemática de la organización."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación de variables clave y su relación con la calidad del servicio.",
+        "Uso adecuado de herramientas estadísticas para el análisis de datos.",
+        "Buena interpretación contextual de los resultados."
+      ],
+      "areas_mejora": [
+        "Falta de evidencia visual (gráficos o tablas) en el documento proporcionado para evaluar la calidad de la visualización de datos.",
+        "Podría profundizar en la explicación de cómo se construyó el dashboard y su impacto en el análisis."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido manejo de estadística descriptiva y herramientas analíticas. Para mejorar, incluye ejemplos visuales de los gráficos generados y detalla más el proceso de creación del dashboard."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [
+        "El estudiante presenta un análisis detallado y estructurado de la problemática y contexto de la Fundación Teletón",
+        "Se identifican claramente las variables relevantes para medir la calidad del servicio (empatía, atención personalizada, etc.)",
+        "El trabajo muestra un buen uso de herramientas estadísticas como ANOVA, correlación y regresión lineal"
+      ],
+      "areas_mejora": [
+        "No se presentan gráficos dinámicos ni visualizaciones de datos que apoyen el análisis",
+        "Falta evidencia de la generación de gráficos congruentes con los niveles de medición de las variables",
+        "No se muestra interpretación visual de los datos a través de gráficos"
+      ],
+      "retroalimentacion": "El trabajo carece de evidencia concreta de la creación e interpretación de gráficos dinámicos, que es el núcleo de esta subcompetencia. Se recomienda incluir visualizaciones de datos que muestren las relaciones entre las variables analizadas y su impacto en la calidad del servicio."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, identificando que la empatía es un factor clave en la satisfacción del servicio.",
+        "Utiliza herramientas de análisis apropiadas como pruebas de hipótesis, ANOVA, análisis de correlación y regresión lineal para interpretar los datos.",
+        "Identifica riesgos y oportunidades relevantes, como la necesidad de fortalecer la atención personalizada y estandarizar prácticas de servicio.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como mejorar la comunicación interna y el acompañamiento emocional para las familias."
+      ],
+      "fortalezas": [
+        "Análisis sistemático y metodológico de los datos.",
+        "Identificación clara de las variables más influyentes en la calidad del servicio.",
+        "Propuestas de acción alineadas con los valores y objetivos de la organización."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas más avanzadas de visualización de datos para enriquecer los insights.",
+        "Falta mayor detalle en cómo se implementarán las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone líneas de acción relevantes. Para mejorar, considera incorporar más herramientas de visualización y detallar la implementación de las acciones propuestas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el dashboard para visualizar patrones y áreas de oportunidad",
+        "Valida las características de los prototipos mediante herramientas estadísticas como prueba de hipótesis, ANOVA y análisis de correlaciones",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón con líneas de acción para fortalecer la atención personalizada y estandarizar prácticas de servicio"
+      ],
+      "fortalezas": [
+        "Uso sistemático de herramientas estadísticas para validar las soluciones propuestas",
+        "Enfoque claro en las variables de empatía como eje central para mejorar la calidad del servicio",
+        "Integración de insights cuantitativos con propuestas de acción concretas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más disruptivas o innovadoras",
+        "Falta mayor detalle sobre la implementación práctica de las soluciones propuestas"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en innovación al generar soluciones basadas en datos y validarlas estadísticamente. Para alcanzar el nivel destacado, considera desarrollar propuestas más disruptivas y detallar su implementación."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de resultados derivados de un trabajo colaborativo adecuado mediante el análisis de variables de empatía y su impacto en la calidad del servicio.",
+        "Establecimiento de compromisos y acciones concretas para mejorar la atención personalizada y estandarizar prácticas de servicio.",
+        "Uso de herramientas estadísticas como ANOVA, correlaciones y regresión lineal para fundamentar las decisiones.",
+        "Logro consistente de los objetivos planteados en el análisis de la calidad del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de las variables de empatía y su relación con la calidad del servicio.",
+        "Metodología clara y estructurada que incluye herramientas estadísticas avanzadas.",
+        "Propuestas de acción concretas y alineadas con los valores de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más evidencias de trabajo colaborativo en la recolección y análisis de datos.",
+        "Falta de visualización de los tableros de indicadores clave mencionados en el documento."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el análisis y propuestas de mejora, pero podría fortalecerse con más evidencias de colaboración y visualización de datos. Las herramientas estadísticas utilizadas son apropiadas y bien aplicadas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado|Sólido|Básico|Incipiente|Sin evidencia",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias para mejorar la calidad del servicio en Fundación Teletón",
+        "Demuestra sensibilidad social al analizar la percepción de los usuarios y su impacto en la calidad de vida",
+        "Muestra compromiso comunitario al proponer acciones para fortalecer la atención personalizada y estandarizar prácticas de servicio",
+        "Respeta la dignidad de las personas al enfocarse en la empatía como pilar fundamental del servicio"
+      ],
+      "fortalezas": [
+        "Análisis profundo de las variables de empatía y su impacto en la calidad del servicio",
+        "Propuestas claras y accionables para mejorar los procesos internos de la organización",
+        "Enfoque ético y humano en la evaluación y mejora del servicio"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas",
+        "Sería útil incluir más evidencia cuantitativa sobre el impacto esperado de las mejoras"
+      ],
+      "retroalimentacion": "El trabajo demuestra un excelente entendimiento de la importancia de la empatía en el servicio de la Fundación Teletón. La propuesta es sólida y bien fundamentada, con un claro enfoque en la dignidad y los derechos de los usuarios. Para futuros trabajos, considera incluir más detalles sobre la implementación y el impacto esperado de las soluciones."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "No se presentan gráficos dinámicos ni visualizaciones de datos que apoyen el análisis",
+          "Falta evidencia de la generación de gráficos congruentes con los niveles de medición de las variables",
+          "No se muestra interpretación visual de los datos a través de gráficos"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo de las variables de empatía y su impacto en la calidad del servicio",
+          "Propuestas claras y accionables para mejorar los procesos internos de la organización",
+          "Enfoque ético y humano en la evaluación y mejora del servicio"
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica claramente las variables esenciales (E_1, E_2, E_3, E_4) relacionadas con la empatía y su impacto en la calidad del servicio.",
+        "Utiliza herramientas estadísticas avanzadas como ANOVA, correlación y regresión lineal para analizar los datos.",
+        "Presenta un dashboard para visualización de datos y análisis descriptivo.",
+        "Interpreta los resultados de manera articulada en el contexto de la problemática de la organización."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación de variables clave y su relación con la calidad del servicio.",
+        "Uso adecuado de herramientas estadísticas para el análisis de datos.",
+        "Buena interpretación contextual de los resultados."
+      ],
+      "areas_mejora": [
+        "Falta de evidencia visual (gráficos o tablas) en el documento proporcionado para evaluar la calidad de la visualización de datos.",
+        "Podría profundizar en la explicación de cómo se construyó el dashboard y su impacto en el análisis."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido manejo de estadística descriptiva y herramientas analíticas. Para mejorar, incluye ejemplos visuales de los gráficos generados y detalla más el proceso de creación del dashboard.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [
+        "El estudiante presenta un análisis detallado y estructurado de la problemática y contexto de la Fundación Teletón",
+        "Se identifican claramente las variables relevantes para medir la calidad del servicio (empatía, atención personalizada, etc.)",
+        "El trabajo muestra un buen uso de herramientas estadísticas como ANOVA, correlación y regresión lineal"
+      ],
+      "areas_mejora": [
+        "No se presentan gráficos dinámicos ni visualizaciones de datos que apoyen el análisis",
+        "Falta evidencia de la generación de gráficos congruentes con los niveles de medición de las variables",
+        "No se muestra interpretación visual de los datos a través de gráficos"
+      ],
+      "retroalimentacion": "El trabajo carece de evidencia concreta de la creación e interpretación de gráficos dinámicos, que es el núcleo de esta subcompetencia. Se recomienda incluir visualizaciones de datos que muestren las relaciones entre las variables analizadas y su impacto en la calidad del servicio.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, identificando que la empatía es un factor clave en la satisfacción del servicio.",
+        "Utiliza herramientas de análisis apropiadas como pruebas de hipótesis, ANOVA, análisis de correlación y regresión lineal para interpretar los datos.",
+        "Identifica riesgos y oportunidades relevantes, como la necesidad de fortalecer la atención personalizada y estandarizar prácticas de servicio.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como mejorar la comunicación interna y el acompañamiento emocional para las familias."
+      ],
+      "fortalezas": [
+        "Análisis sistemático y metodológico de los datos.",
+        "Identificación clara de las variables más influyentes en la calidad del servicio.",
+        "Propuestas de acción alineadas con los valores y objetivos de la organización."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas más avanzadas de visualización de datos para enriquecer los insights.",
+        "Falta mayor detalle en cómo se implementarán las líneas de acción propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de los insights y propone líneas de acción relevantes. Para mejorar, considera incorporar más herramientas de visualización y detallar la implementación de las acciones propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el dashboard para visualizar patrones y áreas de oportunidad",
+        "Valida las características de los prototipos mediante herramientas estadísticas como prueba de hipótesis, ANOVA y análisis de correlaciones",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón con líneas de acción para fortalecer la atención personalizada y estandarizar prácticas de servicio"
+      ],
+      "fortalezas": [
+        "Uso sistemático de herramientas estadísticas para validar las soluciones propuestas",
+        "Enfoque claro en las variables de empatía como eje central para mejorar la calidad del servicio",
+        "Integración de insights cuantitativos con propuestas de acción concretas"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en la generación de soluciones más disruptivas o innovadoras",
+        "Falta mayor detalle sobre la implementación práctica de las soluciones propuestas"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en innovación al generar soluciones basadas en datos y validarlas estadísticamente. Para alcanzar el nivel destacado, considera desarrollar propuestas más disruptivas y detallar su implementación.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de resultados derivados de un trabajo colaborativo adecuado mediante el análisis de variables de empatía y su impacto en la calidad del servicio.",
+        "Establecimiento de compromisos y acciones concretas para mejorar la atención personalizada y estandarizar prácticas de servicio.",
+        "Uso de herramientas estadísticas como ANOVA, correlaciones y regresión lineal para fundamentar las decisiones.",
+        "Logro consistente de los objetivos planteados en el análisis de la calidad del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de las variables de empatía y su relación con la calidad del servicio.",
+        "Metodología clara y estructurada que incluye herramientas estadísticas avanzadas.",
+        "Propuestas de acción concretas y alineadas con los valores de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más evidencias de trabajo colaborativo en la recolección y análisis de datos.",
+        "Falta de visualización de los tableros de indicadores clave mencionados en el documento."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el análisis y propuestas de mejora, pero podría fortalecerse con más evidencias de colaboración y visualización de datos. Las herramientas estadísticas utilizadas son apropiadas y bien aplicadas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias para mejorar la calidad del servicio en Fundación Teletón",
+        "Demuestra sensibilidad social al analizar la percepción de los usuarios y su impacto en la calidad de vida",
+        "Muestra compromiso comunitario al proponer acciones para fortalecer la atención personalizada y estandarizar prácticas de servicio",
+        "Respeta la dignidad de las personas al enfocarse en la empatía como pilar fundamental del servicio"
+      ],
+      "fortalezas": [
+        "Análisis profundo de las variables de empatía y su impacto en la calidad del servicio",
+        "Propuestas claras y accionables para mejorar los procesos internos de la organización",
+        "Enfoque ético y humano en la evaluación y mejora del servicio"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas",
+        "Sería útil incluir más evidencia cuantitativa sobre el impacto esperado de las mejoras"
+      ],
+      "retroalimentacion": "El trabajo demuestra un excelente entendimiento de la importancia de la empatía en el servicio de la Fundación Teletón. La propuesta es sólida y bien fundamentada, con un claro enfoque en la dignidad y los derechos de los usuarios. Para futuros trabajos, considera incluir más detalles sobre la implementación y el impacto esperado de las soluciones.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 71.6,
+  "nivel_final": "Básico"
+}

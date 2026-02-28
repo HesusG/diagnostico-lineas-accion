@@ -1,0 +1,213 @@
+--- Página 1 ---
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Campus Monterrey
+Diagnóstico para líneas de acción
+Group 570
+Profa. Beatriz Ochoa Ramírez
+Evidencia única - 2.ª parte: Medición de la Calidad en el Servicio: Acciones Estratégicas
+e Impacto Social. Individual
+Jimena Domínguez Carmona A01748895
+26 de noviembre del 2025
+
+--- Página 2 ---
+1. Contexto social, económico, político y ambiental sobre el cual se lleva a cabo la labor
+de la organización, reconociendo cómo esto impacta en la vida y dignidad de las
+personas. Considerando:
+a) ¿Qué problemática aborda la organización?
+El Teletón aborda la problemática de la discapacidad y la falta de acceso a servicios de
+rehabilitación en México. Millones de niños y jóvenes que lleguen a presentar condiciones
+motrices, neurológicas o cognitivas, requieren atención continua y especializada, pero la
+infraestructura pública del país no siempre cuenta para cubrir la demanda nacional. Por ende,
+familias recurren a esta institución.
+b) ¿Por qué es una problemática relevante en el país?
+Hoy en día México enfrenta desigualdades estructurales. Contamos con más de 20 millones
+de personas con algún tipo de discapacidad en el país según el INEGI, y su mayoría vive en
+condiciones de vulnerabilidad económica. Así mismo, existe rezago histórico en acceso a la
+salud, movilidad, rehabilitación y educación. Además, no solo llega a afectar la salud de las
+personas, sino que también impacta su acceso al empleo, participación social y su calidad de
+vida.
+c) ¿Por qué es relevante la labor que realiza la organización?
+La labor de esta organización es relevante, ya que brinda el apoyo que el Estado no puede a
+veces dar. Ofreciendo infraestructura moderna, especialistas, tecnología y atención integral
+que transforma la vida de niños y familias. Llegando a ser una labor social estratégica y de
+alto impacto humano.
+d) ¿Cuáles son las características que suelen tener sus beneficiarios?
+● Niños y jóvenes de 0 a 18 años
+● Personas con discapacidad motriz, neurológica, autismo o cáncer
+● Familias de bajos recursos
+Personas provenientes de zonas rurales o estados con rezago social
+● Grupos vulnerabilizados que enfrentan barreras económicas y sociales
+○
+e) ¿Cuál es la cantidad de beneficiarios que atiende?
+El Teletón atiende a más de 20,000 pacientes al año, dependiendo del CRIT (Centros de
+Rehabilitación e Inclusión Infantil Teletón en México y Estados Unidos).
+f) ¿Cuál es el argumento ético que sustenta su labor (ODS)?
+Su argumento ético que sustenta en la labor de la organización y se basa en la dignidad
+humana, ya que considera que toda persona independientemente de su condición, merece
+respeto y la oportunidad de desarrollarse plenamente. Por ende, abarca estas tres ODS:
+
+--- Página 3 ---
+● ODS 3: Salud y Bienestar
+● ODS 10: Reducción de las Desigualdades
+● ODS 16: Paz, Justicia e Instituciones Sólidas
+g) ¿Qué problemáticas puede tener la organización para llevar a cabo su labor?
+La organización, puede encontrar dificultades para llevar a cado su labor como:
+● Altos costos operativos
+● Dependencia de donaciones
+● Estigmas y prejuicios sociales
+● Falta de infraestructura nacional
+● Desigualdad territorial (algunos estados sin CRIT)
+● Barreras administrativas y políticas
+h) ¿Cuál es la aportación que brindan los productos y evidencias realizadas en este bloque a
+la labor que lleva a cabo la organización?
+La aportación que brinda esta evidencia es información para evaluar la percepción de
+flexibilidad, satisfacción, segmentos críticos, áreas de oportunidad e insights relevantes que
+pueden apoyar al Teletón a visualizar sus oportunidades de mejora que ayuden a mejorar su
+servicio.
+i) ¿Cómo es que este reto contribuye a que la organización preste mejor su servicio a sus
+usuarios?
+El reto ayudará a mejorar el servicio, ya que el análisis nos permite detectar sectores con
+mayor o menor percepción positiva, identificar brechas y evaluar la calidad de su servicio
+desde la perspectiva del cliente.
+j) ¿Cómo se abona para el ejercicio de sus derechos humanos y el respeto a su dignidad?
+Al mejorar la calidad del servicio, la accesibilidad y el trato digno para beneficiarios
+vulnerables.
+El análisis respalda decisiones que fortalecen el derecho a la salud, igualdad y participación
+social.
+k) ¿Cómo es que el resultado final de este reto puede favorecer al cumplimiento del Objetivo
+de Desarrollo Sostenible 16?
+Ya que la ODS 16 exige instituciones fuertes, transparentes y eficaces, el análisis mostrado en
+esta evidencia aporta datos para decisiones basadas en evidencia, identificación de
+desigualdades internas, mejora de procesos, mayor confianza social y fortalecimiento
+
+--- Página 4 ---
+institucional.
+2. Entrega de tableros de visualización (Integrar la evidencia 1)
+Fig.1. Dashboard panorama de percepción de flexibilidad en la encuesta del teletón 2024.
+Fig.2 y Fig.3. La figura presenta dos tablas que resumen la distribución y las medidas de tendencia central y dispersión de la
+variable %FlexAlta_R3, correspondiente a la percepción de flexibilidad del servicio por parte de los encuestados (n = 274).
+3. ¿Cuáles son las medidas de tendencia central y dispersión por pregunta?
+
+--- Página 5 ---
+Fig.4. Nota: La variable %FlexAlta_R3 presenta una media de 3.62, mediana de 4, moda de 4, desviación estándar de
+0.71 y rango de 4. Esto indica que la mayoría de los donantes perciben al Teletón como medianamente flexible o flexible,
+con poca dispersión.
+4. Realiza una prueba de hipótesis para validar el cumplimiento de un estándar
+organizacional relevante.
+H₀:
+La percepción de flexibilidad no es diferente entre los distintos puestos del donante.
+H₁:
+Al menos un puesto percibe la flexibilidad del Teletón de manera distinta
+El ANOVA mostró un p-valor < 0.001, por lo que se rechaza H₀. Sí existen diferencias
+significativas en cómo los distintos puestos perciben la flexibilidad.
+
+--- Página 6 ---
+5. Considerando las diferentes áreas, departamentos o grupos de la organización sin
+fines de lucro o segmentos de usuarios, ¿existe diferencia en la calidad del servicio?
+De acuerdo con nuestro ANOVA que se utilizó en los datos por puesto, sí hay diferencias
+relevantes desde el punto de vista estadístico en cómo se percibe la calidad del servicio que se
+evaluó mediante la flexibilidad.
+Los diferentes segmentos tienen percepciones distintas sobre la flexibilidad, lo que muestra
+que la calidad del servicio no es igual entre los distintos tipos de usuarios.
+6. ¿Qué áreas, departamentos o grupos de la organización sin fines de lucro o segmentos
+de usuarios presentan una mejor calidad en el servicio? ¿Cuáles presentan las mayores
+oportunidades de mejora?
+Con base en los promedios, los grupos con mayor calidad percibida de mayor flexibilidad
+serían los Supervisores con 67%, Personas físicas con 65% y Gerentes con 63%. Dichos
+grupos perciben el Teletón con mayor flexibilidad. Mientras que Coordinadores, Dueños y
+Asistentes perciben la flexibilidad por debajo del 60%.
+7. Realiza una regresión lineal para predecir la calidad en el servicio, a partir de las
+variables relevantes de tu investigación.
+Para esta parte, se seleccionó la antigüedad del donante que sería años como predictor, ya que
+nos muestra la relación más clara con la percepción de flexibilidad que es en el ámbito que
+nos estamos centrando. La gráfica de abajo demuestra que entre más años tiene un donante,
+
+--- Página 7 ---
+mayor es su percepción de flexibilidad del Teletón. La antigüedad es un buen indicador lineal
+para la calidad percibida en el servicio de la organización.
+8. ¿Qué correlación existe entre las variables independientes y la variable dependiente
+(calidad en el servicio)?
+La gráfica de flexibilidad x estado nos demuestra que la flexibilidad varía significativamente
+entre las entidades del país, indicando correlación entre localización geográfica y percepción.
+Ejemplo: Nuevo León con 100%, Guerrero con 73.7 y 42.1 en CDMX.
+Hay que tener en claro que como no existe la misma cantidad de participantes por estado, los
+estados que tienen más respuestas pesan más en el gráfico, por ende a pesar de tener menos
+porcentaje, los círculos percibidos en la gráfica son mayores.
+
+--- Página 8 ---
+9. ¿Qué acciones tácticas se proponen a partir de los hallazgos para la mejora
+organizacional (3 propuestas relevantes)?
+Con base a los insights adquiridos, se recomiendan las tácticas de mejora:
+1. Coordinadores y Dueños
+En los insights obtenidos, se percibe que tanto el puesto de Coordinador como Dueño,
+perciben menos flexibilidad con un 46% y 53%, esto puede representar una alerta en la
+organización, ya que ambos puestos suelen tener responsabilidad operativa o autoridad en la
+toma de decisiones dentro del entorno del donante.
+Por ello, se pueden integrar actividades para incrementar la flexibilidad. Se implementarán
+protocolos flexibles por diseño según el puesto. En el cual se crearán versiones adaptadas de
+procesos para puestos con menor flexibilidad percibida. Por ejemplo, los dueños recibirán
+procesos rápidos y resoluciones sin tanto paso intermedio. Mientras que los Coordinadores,
+tendrán guías claras para solicitar ajustes sin burocracia. Así se podrá atacar la flexibilidad
+percibida directamente.
+Otra acción a realizar es la implementación de una línea rápida, un FastTrack Teletón para los
+casos urgentes. Será un canal exclusivo para cambios de fechas, aclaraciones o requisitos. Se
+tendrán 3 tipos de niveles de urgencia con tiempo de respuesta garantizado ya sea de 6h, 12h
+o 24h. Con ello, mejorará la percepción.
+Otra acción a seguir sería integrar un check-in personalizado de 48 horas después de
+cualquier interacción para corregir de inmediato cualquier sensación de rigidez o de falta de
+apoyo.
+2. Estrategias regionales para estados con baja percepción de flexibilidad
+Las áreas como Quintana Roo, la Ciudad de México y Sonora presentan una percepción
+notablemente inferior de flexibilidad, lo que demuestra que la atención se experimenta de
+manera diferente según el entorno local. Para optimizar esta dimensión, se sugiere la creación
+de equipos regionales que cuenten con mayor independencia operativa, lo cual les permitirá
+personalizar procedimientos, modificar plazos de respuesta y atender solicitudes sin
+necesidad de múltiples autorizaciones. Asimismo, se aconseja mejorar la comunicación en
+estas áreas mediante la implementación de horarios ampliados o canales rápidos que ofrezcan
+asistencia eficiente a empresas con requerimientos particulares.
+Desde una perspectiva territorial, sería beneficioso programar visitas presenciales de manera
+regular, dado que el contacto directo potencia la percepción de adaptación, apoyo y
+disponibilidad. Estas iniciativas tienen como objetivo garantizar que la experiencia de
+
+--- Página 9 ---
+flexibilidad sea uniforme en todo el país, disminuyendo las disparidades regionales
+evidenciadas en los datos.
+3. Acompañamiento especializado para donantes nuevos
+Los donantes con menos experiencia (1 a 5 años) muestran las percepciones más bajas en
+cuanto a flexibilidad, probablemente debido a su escaso conocimiento sobre los canales,
+plazos y opciones reales de adaptación que proporciona el Teletón. Por este motivo, se
+sugiere implementar un proceso de integración inicial de siete días, orientado a aclarar de
+manera precisa qué modificaciones puede solicitar el donante, cómo se llevan a cabo los
+procedimientos internos y quién será su punto de contacto principal. Esto contribuye a
+disminuir la incertidumbre y facilita la orientación desde el comienzo de la relación.
+De igual manera, se aconseja desarrollar un documento con preguntas frecuentes que se
+puedan resolver de forma inmediata (cambios de horario, aclaraciones, modificaciones
+menores), y establecer un protocolo de flexibilidad ampliada durante los primeros 90 días,
+que permita priorizar sus solicitudes y ofrecer excepciones o ajustes sin inconvenientes.
+Estas medidas refuerzan la confianza temprana y aceleran la percepción positiva de
+flexibilidad entre los nuevos colaboradores.
+Referencias
+Nussbaumer Knaflic, C. (2015). Storytelling with data: A data visualization guide for
+business professionals. Wiley.
+Fundación Teletón México. (2024). Base de datos de satisfacción de empresas cooperantes .
+Proporcionado a estudiantes del Curso CD2001B, Tecnológico de Monterrey.
+Instituto Nacional de Estadística y Geografía. (2020). Estadísticas a propósito del Día
+Internacional de las Personas con Discapacidad. https://www.inegi.org.mx/
+Fundación Teletón México. (2024). Centros de Rehabilitación e Inclusión Infantil Teletón
+(CRIT).https://teleton.org/crit/
+Organización de las Naciones Unidas. (2015). Objetivos de Desarrollo Sostenible.
+https://www.un.org/sustainabledevelopment/es/
+
+--- Página 10 ---
+Organización de las Naciones Unidas. (2015). ODS 3: Salud y bienestar.
+https://www.un.org/sustainabledevelopment/health/
+Organización de las Naciones Unidas. (2015). ODS 10: Reducción de las desigualdades.
+https://www.un.org/sustainabledevelopment/es/inequality/
+Organización de las Naciones Unidas. (2015). ODS 16: Paz, justicia e instituciones sólidas.
+https://www.un.org/sustainabledevelopment/es/peace-justice/
+Naciones Unidas. (1948). Declaración Universal de los Derechos Humanos.
+https://www.un.org
+Comisión Nacional de los Derechos Humanos. (2023). Dignidad humana: concepto y
+alcance. CNDH. https://www.cndh.org.mx
+Instituto Nacional de Estadística y Geografía. (2022). Censo de Población y Vivienda 2020:
+Resultados sobre discapacidad. https://www.inegi.org.mx/programas/ccpv/2020/

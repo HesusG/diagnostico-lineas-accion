@@ -1,0 +1,376 @@
+{
+  "estudiante": "Ramiro Ochoa Loaiza",
+  "fecha": "2025-12-02T20:05:59.074894",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información, como FI_3, R_1, R_2, y C_1.",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas, mostrando medias, medianas, modas, desviaciones estándar y rangos.",
+        "Muestra de manera adecuada la información relevante contenida en las variables, destacando puntos altos y oportunidades de mejora.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones tácticas basadas en los hallazgos."
+      ],
+      "fortalezas": [
+        "Claridad en la identificación y descripción de las variables clave.",
+        "Uso apropiado de estadísticas descriptivas para resumir la información.",
+        "Interpretación coherente de los resultados en relación con el contexto de la organización."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos, como gráficos más atractivos y detallados.",
+        "Profundizar en la interpretación de las correlaciones y su impacto en la calidad del servicio."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen manejo de la estadística descriptiva y su aplicación en el contexto de la organización. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y profundizar en la interpretación de las correlaciones."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "No se presentaron gráficos dinámicos en el trabajo del estudiante"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones que muestren la información relevante para la toma de decisiones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando variables clave como FI_3 (Información clara y correcta) y R_2 (Disposición a ayudar).",
+        "Realiza un análisis estadístico detallado, incluyendo medidas de tendencia central y dispersión, así como pruebas de hipótesis y ANOVA.",
+        "Identifica segmentos con mejor y peor calidad en el servicio, como Educación y Empresa respectivamente.",
+        "Propone acciones tácticas basadas en los hallazgos, como el programa de desarrollo de empatía y la estandarización de procesos por giro."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado.",
+        "Identificación clara de oportunidades de mejora basadas en datos.",
+        "Propuestas de acción alineadas con los insights obtenidos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el uso de herramientas avanzadas de analítica para identificar patrones más complejos.",
+        "Incluir más variables contextuales en el análisis para enriquecer los insights.",
+        "Desarrollar métricas más específicas para evaluar el impacto de las acciones propuestas."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la analítica de negocios y su aplicación para identificar oportunidades de mejora. Las propuestas de acción son relevantes y están bien fundamentadas en los datos. Para alcanzar un nivel destacado, considera incorporar herramientas más avanzadas de análisis y métricas más específicas para evaluar el impacto de las acciones."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identificación clara de la problemática y su relevancia en el contexto nacional",
+        "Análisis detallado de las características de los beneficiarios y su impacto en la calidad de vida",
+        "Uso de datos estadísticos para evaluar la calidad del servicio",
+        "Propuestas de mejora basadas en hallazgos estadísticos"
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo del contexto y la problemática",
+        "Uso de datos y estadísticas para respaldar las conclusiones",
+        "Propuestas de mejora concretas y basadas en evidencia"
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de los prototipos de solución",
+        "Incluir más evidencia sobre la aplicabilidad de las soluciones en diferentes contextos"
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis sólido y bien fundamentado, con propuestas relevantes. Para alcanzar el nivel destacado, se recomienda incluir más evidencia sobre la validación de las soluciones propuestas y su aplicabilidad en diversos contextos."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Generación de un tablero de visualización de indicadores clave para medir la calidad en el servicio",
+        "Identificación de acciones estratégicas para la mejora del servicio basadas en análisis estadístico",
+        "Realización de pruebas de hipótesis y análisis ANOVA para validar estándares organizacionales",
+        "Propuesta de tres acciones tácticas concretas para la mejora organizacional"
+      ],
+      "fortalezas": [
+        "Análisis detallado y cuantitativo de la calidad del servicio",
+        "Identificación clara de áreas de oportunidad y segmentos con mayor necesidad de mejora",
+        "Propuestas de acción específicas y medibles para abordar las problemáticas identificadas"
+      ],
+      "areas_mejora": [
+        "Mayor detalle en la descripción del trabajo colaborativo realizado para llegar a las conclusiones",
+        "Inclusión de evidencias concretas sobre la participación y contribución de otros miembros del equipo"
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en la generación de resultados y compromisos a través del análisis de datos y propuestas de mejora. Para alcanzar un nivel destacado, sería valioso incluir más detalles sobre el proceso colaborativo que llevó a estos resultados y cómo se negociaron las decisiones dentro del equipo."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del contexto social, económico, político y ambiental que afecta a la organización, destacando cómo estos factores impactan en la dignidad y derechos de las personas con discapacidad.",
+        "Propone soluciones constructivas y solidarias, como el programa de desarrollo de empatía y proactividad para promotores, que busca mejorar la calidad del servicio y, por ende, la vida de los beneficiarios.",
+        "Muestra un claro compromiso comunitario al analizar y proponer mejoras para una organización que atiende a niñas, niños y adolescentes con discapacidad, enfocándose en su inclusión y derechos humanos.",
+        "Resalta la importancia de la ética y responsabilidad social al vincular las acciones de la organización con los Objetivos de Desarrollo Sostenible (ODS), específicamente el ODS 3 (Salud y Bienestar) y el ODS 10 (Reducción de las Desigualdades)."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de la problemática y su impacto en la sociedad.",
+        "Propuestas de mejora bien fundamentadas y alineadas con los principios éticos y de responsabilidad social.",
+        "Sensibilidad social y compromiso con la dignidad y derechos de las personas con discapacidad."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo las propuestas específicas impactarán directamente en la vida de los beneficiarios, más allá de los indicadores numéricos."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las propuestas son sólidas y reflejan un compromiso genuino con la mejora de la calidad de vida de los beneficiarios. Continúa desarrollando este enfoque humanista en tus futuros proyectos."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (FI_3, R_1, R_2, C_1).",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas.",
+        "Muestra de manera adecuada la información relevante contenida en las variables (medias, medianas, modas, desviaciones estándar, rangos).",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (correlaciones, diferencias por segmentos)."
+      ],
+      "fortalezas": [
+        "Claridad en la presentación de los datos estadísticos.",
+        "Interpretación coherente de los resultados en relación con los objetivos del estudio.",
+        "Identificación clara de áreas de oportunidad basadas en los datos."
+      ],
+      "areas_mejora": [
+        "Incluir visualizaciones gráficas que complementen las tablas de datos.",
+        "Profundizar en el análisis de las diferencias entre segmentos con más detalle estadístico.",
+        "Mejorar la presentación de los resultados de la prueba de hipótesis para mayor claridad."
+      ],
+      "retroalimentacion": "El estudiante ha demostrado un sólido manejo de la estadística descriptiva, identificando y analizando adecuadamente las variables clave. Se sugiere incorporar más elementos visuales y profundizar en algunos análisis para alcanzar un nivel destacado."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Generación de gráficos dinámicos",
+        "Selección de tipos de gráficos apropiados",
+        "Interpretación de información gráfica"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Se recomienda incluir visualizaciones que apoyen el análisis estadístico presentado."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando áreas de oportunidad como la eficiencia operativa y la actitud de servicio.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como el programa de desarrollo de empatía y proactividad para promotores.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la dependencia de la recaudación y la sostenibilidad a largo plazo."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos y correlaciones entre variables.",
+        "Propuestas de acción claras y específicas, con métricas de éxito definidas."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas de análisis más avanzadas para obtener insights más detallados.",
+        "Falta de evidencia visual (gráficos dinámicos) que respalden los hallazgos."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de los insights y propone acciones relevantes. Para mejorar, considera incorporar herramientas de visualización de datos que respalden tus hallazgos y faciliten la comunicación de los mismos."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa de Desarrollo de Empatía y Proactividad' y la 'Estandarización de Procesos por Giro'.",
+        "Valida las características de los prototipos mediante pruebas de hipótesis y análisis estadísticos, como la prueba ANOVA y correlaciones.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como el segmento de Empresas y Gubernamentales, identificando oportunidades de mejora claras."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las propuestas de mejora.",
+        "Identificación clara de segmentos con mayores oportunidades de mejora y acciones tácticas específicas para cada uno."
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de las soluciones propuestas con prototipos más detallados o pilotos.",
+        "Incluir más evidencias de cómo las soluciones innovadoras podrían ser implementadas y monitoreadas en la práctica."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y genera soluciones innovadoras basadas en datos. Para alcanzar un nivel destacado, considera desarrollar prototipos más detallados y planes de implementación específicos."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis estadístico y la interpretación de datos para medir la calidad del servicio en la ONG.",
+        "Establece compromisos y acciones tácticas específicas para mejorar la calidad del servicio, como el programa de desarrollo de empatía y la estandarización de procesos por giro.",
+        "Logra de manera consistente los objetivos planteados al identificar áreas de oportunidad y proponer soluciones basadas en datos."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de los datos recopilados.",
+        "Propuestas de mejora claras y específicas, basadas en los hallazgos del análisis.",
+        "Enfoque en la mejora continua y la sostenibilidad de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más evidencias de trabajo colaborativo directo, como reuniones o discusiones con otros miembros del equipo.",
+        "Falta de detalles sobre la implementación práctica de las propuestas y cómo se medirá su éxito a largo plazo."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el análisis y propuestas de mejora. Para alcanzar un nivel destacado, considera incluir más evidencias de colaboración directa y detalles sobre la implementación de las acciones propuestas."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del contexto social, económico y político que afecta a las personas con discapacidad en México, destacando cómo la organización aborda estas problemáticas.",
+        "Propone soluciones constructivas y solidarias, como el programa de desarrollo de empatía y proactividad para promotores, que impactan directamente en la calidad del servicio y, por ende, en la vida de los beneficiarios.",
+        "Muestra un claro compromiso comunitario al enfocarse en mejorar la calidad del servicio para asegurar el financiamiento necesario para la rehabilitación de niños con discapacidad.",
+        "Resalta el respeto a la dignidad de las personas al asegurar que los tratamientos sean de alta calidad y accesibles, contribuyendo a su inclusión social."
+      ],
+      "fortalezas": [
+        "Sensibilidad social y compromiso con la comunidad.",
+        "Capacidad para generar soluciones innovadoras y solidarias.",
+        "Respeto y consideración por la dignidad y derechos de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo medir el impacto real de las propuestas en la vida de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso ético y social profundo. Continúa desarrollando propuestas que no solo mejoren los procesos, sino que también tengan un impacto tangible en la calidad de vida de las personas."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Generación de gráficos dinámicos",
+          "Selección de tipos de gráficos apropiados",
+          "Interpretación de información gráfica"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Sensibilidad social y compromiso con la comunidad.",
+          "Capacidad para generar soluciones innovadoras y solidarias.",
+          "Respeto y consideración por la dignidad y derechos de los beneficiarios."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (FI_3, R_1, R_2, C_1).",
+        "Utiliza herramientas tecnológicas y resume de manera adecuada la información mediante tablas de frecuencia y estadísticas descriptivas.",
+        "Muestra de manera adecuada la información relevante contenida en las variables (medias, medianas, modas, desviaciones estándar, rangos).",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (correlaciones, diferencias por segmentos)."
+      ],
+      "fortalezas": [
+        "Claridad en la presentación de los datos estadísticos.",
+        "Interpretación coherente de los resultados en relación con los objetivos del estudio.",
+        "Identificación clara de áreas de oportunidad basadas en los datos."
+      ],
+      "areas_mejora": [
+        "Incluir visualizaciones gráficas que complementen las tablas de datos.",
+        "Profundizar en el análisis de las diferencias entre segmentos con más detalle estadístico.",
+        "Mejorar la presentación de los resultados de la prueba de hipótesis para mayor claridad."
+      ],
+      "retroalimentacion": "El estudiante ha demostrado un sólido manejo de la estadística descriptiva, identificando y analizando adecuadamente las variables clave. Se sugiere incorporar más elementos visuales y profundizar en algunos análisis para alcanzar un nivel destacado.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Generación de gráficos dinámicos",
+        "Selección de tipos de gráficos apropiados",
+        "Interpretación de información gráfica"
+      ],
+      "retroalimentacion": "No se encontraron evidencias de gráficos dinámicos en el trabajo presentado. Se recomienda incluir visualizaciones que apoyen el análisis estadístico presentado.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes, identificando áreas de oportunidad como la eficiencia operativa y la actitud de servicio.",
+        "Propone líneas de acción estratégicas basadas en los hallazgos, como el programa de desarrollo de empatía y proactividad para promotores.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como la dependencia de la recaudación y la sostenibilidad a largo plazo."
+      ],
+      "fortalezas": [
+        "Análisis detallado de los datos y correlaciones entre variables.",
+        "Propuestas de acción claras y específicas, con métricas de éxito definidas."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas de análisis más avanzadas para obtener insights más detallados.",
+        "Falta de evidencia visual (gráficos dinámicos) que respalden los hallazgos."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen entendimiento de los insights y propone acciones relevantes. Para mejorar, considera incorporar herramientas de visualización de datos que respalden tus hallazgos y faciliten la comunicación de los mismos.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como el 'Programa de Desarrollo de Empatía y Proactividad' y la 'Estandarización de Procesos por Giro'.",
+        "Valida las características de los prototipos mediante pruebas de hipótesis y análisis estadísticos, como la prueba ANOVA y correlaciones.",
+        "Garantiza aplicabilidad efectiva en contextos específicos como el segmento de Empresas y Gubernamentales, identificando oportunidades de mejora claras."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las propuestas de mejora.",
+        "Identificación clara de segmentos con mayores oportunidades de mejora y acciones tácticas específicas para cada uno."
+      ],
+      "areas_mejora": [
+        "Profundizar en la validación de las soluciones propuestas con prototipos más detallados o pilotos.",
+        "Incluir más evidencias de cómo las soluciones innovadoras podrían ser implementadas y monitoreadas en la práctica."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido entendimiento de la problemática y genera soluciones innovadoras basadas en datos. Para alcanzar un nivel destacado, considera desarrollar prototipos más detallados y planes de implementación específicos.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis estadístico y la interpretación de datos para medir la calidad del servicio en la ONG.",
+        "Establece compromisos y acciones tácticas específicas para mejorar la calidad del servicio, como el programa de desarrollo de empatía y la estandarización de procesos por giro.",
+        "Logra de manera consistente los objetivos planteados al identificar áreas de oportunidad y proponer soluciones basadas en datos."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado de los datos recopilados.",
+        "Propuestas de mejora claras y específicas, basadas en los hallazgos del análisis.",
+        "Enfoque en la mejora continua y la sostenibilidad de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir más evidencias de trabajo colaborativo directo, como reuniones o discusiones con otros miembros del equipo.",
+        "Falta de detalles sobre la implementación práctica de las propuestas y cómo se medirá su éxito a largo plazo."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido desempeño en el análisis y propuestas de mejora. Para alcanzar un nivel destacado, considera incluir más evidencias de colaboración directa y detalles sobre la implementación de las acciones propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra un profundo entendimiento del contexto social, económico y político que afecta a las personas con discapacidad en México, destacando cómo la organización aborda estas problemáticas.",
+        "Propone soluciones constructivas y solidarias, como el programa de desarrollo de empatía y proactividad para promotores, que impactan directamente en la calidad del servicio y, por ende, en la vida de los beneficiarios.",
+        "Muestra un claro compromiso comunitario al enfocarse en mejorar la calidad del servicio para asegurar el financiamiento necesario para la rehabilitación de niños con discapacidad.",
+        "Resalta el respeto a la dignidad de las personas al asegurar que los tratamientos sean de alta calidad y accesibles, contribuyendo a su inclusión social."
+      ],
+      "fortalezas": [
+        "Sensibilidad social y compromiso con la comunidad.",
+        "Capacidad para generar soluciones innovadoras y solidarias.",
+        "Respeto y consideración por la dignidad y derechos de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo medir el impacto real de las propuestas en la vida de los beneficiarios."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un compromiso ético y social profundo. Continúa desarrollando propuestas que no solo mejoren los procesos, sino que también tengan un impacto tangible en la calidad de vida de las personas.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 71.6,
+  "nivel_final": "Básico"
+}

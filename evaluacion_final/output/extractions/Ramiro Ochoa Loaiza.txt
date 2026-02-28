@@ -1,0 +1,270 @@
+--- Página 1 ---
+Reporte Final de Reto
+Diagnóstico para líneas estratégicas.
+Ramiro Ochoa Loaiza A01640248
+Objetivo: En el presente reto deberán medir la calidad en el servicio en una
+Organización No Gubernamental o No Lucrativa (ONG), con la intención de generar un
+tablero de visualización de los indicadores clave que contribuyan a la satisfacción del servicio
+al cliente en sus diferentes áreas y/o departamentos, e identificar acciones estratégicas que
+deben ser implementadas para su mejora.
+1. Contexto social, económico, político y ambiental sobre el cual se lleva a cabo la labor de la
+organización, reconociendo cómo esto impacta en la vida y dignidad de las personas.
+Considerando:
+En el país existe una elevada demanda de servicios de rehabilitación y apoyo para personas con
+discapacidad; las brechas en cobertura y acceso están relacionadas con desigualdades económicas,
+limitaciones en infraestructura y distribución territorial de los servicios, y factores culturales que
+pueden obstaculizar la búsqueda de atención.Economicamente, la sostenibilidad de las
+organizaciones que brindan estos servicios dependen de financiamiento mixto y de la eficiencia
+operativa para optimizar recursos, mientras que los factores regulatorios y políticos influyen en la
+coordinación entre sector público y privado. A nivel ambiental, la operación requiere considerar
+accesibilidad física, transporte y gestión responsable de insumos. En conjunto, estas condiciones
+generan problemáticas como la insuficiente cobertura en zonas rurales y marginadas, limitaciones
+presupuestales que afectan la calidad y continuidad de los servicios, dificultades logísticas para
+26 de Noviembre del 2025.
+
+--- Página 2 ---
+garantizar entregas y seguimiento, brechas en la capacitación del personal, y falta de indicadores
+consolidados para medir impacto y mejorar procesos.
+a) ¿Qué problemática atiende la organización?
+La organización atiende la falta de acceso oportuno y de calidad a la rehabilitación integral para
+niñas, niños y adolescentes (NNA) con discapacidad neuromusculoesquelética en México, así como
+el fomento de una cultura de inclusión.
+b) ¿Por qué es una problemática relevante en el país?
+Es relevante porque, según datos históricos, la discapacidad en México afecta a millones de
+personas. La infraestructura pública de rehabilitación es escasa y se concentra en grandes ciudades,
+dejando desprotegidos a los NNA de áreas de alta vulnerabilidad. La discriminación y la falta de
+inclusión son barreras adicionales que impiden a este grupo ejercer plenamente sus derechos.
+c) ¿Por qué es relevante la labor que realiza la organización?
+Teletón es relevante por ser el mayor sistema privado de rehabilitación integral en México,
+complementando la labor del Estado. Proporciona tratamientos de alta especialidad con tecnología
+de punta en sus Centros de Rehabilitación Infantil Teletón (CRITs), a menudo siendo la única
+alternativa viable para muchas familias de escasos recursos, impactando directamente su calidad de
+vida y las posibilidades de inclusión de los NNA.
+26 de Noviembre del 2025.
+
+--- Página 3 ---
+d) ¿Cuáles son las características que suelen tener sus beneficiarios?
+Edad: Niñas, niños y adolescentes (NNA).
+Condición: Presentan discapacidades neuromusculoesqueléticas (parálisis cerebral, lesión medular,
+enfermedades genéticas, etc.).
+Socioeconómico: Generalmente provienen de familias de bajos recursos o en situación de
+vulnerabilidad, que no podrían costear el tratamiento especializado por su cuenta.
+Geográfico: Familias de todo el país, incluyendo zonas rurales y marginadas.
+e) ¿Cuál es la cantidad de beneficiarios que atiende?
+Para proporcionar un dato actualizado y preciso en el reporte, se requiere una búsqueda externa,
+pero históricamente, la organización ha atendido a más de 600,000 niños y sus familias a lo largo de
+sus años de operación. Se recomienda buscar el dato más reciente en su sitio web oficial (ej. cerca
+de 30,000 atenciones anuales en sus centros).
+f) ¿Cuál es el argumento ético que sustenta su labor (ODS)?
+El argumento ético se sustenta en el derecho a la salud, la no discriminación y la inclusión. Su labor
+contribuye directamente al Objetivo de Desarrollo Sostenible (ODS) 3: Salud y Bienestar (Meta
+3.8: Lograr la cobertura sanitaria universal), y al ODS 10: Reducción de las Desigualdades (Meta
+26 de Noviembre del 2025.
+
+--- Página 4 ---
+10.2: Potenciar y promover la inclusión social, económica y política de todas las personas,
+independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación
+económica u otra condición).
+g) ¿Qué problemáticas puede tener la organización para llevar a cabo su labor?
+Dependencia de la recaudación: Alta dependencia de la donación pública y empresarial, lo que
+hace vulnerable su presupuesto ante crisis económicas o cambios en la confianza pública.
+Sostenibilidad a largo plazo: El alto costo de la tecnología y la operación de los CRITs requiere
+una gestión financiera continua y eficiente.
+Competencia por la Donación: Hay una gran cantidad de ONGs en México compitiendo por los
+mismos recursos.
+Desafíos de Logística: Atender a familias de zonas lejanas implica desafíos de transporte y
+albergue.
+h) ¿Cuál es la aportación que brinda los productos y evidencias realizadas en este bloque a la
+labor que lleva a cabo la organización?
+Los productos y evidencias (el análisis estadístico) brindan una evaluación objetiva y cuantificable
+de la calidad del servicio que ofrecen sus promotores a las instituciones benefactoras. Esto es
+crucial porque:
+26 de Noviembre del 2025.
+
+--- Página 5 ---
+Los promotores son el vínculo con la fuente de financiamiento (empresas/instituciones).
+Una baja calidad en el servicio del promotor puede llevar a la pérdida de benefactores y, por ende, a
+la disminución de recursos para los niños. La evidencia ayuda a identificar oportunidades de mejora
+operativa en las áreas de comunicación, respuesta, y actitud de apoyo.
+i) ¿Cómo es que este reto contribuye a que la organización preste mejor su servicio a sus
+usuarios?
+Al mejorar la calidad de atención a los benefactores, se asegura una base de financiamiento más
+sólida y estable. Una base financiera robusta permite:
+Mantener la operación de los CRITs.
+Invertir en tecnología de rehabilitación de vanguardia.
+Expandir los programas de inclusión. En esencia, mejorar el servicio al donante indirectamente
+mejora el servicio al niño con discapacidad, ya que garantiza que el apoyo de rehabilitación no se
+detenga.
+j) ¿Cómo se abona para el ejercicio de sus derechos humanos y el respeto a su dignidad?
+Mejorar la calidad del servicio garantiza el flujo de recursos que sustentan el derecho a la salud y
+rehabilitación (derecho humano fundamental) de los NNA. Al asegurar la continuidad y calidad de
+26 de Noviembre del 2025.
+
+--- Página 6 ---
+los tratamientos, se abona a que el niño pueda alcanzar su máximo potencial, lo cual es esencial
+para el respeto a su dignidad y su derecho a la inclusión y participación social.
+k) ¿Cómo es que el resultado final de este reto puede favorecer al cumplimiento del Objetivo
+de Desarrollo Sostenible 16?
+El ODS 16 es Paz, Justicia e Instituciones Sólidas. El resultado final del reto (la mejora de la
+calidad de servicio a benefactores) favorece este ODS al:
+Fomentar la Confianza y la Transparencia: Al proporcionar un servicio de alta calidad, Teletón se
+presenta como una institución sólida y confiable, aumentando la confianza de la sociedad civil y
+empresarial en el sector no lucrativo.
+Construir Alianzas Efectivas: Una buena calidad de servicio facilita las alianzas (Meta 17.17),
+necesarias para movilizar recursos, promoviendo instituciones más eficaces.
+2. Entrega de tableros de visualización (Integrar la evidencia 1)
+26 de Noviembre del 2025.
+
+--- Página 7 ---
+3. ¿Cuáles son las medidas de tendencia central y dispersión por pregunta?
+Variable Descripción Media Mediana Moda Desviación Rango
+(Promedio) Estándar
+FI_3 Información 4.17 4.00 4 0.78 4
+clara y
+correcta
+R_1 Respuesta 3.89 4.00 4 0.86 4
+rápida
+26 de Noviembre del 2025.
+
+--- Página 8 ---
+R_2 Disposición a 3.93 4.00 4 0.88 4
+ayudar y
+resolver
+C_1 Percepción de 3.96 4.00 4 0.81 4
+Calidad en el
+Servicio
+Media y mediana: Todas las variables presentan una mediana cercana a 4.00 o superior, lo que
+confirma una percepción de servicios entre “Bueno” (4) y “Excelente” (5)
+Punto Alto: La variable mejor calificada es FI_ 3 (Información clara y correcta) con una media de
+4.17.
+Punto de Oportunidad: Las variables R_1 (Respuesta rápida) y R_2 (Disposición a ayudar) son
+las que tienen las medias ligeramente inferiores, lo que sugiere que la eficiencia operativa y la
+actitud de servicio son áreas donde la percepción, aunque positiva, es menos consistente que la
+claridad de la información.
+Dispersión (Desv. Estándar): La desviación estándar es relativamente baja (entre 0.78 y 0.88),
+indicando que las respuestas de los benefactores están bastante agrupadas alrededor de la media,
+reforzando la idea de una experiencia de servicio homogéneamente positiva.
+26 de Noviembre del 2025.
+
+--- Página 9 ---
+4. Realiza una prueba de hipótesis para validar el cumplimiento de un estándar
+organizacional relevante.
+Se puede notar en el resultado de la hipótesis que la calidad del servicio al benefactor es una
+oportunidad de mejora urgente y que la organización no solo está fallando en alcanzar excelencia,
+sino que consistentemente está percibiendo una calidad entre deficiente/Regular y bueno, lo que
+pone en riesgo la confianza y la retención de los benefactores, afectando directamente la
+sostenibilidad del financiamiento para la rehabilitación de los niños. La meta debe ser llevar la
+media muestral a un valor estadísticamente superior a 4.0, enfocándose en los factores de mayor
+26 de Noviembre del 2025.
+
+--- Página 10 ---
+impacto identificados, como la Disposición a Ayudar (R_2).
+Hipótesis: “El objetivo de esta prueba fue validar si la calidad en el servicio percibida por los
+benefactores (C_1), en una escala de 1 a 5, supera el estándar mínimo organizacional de 4.0
+(“Bueno”)”.
+5. Considerando las diferentes áreas, departamentos o grupos de la organización sin fines de
+lucro o segmentos de usuarios ¿existe diferencia en la calidad en el servicio?
+Se busca determinar si existe una diferencia significativa en la percepción de calidad en el servicio
+(C_1) entre los diferentes segmentos de benefactores, como el Giro de la empresa o el puesto del
+responsable.
+Giro Media de Calidad (C_1)
+Educación 4.08
+Asociación civil 4.00
+Persona física 3.93
+Gubernamental 3.90
+26 de Noviembre del 2025.
+
+--- Página 11 ---
+Empresa 3.82
+Teletón 3.50
+Se realiza una prueba ANOVA para determinar si las diferencias en las medias son
+estadísticamente significativas.
+6. ¿Qué áreas, departamentos o grupos de la organización sin fines de lucro o segmentos de
+26 de Noviembre del 2025.
+
+--- Página 12 ---
+usuarios presentan una mejor calidad en el servicio? ¿Cuáles presentan las mayores
+oportunidades de mejora?
+Segmentos con Mejor Calidad en el Servicio
+Educación (Media C_1: 4.08): Presentan la mejor percepción de calidad. Esto puede deberse a que
+sus procesos son más compatibles con la dinámica de la fundación (calendario de campañas,
+necesidad de documentación), o que el promotor asignado a este sector ha desarrollado un alto nivel
+de especialización.
+Asociación Civil (Media C_1: 4.00): Tienen una percepción de calidad alineada con el estándar de
+"Bueno".
+Segmentos con Mayores Oportunidades de Mejora
+Empresa (Media C_1: 3.82) y Gubernamental (Media C_1: 3.90): Estos segmentos tienen las
+percepciones de calidad más bajas entre los grupos grandes.
+Razón Potencial: Las Empresas suelen tener demandas de eficiencia, rapidez (R_1) y procesos
+muy estrictos, y el promotor podría estar fallando en cumplir sus expectativas de agilidad.
+Razón Potencial: Las instituciones gubernamentales suelen requerir procesos y documentación
+(FI_3) mucho más rigurosos y lentos, donde cualquier falla en la claridad o el seguimiento genera
+una baja percepción.
+8. ¿Qué correlación existe entre las variables independientes con la variable dependiente
+(calidad en el servicio)?
+26 de Noviembre del 2025.
+
+--- Página 13 ---
+Correlación Fuerte y Positiva: Las tres variables independientes muestran una correlación
+fuerte y positiva con la Calidad en el Servicio (C_1). Esto significa que a mayor puntaje en
+cualquiera de las variables del promotor, mayor es la percepción de Calidad.Relación Más Fuerte:
+La Disposición a Ayudar (R_2) es la que tiene la correlación más alta (r = 0.87), confirmando lo
+encontrado en el modelo de regresión: la actitud, empatía y el apoyo proactivo del promotor son el
+factor más decisivo para que un benefactor perciba la calidad del servicio como excelente.Relación
+Más Moderada: La Respuesta Rápida (R_1) presenta la correlación más moderada (r = 0.65). Esto
+refuerza que la calidad de la solución es más importante que la velocidad en la entrega, aunque
+ambos factores contribuyen.
+9. ¿Qué acciones tácticas se proponen a partir de los hallazgos para la mejora organizacional
+26 de Noviembre del 2025.
+
+--- Página 14 ---
+(3 propuestas relevantes)?
+Propuesta 1: Programa de Desarrollo de Empatía y Proactividad ("Promotor Coach")
+Hallazgo que Atiende: R_2 (Disposición a Ayudar) es el predictor más fuerte de C_1.
+Acción Táctica: Diseñar un programa de capacitación continuo para promotores enfocado en
+habilidades blandas como la escucha activa, empatía y solución proactiva de problemas (ir más allá
+de la respuesta solicitada).
+Métrica de Éxito: Incrementar la media de la variable R_2 en 0.5 puntos en el próximo semestre,
+lo que impactará directamente en la mejora de C_1.
+Propuesta 2: Estandarización de Procesos por Giro (Especialización del Promotor)
+Hallazgo que Atiende: Diferencia significativa en C_1 por Giro, con Empresas y Gubernamentales
+siendo los menos satisfechos.
+Acción Táctica: Crear protocolos de servicio y documentación específicos para los segmentos de
+Empresa y Gubernamental. Por ejemplo, para Empresa: un SLA (Acuerdo de Nivel de Servicio) de
+24 horas para respuesta a solicitudes de alto impacto. Para Gubernamental: un checklist de 10 pasos
+para la documentación oficial.
+Métrica de Éxito: Reducir la diferencia en la media de C_1 entre el Giro mejor calificado
+(Educación) y los Giros Empresa/Gubernamental a menos de 0.15 puntos.
+Propuesta 3: Optimización Estratégica de la Información (Calidad sobre Cantidad)
+26 de Noviembre del 2025.
+
+--- Página 15 ---
+Hallazgo que Atiende: FI_ 3 (Información Clara) es la variable de mejor desempeño, pero la
+rapidez (R_1) es la menos influyente.
+Acción Táctica: Auditar y simplificar los materiales de primer contacto y la documentación.
+Enfocarse en la calidad, transparencia e impacto de la información (¿Cómo ayuda el dinero al
+niño?) más que en la simple entrega rápida. Implementar un "Kit de Bienvenida Digital" conciso
+que cubra las 5 preguntas más comunes de cada segmento (Empresa, Gobierno, etc.).
+Métrica de Éxito: Mantener la media de FI_ 3 por encima de 4.10 y obtener un mejor equilibrio en
+los coeficientes de regresión entre R_1 y R_2 al mejorar la relevancia de la respuesta, no solo su
+velocidad.
+26 de Noviembre del 2025.
+
+--- Página 16 ---
+Entregables y Evaluación Final de Reto
+Para la entrega final del reto se deberá incluir la información
+trabajada y corregida a partir de la retroalimentación
+Entregables 1 y 2:
+recibida por parte del profesor sobre los entregables 1 y 2
+del reto.
+El reporte final deberá ser subido a Canvas en formato PDF o
+Word al inicio de la sesión de presentaciones finales.
+Entrega de reporte final:
+● 10 minutos (máximo) de presentación por equipo
+Presentación Final (ante
+● 5 minutos Q & A -Evaluación Argumentativa.
+los profesores del bloque):
+Para conocer el detalle, por favor revisar la sección de
+Plan de evaluación en el Canvas.
+Evaluación de Reto:
+26 de Noviembre del 2025.

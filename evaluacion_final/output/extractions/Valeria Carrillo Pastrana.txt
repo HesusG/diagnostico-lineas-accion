@@ -1,0 +1,318 @@
+--- Página 1 ---
+Valeria Carrillo Pastrana
+Matrícula: A01424037
+Evidencia 2ª parte Martes 25 de noviembre de 2025
+
+--- Página 2 ---
+Evidencia única - 2a parte: Medición de la
+Calidad en el Servicio: Acciones Estratégicas
+e Impacto Social. Individual.
+Fundación Teletón opera en un entorno donde la confianza, la transparencia y la calidad
+del servicio determinan la continuidad de alianzas con empresas, instituciones y
+benefactores individuales. Sin embargo, la percepción de transparencia no es uniforme en
+todo México: depende de la experiencia directa que tiene cada benefactor con el promotor
+y del contexto del estado en el que opera.
+A esto se suma que cada giro (empresa, gobierno, asociación civil, educación, persona
+física) presenta niveles de exigencia y sensibilidad distintos.
+Por ello, esta investigación busca responder: ¿La ubicación geográfica y el giro del
+benefactor influyen en cómo se perciben la transparencia, la calidad y la satisfacción
+del servicio?
+Contexto social, económico, político y ambiental
+Social
+En México viven más de 6.18 millones de personas con discapacidad (INEGI, 2020),
+muchas de las cuales enfrentan barreras estructurales en movilidad, educación y acceso a
+salud. Esto coloca a niños, niñas y adolescentes en una situación de vulnerabilidad
+profunda que afecta su autonomía, inclusión y dignidad.
+En cuanto al autismo, en México se estima que 1 de cada 115 niños está dentro del espectro
+autista, cifra que evidencia la necesidad de servicios especializados y de atención temprana
+(Fundación Teletón México, 2024a).
+Económico
+El costo de tratamientos, terapias y atención especializada es elevado y muchas familias
+no pueden cubrirlos. La Fundación Teletón subsidia gran parte del costo: por ejemplo, el
+costo interno anual por persona atendida en discapacidad es de $40,489 pesos, mientras
+que a las familias solo les corresponde aportar $1,568 pesos, equivalente al 3.9 %
+(Fundación Teletón México, 2024b). Esto reduce significativamente la carga económica.
+Político
+En 2024, México reconoció el derecho constitucional a la rehabilitación, derivado en gran
+parte del impulso social y político de Fundación Teletón (Milenio Digital, 2024). Este avance
+
+--- Página 3 ---
+refleja que la rehabilitación dejó de ser un privilegio para convertirse en un derecho
+institucionalizado. Además, la Ley General para la Inclusión de las Personas con
+Discapacidad establece obligaciones de accesibilidad, igualdad y no discriminación
+(Cámara de Diputados, 2011).
+Ambiental
+Aunque el impacto ambiental no es central en la misión, la organización opera en un país
+donde la infraestructura urbana y de movilidad aún es poco accesible, lo que limita el
+desplazamiento y la participación social de personas con discapacidad. Esto convierte al
+entorno físico en un factor ambiental que incide en la calidad de vida y dignidad de los
+beneficiarios.
+La problemática central que atiende Fundación Teletón incluye la discapacidad infantil, el
+trastorno del espectro autista y el cáncer infantil. Su modelo de atención integral se basa
+en rehabilitación física, intervención educativa, apoyo psicosocial, terapias especializadas
+y acompañamiento familiar. Esta problemática es particularmente relevante en México
+porque existe un déficit histórico de centros especializados y de políticas públicas
+suficientemente robustas para atender estas necesidades. La Fundación juega un papel
+crítico al complementar los servicios públicos y reducir desigualdades. La magnitud de su
+impacto es significativa: opera 24 Centros de Rehabilitación e Inclusión Infantil, un hospital
+oncológico, un Centro de Autismo y una universidad especializada, atendiendo a más de
+30,000 personas cada año y acumulando más de 840,000 beneficiarios atendidos desde su
+fundación (Fundación Teletón México, 2024e).
+Los beneficiarios de la Fundación suelen ser niñas, niños y adolescentes con alguna
+discapacidad física o intelectual, con diagnóstico de autismo o con cáncer infantil. Muchos
+de ellos provienen de contextos socioeconómicos vulnerables, con oportunidades limitadas
+de acceso a servicios de salud, movilidad y educación especializada. La Fundación también
+acompaña a las familias en procesos de inclusión escolar y social, lo que se evidencia en
+datos como que el 82 % de los niños atendidos en el Centro de Autismo están escolarizados
+gracias al acompañamiento institucional (Fundación Teletón México, 2024a).
+El argumento ético que sustenta la labor de Fundación Teletón se alinea con los marcos
+internacionales de derechos humanos y con los Objetivos de Desarrollo Sostenible. Su
+trabajo está intrínsecamente ligado al ODS 3 (Salud y Bienestar), al garantizar acceso a
+servicios médicos especializados; al ODS 4 (Educación de Calidad), mediante la inclusión
+escolar; y al ODS 10 (Reducción de las Desigualdades), al atender a poblaciones
+históricamente excluidas. Asimismo, la organización fortalece su compromiso con el ODS
+16 (Paz, Justicia e Instituciones Sólidas) a través de prácticas de transparencia, rendición
+de cuentas y fortalecimiento institucional, como queda demostrado en su plataforma
+“Cuentas Claras” (Fundación Teletón México, 2024d).
+Sin embargo, la Fundación también enfrenta problemáticas que dificultan su operación.
+Entre estas se encuentran la necesidad permanente de recaudación de fondos, la alta
+demanda de servicios, la saturación de algunos centros, la necesidad de mantener
+infraestructura especializada y la gestión de procesos complejos a nivel nacional. También
+enfrenta barreras sociales vinculadas a estigmas hacia la discapacidad y el autismo, así
+como limitaciones en movilidad y accesibilidad en las zonas donde se encuentran sus
+beneficiarios.
+
+--- Página 4 ---
+En este contexto, el proyecto que estás desarrollando, medir el nivel de servicio de los
+promotores hacia instituciones y empresas benefactoras, constituye una aportación directa
+a la calidad institucional de la Fundación. Este análisis no solo identifica áreas de mejora
+en la comunicación, el seguimiento y la gestión de relaciones, sino que también revela
+cómo el contexto geográfico y el giro del benefactor influyen en la forma en que se
+percibe la transparencia y la claridad del servicio.
+Al generar herramientas de evaluación, estadísticas descriptivas y propuestas de acción
+diferenciadas por estado y por giro, se fortalece la capacidad de la institución para
+establecer relaciones más sólidas, contextualizadas y sostenibles con aliados
+estratégicos. Una vinculación más eficiente, adaptada a las sensibilidades regionales y a
+las necesidades específicas de cada tipo de benefactor, se traduce en mayor confianza,
+mejores alianzas y oportunidades de crecimiento en la recaudación.
+Este reto también contribuye a que la organización preste un mejor servicio a sus usuarios,
+ya que optimizar la labor del promotor con información contextualizada asegura una
+gestión más eficiente de los recursos y una mayor estabilidad financiera. Cuando las
+relaciones con benefactores se fortalecen de forma estratégica, los centros Teletón pueden
+ofrecer un mayor número de terapias, reducir tiempos de espera, mejorar instalaciones y
+ampliar la cobertura.
+El trabajo desarrollado abona al respeto de los derechos humanos y la dignidad de los
+beneficiarios al fortalecer las condiciones institucionales necesarias para garantizar su
+acceso a la salud, a la educación y a una vida plena e inclusiva. También contribuye al
+cumplimiento del ODS 16 porque promueve prácticas institucionales basadas en evidencia,
+rendición de cuentas, monitoreo, transparencia y mejora continua. Al fortalecer a la
+Fundación como institución sólida, justa e inclusiva, se contribuye a construir un entorno
+más equitativo para los grupos vulnerables que atiende.
+Medidas de tendencia central y dispersión por pregunta
+Previo a la presentación de los tableros, se calcularon las medidas de tendencia central y
+dispersión para cada reactivo de la encuesta aplicada a benefactores. En general, las
+variables evaluadas en escala de 1 a 5 muestran medias que oscilan entre 3.57 y 4.02, con
+medianas mayoritariamente iguales a 4 y modas también de 4. Esta concentración indica
+que la percepción del servicio se encuentra en rangos favorables y consistentes. Las
+desviaciones estándar menores a 0.8 reflejan poca dispersión, lo que significa que no hay
+grupos masivamente insatisfechos o con experiencias polarizadas.
+En el caso específico de la variable clave “Calidad del servicio” (C_1), la media se ubicó en
+3.63, con una desviación estándar de 0.75, lo cual refleja un nivel de satisfacción
+moderadamente alto, aunque todavía por debajo del estándar institucional esperado de 4.0.
+Esta consistencia en las respuestas se refuerza mediante el rango reducido entre mínimos
+y máximos, lo que demuestra estabilidad en la percepción general del servicio.
+
+--- Página 5 ---
+Prueba de hipótesis para validar el cumplimiento de un estándar organizacional
+Con el fin de evaluar si Teletón cumple su estándar de calidad, se realizó una prueba de
+hipótesis tomando como referencia un valor mínimo esperado de 4.0 en la variable C_1. Se
+planteó como hipótesis nula que la calidad percibida es igual o mayor a 4.0, y como
+hipótesis alternativa que esta es significativamente menor. Los resultados obtenidos
+muestran una media de 3.63 y una desviación estándar de 0.75. La prueba t arrojó un valor
+p < 0.001, lo que permite rechazar la hipótesis nula y confirmar que la percepción de calidad
+es inferior al estándar esperado.
+Aunque el valor obtenido sigue siendo positivo, estos resultados sugieren la existencia de
+una brecha real entre la calidad ideal y la calidad experimentada por los benefactores, lo
+que abre la puerta a líneas de mejora importantes en las dimensiones del servicio.
+Diferencias en la calidad del servicio por áreas, departamentos o segmentos
+Posteriormente, se analizó si la calidad del servicio percibida variaba entre los distintos giros
+de benefactores: asociación civil, educación, empresa, gobierno, persona física y grupos
+internos de Teletón. Si bien el ANOVA mostró un valor p ≈ 0.07, lo cual implica que no
+existen diferencias estadísticamente significativas al 95 %, sí se observan diferencias
+relevantes desde una perspectiva institucional.
+Los segmentos presentan medias distintas que sugieren tendencias importantes: algunos
+giros muestran experiencias más positivas y otros muestran mayores exigencias y
+expectativas. Estas diferencias, aunque no sean significativas al umbral estadístico más
+estricto, sí son estratégicamente relevantes para la gestión de la calidad.
+
+--- Página 6 ---
+Segmentos con mejor calidad del servicio y segmentos con mayores oportunidades
+de mejora
+El análisis descriptivo por giro revela que las asociaciones civiles y los grupos internos de
+Teletón presentan las medias más altas tanto en satisfacción como en transparencia. Esto
+probablemente se debe a su familiaridad con la misión social, menor distancia cultural con
+la organización y conocimiento interno de los procesos.
+Por otro lado, los segmentos de gobierno y empresas presentaron las medias más bajas.
+En particular, el giro gubernamental mostró la calificación de calidad más reducida, mientras
+que el giro empresarial evidenció la mayor brecha entre transparencia percibida y
+satisfacción real. Estos hallazgos confirman que estos segmentos requieren protocolos más
+formales, mayor estandarización documental y procesos de seguimiento más rigurosos.
+De manera general, puede concluirse que Asociaciones Civiles y Grupos Teletón son áreas
+de fortaleza, mientras que Gobierno y Empresas representan las mayores oportunidades
+de mejora en la percepción de calidad del servicio.
+Satisfacción por giro
+8.2
+n 8
+ó
+ic7.8
+c7.6
+a
+f7.4
+s
+it7.2
+a
+s
+o
+Sat_mean
+id
+e
+m
+o
+r
+P
+Giro
+Regresión lineal para predecir la calidad del servicio
+Para determinar qué variables explican mejor la calidad del servicio (C_1), se construyó un
+modelo de regresión lineal tomando como predictores las dimensiones: Tangibles,
+Fiabilidad, Respuesta, Empatía, Satisfacción global (D_1) y Transparencia (Info). El modelo
+obtuvo un coeficiente de determinación R² ≈ 0.53, lo que indica que el 53 % de la variación
+en la calidad puede explicarse mediante estos factores.
+Los coeficientes significativos mostraron que las dimensiones que más influyen en la
+percepción de calidad son Respuesta, Fiabilidad, Transparencia, y la Satisfacción global.
+
+--- Página 7 ---
+Las dimensiones de Empatía y Tangibles también aportan, aunque con menor peso relativo.
+En términos prácticos, esto significa que la calidad del servicio depende principalmente de
+la rapidez con la que el promotor atiende solicitudes, su cumplimiento de compromisos, la
+claridad con la que explica el uso de recursos y la satisfacción general que genera en sus
+benefactores.
+Variabilidad regional en la percepción del benefactor
+Aunque las regiones muestran niveles similares de transparencia, calidad y satisfacción, la
+percepción no es neutra: cambia según la sensibilidad institucional propia de cada zona.
+Esto significa que la geografía no determina directamente la transparencia, pero sí influye
+en cómo la interpreta el benefactor. En regiones con menor confianza institucional o con
+contextos sociales más complejos, como parte del Sur-Sureste u Occidente, los
+benefactores requieren más evidencia, mayor comunicación y un acompañamiento más
+cercano para sentirse igualmente informados. En contraste, regiones como el Bajío o el
+Centro presentan una recepción más estable y menos dependiente del contexto. En
+conjunto, esta variabilidad confirma que, aun cuando el estándar de servicio es homogéneo,
+la respuesta del benefactor es distinta según su entorno, lo que obliga a ajustar el mensaje
+y la estrategia por región.
+
+--- Página 8 ---
+La región como determinante práctico de la transparencia percibida
+Aunque el modelo estadístico muestra que la región no es un predictor significativo por sí
+sola, su lectura aislada no refleja la dinámica real observada en los datos. La evidencia
+descriptiva revela que existen diferencias relevantes entre estados, en algunos casos de
+hasta dos puntos en transparencia, que el modelo no captura debido a la alta estabilidad
+institucional del instrumento. Esto significa que, aunque la transparencia promedio del país
+se mantenga cercana a ocho, cada región tiene matices propios que influyen en cómo se
+interpreta y valora el servicio. En la práctica, estas diferencias geográficas interactúan con
+la calidad y la satisfacción: los estados con mejores niveles de atención o seguimiento
+tienden a mostrar mayores niveles de transparencia percibida. Por lo tanto, la tabla confirma
+que la transparencia depende de la experiencia de servicio, pero la variabilidad entre
+estados indica que esa experiencia se vive de manera distinta según el contexto regional.
+Esto refuerza que Teletón no puede operar con un enfoque uniforme: los resultados
+evidencian la necesidad de adaptar estrategias, mensajes, evidencias de impacto y formas
+de acompañamiento según el estado y el giro del benefactor.
+Interpretación del ANOVA por macrorregiones
+El análisis ANOVA muestra que, aunque las macrorregiones no presentan diferencias
+estadísticamente significativas en los niveles promedio de transparencia (p = 0.3713), sí
+existe una variabilidad importante dentro de cada región. Esto confirma que la ubicación
+geográfica por sí sola no determina cómo se evalúa el servicio de Teletón; sin embargo, el
+contexto local sí modifica la sensibilidad y la forma en que los benefactores interpretan la
+transparencia, la calidad y la satisfacción. Dentro de una misma región conviven
+instituciones con expectativas, niveles de confianza y necesidades de evidencia muy
+diferentes. Esto refuerza la idea de que la estrategia debe ser más fina: no basta con
+trabajar por zona geográfica, sino que es necesario adaptar la narrativa y los insumos de
+comunicación al perfil específico de cada benefactor, especialmente en regiones con menor
+confianza institucional.
+
+--- Página 9 ---
+Los resultados estadísticos obtenidos permiten proponer tres acciones tácticas altamente
+específicas para mejorar la calidad percibida del servicio entre los distintos segmentos de
+benefactores, especialmente aquellos que presentan las medias más bajas (Gobierno y
+Empresa). Estas propuestas se basan directamente en los factores predictivos de calidad:
+respuesta, fiabilidad, información y satisfacción global.
+1. Desarrollo e implementación de un “Manual Operativo de Respuesta y
+Transparencia para Promotores”
+Justificación estadística: La regresión mostró que la variable Transparencia/Info (β =
+0.19, p < 0.001) y la Respuesta (β = 0.31, p < 0.001) son de los predictores más fuertes de
+la calidad del servicio.
+Acción específica:
+Crear un manual institucional de uso obligatorio para todos los promotores, que incluya:
+• Respuestas estándar para dudas frecuentes sobre transparencia (“¿cómo se usa el
+donativo?”, “¿qué impacto tiene?”, “¿adónde puedo ver reportes?”).
+• Instrucciones claras sobre qué decir, qué no decir y cómo escalar preguntas
+técnicas.
+• Protocolos para explicar trazabilidad del donativo de forma simple.
+• Guiones de conversación para visitas, llamadas y presentaciones.
+• Checklist de evidencia documental que cada promotor debe llevar al visitar
+instituciones: reportes, cifras de impacto, certificados, casos de éxito.
+Resultado esperado:
+Los promotores estarán preparados para responder de forma rápida, consistente y
+profesional, reduciendo la brecha de transparencia y mejorando la percepción de calidad,
+sobre todo en empresas y gobierno.
+2. Certificación interna para promotores: “Programa de Fiabilidad y Gestión del
+Servicio”
+Justificación estadística: La Fiabilidad (β = 0.18, p = 0.020) y la Respuesta (β = 0.31, p <
+0.001) fueron dimensiones críticas para explicar la calidad percibida.
+Acción específica:
+Lanzar un programa de capacitación obligatorio de 6 semanas que incluya:
+• Taller de cumplimiento de tiempos (“SLA”: Service Level Agreements).
+
+--- Página 10 ---
+• Entrenamiento en manejo de expectativas con benefactores.
+• Curso en microhabilidades: seguimiento post-visita, confirmaciones oportunas,
+puntualidad efectiva.
+• Capacitación en herramientas digitales de registro y trazabilidad.
+• Evaluación práctica: simulaciones de casos con retroalimentación inmediata.
+Cada promotor debe obtener una certificación anual para garantizar consistencia en el
+servicio.
+Resultado esperado:
+Promotores más confiables, puntuales y organizados → incremento inmediato en la calidad
+percibida (C_1) y reducción de brechas con empresas y gobierno.
+3. Implementación de “Dashboards Ejecutivos Personalizados para Benefactores”
+Justificación estadística: La correlación entre Transparencia (r = 0.47) y Satisfacción
+global (r = 0.58) indica que la comunicación clara sobre el uso de recursos incrementa
+significativamente la satisfacción.
+Acción específica:
+Para fortalecer la toma de decisiones y adaptar las campañas según el contexto de cada
+benefactor, se propone desarrollar un Tablero de Seguimiento Geográfico y por Giro. Este
+tablero integrará en un solo espacio la información clave de transparencia, calidad y
+satisfacción segmentada por estado, región y tipo de institución, permitiendo visualizar
+patrones, variabilidad y focos de atención. Además, incorporará indicadores de riesgo
+reputacional, sensibilidad del benefactor, historial de interacción y necesidades específicas
+de evidencia para cada giro. Con esta herramienta, Teletón podrá ajustar mensajes, frecuencia
+de contacto y material de comunicación de manera precisa, haciendo que cada promotor
+llegue con un discurso alineado al perfil y contexto local. En síntesis, el tablero permitirá pasar
+de una gestión homogénea a una estrategia altamente contextualizada, aumentando la
+confianza, fortaleciendo relaciones y elevando el impacto de cada campaña de recaudación.
+Resultado esperado:
+Los benefactores reciben información clara, visual y verificable → aumenta la transparencia,
+la confianza y la satisfacción general, lo que fortalece la relación a largo plazo.
+
+--- Página 11 ---
+Referencias:
+Organización de las Naciones Unidas (ONU). (2015). Objetivos de Desarrollo Sostenible.
+https://www.un.org/sustainabledevelopment/es
+Instituto Nacional de Estadística y Geografía (INEGI). (2023). Estadísticas sobre
+discapacidad en México. https://www.inegi.org.mx
+Organización Mundial de la Salud (OMS). (2023). Discapacidad y salud. Organización
+Mundial de la Salud. https://www.who.int
+Secretaría de Salud. (2023). Informe sobre la atención del cáncer infantil en México.
+Gobierno de México. https://www.gob.mx/salud
+Fundación Teletón México. (2024). Informe de transparencia 2024. Fundación Teletón
+México. https://teleton.org
+Secretaría de Educación Pública (SEP). (2024). Estadísticas de inclusión educativa para
+personas con discapacidad en México. https://www.sep.gob.mx

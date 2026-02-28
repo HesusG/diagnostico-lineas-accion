@@ -1,0 +1,512 @@
+--- Página 1 ---
+Evidencia única - 2a parte: Medición de la Calidad en el
+Servicio: Acciones Estratégicas e Impacto Social.
+Raymundo Díaz Tijera A01664497
+25 nov 2025
+Diagnóstico para líneas de acción
+Profesor: Beatriz Ochoa Ramírez
+Co-Titular: Hesus García Cobos
+
+--- Página 2 ---
+1. Contexto social, económico, político y ambiental sobre el cual se lleva a
+cabo la labor de la organización, reconociendo cómo esto impacta en la
+vida y dignidad de las personas. Considerando:
+a) ¿Qué problemática atiende la organización?
+Fundación Teletón atiende la problemática del limitado acceso a servicios de
+rehabilitación, inclusión educativa y atención integral para niñas, niños y
+jóvenes con discapacidad, autismo y cáncer.
+Aunado a la necesidad de fortalecer las relaciones institucionales con aliados
+gubernamentales y educativos, que permitan sostener la operación y
+financiamiento de los centros Teletón.
+En este punto es donde la encuesta SERVQUAL aplicada entre Teletón y el
+Tecnológico de Monterrey se analizará y se detectarán áreas de oportunidad en
+la calidad del servicio brindado por promotores institucionales, lo cual impacta
+directamente en la permanencia, satisfacción y compromiso de estas
+instituciones o personas benefactoras.
+b) ¿Por qué es una problemática relevante en el país?
+En México, el 5.7% de la población vive con una discapacidad, y 19% de las
+personas con discapacidad y/o algún problema o condición mental de 15 años
+y más son analfabetas.(INEGI, 2022), existiendo brechas significativas en
+infraestructura, personal capacitado y recursos públicos o apoyos privados
+para cubrir esta necesidad.
+Además, la atención a la discapacidad está fuertemente centralizada, lo que
+deja a muchos estados con insuficiente capacidad de diagnóstico y
+rehabilitación, aunado a altos costos.
+A nivel institucional, México enfrenta un clima de desconfianza hacia
+organizaciones civiles, recortes presupuestales y cambios fiscales que afectan
+la deducibilidad de los donativos, lo que pone en riesgo la sostenibilidad de
+organizaciones que atienden causas sociales. Por ello, fortalecer las relaciones
+entre Teletón y sus aliados es fundamental para asegurar un sistema de
+atención digno y sostenible.
+
+--- Página 3 ---
+c) ¿Por qué es relevante la labor que realiza la organización?
+Teletón cumple un rol que complementa los del Estado al ofrecer servicios de
+rehabilitación de alta calidad con precios relativamente bajos sobre su costo
+total, lo que permite reducir desigualdades al atender a personas que no
+tendrían acceso a atención especializada de alta calidad a este costo.
+Además, su red de alianzas con Educación (90% de sus instituciones aliadas),
+instituciones públicas (5%), privadas (3%), personas físicas (1%), y
+organizaciones benefactoras (1%) genera un mayor alcance social y financiero
+del programa.
+La calidad del trato entre sus 25 promotores e instituciones es fundamental
+para mantener estas alianzas a largo plazo, por lo que su evaluación mediante
+SERVQUAL es clave para mejorar la confianza, la continuidad y la
+sostenibilidad de Teletón.
+d) ¿Cuáles son las características que suelen tener sus beneficiarios?
+Los beneficiarios directos son niñas, niños y jóvenes entre 0 y 18 años con
+discapacidad motriz, neuromuscular, intelectual, autismo o con diagnóstico de
+cáncer infantil.
+Con familias que puedan tener algunas restricciones económicas, limitaciones
+para acceder a servicios médicos especializados con alto costo y condiciones
+sociales que aumentan su vulnerabilidad social.
+e) ¿Cuál es la cantidad de beneficiarios que atiende?
+De acuerdo con al video con Fer , la fundación atiende a
+- Discapacidad, niños y niñas atendidos: 34,384, con un costo interno
+para Teletón de $40,489 pesos, con un costo para las familias de
+$1,568 pesos.
+- Cáncer, niños y niñas atendidas: 404, con un costo interno para Teletón
+de $990,870 pesos, con un costo para las familias de $17,727 pesos.
+
+--- Página 4 ---
+- Autimos, niños y niñas atendidas: 284, con un costo interno para
+Teletón de $142,416 pesos, con un costo para las familias de $4,594
+pesos.
+A través de sus Centros de Rehabilitación e Inclusión Infantil (CRIT), Centros
+Autismo Teletón, Hospital Infantil Teletón de Oncología y centros
+especializados.
+f) ¿Cuál es el argumento ético que sustenta su labor (ODS)?
+El argumento ético se basa en la construcción de instituciones más justas,
+transparentes y confiables, capaces de proteger y promover la dignidad
+humana.
+El ODS 16 enfatiza la importancia de fortalecer instituciones eficaces,
+responsables y abiertas a la ciudadanía.
+Teletón contribuye a este objetivo al:
+- Garantizar mecanismos de participación y comunicación, que
+promuevan relaciones basadas en la empatía, el profesionalismo y la
+transparencia.
+- Asegurando que la atención brindada respete la dignidad, derechos y
+seguridad de las personas, lo que fomenta alianzas confiables entre
+sociedad civil, gobierno y más instituciones.
+g) ¿Qué problemáticas puede tener la organización para llevar a cabo su labor?
+Teletón enfrenta desafíos como la limitada deducibilidad fiscal para donativos
+debido a la amenaza para regulaciones fiscales en México, la desconfianza
+social que siempre existe hacia organizaciones civiles, y el mantener
+estándares de alto profesionalismo y mejora constante en sus promotores.
+h) ¿Cuál es la aportación que brinda los productos y evidencias realizadas en este
+bloque a la labor que lleva a cabo la organización?
+Al trabajar con una base de datos proporcionada por ellos, se realizan diversas
+pruebas estadísticas, análisis y desarrollo de propuestas a través de dashboards,
+
+--- Página 5 ---
+mediante una metodología CRISP-DM, por lo que todo se centra en tomar
+decisiones de manera informada y basada en datos.
+i) ¿Cómo es que este reto contribuye a que la organización preste mejor su
+servicio a sus usuarios?
+Al presentar 3 propuestas en base a la problemática identificada por ellos,
+conteniendo una base sólida de respaldo y planes con acción estratégica para
+que puedan ser implementadas.
+j) ¿Cómo se abona para el ejercicio de sus derechos humanos y el respeto a su
+dignidad y Cómo es que el resultado final de este reto puede favorecer al
+cumplimiento del Objetivo de Desarrollo Sostenible 16?
+El análisis realizado al cuestionario SERVQUAL permite fortalecer la calidad
+del servicio institucional de Teletón, lo cual contribuye directamente al ODS
+16 al:
+- Identificar áreas de oportunidad, que mejoren la transparencia y
+comunicación entre Teletón y sus instituciones aliadas, a través de
+procesos optimizados internos de acompañamiento por parte de los 25
+promotores.
+- Fortaleciendo la confianza mediante atención empática, profesional y
+oportuna.
+- Reducir problemas institucionales, mejorando la eficiencia y la
+rendición de cuentas, que impulsen relaciones duraderas y
+colaborativas, esenciales para instituciones más sólidas.
+Como resultado, Teletón incrementa su fiabilidad, fortalece su estructura
+institucional contribuyendo de manera clara al cumplimiento del ODS 16.
+2. Entrega de tableros de visualización (Integrar la evidencia 1)
+Para trabajar con la base de datos de Teletón, se utilizó la metodología CRISP-DM.
+1. Business Understanding
+El objetivo principal del proyecto fue analizar la calidad del servicio brindado
+por los promotores de Fundación Teletón hacia instituciones educativas y
+
+--- Página 6 ---
+gubernamentales, utilizando la metodología SERVQUAL, analizando diversas
+variables del dataset, con un enfoque sobre la fiabilidad (3 variables), calidad
+percibida y recomendación, así como la variable objetivo satisfacción.
+En base a esto, se busca conocer cómo influyen en las relaciones
+institucionales y en la confianza hacia Teletón. además de proporcionar
+información estratégica mediante un dashboard dinámico que permitiera tomar
+decisiones para mejorar procesos de comunicación, desempeño y relación
+institucional.
+2. Data Understanding
+Se presenta un dataset con 274 filas (encuestas) y 19 columnas (variables),
+incluyendo, sin Na’s:
+- Años, años de ser benefactores
+Escala: 1 Totalmente en desacuerdo - 5 Totalmente de acuerdo
+- FI_1, Cumple con horarios y plazos
+- FI_2, Alto nivel de conocimiento
+- FI_3, Información correcta y clara
+- C_1, Percepción de la calidad del servicio
+Escala: 1 Totalmente insatisfecho - 10 Totalmente satisfecho
+- D_1, Desempeño, nivel de satisfacción
+- R_12, Recomendaría a la institución
+- Info, percepción de información
+- Se crearon todas las variables numéricas con un z al final, indicando
+que están normalizadas para poder realizar gráficos de dispersión y
+correlación sin importar su escala.
+Variables demográficas:
+- Giro, tipo de institución
+- Puesto, puesto dentro del tipo de institución
+- Estado, de que estado de la república pertenece
+En esta fase se exploraron tipos de datos, valores faltantes, distribuciones,
+correlaciones e inconsistencias. Tomando en cuenta la escala para la selección
+
+--- Página 7 ---
+de pruebas estadísticas (correlaciones, modelo de regresión, chi-cuadrada
+categorizada).
+3. Data Preparation
+Se estandarizaron y transformaron variables para garantizar consistencia,
+limpieza y correcta visualización en Python y Tableau.
+Incluyendo:
+- Revisión y conversión de tipos de datos.
+- Creación de nuevas variables y campos calculados en Python y
+Tableau, como satisfacción categórica y fiabilidad en general,
+integrando los valores de las 3 variables, y dividiendo sobre 3.
+- Verificación de ausencia de valores nulos.
+- Agrupación de Estados, Giros y Puestos para análisis comparativos.
+- Exportación del dataset final para ser usado en Tableau.
+4. Modeling
+Se aplicaron técnicas estadísticas adecuadas al tipo de variables:
+Chi-cuadrada: Para analizar la asociación entre Estado y Satisfacción.
+Correlaciones: Para determinar fuerza y dirección de relación entre
+dimensiones Fiabilidad, Calidad, Recomendación y Desempeño.
+Regresión lineal múltiple: Evaluando FI_1, FI_2, FI_3, C_1 y R_12 sobre
+significativamente la satisfacción (D_1).
+Medidas descriptivas: Promedio, desviación estándar, rangos y distribuciones
+por Estado o categoría.
+Estos resultados del modelado fungen como un direccionador para los
+hallazgos y que dirección deben tomar los gráficos del dashboard.
+5. Evaluation
+Se evaluaron los resultados estadísticos para determinar si responden a la
+pregunta de investigación y los objetivos planteados:
+Se verificó si las dimensiones de fiabilidad, calidad y recomendación
+mostraron relación significativa con la satisfacción.
+
+--- Página 8 ---
+Se comprobó la coherencia entre las métricas del modelo (p-values, R, y R^2)
+sobre las hipótesis.
+Se analizaron los patrones entre Estados, Giros y Puestos para obtener una
+interpretación más profunda sobre las visualizaciones.
+6. Deployment
+Se obtuvo un dashboard en Tableau que integró:
+Gráfica de mapa por Estados analizando los años de ser benefactores.
+Promedios y medidas de dispersión de las dimensiones SERVQUAL.
+Tendencias y comparaciones de Giros a través de un gráfico de pastel.
+Gráfico de barras para conocer a los estados con mayor satisfacción promedio.
+Gráfico de líneas para comparar las 3 variables de fiabilidad a través de los
+años siendo benefactores.
+Figura 1
+Dashboard Final Teletón
+Dashboard final para Teletón, integrando y analizando las variables que fueron
+aprobadas a través de las hipótesis realizadas. Elaborado en Tableau, con campos
+creados como el conteo de encuestados y la integración de segmentación de
+encuestados en Clusters (0 y 1) llevada a cabo mediante algoritmos de ML: PCA y
+K-Means.
+
+--- Página 9 ---
+3. Realiza una prueba de hipótesis para validar el cumplimiento de un
+estándar organizacional relevante.
+Objetivo de investigación:
+- Analizar en qué medida las tres variables de fiabilidad del servicio
+(cumplimiento de horarios, claridad de la información y conocimiento de la
+campaña), junto con la calidad percibida global y la disposición a recomendar
+a Fundación Teletón, influyen en el desempeño/satisfacción general de las
+instituciones benefactoras respecto al servicio brindado por los promotores.
+Pregunta de investigación:
+- ¿En qué medida las tres variables de fiabilidad del servicio, la calidad
+percibida global y la disposición a recomendar se relacionan con el
+desempeño/satisfacción general de las instituciones benefactoras hacia el
+servicio de los promotores de Fundación Teletón?
+Hipótesis a trabajar con una prueba de Chi-Cuadrada
+- H0
+No existe una relación significativa entre el Estado en el que se ubica Teletón y
+el nivel de satisfacción (Desempeño) percibida respecto al servicio brindado
+por los promotores de Fundación Teletón.
+- H1
+Existe una relación significativa entre el Estado en el que se ubica Teletón y el
+nivel de satisfacción percibida respecto al servicio brindado por los
+promotores de Fundación Teletón.
+Se creó una variable llamada Satis_cat, con 3 tipos de categoría:
+- Baja con un rango de 1 a 5
+- Media con un rango de 6 a 7
+- Alta con un rango de 8 a 10
+A partir de esta, se obtuvo:
+Figura 2
+Heatmap Tabla de Frecuencias Satisfacción
+
+--- Página 10 ---
+Heatmap sobre la distribución de la satisfacción de los estados por
+benefactores. Elaboración propia en Python.
+Con la cual obtuvimos los siguientes coeficientes:
+- Chi-cuadrada (x^2): 51.88
+- p_value: 0.001864
+- Degrees of freedom: 26
+Con esta se puede decidir que:
+- Se rechaza H0 obteniendo un p_value menor al límite de 0.05 y se
+acepta H1, indicando que existe una relación positiva entre el estado
+donde se ubique Teletón y el nivel de satisfacción percibida (D_1), por
+lo que será base a analizar mediante el dashboard.
+Hipótesis a trabajar con modelo de regresión múltiple / polinomial.
+- H0
+No existe una relación significativa entre las tres variables de fiabilidad, la
+calidad percibida global y la disposición a recomendar con el
+desempeño/satisfacción general de las instituciones benefactoras hacia el
+servicio de los promotores de Fundación Teletón.
+- H1
+Existe una relación significativa y positiva entre las tres variables de fiabilidad,
+la calidad percibida global y la disposición a recomendar con el
+
+--- Página 11 ---
+desempeño/satisfacción general de las instituciones benefactoras hacia el
+servicio de los promotores de Fundación Teletón.
+Se redujo la variabilidad FI_1 del modelo, debido a que su p value era mucho mayor
+que 0.05, obteniendo el siguiente modelo con todas sus variables siendo
+estadísticamente significativas (todas con un p_value menor a 0.05):
+- Ecuación para predecir Satisfacción
+Intercepto: 3.1214 + 0.1339*(FI_2) + 0.1919*(FI_3) + 0.1819*(R_12) +
+0.5208*(C_1)
+- Con los siguientes coeficientes:
+R^2 (coeficiente de determinación): 0.3924, indicando que el modelo a través
+de las 4 variables utilizadas, explica el 40% de la variabilidad de satisfacción.
+RMSE (Error Cuadrático Medio): 0.6626, se tiene un error bajo considerando
+que la escala a trabajar es de 1-10, donde 1 Totalmente insatisfecho - 10
+Totalmente satisfecho.
+R (coeficiente de correlación): 0.6265, indicando que el modelo tiene una
+correlación moderada-fuerte del 63% con Satisfacción.
+- Comparando sus residuales
+Figura 3
+Residuales Modelo de regresión lineal múltiple
+Scatter plot de residuales para comparar la satisfacción real vs la satisfacción
+predicha. Elaboración propia en Python.
+
+--- Página 12 ---
+Por lo que en base a estas evidencias, se rechaza H0, se acepta H1, teniendo
+variables estadísticamente significativas, con un coeficiente de determinación
+moderado y un RMSE bajo en comparación a la escala del 1-10, indicando que
+existe una relación significativa y positiva entre FI_2, FI_3, R_12 y C_1 sobre
+D_1.
+Se observa también que el modelo de regresión lineal múltiple no predice el
+mejor ajuste para el comportamiento que tiene Satisfacción, por lo que una
+regresión no lineal sería ideal a realizar.
+Con esto, se da paso a analizarlas mediante el dashboard dinámico.
+4. Considerando las diferentes áreas, departamentos o grupos de la
+organización sin fines de lucro o segmentos de usuarios ¿existe diferencia
+en la calidad en el servicio?
+Se desarrollará una prueba de Chi-Cuadrada
+Hipótesis a trabajar con una prueba de Chi-Cuadrada
+H0
+- No existe una relación significativa entre el Giro de cada encuestado en
+Teletón y el nivel de calidad (C_1) percibida respecto al servicio brindado por
+los promotores de Fundación Teletón.
+H1
+- Existe una relación significativa entre el Estado en el que se ubica Teletón y el
+nivel de satisfacción percibida respecto al servicio brindado por los
+promotores de Fundación Teletón.
+Se creó una variable llamada Calidad_cat, con 3 tipos de categoría:
+- Baja con un rango de 1 a 2
+- Media con un rango de 2.1 a 3.8
+- Alta con un rango de 3.8 a 5
+A partir de esta, se obtuvo:
+Figura 4
+Heatmap Tabla de Frecuencias Calidad
+
+--- Página 13 ---
+Heatmap sobre la distribución de la calidad de los distintos giros por
+benefactores. Elaboración propia en Python.
+Con la cual obtuvimos los siguientes coeficientes:
+- Chi-cuadrada (x^2): 27.17
+- p_value: 0.0024
+- Degrees of freedom: 10
+Con esta se puede decidir que:
+- Se rechaza H0 obteniendo un p_value menor al límite de 0.05 y se
+acepta H1, indicando que existe una relación significativa entre el Giro
+de cada benefactor en Teletón y el nivel de calidad percibida (C_1).
+5. ¿Qué áreas, departamentos o grupos de la organización sin fines de lucro o
+segmentos de usuarios presentan una mejor calidad en el servicio? ¿Cuáles
+presentan las mayores oportunidades de mejora? trabajar con PCA
+Se realizó una segmentación de los encuestados a través de un análisis PCA, K-Means
+y Biplot, obteniendo los siguientes resultados, con clusters para los encuestados con
+un id numérico, 0 y 1.
+Se logró reducir el dataset de 11 variables (excluyendo las normalizadas y Fiabilidad
+1) a solo 7 componentes principales, donde mediante el método Kaiser, se
+seleccionaron 4 PCA a trabajar, con esto, se logra explicar el 79% de la variabilidad
+del dataset.
+PCA’s
+
+--- Página 14 ---
+PCA Varianza explicada Varianza acumulativa
+explicada
+PC1 0.3809 0.3809
+PC2 0.1546 0.5355
+PC3 0.1384 0.6739
+PC4 0.1152 0.7891
+Coeficientes
+PC1 PC2 PC3 PC4
+FI_2 0.4109 -0.2355 0.3140 0.3257
+FI_3 0.3426 -0.5327 0.3508 0.0374
+D_1 0.4875 0.0425 -0.0029 -0.2107
+R_12 0.2928 0.4390 -0.1671 0.7794
+C_1 0.4889 -0.0167 -0.1293 -0.2641
+Info 0.3845 0.2628 -0.4632 -0.3347
+Años 0.0590 0.6300 0.7205 -0.2428
+Interpretación en base a sus coeficientes
+1. PC1
+Componente centrado en la Calidad Experiencial del Servicio, donde
+instituciones que reportan mayor claridad, fiabilidad, conocimiento del
+promotor y satisfacción general se posicionan hacia la derecha.
+2. PC2
+Componente centrado en la Relación a Largo Plazo y Lealtad, dominado por:
+- Antigüedad como benefactor
+- Recomendación activa
+- Coherencia en la comunicación y percepción de información del
+promotor
+3. PC3
+Componente centrado la Relación por años con nivel de conocimiento e
+información clara.
+4. PC4
+Componente centrado en la Recomendación y la percepción de nivel de
+conocimiento por parte del promotor.
+
+--- Página 15 ---
+Se obtuvo el siguiente biplot, ayudando a interpretar de mejor manera los clusters
+definidos 0 y 1..
+Figura 5
+Biplot PCA con Cluster y Vectores para Teletón
+Análisis Biplot con PCA y K-Means para poder explicar de mejor manera la
+variabilidad del dataset, Las variables de años y FI_3 son las más relevantes para los
+componentes principales, con mayor variabilidad. Elaboración propia con Python.
+- Cluster 0
+Aspectos principales
+- Mayor tiempo siendo benefactores (Años altos)
+- Mayor disposición a recomendar
+- Mayor fiabilidad y recibimiento de información más clara por parte del
+promotor
+- Perciben niveles adecuados de calidad y satisfacción
+Este cluster representa a encuestados e instituciones con una relación sólida y
+estable con Teletón, que actúan como embajadoras positivas del programa, los
+cuales son encuestados ideales para estrategias de fidelización, casos de éxito
+e invitaciones a participación ampliada.
+- Cluster 1
+Aspectos principales
+- Menor trayectoria con Teletón
+- Menor recomendación
+- Mayor variabilidad en fiabilidad y percepción de información
+- Niveles más bajos de calidad percibida y satisfacción
+
+--- Página 16 ---
+Este cluster requiere de acompañamiento más cercano, ya que sus
+evaluaciones no alcanzan los niveles del Cluster 0, y es en este punto donde se
+presentan áreas de oportunidades de mejora operativa y comunicacional.
+De esta manera es que aparece la nueva segmentación de los encuestados en el
+dataset:
+Figura 6
+Dataset creado con los clusters asignados
+Dataset con la columna cluster integrada, con la segmentación numérica por
+0 y 1 asignada por los algoritmos PCA y K-means para cada encuestado.
+Elaboración propia en Python.
+Con un total de 151 encuestados en el cluster 0 y 123 para los encuestados en
+el cluster 1.
+6. ¿Qué correlación existe entre las variables independientes con la variable
+dependiente (calidad en el servicio)?
+Figura 7
+Heatmap Matriz de correlación
+Matriz de correlación para las 3 variables de fiabilidad, recomendación, calidad y
+satisfacción. Elaboración propia
+Correlaciones más fuertes
+
+--- Página 17 ---
+- Satisfacción con 0.58
+- FI_1 (Horarios y plazos) con 0.46
+- FI_2 (Nivel de conocimiento) con 0.41
+- FI_3 (Información clara y correcta) con 0.33
+- Por último, R_12 (Recomendación) con 0.24.
+7. ¿Qué acciones tácticas se proponen a partir de los hallazgos para la
+mejora organizacional?
+a. El análisis del Cluster 0 revela un grupo de benefactores altamente
+consolidados, con niveles superiores de Fiabilidad, Satisfacción y claridad en
+la percepción de la campaña.
+Este segmento, compuesto principalmente por instituciones educativas,
+asociaciones civiles y aliados con varios años consecutivos de colaboración,
+representa una base estratégica para fortalecer la red nacional de aliados.
+Para lograr mantener una relación extensa con ellos se propone la
+implementación de:
+Programa de Lealtad Estratégica para Benefactores, cuyo propósito es
+convertirlos en voceros activos de la causa Teletón.
+Este programa incluiría la creación de aliados con certificaciones exclusivas de
+impacto social, sesiones uno a uno de co-creación para el diseño de iniciativas
+sociales y un esquema de embajadores locales que comparten mejores
+prácticas con otros estados.
+Con esto Teletón no solo refuerza relaciones ya sólidas, sino que también
+genera un modelo de referencia que impulsa el crecimiento orgánico de nuevas
+alianzas.
+
+--- Página 18 ---
+b. El Cluster 1 agrupa a benefactores con menor tiempo de relación y niveles
+significativamente más bajos de Fiabilidad, principalmente en dimensiones
+relacionadas con la claridad de información, cumplimiento de horarios y nivel
+de conocimiento de la campaña.
+Este comportamiento indica la necesidad de acciones operativa para evitar el
+desgaste o abandono total de la relación.
+Por lo que se recomienda poner en marcha un Plan de Recuperación Operativa
+y Re-engagement, centrado en estandarizar la comunicación institucional,
+fortalecer la capacitación de los promotores y reactivar el vínculo mediante
+acercamientos personalizados.
+La estrategia incluye un protocolo único de comunicación, un programa
+intensivo de formación para promotores de regiones críticas como Guanajuato,
+Nuevo León, Ciudad de México (Morelos) y Sinaloa, los que tienen años
+consecutivos de 2, 6, 10, 17 y 20. mediante una campaña con KPI’s semanales.
+c. El dashboard evidencia una alta variabilidad al realizar la segmentación en los
+años de relación y en la evaluación de la Fiabilidad, lo que sugiere la ausencia
+de un marco operativo funcional entre promotores, estados y el giro.
+Para atender este reto, se propone la creación de un Sistema Nacional de
+Monitoreo y Mejora Continua para Promotores con el apoyo del dashboard
+creado, orientado a profesionalizar la relación con los benefactores y asegurar
+una calidad uniforme del servicio a través del tiempo.
+Es fundamental en esta etapa tener un dataset más completo, y no trabajar solo
+con 274 encuestas, incluyendo los diversos promotores, fecha y diversas
+variables que puedan llevar a un análisis más profundo.
+
+--- Página 19 ---
+Este sistema incluye un scorecard del Promotor con indicadores clave de
+desempeño, un módulo de alertas tempranas por región para detectar caídas en
+FI 1,2 y 3, así como un mapa estratégico nacional que permita replicar
+prácticas exitosas de estados de alto desempeño hacia regiones rezagadas.
+En conclusión, la implementación de estas estrategias permitirá elevar de manera sostenible la
+calidad del servicio, fortalecer la toma de decisiones basada en datos y construir relaciones
+duraderas que impulsen la permanencia y crecimiento del programa a nivel nacional,
+mejorando la relación con la segmentación de los benefactores identificados.
+
+--- Página 20 ---
+Referencias
+- Instituto Nacional de Estadística y Geografía. INEGI. (s. f.). Sala de prensa.
+https://inegi.org.mx/app/saladeprensa/noticia/6991
+- Conapred. (2022, 28 diciembre). Declaración de Accesibilidad.
+https://www.conapred.org.mx/declaracion-de-accesibilidad/
+- Fundación Teletón(2018). Estados financieros dictaminamos 2018 [sitio web].
+Recuperado de
+https://teleton.org/descargas/transparencia/Estados-Financieros-combinados-2018.pdf
+- Hildebrand, David K., "Estadística aplicada a la administración y a la economía", 4a.
+ed., Wilmington, Delaware : Addison-Wesley.
+- Harnett, Donald L., "Introduction to statistical methods", 3rd ed., Reading, Mass.:
+Addison- Wesley Pub.
+- Keller, Gerald., "Statistics for management and economics", 5th ed., Pacific Grove:
+Duxbury Press.
+- Newbold, Paul., "Estadística para administración y economía", 6a ed., Madrid:
+Pearson/Prentice Hall.
+- Pulipati, Sireesha (2022). Data storytelling with Google Looker Studio.A hands-on
+guide to using Looker Studio for building compelling and effective dashboards. Packt.
+1st edition. Disponible en formato digital y físico en: https://www.packtpub.com/en-us
+- Fundación Teletón. (2025, 5 noviembre). Nosotros - Teletón México. Teletón México.
+https://teleton.org/nosotros/
+- México, T. (2022, 22 septiembre). Teletón: 25 años de apoyo social en México.
+Teletón México. https://teleton.org/teleton-25-anos-de-apoyo-social-en-mexico/

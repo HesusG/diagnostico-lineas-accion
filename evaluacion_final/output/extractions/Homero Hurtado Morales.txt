@@ -1,0 +1,102 @@
+--- Página 1 ---
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Diagnóstico para líneas de acción
+Homero Hurtado Morales
+A01423928
+
+--- Página 2 ---
+1. Contexto social, económico, político y ambiental
+a) Problemática que atiende la organización:
+Fundación Teletón atiende la falta de acceso a servicios de rehabilitación,
+diagnósticos especializados y acompañamiento para personas con discapacidad,
+autismo y cáncer infantil. Muchas familias carecen de seguridad social y recursos,
+por lo que Teletón cubre una necesidad que el sistema público no alcanza.
+b) Relevancia en México:
+En México hay mucha desigualdad y muchos servicios de salud están concentrados
+en pocas ciudades. Por eso, miles de niños y jóvenes con discapacidad no reciben
+la atención que necesitan. Esto afecta su calidad de vida y también impacta a sus
+familias..
+c) Relevancia del trabajo de Teletón:
+Teletón brinda atención integral: terapias, rehabilitación, apoyo emocional y
+acompañamiento familiar. Además, fomenta inclusión, sensibilización y respeto a la
+discapacidad.
+d) Características de los beneficiarios:
+Son principalmente niñas, niños y jóvenes con discapacidad motriz, intelectual o
+múltiple; personas con autismo y menores con cáncer. La mayoría proviene de
+contextos vulnerables.
+e) Cantidad de beneficiarios:
+A nivel nacional, Teletón ha atendido a cientos de miles de personas y cada CRIT
+mantiene miles de usuarios activos.
+f) Argumento ético y ODS:
+Teletón se basa en la dignidad humana, igualdad y no discriminación.
+Se relaciona con:
+- ODS 3: Salud y bienestar
+- ODS 10: Reducción de desigualdades
+g) Problemáticas para operar:
+Dependencia de donativos, retención de personal especializado, variaciones entre
+estados y la necesidad de mantener estándares homogéneos.
+h) Aportación de esta evidencia:
+
+--- Página 3 ---
+Este análisis convierte datos en información útil para mejorar procesos, detectar
+variaciones y fortalecer la calidad del servicio.
+i) Cómo contribuye este reto:
+Permite tomar decisiones basadas en evidencia, estandarizar servicios y entender
+diferencias entre estados.
+j) Derechos humanos y dignidad:
+Mejorar la claridad y calidad del servicio respeta la dignidad de los beneficiarios y
+fortalece el enfoque de derechos humanos.
+k) Relación con ODS 16:
+Fortalece la capacidad de la organización para actuar como una institución sólida,
+transparente y basada en evidencia. El uso de analítica de datos en la gestión de la
+calidad del servicio ayuda a rendir cuentas, mejorar procesos internos y consolidar
+relaciones de confianza con la sociedad.
+2. Tableros de visualización
+3. Medidas de tendencia y dispersión
+4. Prueba de hipótesis
+
+--- Página 4 ---
+Hipótesis:
+H₀: μ ≥ 4 (cumple estándar)
+H₁: μ < 4 (no cumple estándar)
+Las pruebas t muestran que ninguna de las tres preguntas supera consistentemente
+el estándar de 4. Aunque la percepción es positiva, no se cumple totalmente el
+estándar organizacional.
+5. Diferencias por estados (ANOVA)
+El ANOVA mostró un p-value < 0.05, indicando diferencias significativas entre
+estados. Esto confirma que no todos los centros brindan un servicio igual de
+confiable.
+6. Mejor y peor desempeño por estado
+Los estados con mayor fiabilidad presentan medias altas y menor variabilidad. Los
+estados con medias bajas o variabilidad alta representan oportunidades claras de
+mejora. Esto refleja diferencias en capacitación, procesos o carga de trabajo.
+7. Regresión lineal
+Se como variable dependiente y variables como respuesta rápida, empatía e
+información clara como independientes. Las variables con mayor impacto fueron:
+claridad de la información y conocimiento del promotor. Esto muestra que la
+comunicación y preparación del personal influyen directamente en la fiabilidad.
+8. Correlación entre variables
+La fiabilidad se correlaciona fuertemente con información clara y conocimiento del
+promotor. La correlación con rapidez de respuesta y empatía es moderada pero
+positiva, demostrando que la calidad del servicio depende de múltiples factores.
+9. Acciones tácticas
+1. Estandarizar la comunicación con los beneficiarios mediante guías claras para
+todos los centros.
+2. Capacitar a estados con menor desempeño en puntualidad, claridad y manejo de
+la información.
+3. Implementar un sistema digital para seguimiento de compromisos, plazos y
+tiempos de respuesta, reforzando la transparencia y consistencia operativa.
+
+--- Página 5 ---
+10. Conclusión
+El análisis muestra que Fundación Teletón cumple una función esencial en un
+contexto donde muchas familias no tienen acceso a servicios de rehabilitación.
+Aunque la percepción general del servicio es positiva, los resultados estadísticos
+indican que la fiabilidad no alcanza completamente el estándar esperado y que
+existen diferencias importantes entre estados. La claridad de la información y el
+conocimiento del promotor resultan ser los factores que más influyen en la calidad
+del servicio.
+Con esta evidencia, se identifican áreas claras de mejora y se proponen acciones
+concretas como estandarizar la comunicación, capacitar a los estados con menor
+desempeño y fortalecer el seguimiento operativo. Estas acciones permitirán avanzar
+hacia un servicio más uniforme, transparente y digno para todos los beneficiarios.

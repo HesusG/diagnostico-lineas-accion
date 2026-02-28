@@ -1,0 +1,328 @@
+--- Página 1 ---
+1
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Campus Monterrey
+Diagnóstico para líneas de acción (Gpo 570)
+Evidencia 2: Reporte Ejecutivo Teleton
+Mauricio Cortes Ortiz A01286052
+Fecha de creación: 26/11/2025
+
+--- Página 2 ---
+Contexto social, económico, político y ambiental
+PESTEL Teletón:
+Político:
+-Recomendaciones internacionales (ONU) sobre delegar servicios de salud a privados;
+-Convenios con gobiernos para operación de CRITs. Esto genera observación pública y
+exige cumplimiento regulatorio.
+Económico:
+-Inflación y costos de equipos médicos importados
+-Necesidad de instrumentos financieros(1.8M) para proteger el valor de donativos.
+Social:
+-Debate público sobre caridad contra derechos
+-Polarización en redes: campañas de desprestigio y al mismo tiempo, testimonios que
+respaldan impacto.
+Tecnológico:
+-Oportunidad de digitalizar la relación con donantes (dashboards, Big Data)
+-Retos por la alta inversión en tecnología de rehabilitación.
+Ambiental:
+-Costos energéticos de centros
+-Necesidad de cumplimiento ambiental.
+Legal/Fiscal:
+-Estatus de donataria autorizada (SAT)
+-Cumplimiento COFEPRIS; impacto en transparencia y obligaciones de reporte.
+Cómo esto impacta la dignidad y derechos: Las decisiones políticas, la percepción pública y
+la sostenibilidad económica afectan la capacidad de Teletón para ofrecer servicios continuos
+y con calidad, lo que repercute directamente en la inclusión y el ejercicio de derechos de las
+personas atendidas.
+Problemática atendida por TELETON
+Teletón atiende la rehabilitación, inclusión y bienestar de personas con discapacidad,
+autismo y cáncer, aportando servicios especializados y tratamientos que muchas veces no
+están suficientemente cubiertos por el sistema público.
+¿Por qué es una problemática relevante en el país?
+-Existe una brecha en acceso integral a rehabilitación especializada y tecnología asistiva.
+-La cobertura estatal no siempre alcanza la demanda; la infraestructura y equipamiento son
+costosos (impacto económico).
+
+--- Página 3 ---
+-Además, la relevancia social y política del tema y el ojo público hacen que la calidad y
+transparencia sean críticas para mantener la confianza ciudadana y la cooperación
+institucional.
+¿Por qué es relevante la labor que realiza la organización?
+Porque provee servicios especializados que elevan la calidad de vida, promueven inclusión
+y reducen desigualdades en salud y rehabilitación; su modelo utiliza recursos privados y
+comunitarios para cubrir necesidades complejas que el Estado, por distintas razones, no
+atiende plenamente. Esto se conecta con ODS relevantes.
+Características de los benefactores
+Los benefactores evaluados en este estudio incluyen instituciones educativas, organismos
+gubernamentales, empresas privadas, fundaciones y personas físicas que colaboran de
+manera formal con la organización.
+Entre ellos, las instituciones educativas representan la mayor parte de la base de
+benefactores, mientras que las empresas privadas, gobierno y fundaciones conforman el
+resto de las alianzas. Su apoyo es clave para programas de rehabilitación, mantenimiento
+de centros, y adquisición de equipo.
+Cantidad de benefactores atendidos
+Actualmente, la organización trabaja con un aproximado de 3,500 instituciones contactadas,
+de las cuales alrededor de 1,800 colaboran activamente como benefactoras (tasa de
+conversión actualmente baja). Este número evidencia el potencial de crecimiento si se
+fortalecen la atención, el seguimiento y la relación con quienes aún no han consolidado su
+participación. La composición se lleva a cabo de la siguiente manera: educación 90% del
+total de donantes, gobierno 5%, empresas privadas 3%, personas físicas 1% y fundaciones
+1%.
+Argumento ético y relación con los ODS
+El proyecto y la labor impactan directamente en:
+● ODS 3 (Salud y Bienestar): acceso a rehabilitación de calidad.
+● ODS 10 (Reducción de desigualdades): inclusión de personas con discapacidad.
+● ODS 17 (Alianzas): cooperación con empresas y organizaciones benefactoras.
+Problemáticas y riesgos que enfrenta la organización
+Dependencia de financiamiento: evento anual y donaciones.
+
+--- Página 4 ---
+Percepción pública y controversia: críticas de la ONU sobre modelo “caridad vs derecho”
+es decir delegar la salud pública a privados.
+Restricciones fiscales y regulatorias: Estrictas reglas del SAT, que pueden afectar
+incentivos y funcionamiento.
+Limitaciones operativas: altos costos fijos (operacion en los CRITs es costosa) y demanda
+de tecnología, y problemas en capacidad de respuesta de promotores identificados en la
+encuesta.
+Estos riesgos refuerzan la importancia de comprender las necesidades de los benefactores
+y mejorar continuamente el servicio hacia ellos.
+Aportación de los productos e insights obtenidos del análisis
+El dashboard y análisis proporcionan: diagnóstico cuantitativo de percepción de donantes
+(empatía, satisfacción), identificación de drivers (transparencia, capacidad de respuesta),
+segmentación por tipo de donante, y recomendaciones concretas para capacitación de
+promotores y mejoras operativas que pueden elevar la tasa de conversión. Estas evidencias
+permiten tomar decisiones basadas en datos y priorizar recursos.
+Satisfacción general
+Se observó que el 61.31% de las instituciones reporta satisfacción alta, mientras que
+38.68% tiene percepciones más bajas. Esto muestra que, aunque la mayoría está conforme,
+existe un porcentaje considerable que requiere atención específica. Esta información
+permite priorizar acciones de seguimiento y comunicación personalizada.
+Recomendación de ser benefactor
+Un total de 271 instituciones recomendaría apoyar a Teletón. Este número es significativo,
+pues indica un nivel de confianza que puede aprovecharse para atraer nuevos benefactores
+mediante campañas de testimonios.
+Empatía de los promotores
+La dimensión de empatía obtuvo un aproximado de 220 instituciones con un buen nivel de
+empatia, siendo una de las más fuertes. Esto implica que los promotores son percibidos
+como cercanos, amables y comprensivos. Para la organización, esta fortaleza representa
+una ventaja competitiva en términos de relación con donantes y fidelización.
+Capacidad de respuesta
+Fue la dimensión con mas polaridad, especialmente en temas de rapidez, seguimiento y
+puntualidad. Esto constituye una oportunidad de mejora inmediata. Contar con este dato
+permite diseñar protocolos más claros, tiempos máximos de respuesta y seguimiento
+estructurado.
+
+--- Página 5 ---
+Atención personalizada
+Aunque una mayoría significativa reconoce un trato personalizado, aún existe un grupo
+importante que no lo percibe de esta manera. Esto sugiere que se debe reforzar la
+constancia en el seguimiento y el conocimiento profundo del historial de cada institución.
+Cómo esto aporta a la labor de la organización:
+Todos estos insights permitirán mejorar la relación con benefactores, elevar su satisfacción,
+fortalecer alianzas existentes y recuperar a instituciones inactivas. Esto se traduce
+directamente en mayor estabilidad financiera y capacidad para atender a más familias y
+mejorar los programas actuales.
+Cómo este reto contribuye a mejorar el servicio de la organización
+El reto permite identificar con claridad cómo los promotores pueden mejorar su labor diaria.
+Al fortalecer dimensiones como la capacidad de respuesta y la atención personalizada, se
+mejora la experiencia de las instituciones, lo que aumenta la probabilidad de que renueven
+su apoyo. Con mejores procesos de seguimiento y comunicación, la organización puede
+tomar decisiones informadas y asignar recursos de manera más efectiva.
+Aportación al ejercicio de derechos humanos y respeto a la
+dignidad
+Mejorar la calidad de servicio (empatía, seguridad, fiabilidad) promueve un trato digno y
+respetuoso hacia usuarios y beneficiarios. Además, la transparencia en el uso de fondos y
+el cumplimiento de las normas fortalecen la confianza pública, lo que a su vez protege la
+transparencia del servicio y el derecho a la salud.
+Contribución al ODS 16
+ODS 16: Paz, justicia e instituciones sólidas.
+● Transparencia y rendición de cuentas (driver clave) fortalecen instituciones y
+confianza pública.
+● Mejora en procesos y en la relación con donantes reduce la posibilidad de conflicto
+social y cuestionamientos públicos, fortaleciendo la gobernanza institucional y la
+participación ciudadana responsable. Por tanto, el resultado del reto (mejor servicio y
+mayor transparencia) contribuye a instituciones más sólidas y responsables.
+Tablero de Visualización de Variables Elegidas(Empatía y
+Desempeño)
+Bajo la variable de empatía se encuentran 3 preguntas:
+-El promotor responde de manera rápida a mis solicitudes y necesidades.
+
+--- Página 6 ---
+Se realizó un gráfico de barras en donde se llevó a cabo un recuento de las instituciones
+que evaluaron del 1 al 5 (likert), el insight identificado muestra que 141 instituciones en su
+mayoría instituciones educativas y personas físicas indican un buen tiempo de
+respuesta, por otra parte 105 instituciones, en su mayoria instituciones educativas y
+empresas no indican un buen tiempo de respuesta, lo que nos señala una gran área de
+oportunidad.
+Medidas de tendencia central y dispersion:
+-El promotor muestra una actitud comprensiva y cercana hacia la institución.
+
+--- Página 7 ---
+Se realizo un grafico de pastel en donde se muestra un recuento de las instituciones que
+evaluaron del 1 al 5 (likert), el insight identificado muestra que 220 instituciones perciben
+un buen nivel de empatía por parte del promotor indicando un buen nivel de
+desempeño en la empatía de los promotores de Teletón debido a una evaluación positiva
+por gran parte de las instituciones.
+Medidas de tendencia central y dispersión:
+-Fundación Teletón ofrece atención personalizada…
+Se realizó un gráfico de árbol, donde se muestra un recuento de las instituciones que
+evaluaron del 1 al 5 (likert). El insight identificado muestra que 182 instituciones
+consideran una atención personalizada que se adapta a sus circunstancias
+específicas, por otro lado 83 instituciones indican lo opuesto, indicando una gran área
+de mejora.
+Medidas de tendencia central y dispersión:
+
+--- Página 8 ---
+Bajo la variable de satisfacción se encuentran 3 preguntas:
+-Mi nivel de satisfacción con la colaboración…
+Se realizó un gráfico de pastel, donde se muestra un porcentaje del total de instituciones
+que evaluaron del 1 al 10, el insight muestra que 61.31% de las instituciones indican un
+buen nivel de satisfacción en la colaboración con TELETÓN, 38.68% indican un bajo
+nivel de satisfacción. Indicando una área de oportunidad en cuanto a nivel de satisfacción.
+Medidas de tendencia central y dispersión:
+-Recomendaría ser benefactor…
+
+--- Página 9 ---
+Se realizó un gráfico de barras, donde se muestra el recuento de instituciones que
+evaluaron del 1 al 10, el insight identificado muestra que 271 instituciones recomendarian
+ser benefactores de TELETON. Esto indica un alto nivel de Recomendación general.
+Medidas de tendencia central y dispersión:
+-Percibo que la calidad del servicio es excelente.
+
+--- Página 10 ---
+Se realizó un gráfico de árbol, donde se muestra el recuento de instituciones que
+evaluaron del 1 al 10, el insight identificado muestra que 154 instituciones perciben una
+buena calidad de servicio por parte del promotor, 119 no perciben una buena calidad
+de servicio por parte del promotor. Indicando una gran área de mejora sobre la
+percepción en la calidad del servicio por parte del promotor.
+Medidas de tendencia central y dispersión:
+-Satisfacción por estado:
+Se realizó un gráfico de barras en donde se muestra la distribución por estado de las
+instituciones que evaluaron, cada barra representa un estado y se segmenta del número 6
+al 10 por color, el insight identificado muestra que no necesariamente los estados con mayor
+número de respuestas indican un mayor nivel de satisfacción. Jalisco, Chiapas y
+Tamaulipas son los estados que muestran una proporción mayor de evaluaciones
+positivas (8(rojo), 9(aqua), 10(verde)). Indicando una gran área de mejora en satisfacción
+general para los demás estados.
+
+--- Página 11 ---
+Correlación Empatía/Satisfacción:
+Se realizó un gráfico de barras dual en donde se muestra la distribución de respuestas
+tanto de empatía como de satisfacción con el fin de identificar como primera instancia si
+visualmente se puede ver algún tipo de correlación entre ambas variables. El insight
+identificado muestra que si se percibe cierta correlación entre ambas variables, se
+puede observar que en términos de empatía (atención personalizada ofrecida por
+parte de Teletón) las instituciones que evaluaron de una manera positiva, también
+evaluaron positivamente en nivel de satisfacción.
+Prueba Chi cuadrada:
+Pregunta de Investigación: ¿Existe relación entre la calidad del servicio y la experiencia
+ofrecida por los promotores de Fundación Teletón?
+Planteamiento de Hipótesis:
+Hipótesis nula (H₀):
+La variable Empatía del promotor no tiene efecto (o no está correlacionada) con el nivel de
+satisfacción / calidad percibida de la institución.
+Hipótesis alternativa (Hₐ):
+La variable Empatía del promotor tiene un efecto positivo y significativo sobre el nivel de
+satisfacción / calidad percibida.
+Tabla de contingencia:
+
+--- Página 12 ---
+Se creó una tabla de contingencia que muestra la frecuencia de evaluaciones de
+Empatía y Satisfacción.
+Chi Cuadrada:
+Alfa establecido:0.05
+¿Hay o no hay correlación?
+La prueba de Chi-cuadrada analiza las variables Empatía y Desempeño que como se
+mencionó representan aspectos relacionados con la calidad del servicio y la experiencia
+ofrecida por los promotores.
+Valor p (p-value): El valor p calculado es 0.000.
+Nivel de Significancia: se establecio un alpha de 0.05.
+Dado que el valor p (0.000) es menor que 0.05, rechazamos la hipótesis nula (H₀).
+Esto indica que existe evidencia estadística significativa que sugiere que sí hay una
+relación entre la calidad del servicio y la experiencia ofrecida por los promotores de
+Fundación Teletón. Esto significa que estos dos aspectos no son independientes y es
+probable que se influyan mutuamente. Existe una correlación positiva significativa entre
+Empatia (variable independiente) y Satisfacción (variable dependiente) es decir una
+
+--- Página 13 ---
+evaluación alta en el nivel de empatía percibido también se puede esperar una evaluación
+alta en satisfacción.
+¿Existe diferencia en la calidad en el servicio entre las áreas
+(variables) o los segmentos de benefactores?
+Sí, el análisis muestra que existen diferencias claras en la calidad del servicio, tanto entre
+las áreas evaluadas (empatía, capacidad de respuesta, atención personalizada, satisfacción
+general y percepción de calidad), como entre los segmentos de instituciones. Las variables
+relacionadas con empatía presentan los puntajes más altos y consistentes; por ejemplo, 220
+instituciones reportaron una actitud comprensiva y cercana. Esto indica que los promotores
+mantienen un trato cordial, humano y empático con la mayoría de los benefactores.
+En contraste, la capacidad de respuesta muestra evaluaciones más divididas: 141
+instituciones percibieron un tiempo de respuesta adecuado, mientras que 105 reportaron lo
+contrario. Este comportamiento evidencia una diferencia importante en la calidad del
+servicio ofrecido, ya que la experiencia no es uniforme entre todos los benefactores.
+Asimismo, la atención personalizada refleja otra diferencia relevante: 182 instituciones
+perciben personalización, mientras que 83 no la identifican. Esto indica que, aunque existe
+un esfuerzo general, la consistencia del servicio varía de una institución a otra.
+Finalmente, los segmentos por estado también muestran diferencias. Estados como Jalisco,
+Chiapas y Tamaulipas presentaron una mayor proporción de evaluaciones positivas en
+satisfacción general, mientras que otras entidades mostraron menor valoración, lo que
+evidencia variabilidad geográfica en la calidad percibida.
+Estas variaciones demuestran que la calidad del servicio no es homogénea y que existen
+áreas y segmentos donde la experiencia es significativamente mejor que en otros.
+¿Qué áreas, departamentos o segmentos presentan mejor calidad
+en el servicio? ¿Cuáles presentan mayores oportunidades de
+mejora?
+Áreas o segmentos con mejor calidad de servicio:
+Empatía del promotor
+
+--- Página 14 ---
+Es la fortaleza más sobresaliente. La mayoría de las instituciones percibe una actitud
+comprensiva, cercana y amable. Esto posiciona la empatía como un pilar sólido en la
+relación con los benefactores y como un elemento que contribuye de manera directa a la
+fidelización.
+Recomendación de ser benefactor
+El hecho de que 271 instituciones recomienden colaborar con Teletón evidencia un alto nivel
+de confianza y satisfacción general entre un segmento considerable de benefactores.
+Estados con desempeño más alto
+Jalisco, Chiapas y Tamaulipas reportan un mayor porcentaje de evaluaciones positivas en
+satisfacción general, lo cual puede indicar una operación más consolidada o una
+comunicación más efectiva con los promotores asignados a esa región.
+Áreas o segmentos con mayores oportunidades de mejora:
+Capacidad de respuesta (responsiveness)
+Este es el punto más crítico. La división entre 141 instituciones satisfechas y 105
+insatisfechas evidencia un servicio poco consistente en tiempos de respuesta, seguimiento
+y puntualidad. Esta variabilidad afecta directamente la satisfacción general.
+Atención personalizada
+Aunque una mayoría percibe personalización, un grupo importante (83 instituciones) no la
+identifica. Esto indica que aún no existe una estandarización en la forma en que los
+promotores conocen o gestionan el historial de cada benefactor.
+Percepción de calidad del servicio
+Con 154 instituciones evaluándola positivamente y 119 negativamente, el margen de mejora
+sigue siendo amplio. La percepción de calidad no está tan consolidada como la empatía, lo
+cual sugiere que algunas experiencias no cumplen con las expectativas del benefactor.
+Satisfacción por estado
+Varios estados muestran niveles de satisfacción más bajos, lo que indica que el servicio
+ofrecido no es uniforme en todas las regiones. Esto abre la puerta a estrategias focalizadas
+por zona.
+Acciones tácticas propuestas a partir de los hallazgos:
+
+--- Página 15 ---
+1. Implementar un protocolo estandarizado de tiempos de respuesta y seguimiento
+Dado que la capacidad de respuesta es la dimensión más polarizada, es recomendable
+definir un SLA (acuerdo de nivel de servicio) interno que establezca tiempos máximos de
+respuesta al primer contacto, seguimiento y cierre de solicitudes. Esto debe acompañarse
+de un registro en CRM que permita monitorear el avance y evitar demoras. Con esto se
+busca reducir la variabilidad entre promotores y mejorar la experiencia de los benefactores
+que actualmente perciben lentitud o falta de seguimiento.
+2. Fortalecer la atención personalizada mediante perfiles institucionales actualizados
+Para asegurar que todos los benefactores reciban un trato alineado con sus necesidades,
+se sugiere integrar fichas o perfiles actualizados por institución en un sistema centralizado.
+Esto incluye historial de colaboración, tipo de donativo, proyectos previos y preferencias de
+comunicación. Con esta información, los promotores podrán ofrecer un trato más personal,
+consistente y relevante, reduciendo la brecha entre quienes perciben personalización y
+quienes no.
+3. Capacitación continua en comunicación efectiva y gestión de relaciones
+A partir de la fortaleza existente en empatía, se propone consolidar y ampliar estas
+habilidades mediante capacitaciones enfocadas en comunicación asertiva, manejo
+profesional de objeciones, resolución de conflictos y fidelización de benefactores. Esto no
+solo reforzará la empatía ya existente, sino que también impactará de manera indirecta en
+la satisfacción general y en la percepción de calidad del servicio.

@@ -1,0 +1,396 @@
+{
+  "estudiante": "Valeria Carrillo Pastrana",
+  "fecha": "2025-12-02T20:08:55.447024",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como ubicación geográfica y giro del benefactor para analizar percepción de transparencia y calidad",
+        "Utiliza medidas de tendencia central (media, mediana, moda) y dispersión (desviación estándar) para resumir datos",
+        "Realiza prueba de hipótesis (prueba t) y ANOVA para comparar segmentos",
+        "Construye modelo de regresión lineal con R² = 0.53 para predecir calidad del servicio",
+        "Analiza diferencias regionales en percepción mediante estadística descriptiva"
+      ],
+      "fortalezas": [
+        "Uso adecuado de herramientas estadísticas (medidas descriptivas, pruebas de hipótesis, ANOVA, regresión)",
+        "Interpretación articulada de resultados en contexto organizacional",
+        "Identificación clara de segmentos con mayores oportunidades de mejora",
+        "Integración de análisis cuantitativo con implicaciones estratégicas"
+      ],
+      "areas_mejora": [
+        "Incluir visualizaciones gráficas que muestren distribuciones y comparaciones",
+        "Profundizar en el análisis de interacción entre variables geográficas y de giro",
+        "Presentar tablas resumen con los principales estadísticos calculados",
+        "Explicar con mayor detalle el proceso de selección de variables para el modelo de regresión"
+      ],
+      "retroalimentacion": "Buen manejo de técnicas estadísticas y contextualización de resultados. Para alcanzar nivel Destacado, mejorar presentación visual de datos y profundizar en análisis multivariado."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [],
+      "retroalimentacion": "No se encontraron gráficos dinámicos en el trabajo presentado para evaluar la subcompetencia SCD0105."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta efectivamente los insights de los tableros inteligentes y el seguimiento de indicadores del plan estratégico.",
+        "Utiliza herramientas de análisis pertinentes como pruebas de hipótesis, ANOVA y regresión lineal.",
+        "Identifica riesgos y oportunidades relevantes para el negocio, como diferencias en percepción por giro y región.",
+        "Propone líneas de acción estratégicas basadas en datos, como ajustar mensajes y estrategias por región y giro."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de los datos.",
+        "Uso adecuado de herramientas estadísticas para validar hipótesis.",
+        "Identificación clara de segmentos con mayor oportunidad de mejora."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las diferencias regionales con más datos específicos.",
+        "Explorar estrategias más concretas para mejorar la percepción en los segmentos de gobierno y empresas."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de datos y propuesta de acciones estratégicas. Continúa profundizando en las diferencias regionales y desarrollando estrategias específicas para los segmentos con mayores oportunidades de mejora."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como herramientas de evaluación y estadísticas descriptivas diferenciadas por estado y giro del benefactor.",
+        "Valida las características de los prototipos mediante pruebas de hipótesis y análisis de regresión lineal.",
+        "Garantiza aplicabilidad efectiva en contextos específicos al adaptar estrategias según la región y el giro del benefactor."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que identifica claramente las áreas de fortaleza y oportunidad.",
+        "Uso de métodos estadísticos avanzados para validar las soluciones propuestas.",
+        "Enfoque contextualizado que considera las diferencias regionales y sectoriales."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas en la práctica.",
+        "Falta de prototipos físicos o visuales que ilustren las herramientas de evaluación mencionadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis y validación de datos. Para mejorar, considera desarrollar prototipos más tangibles y detallar los pasos de implementación de tus soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de calidad del servicio en Fundación Teletón",
+        "Establece propuestas de acción diferenciadas por estado y giro del benefactor para mejorar la percepción del servicio",
+        "Presenta un análisis estadístico detallado que incluye medidas de tendencia central, prueba de hipótesis y regresión lineal",
+        "Identifica segmentos con mayores oportunidades de mejora (gobierno y empresas) y áreas de fortaleza (asociaciones civiles y grupos internos)"
+      ],
+      "fortalezas": [
+        "Análisis riguroso y basado en datos que permite identificar áreas de mejora específicas",
+        "Propuestas contextualizadas que consideran diferencias regionales y por tipo de benefactor",
+        "Contribución clara al fortalecimiento institucional y mejora de la calidad del servicio"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en estrategias concretas de implementación para las mejoras propuestas",
+        "Falta mayor evidencia de trabajo colaborativo directo en la generación de estos resultados"
+      ],
+      "retroalimentacion": "Excelente trabajo analítico que aporta valor a la Fundación Teletón. Para alcanzar el nivel Destacado, sería valioso mostrar más evidencias de colaboración directa con otros actores en la generación de estos resultados y propuestas más concretas de implementación."
+    },
+    "SEGE401": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante demuestra sensibilidad social al analizar las necesidades de personas con discapacidad y autismo en México.",
+        "Muestra compromiso comunitario al proponer soluciones para mejorar la calidad del servicio en Fundación Teletón.",
+        "Respeto a la dignidad de las personas al enfocarse en mejorar la atención a beneficiarios vulnerables."
+      ],
+      "fortalezas": [
+        "Análisis detallado del contexto social, económico y político que afecta a los beneficiarios.",
+        "Propuestas basadas en datos para mejorar la transparencia y calidad del servicio."
+      ],
+      "areas_mejora": [
+        "Podría incluir más ejemplos concretos de acciones solidarias o constructivas implementadas.",
+        "Profundizar en cómo las soluciones propuestas impactan directamente en la dignidad de los beneficiarios."
+      ],
+      "retroalimentacion": "Buen trabajo al analizar el impacto social y proponer mejoras. Para alcanzar el nivel Destacado, incluye más ejemplos específicos de acciones solidarias y su impacto directo en la dignidad de las personas."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como ubicación geográfica y giro del benefactor para analizar percepción de transparencia y calidad del servicio",
+        "Utiliza medidas de tendencia central y dispersión (media, mediana, moda, desviación estándar) para resumir datos de encuestas",
+        "Realiza prueba de hipótesis (prueba t) y ANOVA para comparar segmentos",
+        "Construye modelo de regresión lineal para predecir calidad del servicio con R² ≈ 0.53",
+        "Presenta análisis descriptivo por giros y regiones con hallazgos estratégicos"
+      ],
+      "fortalezas": [
+        "Análisis estadístico completo que incluye descriptivos, inferenciales y predictivos",
+        "Interpretación contextualizada de resultados en el ámbito institucional",
+        "Identificación clara de segmentos con oportunidades de mejora (gobierno y empresas)"
+      ],
+      "areas_mejora": [
+        "Podría incluir visualizaciones gráficas más efectivas para presentar los datos",
+        "Falta detalle sobre las herramientas tecnológicas específicas utilizadas",
+        "Podría profundizar en el análisis de outliers o casos atípicos en los datos"
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo e inferencial. Para mejorar, considera incorporar más visualizaciones de datos y especificar las herramientas tecnológicas utilizadas. Tu interpretación contextual de los resultados es muy valiosa para la toma de decisiones estratégicas."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Incluir gráficos dinámicos que muestren la relación entre variables clave como calidad del servicio, transparencia y satisfacción por giro o región",
+        "Utilizar herramientas tecnológicas actuales para visualizar datos de manera interactiva"
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis detallado y relevante, pero carece de gráficos dinámicos que permitan visualizar las relaciones entre las variables estudiadas. Se recomienda incorporar visualizaciones interactivas para fortalecer la presentación de datos y facilitar la interpretación."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, identificando diferencias en la percepción de calidad del servicio por giro y región.",
+        "Utiliza herramientas de análisis como estadísticas descriptivas, ANOVA y regresión lineal para fundamentar sus hallazgos.",
+        "Identifica riesgos y oportunidades relevantes, como la brecha en la percepción de calidad en los segmentos de gobierno y empresas.",
+        "Propone líneas de acción estratégicas, como la adaptación de estrategias y mensajes según el contexto regional y el giro del benefactor."
+      ],
+      "fortalezas": [
+        "Análisis profundo y contextualizado de los datos.",
+        "Uso adecuado de herramientas estadísticas para validar hipótesis.",
+        "Identificación clara de segmentos prioritarios para mejora."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en propuestas específicas para cada segmento identificado como crítico."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Continúa desarrollando recomendaciones específicas para cada segmento y región."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras al proponer herramientas de evaluación y propuestas de acción diferenciadas por estado y giro del benefactor.",
+        "Valida las características de los prototipos mediante pruebas de hipótesis y análisis estadísticos (ANOVA, regresión lineal).",
+        "Garantiza aplicabilidad efectiva en contextos específicos al adaptar estrategias según la región y el giro del benefactor."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las conclusiones y propuestas.",
+        "Enfoque diferenciado por segmentos y regiones, lo que muestra una comprensión profunda del contexto."
+      ],
+      "areas_mejora": [
+        "Podría incluir prototipos más tangibles o pilotos de las soluciones propuestas para validar su efectividad en campo.",
+        "Profundizar en cómo se implementarían las estrategias adaptativas por región y giro."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido proceso de innovación al generar soluciones basadas en datos y adaptadas al contexto. Para alcanzar el nivel destacado, considera incluir pruebas piloto o casos de estudio que validen la efectividad de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante presenta un análisis detallado de la percepción de calidad del servicio en diferentes giros de benefactores, identificando fortalezas y áreas de mejora.",
+        "Realiza pruebas de hipótesis y regresión lineal para evaluar y predecir la calidad del servicio, mostrando un enfoque metodológico riguroso.",
+        "Identifica variabilidad regional en la percepción del benefactor y propone la necesidad de adaptar estrategias según el contexto geográfico."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo de datos que incluye medidas de tendencia central y dispersión, pruebas de hipótesis y regresión lineal.",
+        "Identificación clara de segmentos con mejor calidad del servicio y aquellos con mayores oportunidades de mejora.",
+        "Propuesta de adaptación de estrategias según el contexto regional y el giro del benefactor."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se llevó a cabo el trabajo colaborativo en la recolección y análisis de datos.",
+        "Falta evidencia explícita de la negociación o establecimiento de compromisos con otros miembros del equipo o stakeholders."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido análisis de datos y propuestas estratégicas. Para mejorar, sería beneficioso detallar más el proceso colaborativo y los compromisos establecidos durante el proyecto."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Analiza profundamente el contexto social, económico, político y ambiental de la Fundación Teletón, mostrando sensibilidad hacia las personas con discapacidad y sus familias",
+        "Propone soluciones estratégicas diferenciadas por región y tipo de benefactor para mejorar la percepción de transparencia y calidad del servicio",
+        "Vincula explícitamente el trabajo con los Objetivos de Desarrollo Sostenible (ODS 3, 4, 10 y 16), demostrando compromiso con derechos humanos y equidad",
+        "Demuestra respeto por la dignidad de los beneficiarios al buscar mejorar las condiciones institucionales para garantizar su acceso a salud y educación"
+      ],
+      "fortalezas": [
+        "Análisis multidimensional que integra aspectos éticos, sociales y estadísticos",
+        "Propuestas contextualizadas que consideran las particularidades regionales y de cada tipo de benefactor",
+        "Compromiso evidente con grupos vulnerables y alineación con marcos internacionales de derechos humanos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactarán directamente la calidad de vida de los beneficiarios finales",
+        "Sería valioso incluir testimonios o casos concretos que ilustren el impacto humano de las mejoras propuestas"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un profundo entendimiento de la problemática y un compromiso genuino con la dignidad de las personas. Tus propuestas son sólidas, contextualizadas y alineadas con principios éticos y de responsabilidad social. Continúa integrando esta perspectiva humanista en tus análisis."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "ronda1": 88,
+        "ronda2": 100,
+        "diferencia": 12
+      }
+    ],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Incluir gráficos dinámicos que muestren la relación entre variables clave como calidad del servicio, transparencia y satisfacción por giro o región",
+          "Utilizar herramientas tecnológicas actuales para visualizar datos de manera interactiva"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0303",
+        "nombre": "Insights y Líneas de Acción",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y contextualizado de los datos.",
+          "Uso adecuado de herramientas estadísticas para validar hipótesis.",
+          "Identificación clara de segmentos prioritarios para mejora."
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 94.0,
+        "fortalezas": [
+          "Análisis multidimensional que integra aspectos éticos, sociales y estadísticos",
+          "Propuestas contextualizadas que consideran las particularidades regionales y de cada tipo de benefactor",
+          "Compromiso evidente con grupos vulnerables y alineación con marcos internacionales de derechos humanos"
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica variables esenciales como ubicación geográfica y giro del benefactor para analizar percepción de transparencia y calidad del servicio",
+        "Utiliza medidas de tendencia central y dispersión (media, mediana, moda, desviación estándar) para resumir datos de encuestas",
+        "Realiza prueba de hipótesis (prueba t) y ANOVA para comparar segmentos",
+        "Construye modelo de regresión lineal para predecir calidad del servicio con R² ≈ 0.53",
+        "Presenta análisis descriptivo por giros y regiones con hallazgos estratégicos"
+      ],
+      "fortalezas": [
+        "Análisis estadístico completo que incluye descriptivos, inferenciales y predictivos",
+        "Interpretación contextualizada de resultados en el ámbito institucional",
+        "Identificación clara de segmentos con oportunidades de mejora (gobierno y empresas)"
+      ],
+      "areas_mejora": [
+        "Podría incluir visualizaciones gráficas más efectivas para presentar los datos",
+        "Falta detalle sobre las herramientas tecnológicas específicas utilizadas",
+        "Podría profundizar en el análisis de outliers o casos atípicos en los datos"
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo e inferencial. Para mejorar, considera incorporar más visualizaciones de datos y especificar las herramientas tecnológicas utilizadas. Tu interpretación contextual de los resultados es muy valiosa para la toma de decisiones estratégicas.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Incluir gráficos dinámicos que muestren la relación entre variables clave como calidad del servicio, transparencia y satisfacción por giro o región",
+        "Utilizar herramientas tecnológicas actuales para visualizar datos de manera interactiva"
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis detallado y relevante, pero carece de gráficos dinámicos que permitan visualizar las relaciones entre las variables estudiadas. Se recomienda incorporar visualizaciones interactivas para fortalecer la presentación de datos y facilitar la interpretación.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes, identificando diferencias en la percepción de calidad del servicio por giro y región.",
+        "Utiliza herramientas de análisis como estadísticas descriptivas, ANOVA y regresión lineal para fundamentar sus hallazgos.",
+        "Identifica riesgos y oportunidades relevantes, como la brecha en la percepción de calidad en los segmentos de gobierno y empresas.",
+        "Propone líneas de acción estratégicas, como la adaptación de estrategias y mensajes según el contexto regional y el giro del benefactor."
+      ],
+      "fortalezas": [
+        "Análisis profundo y contextualizado de los datos.",
+        "Uso adecuado de herramientas estadísticas para validar hipótesis.",
+        "Identificación clara de segmentos prioritarios para mejora."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en propuestas específicas para cada segmento identificado como crítico."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Continúa desarrollando recomendaciones específicas para cada segmento y región.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras al proponer herramientas de evaluación y propuestas de acción diferenciadas por estado y giro del benefactor.",
+        "Valida las características de los prototipos mediante pruebas de hipótesis y análisis estadísticos (ANOVA, regresión lineal).",
+        "Garantiza aplicabilidad efectiva en contextos específicos al adaptar estrategias según la región y el giro del benefactor."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las conclusiones y propuestas.",
+        "Enfoque diferenciado por segmentos y regiones, lo que muestra una comprensión profunda del contexto."
+      ],
+      "areas_mejora": [
+        "Podría incluir prototipos más tangibles o pilotos de las soluciones propuestas para validar su efectividad en campo.",
+        "Profundizar en cómo se implementarían las estrategias adaptativas por región y giro."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido proceso de innovación al generar soluciones basadas en datos y adaptadas al contexto. Para alcanzar el nivel destacado, considera incluir pruebas piloto o casos de estudio que validen la efectividad de las soluciones propuestas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "El estudiante presenta un análisis detallado de la percepción de calidad del servicio en diferentes giros de benefactores, identificando fortalezas y áreas de mejora.",
+        "Realiza pruebas de hipótesis y regresión lineal para evaluar y predecir la calidad del servicio, mostrando un enfoque metodológico riguroso.",
+        "Identifica variabilidad regional en la percepción del benefactor y propone la necesidad de adaptar estrategias según el contexto geográfico."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo de datos que incluye medidas de tendencia central y dispersión, pruebas de hipótesis y regresión lineal.",
+        "Identificación clara de segmentos con mejor calidad del servicio y aquellos con mayores oportunidades de mejora.",
+        "Propuesta de adaptación de estrategias según el contexto regional y el giro del benefactor."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se llevó a cabo el trabajo colaborativo en la recolección y análisis de datos.",
+        "Falta evidencia explícita de la negociación o establecimiento de compromisos con otros miembros del equipo o stakeholders."
+      ],
+      "retroalimentacion": "El trabajo muestra un sólido análisis de datos y propuestas estratégicas. Para mejorar, sería beneficioso detallar más el proceso colaborativo y los compromisos establecidos durante el proyecto.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Analiza profundamente el contexto social, económico, político y ambiental de la Fundación Teletón, mostrando sensibilidad hacia las personas con discapacidad y sus familias",
+        "Propone soluciones estratégicas diferenciadas por región y tipo de benefactor para mejorar la percepción de transparencia y calidad del servicio",
+        "Vincula explícitamente el trabajo con los Objetivos de Desarrollo Sostenible (ODS 3, 4, 10 y 16), demostrando compromiso con derechos humanos y equidad",
+        "Demuestra respeto por la dignidad de los beneficiarios al buscar mejorar las condiciones institucionales para garantizar su acceso a salud y educación"
+      ],
+      "fortalezas": [
+        "Análisis multidimensional que integra aspectos éticos, sociales y estadísticos",
+        "Propuestas contextualizadas que consideran las particularidades regionales y de cada tipo de benefactor",
+        "Compromiso evidente con grupos vulnerables y alineación con marcos internacionales de derechos humanos"
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo las soluciones propuestas impactarán directamente la calidad de vida de los beneficiarios finales",
+        "Sería valioso incluir testimonios o casos concretos que ilustren el impacto humano de las mejoras propuestas"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un profundo entendimiento de la problemática y un compromiso genuino con la dignidad de las personas. Tus propuestas son sólidas, contextualizadas y alineadas con principios éticos y de responsabilidad social. Continúa integrando esta perspectiva humanista en tus análisis.",
+      "promedio_delphi": 94.0
+    }
+  },
+  "nota_final": 74.6,
+  "nivel_final": "Básico"
+}

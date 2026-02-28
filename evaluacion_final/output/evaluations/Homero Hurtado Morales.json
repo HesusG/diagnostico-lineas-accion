@@ -1,0 +1,379 @@
+{
+  "estudiante": "Homero Hurtado Morales",
+  "fecha": "2025-12-02T19:54:17.865779",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica las variables esenciales en la información relacionadas con la problemática de la Fundación Teletón.",
+        "Utiliza herramientas tecnológicas para resumir la información mediante tablas de frecuencia y estadísticas descriptivas, como se evidencia en las pruebas t, ANOVA y regresión lineal.",
+        "Muestra de manera adecuada la información relevante contenida en las variables, como las diferencias entre estados y los factores que influyen en la calidad del servicio.",
+        "Interpreta de manera articulada los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada, proponiendo acciones concretas para mejorar el servicio."
+      ],
+      "fortalezas": [
+        "El estudiante demuestra un buen entendimiento de la problemática y utiliza herramientas estadísticas apropiadas para analizar los datos.",
+        "La interpretación de los resultados es coherente y se relaciona directamente con las acciones propuestas para mejorar el servicio."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos, como incluir gráficos o tablas que hagan más atractiva y clara la información.",
+        "Sería beneficioso profundizar en la explicación de cómo se realizaron los análisis estadísticos y qué herramientas tecnológicas específicas se utilizaron."
+      ],
+      "retroalimentacion": "El trabajo es sólido y demuestra un buen manejo de la estadística descriptiva. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y proporcionar más detalles sobre las herramientas tecnológicas utilizadas."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [],
+      "retroalimentacion": "No se encontraron evidencias relacionadas con la generación de gráficos dinámicos en el trabajo del estudiante."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, identificando diferencias significativas entre estados.",
+        "Utiliza herramientas de análisis apropiadas como pruebas t, ANOVA y regresión lineal para el estudio.",
+        "Identifica riesgos y oportunidades relevantes como la variabilidad en la calidad del servicio entre estados y la necesidad de estandarización.",
+        "Propone líneas de acción estratégicas como estandarizar la comunicación, capacitar a estados con menor desempeño e implementar un sistema digital de seguimiento."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las conclusiones.",
+        "Identificación clara de los factores que más influyen en la calidad del servicio.",
+        "Propuestas de acción concretas y alineadas con los hallazgos."
+      ],
+      "areas_mejora": [
+        "Profundizar en el análisis de las causas raíz de las diferencias entre estados.",
+        "Incluir más herramientas de visualización de datos para complementar el análisis."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen uso de herramientas analíticas y propone acciones relevantes. Para alcanzar el nivel destacado, se sugiere profundizar en el análisis causal y mejorar la presentación visual de los datos."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como la estandarización de la comunicación, capacitación para estados con menor desempeño y un sistema digital para seguimiento de compromisos.",
+        "Valida las características de los prototipos mediante pruebas estadísticas como ANOVA, regresión lineal y correlación entre variables.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, proponiendo acciones concretas para mejorar la calidad del servicio."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en datos que respaldan las propuestas de mejora.",
+        "Propuestas claras y específicas que abordan las problemáticas identificadas."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las soluciones propuestas y cómo se mediría su impacto.",
+        "Falta de prototipos físicos o digitales que demuestren la viabilidad de las soluciones."
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis sólido y propuestas innovadoras para mejorar los servicios de la Fundación Teletón. Para alcanzar un nivel destacado, sería beneficioso incluir más detalles sobre la implementación y validación de las soluciones propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera resultados concretos derivados del análisis de datos sobre la calidad del servicio en diferentes estados.",
+        "Establece compromisos y acciones adecuadas como estandarizar la comunicación, capacitar a estados con menor desempeño y fortalecer el seguimiento operativo.",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación con otros estados al proponer acciones basadas en evidencia estadística.",
+        "Logra de manera consistente los objetivos planteados al identificar áreas de mejora y proponer soluciones concretas."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en evidencia estadística.",
+        "Propuestas de acción claras y específicas para mejorar la calidad del servicio.",
+        "Enfoque en la estandarización y capacitación para reducir desigualdades entre estados."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las acciones propuestas y cómo se medirá su impacto.",
+        "Falta mayor evidencia de trabajo colaborativo con otros equipos o estados durante el proceso de análisis y propuesta de soluciones."
+      ],
+      "retroalimentacion": "El trabajo presenta un análisis sólido y propuestas concretas para mejorar la calidad del servicio. Para alcanzar el nivel destacado, sería beneficioso incluir más detalles sobre la implementación de las acciones y evidencias de colaboración con otros equipos o estados durante el proceso."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como estandarizar la comunicación, capacitar a estados con menor desempeño e implementar un sistema digital para seguimiento.",
+        "Demuestra sensibilidad social al analizar la problemática de acceso a servicios de rehabilitación para personas con discapacidad y contextos vulnerables.",
+        "Demuestra compromiso comunitario al proponer acciones concretas para mejorar la calidad del servicio de Fundación Teletón.",
+        "Demuestra respeto a la dignidad de las personas al basar su análisis en la dignidad humana, igualdad y no discriminación, y al proponer mejoras que fortalezcan el enfoque de derechos humanos."
+      ],
+      "fortalezas": [
+        "Análisis detallado y basado en evidencia de la problemática y las soluciones.",
+        "Propuestas de acción claras y específicas para mejorar el servicio.",
+        "Enfoque en la dignidad humana y los derechos de los beneficiarios."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las acciones propuestas en los estados con menor desempeño."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar un profundo respeto por la dignidad y derechos de los beneficiarios, y al proponer soluciones constructivas y solidarias. Continúa con este enfoque en tus futuros proyectos."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información como la fiabilidad del servicio, claridad de la información, conocimiento del promotor, rapidez de respuesta y empatía.",
+        "Utiliza herramientas tecnológicas para realizar pruebas estadísticas como ANOVA, regresión lineal y correlación, mostrando un resumen adecuado de la información.",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante el análisis de diferencias por estados y la identificación de factores clave que influyen en la calidad del servicio.",
+        "Interpreta de manera articulada los resultados de los análisis estadísticos en el contexto de la problemática planteada, proponiendo acciones concretas basadas en los hallazgos."
+      ],
+      "fortalezas": [
+        "Identificación clara y completa de las variables esenciales.",
+        "Uso adecuado de herramientas estadísticas para resumir y analizar la información.",
+        "Interpretación coherente de los resultados en el contexto de la problemática.",
+        "Propuesta de acciones tácticas basadas en evidencia estadística."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos, como gráficos más atractivos y detallados.",
+        "Falta de detalle en la descripción de las herramientas tecnológicas utilizadas para el análisis."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de la estadística descriptiva y su aplicación en el contexto de la problemática. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y detallar más las herramientas tecnológicas utilizadas."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [
+        "El estudiante presenta un análisis detallado y bien estructurado sobre la problemática y las acciones tácticas propuestas"
+      ],
+      "areas_mejora": [
+        "Falta de gráficos dinámicos que respalden el análisis estadístico presentado",
+        "No se muestra evidencia de la generación de visualizaciones dinámicas"
+      ],
+      "retroalimentacion": "El trabajo carece de gráficos dinámicos que podrían enriquecer la presentación de los datos estadísticos analizados. Se recomienda incluir visualizaciones dinámicas que reflejen los hallazgos estadísticos para una mejor comprensión y toma de decisiones."
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, identificando diferencias significativas entre estados.",
+        "Utiliza herramientas de análisis apropiadas como ANOVA, regresión lineal y correlación para el estudio.",
+        "Identifica riesgos y oportunidades relevantes como la falta de estandarización en la comunicación y diferencias en el desempeño por estado.",
+        "Propone líneas de acción estratégicas como estandarizar la comunicación, capacitar a estados con menor desempeño y fortalecer el seguimiento operativo."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda los insights identificados.",
+        "Propuestas de acción claras y basadas en evidencia.",
+        "Enfoque en la mejora de la calidad del servicio y la equidad entre estados."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas más avanzadas de visualización de datos.",
+        "Falta mayor detalle en cómo se implementarían las acciones propuestas."
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis y propuesta de acciones. Para mejorar, considera incluir más detalles sobre la implementación de las acciones y explorar herramientas de visualización más avanzadas."
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como la estandarización de la comunicación mediante guías claras y la implementación de un sistema digital para seguimiento de compromisos.",
+        "Valida las características de los prototipos mediante pruebas estadísticas como ANOVA y regresión lineal, identificando diferencias significativas entre estados y factores clave que influyen en la calidad del servicio.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo acciones concretas para mejorar la calidad del servicio en diferentes estados."
+      ],
+      "fortalezas": [
+        "El análisis estadístico es robusto y proporciona evidencia clara para sustentar las propuestas de mejora.",
+        "Las acciones tácticas propuestas son concretas y están alineadas con los hallazgos del análisis, lo que aumenta su probabilidad de éxito."
+      ],
+      "areas_mejora": [
+        "Podría incluirse un plan de validación más detallado para las soluciones propuestas, como pilotos en centros específicos antes de su implementación a gran escala.",
+        "Sería beneficioso explorar soluciones más innovadoras, como el uso de tecnologías emergentes para mejorar la comunicación y el seguimiento."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen nivel de innovación al proponer soluciones basadas en evidencia estadística. Para alcanzar un nivel Destacado, considera incorporar métodos más avanzados de validación y explorar tecnologías innovadoras que puedan potenciar el impacto de las soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Presenta un análisis completo del contexto social, económico, político y ambiental de la problemática abordada por Fundación Teletón.",
+        "Incluye pruebas estadísticas (prueba t, ANOVA, regresión lineal) para respaldar sus conclusiones.",
+        "Propone acciones tácticas concretas basadas en los hallazgos estadísticos.",
+        "Relaciona el trabajo con los ODS y derechos humanos, mostrando una comprensión de la relevancia social del proyecto."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las conclusiones.",
+        "Propuestas de acción claras y vinculadas directamente a los hallazgos.",
+        "Contextualización adecuada del problema y su relevancia social."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se implementarían las acciones propuestas y cómo se mediría su impacto.",
+        "Falta evidencia de trabajo colaborativo explícito en el desarrollo del proyecto."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido análisis estadístico y contextual, con propuestas de acción relevantes. Para mejorar, sería valioso incluir más detalles sobre la implementación de las acciones y evidencias específicas de colaboración en el desarrollo del proyecto."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como estandarizar la comunicación, capacitar a estados con menor desempeño y fortalecer el seguimiento operativo.",
+        "Demuestra sensibilidad social al analizar la problemática de acceso a servicios de rehabilitación para personas con discapacidad.",
+        "Demuestra compromiso comunitario al proponer acciones concretas para mejorar la calidad del servicio en Fundación Teletón.",
+        "Demuestra respeto a la dignidad de las personas al enfocarse en mejorar la claridad y calidad del servicio para beneficiarios vulnerables."
+      ],
+      "fortalezas": [
+        "Análisis profundo de la problemática social y propuestas de solución bien fundamentadas.",
+        "Enfoque en derechos humanos y dignidad de los beneficiarios.",
+        "Relación clara con los Objetivos de Desarrollo Sostenible (ODS)."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo involucrar a la comunidad en las soluciones propuestas.",
+        "Sería valioso especificar métricas para evaluar el impacto de las acciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar ética y responsabilidad social. Tus propuestas son solidarias y respetuosas de la dignidad de los beneficiarios. Continúa integrando este enfoque en futuros proyectos."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Falta de gráficos dinámicos que respalden el análisis estadístico presentado",
+          "No se muestra evidencia de la generación de visualizaciones dinámicas"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo de la problemática social y propuestas de solución bien fundamentadas.",
+          "Enfoque en derechos humanos y dignidad de los beneficiarios.",
+          "Relación clara con los Objetivos de Desarrollo Sostenible (ODS)."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información como la fiabilidad del servicio, claridad de la información, conocimiento del promotor, rapidez de respuesta y empatía.",
+        "Utiliza herramientas tecnológicas para realizar pruebas estadísticas como ANOVA, regresión lineal y correlación, mostrando un resumen adecuado de la información.",
+        "Muestra de manera adecuada la información relevante contenida en las variables mediante el análisis de diferencias por estados y la identificación de factores clave que influyen en la calidad del servicio.",
+        "Interpreta de manera articulada los resultados de los análisis estadísticos en el contexto de la problemática planteada, proponiendo acciones concretas basadas en los hallazgos."
+      ],
+      "fortalezas": [
+        "Identificación clara y completa de las variables esenciales.",
+        "Uso adecuado de herramientas estadísticas para resumir y analizar la información.",
+        "Interpretación coherente de los resultados en el contexto de la problemática.",
+        "Propuesta de acciones tácticas basadas en evidencia estadística."
+      ],
+      "areas_mejora": [
+        "Podría mejorar en la presentación visual de los datos, como gráficos más atractivos y detallados.",
+        "Falta de detalle en la descripción de las herramientas tecnológicas utilizadas para el análisis."
+      ],
+      "retroalimentacion": "El trabajo muestra un buen manejo de la estadística descriptiva y su aplicación en el contexto de la problemática. Para alcanzar un nivel destacado, considera mejorar la presentación visual de los datos y detallar más las herramientas tecnológicas utilizadas.",
+      "promedio_delphi": 88.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [
+        "El estudiante presenta un análisis detallado y bien estructurado sobre la problemática y las acciones tácticas propuestas"
+      ],
+      "areas_mejora": [
+        "Falta de gráficos dinámicos que respalden el análisis estadístico presentado",
+        "No se muestra evidencia de la generación de visualizaciones dinámicas"
+      ],
+      "retroalimentacion": "El trabajo carece de gráficos dinámicos que podrían enriquecer la presentación de los datos estadísticos analizados. Se recomienda incluir visualizaciones dinámicas que reflejen los hallazgos estadísticos para una mejor comprensión y toma de decisiones.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Interpreta adecuadamente los insights de los tableros inteligentes y el seguimiento de indicadores, identificando diferencias significativas entre estados.",
+        "Utiliza herramientas de análisis apropiadas como ANOVA, regresión lineal y correlación para el estudio.",
+        "Identifica riesgos y oportunidades relevantes como la falta de estandarización en la comunicación y diferencias en el desempeño por estado.",
+        "Propone líneas de acción estratégicas como estandarizar la comunicación, capacitar a estados con menor desempeño y fortalecer el seguimiento operativo."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda los insights identificados.",
+        "Propuestas de acción claras y basadas en evidencia.",
+        "Enfoque en la mejora de la calidad del servicio y la equidad entre estados."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en el uso de herramientas más avanzadas de visualización de datos.",
+        "Falta mayor detalle en cómo se implementarían las acciones propuestas."
+      ],
+      "retroalimentacion": "Buen trabajo en el análisis y propuesta de acciones. Para mejorar, considera incluir más detalles sobre la implementación de las acciones y explorar herramientas de visualización más avanzadas.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE201": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Genera prototipos de soluciones innovadoras como la estandarización de la comunicación mediante guías claras y la implementación de un sistema digital para seguimiento de compromisos.",
+        "Valida las características de los prototipos mediante pruebas estadísticas como ANOVA y regresión lineal, identificando diferencias significativas entre estados y factores clave que influyen en la calidad del servicio.",
+        "Garantiza aplicabilidad efectiva en el contexto de Fundación Teletón, proponiendo acciones concretas para mejorar la calidad del servicio en diferentes estados."
+      ],
+      "fortalezas": [
+        "El análisis estadístico es robusto y proporciona evidencia clara para sustentar las propuestas de mejora.",
+        "Las acciones tácticas propuestas son concretas y están alineadas con los hallazgos del análisis, lo que aumenta su probabilidad de éxito."
+      ],
+      "areas_mejora": [
+        "Podría incluirse un plan de validación más detallado para las soluciones propuestas, como pilotos en centros específicos antes de su implementación a gran escala.",
+        "Sería beneficioso explorar soluciones más innovadoras, como el uso de tecnologías emergentes para mejorar la comunicación y el seguimiento."
+      ],
+      "retroalimentacion": "El trabajo demuestra un buen nivel de innovación al proponer soluciones basadas en evidencia estadística. Para alcanzar un nivel Destacado, considera incorporar métodos más avanzados de validación y explorar tecnologías innovadoras que puedan potenciar el impacto de las soluciones.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE203": {
+      "nivel": "Sólido",
+      "puntos": 88,
+      "evidencias": [
+        "Presenta un análisis completo del contexto social, económico, político y ambiental de la problemática abordada por Fundación Teletón.",
+        "Incluye pruebas estadísticas (prueba t, ANOVA, regresión lineal) para respaldar sus conclusiones.",
+        "Propone acciones tácticas concretas basadas en los hallazgos estadísticos.",
+        "Relaciona el trabajo con los ODS y derechos humanos, mostrando una comprensión de la relevancia social del proyecto."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto que respalda las conclusiones.",
+        "Propuestas de acción claras y vinculadas directamente a los hallazgos.",
+        "Contextualización adecuada del problema y su relevancia social."
+      ],
+      "areas_mejora": [
+        "Podría profundizar en cómo se implementarían las acciones propuestas y cómo se mediría su impacto.",
+        "Falta evidencia de trabajo colaborativo explícito en el desarrollo del proyecto."
+      ],
+      "retroalimentacion": "El trabajo demuestra un sólido análisis estadístico y contextual, con propuestas de acción relevantes. Para mejorar, sería valioso incluir más detalles sobre la implementación de las acciones y evidencias específicas de colaboración en el desarrollo del proyecto.",
+      "promedio_delphi": 88.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones constructivas y solidarias como estandarizar la comunicación, capacitar a estados con menor desempeño y fortalecer el seguimiento operativo.",
+        "Demuestra sensibilidad social al analizar la problemática de acceso a servicios de rehabilitación para personas con discapacidad.",
+        "Demuestra compromiso comunitario al proponer acciones concretas para mejorar la calidad del servicio en Fundación Teletón.",
+        "Demuestra respeto a la dignidad de las personas al enfocarse en mejorar la claridad y calidad del servicio para beneficiarios vulnerables."
+      ],
+      "fortalezas": [
+        "Análisis profundo de la problemática social y propuestas de solución bien fundamentadas.",
+        "Enfoque en derechos humanos y dignidad de los beneficiarios.",
+        "Relación clara con los Objetivos de Desarrollo Sostenible (ODS)."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo involucrar a la comunidad en las soluciones propuestas.",
+        "Sería valioso especificar métricas para evaluar el impacto de las acciones propuestas."
+      ],
+      "retroalimentacion": "Excelente trabajo al demostrar ética y responsabilidad social. Tus propuestas son solidarias y respetuosas de la dignidad de los beneficiarios. Continúa integrando este enfoque en futuros proyectos.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 71.6,
+  "nivel_final": "Básico"
+}

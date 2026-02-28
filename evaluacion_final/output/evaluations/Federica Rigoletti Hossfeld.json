@@ -1,0 +1,413 @@
+{
+  "estudiante": "Federica Rigoletti Hossfeld",
+  "fecha": "2025-12-02T19:50:01.088305",
+  "ronda1": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica y analiza en su totalidad las variables esenciales (presentación del promotor, claridad de la información, procedimientos/documentación y cumplimiento de horarios) en la información proporcionada.",
+        "Utiliza herramientas tecnológicas y resume de manera apropiada la información mediante estadísticas descriptivas (medias, medianas, modas, desviaciones estándar) y pruebas de hipótesis (prueba t, ANOVA).",
+        "Muestra de manera atractiva la información relevante contenida en las variables mediante gráficos y análisis detallados en el contexto de la problemática planteada.",
+        "Interpreta de manera coherente los resultados de los gráficos y análisis descriptivos, relacionándolos con teorías como SERVQUAL y Servicescape, y con los Objetivos de Desarrollo Sostenible (ODS)."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables tangibles y su impacto en la percepción del servicio.",
+        "Uso adecuado de herramientas estadísticas y tecnológicas para resumir y presentar la información.",
+        "Interpretación coherente y contextualizada de los resultados, vinculándolos con teorías y objetivos globales."
+      ],
+      "areas_mejora": [
+        "Podría incluir visualizaciones gráficas más detalladas para complementar el análisis descriptivo.",
+        "Profundizar en el uso de herramientas tecnológicas específicas para el análisis estadístico."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis descriptivo y la interpretación de los datos. Has demostrado un dominio sólido de las herramientas estadísticas y una capacidad excepcional para contextualizar los resultados. Continúa explorando visualizaciones gráficas para enriquecer aún más tus presentaciones."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [
+        "El trabajo muestra un análisis profundo y detallado de los datos tangibles relacionados con la calidad del servicio en la Fundación Teletón.",
+        "El estudiante utiliza metodologías estadísticas sólidas como pruebas t, ANOVA, regresión lineal y correlaciones para respaldar sus conclusiones.",
+        "Las propuestas de acción táctica están bien justificadas y basadas en los hallazgos estadísticos."
+      ],
+      "areas_mejora": [
+        "No se presentan gráficos dinámicos en el trabajo, lo cual es esencial para la subcompetencia evaluada.",
+        "Falta evidencia visual que muestre la relación entre las variables analizadas y la calidad percibida del servicio."
+      ],
+      "retroalimentacion": "El análisis realizado es exhaustivo y bien fundamentado estadísticamente, pero no se incluyen gráficos dinámicos que visualicen los datos y faciliten la interpretación. Se recomienda incorporar gráficos dinámicos en futuros trabajos para cumplir con la subcompetencia evaluada."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes o en el seguimiento de los indicadores del plan estratégico",
+        "Hace uso de herramientas de análisis pertinentes para el estudio",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio",
+        "Propone de manera acertada líneas de acción estratégicas"
+      ],
+      "fortalezas": [
+        "Análisis profundo y detallado de los datos tangibles",
+        "Uso adecuado de herramientas estadísticas como ANOVA, regresión lineal y correlaciones",
+        "Propuestas de acción claras y bien justificadas basadas en los insights obtenidos"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las propuestas de acción",
+        "Sería útil incluir un plan de seguimiento para medir el impacto de las acciones propuestas"
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis de datos y en la propuesta de acciones estratégicas. Las evidencias muestran un dominio claro de la subcompetencia. Continúa desarrollando planes de implementación y seguimiento para maximizar el impacto de tus propuestas."
+    },
+    "SEGE201": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones innovadoras como el Rediseño integral del protocolo de imagen y presentación, Implementación del Sistema Digital de Puntualidad Operativa y Estandarización gráfica y física del material entregado a donadores.",
+        "Presenta prototipos validados mediante análisis estadísticos robustos (prueba t, ANOVA, regresión lineal) que demuestran la correlación entre las variables tangibles y la calidad percibida del servicio.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, alineando las soluciones con los ODS 3, 10 y 16, y demostrando cómo mejoran la experiencia del donador y la eficiencia operativa."
+      ],
+      "fortalezas": [
+        "Análisis estadístico profundo y bien fundamentado que valida las propuestas.",
+        "Soluciones innovadoras que abordan problemas tangibles identificados en el análisis.",
+        "Alineación clara con los Objetivos de Desarrollo Sostenible y contribución a la dignidad humana."
+      ],
+      "areas_mejora": [
+        "Podría incluir un plan de implementación detallado con cronogramas y responsables para cada propuesta.",
+        "Sería beneficioso mencionar posibles obstáculos en la implementación y cómo se planean superar."
+      ],
+      "retroalimentacion": "Excelente trabajo en la generación de soluciones innovadoras basadas en evidencia estadística. Las propuestas son robustas y aplicables, contribuyendo significativamente a la mejora de la Fundación Teletón. Continúa desarrollando planes de implementación detallados para fortalecer aún más tus propuestas."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera resultados derivados de un trabajo colaborativo idóneo mediante el análisis estadístico y la interpretación profunda de datos",
+        "Establece compromisos estratégicos con propuestas concretas como el Rediseño integral del protocolo de imagen y presentación, Implementación del Sistema Digital de Puntualidad Operativa y Estandarización gráfica y física del material entregado a donadores",
+        "Da cuenta del cumplimiento eficaz de funciones de negociación al presentar evidencias estadísticas que respaldan sus propuestas",
+        "Logra consistentemente los objetivos planteados al demostrar cómo sus acciones tácticas mejorarán la calidad del servicio y la percepción de los donadores"
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado",
+        "Propuestas concretas y bien justificadas basadas en datos",
+        "Alto nivel de detalle y profesionalismo en la presentación de resultados"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarán las propuestas en colaboración con otros equipos"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un desempeño óptimo en trabajo colaborativo al generar resultados estratégicos y compromisos bien fundamentados. Las propuestas son integrales y están respaldadas por evidencia estadística sólida."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra una profunda comprensión del contexto social, económico y político en el que opera Teletón, destacando las desigualdades estructurales y la falta de acceso equitativo a servicios de rehabilitación.",
+        "Propone soluciones constructivas y solidarias (como el rediseño del protocolo de imagen, sistema digital de puntualidad y estandarización de materiales) que buscan mejorar la experiencia de los donadores y beneficiarios, respetando su dignidad.",
+        "Muestra un claro compromiso comunitario al alinear las acciones propuestas con los Objetivos de Desarrollo Sostenible (ODS 3, 10 y 16), promoviendo instituciones más transparentes y confiables."
+      ],
+      "fortalezas": [
+        "Sensibilidad social y comprensión de las necesidades de grupos vulnerables.",
+        "Capacidad para generar soluciones basadas en evidencia estadística que respetan y dignifican a los usuarios.",
+        "Articulación clara entre las acciones propuestas y los principios éticos de justicia social y equidad."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo las propuestas impactarán directamente a los beneficiarios finales (niños y familias atendidas por Teletón)."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Tus propuestas no solo son técnicas, sino que reflejan un profundo respeto por la dignidad de los donadores y beneficiarios. Continúa integrando esta perspectiva humanista en tus proyectos futuros."
+    }
+  },
+  "ronda2": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (presentación del promotor, claridad de la información, procedimientos/documentación y cumplimiento de horarios).",
+        "Utiliza herramientas tecnológicas y resume de manera apropiada la información mediante tablas de frecuencia y estadísticas descriptivas (medias, medianas, modas, desviaciones estándar).",
+        "Muestra de manera atractiva la información relevante contenida en las variables (interpretación profunda de las medidas de tendencia central y dispersión).",
+        "Interpreta de manera coherente los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (prueba de hipótesis, ANOVA, regresión lineal, correlaciones)."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables tangibles.",
+        "Interpretación coherente y contextualizada de los resultados estadísticos.",
+        "Uso adecuado de referencias teóricas para sustentar los hallazgos."
+      ],
+      "areas_mejora": [
+        "Incluir visualizaciones gráficas para complementar el análisis descriptivo.",
+        "Profundizar en el uso de herramientas tecnológicas específicas para el análisis estadístico."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo. Has demostrado un dominio sólido de los conceptos y una interpretación coherente de los resultados. Para mejorar, considera incluir gráficos que complementen tu análisis y especificar las herramientas tecnológicas utilizadas."
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Falta de gráficos dinámicos en el documento"
+      ],
+      "retroalimentacion": "No se encontraron gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones que respalden los análisis estadísticos realizados para una mejor comprensión de los datos."
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes o en el seguimiento de los indicadores del plan estratégico, como se evidencia en el análisis profundo de las medidas de tendencia central y dispersión, y en la prueba de hipótesis ampliada.",
+        "Hace uso de herramientas de análisis pertinentes para el estudio, incluyendo pruebas t, ANOVA, regresión lineal y correlaciones.",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio, como las debilidades operativas en cumplimiento de horarios y procedimientos/documentación.",
+        "Propone de manera acertada líneas de acción estratégicas, como el rediseño integral del protocolo de imagen y presentación, la implementación del Sistema Digital de Puntualidad Operativa y la estandarización gráfica y física del material entregado a donadores."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado.",
+        "Propuestas de acción claras, específicas y bien justificadas con datos.",
+        "Integración de conceptos teóricos como SERVQUAL y Servicescape para reforzar los hallazgos."
+      ],
+      "areas_mejora": [
+        "Podría incluir un análisis más detallado de los costos y viabilidad de implementación de las propuestas.",
+        "Sería beneficioso explorar más a fondo el impacto potencial de las propuestas en diferentes segmentos de donadores."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Las evidencias presentadas demuestran un dominio avanzado de la subcompetencia. Continúa integrando teoría y práctica para fortalecer aún más tus análisis."
+    },
+    "SEGE201": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones innovadoras como el Rediseño integral del protocolo de imagen y presentación, el Sistema Digital de Puntualidad Operativa y la Estandarización gráfica y física del material entregado a donadores.",
+        "Presenta prototipos validados en sus características, como los lineamientos de higiene, postura y lenguaje corporal, el registro con QR o app interna, y las plantillas institucionales.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, alineando las propuestas con los ODS 3, 10 y 16 y demostrando su impacto en la mejora de la calidad percibida del servicio."
+      ],
+      "fortalezas": [
+        "Las propuestas están fundamentadas en un análisis estadístico sólido y en teorías reconocidas como SERVQUAL y Servicescape.",
+        "Las soluciones son concretas, detalladas y tienen un enfoque en la mejora de la experiencia del usuario y la dignidad humana.",
+        "El trabajo muestra una clara conexión entre las soluciones propuestas y los objetivos estratégicos de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir un plan de implementación más detallado, con cronogramas y responsables específicos para cada acción.",
+        "Sería beneficioso presentar métricas específicas para evaluar el éxito de las propuestas una vez implementadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la generación de soluciones innovadoras y validadas para mejorar la calidad del servicio en la Fundación Teletón. Las propuestas están bien fundamentadas y demuestran un alto nivel de aplicabilidad en el contexto solicitado. Continúa desarrollando planes de implementación detallados para asegurar el éxito de tus soluciones."
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Generación de resultados derivados de un trabajo colaborativo idóneo, evidenciado en el análisis integral y propuestas concretas para Teletón",
+        "Establecimiento de compromisos estratégicos como el rediseño del protocolo de imagen, implementación del Sistema Digital de Puntualidad Operativa y estandarización gráfica",
+        "Cumplimiento eficaz de funciones de negociación con otras personas, reflejado en las propuestas basadas en datos y evidencia estadística",
+        "Logro consistente de los objetivos planteados, demostrado en la conclusión contundente y alineación con los ODS"
+      ],
+      "fortalezas": [
+        "Análisis profundo y bien fundamentado con datos estadísticos y referencias teóricas",
+        "Propuestas concretas y estratégicas basadas en evidencia",
+        "Alto nivel de profesionalismo y rigor metodológico"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre el proceso colaborativo específico con otros miembros del equipo"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un desempeño óptimo en trabajo colaborativo, con propuestas estratégicas bien fundamentadas y alineadas con los objetivos institucionales. Sigue manteniendo este alto nivel de rigor y profesionalismo."
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra una profunda comprensión del contexto social y económico en el que opera Teletón, destacando las desigualdades estructurales y la falta de acceso a servicios de rehabilitación para familias de bajos recursos.",
+        "Propone soluciones constructivas y solidarias como el rediseño del protocolo de imagen, la implementación de un sistema digital de puntualidad y la estandarización gráfica del material entregado a donadores, todas ellas enfocadas en mejorar la experiencia del usuario y la eficiencia operativa.",
+        "Muestra un claro compromiso con la dignidad humana y los Objetivos de Desarrollo Sostenible (ODS), particularmente el ODS 16, al promover instituciones más transparentes y confiables."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado con datos estadísticos y referencias teóricas.",
+        "Propuestas concretas y bien justificadas que abordan problemas reales y tangibles.",
+        "Sensibilidad social y compromiso con la equidad y la justicia social."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las propuestas en la práctica, incluyendo posibles obstáculos y cómo superarlos."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las propuestas son innovadoras, bien fundamentadas y muestran un claro compromiso con la dignidad humana y la mejora de la calidad de vida de los beneficiarios de Teletón."
+    }
+  },
+  "puntos_criticos": {
+    "discrepancias": [],
+    "areas_debiles": [
+      {
+        "codigo": "SCD0105",
+        "nombre": "Gráficos Dinámicos",
+        "promedio": 0.0,
+        "evidencias": [],
+        "areas_mejora": [
+          "Falta de gráficos dinámicos en el documento"
+        ]
+      }
+    ],
+    "areas_fuertes": [
+      {
+        "codigo": "SCD0104",
+        "nombre": "Estadística Descriptiva",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis exhaustivo y detallado de las variables tangibles.",
+          "Interpretación coherente y contextualizada de los resultados estadísticos.",
+          "Uso adecuado de referencias teóricas para sustentar los hallazgos."
+        ]
+      },
+      {
+        "codigo": "SCD0303",
+        "nombre": "Insights y Líneas de Acción",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis estadístico robusto y bien fundamentado.",
+          "Propuestas de acción claras, específicas y bien justificadas con datos.",
+          "Integración de conceptos teóricos como SERVQUAL y Servicescape para reforzar los hallazgos."
+        ]
+      },
+      {
+        "codigo": "SEGE201",
+        "nombre": "Innovación",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Las propuestas están fundamentadas en un análisis estadístico sólido y en teorías reconocidas como SERVQUAL y Servicescape.",
+          "Las soluciones son concretas, detalladas y tienen un enfoque en la mejora de la experiencia del usuario y la dignidad humana.",
+          "El trabajo muestra una clara conexión entre las soluciones propuestas y los objetivos estratégicos de la organización."
+        ]
+      },
+      {
+        "codigo": "SEGE203",
+        "nombre": "Trabajo Colaborativo",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis profundo y bien fundamentado con datos estadísticos y referencias teóricas",
+          "Propuestas concretas y estratégicas basadas en evidencia",
+          "Alto nivel de profesionalismo y rigor metodológico"
+        ]
+      },
+      {
+        "codigo": "SEGE401",
+        "nombre": "Ética y Responsabilidad Social",
+        "promedio": 100.0,
+        "fortalezas": [
+          "Análisis detallado y bien fundamentado con datos estadísticos y referencias teóricas.",
+          "Propuestas concretas y bien justificadas que abordan problemas reales y tangibles.",
+          "Sensibilidad social y compromiso con la equidad y la justicia social."
+        ]
+      }
+    ],
+    "requiere_atencion": []
+  },
+  "input_humano": {
+    "observaciones": [],
+    "ajustes": {},
+    "comentario_final": ""
+  },
+  "evaluacion_final": {
+    "SCD0104": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Identifica en su totalidad las variables esenciales en la información (presentación del promotor, claridad de la información, procedimientos/documentación y cumplimiento de horarios).",
+        "Utiliza herramientas tecnológicas y resume de manera apropiada la información mediante tablas de frecuencia y estadísticas descriptivas (medias, medianas, modas, desviaciones estándar).",
+        "Muestra de manera atractiva la información relevante contenida en las variables (interpretación profunda de las medidas de tendencia central y dispersión).",
+        "Interpreta de manera coherente los resultados de los gráficos y análisis descriptivos en el contexto de la problemática planteada (prueba de hipótesis, ANOVA, regresión lineal, correlaciones)."
+      ],
+      "fortalezas": [
+        "Análisis exhaustivo y detallado de las variables tangibles.",
+        "Interpretación coherente y contextualizada de los resultados estadísticos.",
+        "Uso adecuado de referencias teóricas para sustentar los hallazgos."
+      ],
+      "areas_mejora": [
+        "Incluir visualizaciones gráficas para complementar el análisis descriptivo.",
+        "Profundizar en el uso de herramientas tecnológicas específicas para el análisis estadístico."
+      ],
+      "retroalimentacion": "Excelente trabajo en el análisis estadístico descriptivo. Has demostrado un dominio sólido de los conceptos y una interpretación coherente de los resultados. Para mejorar, considera incluir gráficos que complementen tu análisis y especificar las herramientas tecnológicas utilizadas.",
+      "promedio_delphi": 100.0
+    },
+    "SCD0105": {
+      "nivel": "Sin evidencia",
+      "puntos": 0,
+      "evidencias": [],
+      "fortalezas": [],
+      "areas_mejora": [
+        "Falta de gráficos dinámicos en el documento"
+      ],
+      "retroalimentacion": "No se encontraron gráficos dinámicos en el trabajo presentado. Es importante incluir visualizaciones que respalden los análisis estadísticos realizados para una mejor comprensión de los datos.",
+      "promedio_delphi": 0.0
+    },
+    "SCD0303": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Interpreta de manera efectiva los insights de los tableros inteligentes o en el seguimiento de los indicadores del plan estratégico, como se evidencia en el análisis profundo de las medidas de tendencia central y dispersión, y en la prueba de hipótesis ampliada.",
+        "Hace uso de herramientas de análisis pertinentes para el estudio, incluyendo pruebas t, ANOVA, regresión lineal y correlaciones.",
+        "Identifica posibles riesgos u oportunidades relevantes para el negocio, como las debilidades operativas en cumplimiento de horarios y procedimientos/documentación.",
+        "Propone de manera acertada líneas de acción estratégicas, como el rediseño integral del protocolo de imagen y presentación, la implementación del Sistema Digital de Puntualidad Operativa y la estandarización gráfica y física del material entregado a donadores."
+      ],
+      "fortalezas": [
+        "Análisis estadístico robusto y bien fundamentado.",
+        "Propuestas de acción claras, específicas y bien justificadas con datos.",
+        "Integración de conceptos teóricos como SERVQUAL y Servicescape para reforzar los hallazgos."
+      ],
+      "areas_mejora": [
+        "Podría incluir un análisis más detallado de los costos y viabilidad de implementación de las propuestas.",
+        "Sería beneficioso explorar más a fondo el impacto potencial de las propuestas en diferentes segmentos de donadores."
+      ],
+      "retroalimentacion": "Excelente trabajo en la interpretación de datos y propuesta de acciones estratégicas. Las evidencias presentadas demuestran un dominio avanzado de la subcompetencia. Continúa integrando teoría y práctica para fortalecer aún más tus análisis.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE201": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Genera soluciones innovadoras como el Rediseño integral del protocolo de imagen y presentación, el Sistema Digital de Puntualidad Operativa y la Estandarización gráfica y física del material entregado a donadores.",
+        "Presenta prototipos validados en sus características, como los lineamientos de higiene, postura y lenguaje corporal, el registro con QR o app interna, y las plantillas institucionales.",
+        "Garantiza aplicabilidad efectiva en el contexto de la Fundación Teletón, alineando las propuestas con los ODS 3, 10 y 16 y demostrando su impacto en la mejora de la calidad percibida del servicio."
+      ],
+      "fortalezas": [
+        "Las propuestas están fundamentadas en un análisis estadístico sólido y en teorías reconocidas como SERVQUAL y Servicescape.",
+        "Las soluciones son concretas, detalladas y tienen un enfoque en la mejora de la experiencia del usuario y la dignidad humana.",
+        "El trabajo muestra una clara conexión entre las soluciones propuestas y los objetivos estratégicos de la organización."
+      ],
+      "areas_mejora": [
+        "Podría incluir un plan de implementación más detallado, con cronogramas y responsables específicos para cada acción.",
+        "Sería beneficioso presentar métricas específicas para evaluar el éxito de las propuestas una vez implementadas."
+      ],
+      "retroalimentacion": "Excelente trabajo en la generación de soluciones innovadoras y validadas para mejorar la calidad del servicio en la Fundación Teletón. Las propuestas están bien fundamentadas y demuestran un alto nivel de aplicabilidad en el contexto solicitado. Continúa desarrollando planes de implementación detallados para asegurar el éxito de tus soluciones.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE203": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "Generación de resultados derivados de un trabajo colaborativo idóneo, evidenciado en el análisis integral y propuestas concretas para Teletón",
+        "Establecimiento de compromisos estratégicos como el rediseño del protocolo de imagen, implementación del Sistema Digital de Puntualidad Operativa y estandarización gráfica",
+        "Cumplimiento eficaz de funciones de negociación con otras personas, reflejado en las propuestas basadas en datos y evidencia estadística",
+        "Logro consistente de los objetivos planteados, demostrado en la conclusión contundente y alineación con los ODS"
+      ],
+      "fortalezas": [
+        "Análisis profundo y bien fundamentado con datos estadísticos y referencias teóricas",
+        "Propuestas concretas y estratégicas basadas en evidencia",
+        "Alto nivel de profesionalismo y rigor metodológico"
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre el proceso colaborativo específico con otros miembros del equipo"
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un desempeño óptimo en trabajo colaborativo, con propuestas estratégicas bien fundamentadas y alineadas con los objetivos institucionales. Sigue manteniendo este alto nivel de rigor y profesionalismo.",
+      "promedio_delphi": 100.0
+    },
+    "SEGE401": {
+      "nivel": "Destacado",
+      "puntos": 100,
+      "evidencias": [
+        "El estudiante demuestra una profunda comprensión del contexto social y económico en el que opera Teletón, destacando las desigualdades estructurales y la falta de acceso a servicios de rehabilitación para familias de bajos recursos.",
+        "Propone soluciones constructivas y solidarias como el rediseño del protocolo de imagen, la implementación de un sistema digital de puntualidad y la estandarización gráfica del material entregado a donadores, todas ellas enfocadas en mejorar la experiencia del usuario y la eficiencia operativa.",
+        "Muestra un claro compromiso con la dignidad humana y los Objetivos de Desarrollo Sostenible (ODS), particularmente el ODS 16, al promover instituciones más transparentes y confiables."
+      ],
+      "fortalezas": [
+        "Análisis detallado y bien fundamentado con datos estadísticos y referencias teóricas.",
+        "Propuestas concretas y bien justificadas que abordan problemas reales y tangibles.",
+        "Sensibilidad social y compromiso con la equidad y la justicia social."
+      ],
+      "areas_mejora": [
+        "Podría incluir más detalles sobre cómo se implementarían las propuestas en la práctica, incluyendo posibles obstáculos y cómo superarlos."
+      ],
+      "retroalimentacion": "Excelente trabajo que demuestra un alto nivel de ética y responsabilidad social. Las propuestas son innovadoras, bien fundamentadas y muestran un claro compromiso con la dignidad humana y la mejora de la calidad de vida de los beneficiarios de Teletón.",
+      "promedio_delphi": 100.0
+    }
+  },
+  "nota_final": 80.0,
+  "nivel_final": "Básico"
+}
