@@ -123,3 +123,27 @@ coverage.xml
 # Documentation builds
 docs/_build/
 site/
+
+# One-time generation/admin scripts
+add_colab_badges.py
+complete_notebook02.py
+create_workshop2.py
+enhance_workshop2.py
+enhance_workshops.py
+fix_dataset_comments.py
+update_dataset_urls.py
+push_student_content.sh
+slides/generate_visualizations.py
+Semana1/datos/generate_sample_dataset.py
+Semana1/datos/generator_ong_synthetic.py
+Semana1/datos/quick_generate.sh
+Semana1/datos/validate_dataset_quality.py
+
+# Internal documentation (not student-facing)
+CAMBIOS_RECIENTES.md
+DATASET_URLS.md
+WORKSHOP_STRUCTURE.md
+Semana1/datos/README_GENERADOR.md
+
+# Backups
+slides/semana1-medidas-descriptivas.BACKUP.md

@@ -119,6 +119,8 @@ if __name__ == '__main__':
         ('slides/semana1-pruebas-hipotesis.md', 'slides/semana1-pruebas-hipotesis-readable.md'),
         ('slides/semana2-chi-cuadrada-anova.md', 'slides/semana2-chi-cuadrada-anova-readable.md'),
         ('slides/semana2-regresion-correlacion.md', 'slides/semana2-regresion-correlacion-readable.md'),
+        ('semana3_reduced_localized/slide1_estrategia_analisis.md', 'semana3_reduced_localized/slide1_estrategia_analisis-readable.md'),
+        ('semana3_reduced_localized/slide2_herramientas_medicion.md', 'semana3_reduced_localized/slide2_herramientas_medicion-readable.md'),
     ]
 
     for input_file, output_file in slides:

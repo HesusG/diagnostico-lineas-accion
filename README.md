@@ -1,5 +1,12 @@
 # Diagnóstico para Líneas de Acción (CD2001B)
 
+> **Institucion:** Tecnologico de Monterrey
+> **Codigo del bloque:** CD2001B
+> **Nombre:** Diagnostico para Lineas de Accion
+> **Responsable de la adaptacion:** Hesus Garcia Cobos (hesus.garcia@tec.mx)
+>
+> Este repositorio es la **adaptacion** del profesor de la planificacion institucional proporcionada por el sistema Tec de Monterrey. El manual original del profesor se encuentra en [`data/CD2001B_Manual del Profesor_310125.pdf`](data/CD2001B_Manual%20del%20Profesor_310125.pdf).
+
 ## 📋 Descripción del Curso
 
 Este repositorio contiene el material didáctico para el bloque **"Diagnóstico para líneas de acción"** (CD2001B) del Tecnológico de Monterrey. El curso forma parte de la Entrada de Negocios y tiene como objetivo desarrollar competencias en **Analítica Descriptiva**, **Analítica Prescriptiva** y **Compromiso Ético y Ciudadano**.
@@ -153,11 +160,11 @@ jupyter notebook
 
 ## 👨‍🏫 Información del Profesor
 
-**Responsable:** Carlos Fernando Alonso Campos
-**Email:** carlos.alonso@tec.mx
+**Responsable de la adaptacion:** Hesus Garcia Cobos
+**Email:** hesus.garcia@tec.mx
 **Campus:** Puebla
 
-**Diseñadores:**
+**Diseñadores de la planificacion institucional:**
 - Beatriz González
 - Ericka Uribe
 - Gabriel Héctor Carmona

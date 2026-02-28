@@ -23,16 +23,15 @@ Crear un **mapa conceptual integrador** que conecte los conceptos más important
 ## 📚 Instrucciones Generales
 
 ### 1️⃣ Formación de Equipos
-- **3-4 integrantes** por equipo
 - Designen un **coordinador** que subirá el mapa al foro
-- **Todos** deben participar en la construcción del mapa
+- Idealmente **Todos** deben participar en la construcción del mapa, al final mencionen quienes fueron sus MVP del grupo, los que participaron más en su elaboración
 
 ### 2️⃣ Estructura del Mapa Conceptual
 
 Tu mapa debe incluir **CUATRO SECCIONES PRINCIPALES** claramente diferenciadas:
 
 #### 🟦 SECCIÓN A: SEMANA 1 - Fundamentos Estadísticos
-**Conceptos obligatorios (mínimo 10):**
+**Conceptos obligatorios (mínimo 4):**
 - Media, Mediana, Moda
 - Desviación estándar
 - Rango Intercuartílico (IQR)
@@ -45,7 +44,7 @@ Tu mapa debe incluir **CUATRO SECCIONES PRINCIPALES** claramente diferenciadas:
 - Prueba t pareada
 
 #### 🟩 SECCIÓN B: SEMANA 2 - Pruebas Avanzadas
-**Conceptos obligatorios (mínimo 10):**
+**Conceptos obligatorios (mínimo 4):**
 - Chi-Cuadrada (χ²)
 - Variables categóricas
 - Tabla de contingencia
@@ -58,7 +57,7 @@ Tu mapa debe incluir **CUATRO SECCIONES PRINCIPALES** claramente diferenciadas:
 - Variables predictoras
 
 #### 🟨 SECCIÓN C: APLICACIÓN (Workshops)
-**Conceptos obligatorios (mínimo 5):**
+**Conceptos obligatorios (mínimo 2):**
 - Análisis descriptivo
 - Interpretación de resultados (MEAL)
 - Visualizaciones (boxplot, heatmap, scatter plot)
@@ -124,19 +123,13 @@ Pueden usar cualquier herramienta para crear su mapa:
 
 **1. IMAGEN/PDF del mapa conceptual**
 - Formato: PNG, JPG, o PDF
-- Legible (fuente mínima 10pt)
+- Legible (fuente mínima 12pt)
 - Colores diferenciados por sección
 
 **2. TEXTO con la siguiente estructura:**
 
 ```
 🗺️ MAPA CONCEPTUAL INTEGRADOR - EQUIPO [X]
-
-👥 INTEGRANTES:
-- [Nombre 1 - Matrícula]
-- [Nombre 2 - Matrícula]
-- [Nombre 3 - Matrícula]
-- [Nombre 4 - Matrícula]
 
 📌 DECISIONES DE DISEÑO:
 [Expliquen en 2-3 oraciones por qué organizaron el mapa de esa manera]
@@ -153,20 +146,6 @@ Pueden usar cualquier herramienta para crear su mapa:
 
 🛠️ HERRAMIENTA USADA: [Nombre de la app/método]
 ```
-
----
-
-## ✅ Checklist para Entregar
-
-Antes de publicar, verifiquen que su mapa incluya:
-
-- [ ] **25+ conceptos obligatorios** (10 Semana 1 + 10 Semana 2 + 5 Aplicación)
-- [ ] **Cuatro secciones claramente diferenciadas** (usando colores, formas o áreas)
-- [ ] **Conexiones etiquetadas** (flechas con texto explicando la relación)
-- [ ] **Zona de dudas completa** (mínimo 2 dudas con preguntas específicas)
-- [ ] **Legible y organizado** (fuente adecuada, no amontonado)
-- [ ] **Texto de entrega completo** (integrantes, decisiones, dudas, conexión importante)
-- [ ] **Nombres de todos los integrantes** en el texto
 
 ---
 
@@ -216,12 +195,6 @@ Explica qué aporta cada concepto y cómo se relacionan.
 [ANOVA] ──[extiende la lógica para]──> [Comparar 3+ grupos simultáneamente]
 ```
 
----
-
-## 🗓️ Fechas Importantes
-
-**Fecha límite de entrega:** [Consulta Canvas]
-**Recomendación:** Comiencen al menos 3 días antes de la fecha límite para coordinarse como equipo
 
 ---
 
@@ -253,94 +226,3 @@ No necesariamente. Pueden estar en áreas separadas O usar colores/formas difere
 - Horario de oficina del profesor
 
 ---
-
-## 🎓 Valor Pedagógico
-
-Esta actividad les ayudará a:
-- 🧠 **Consolidar conocimiento** - Organizar conceptos mentalmente los hace más memorables
-- 🔗 **Ver el panorama completo** - Entender cómo todo se relaciona, no solo conceptos aislados
-- 📊 **Prepararse para el examen** - La Zona de Dudas identifica exactamente qué estudiar
-- 👥 **Aprender colaborativamente** - Diferentes perspectivas enriquecen la comprensión
-- 🗣️ **Practicar comunicación técnica** - Explicar conexiones fortalece su dominio
-
-**¡La Zona de Dudas es un regalo para ustedes!** Los conceptos que identifiquen ahí son exactamente lo que deben repasar antes del examen.
-
----
-
-## 🌟 ¿Qué Hace a un Mapa Excelente?
-
-Un mapa **excelente** no solo lista conceptos, sino que:
-
-1. **Cuenta una historia** - Muestra cómo los conceptos se construyen uno sobre otro
-2. **Revela comprensión profunda** - Las conexiones son precisas y bien justificadas
-3. **Es visualmente intuitivo** - Se puede seguir el flujo de ideas sin esfuerzo
-4. **Muestra honestidad intelectual** - La Zona de Dudas refleja autocrítica genuina
-5. **Integra teoría y práctica** - Vincula conceptos abstractos con aplicaciones concretas de los Workshops
-
----
-
-## 💬 Ejemplo de Texto de Entrega Completo
-
-```
-🗺️ MAPA CONCEPTUAL INTEGRADOR - EQUIPO 5
-
-👥 INTEGRANTES:
-- María González - A01234567
-- Carlos Ramírez - A01234568
-- Ana Martínez - A01234569
-- Luis Hernández - A01234570
-
-📌 DECISIONES DE DISEÑO:
-Organizamos el mapa en forma de pirámide. En la base pusimos los conceptos
-fundamentales de Semana 1 (medidas descriptivas) porque son la base de todo.
-En el nivel medio colocamos las pruebas de hipótesis y en la cima las pruebas
-avanzadas de Semana 2. La Zona de Dudas está en un recuadro rojo aparte a la
-derecha para visibilidad.
-
-❓ ZONA DE DUDAS:
-1. Diferencia entre Chi-Cuadrada y ANOVA
-   - Pregunta específica: ¿Ambas comparan grupos, pero cuándo uso una u otra?
-     ¿Es solo porque una usa variables categóricas y la otra numéricas?
-
-2. Interpretación del estadístico F en ANOVA
-   - Pregunta específica: Entendemos que F alto significa diferencias, pero
-     ¿cómo sabemos qué tan alto es "alto"? ¿Siempre usamos solo el p-value?
-
-3. Cuándo usar prueba t pareada vs independiente
-   - Pregunta específica: En el Workshop vimos que son las mismas personas en
-     dos momentos, pero ¿qué pasa si medimos a las mismas personas en la MISMA
-     variable pero en diferentes contextos (ej: satisfacción en casa vs trabajo)?
-
-🔗 CONEXIÓN MÁS IMPORTANTE:
-La conexión entre "p-value" y TODAS las pruebas estadísticas (t, Chi-Cuadrada,
-ANOVA, Regresión). Nos dimos cuenta de que el p-value es el "lenguaje común" que
-usamos para tomar decisiones en cualquier prueba, siempre comparándolo con α=0.05.
-Esta conexión nos ayudó a ver que aunque las pruebas son diferentes, la lógica de
-decisión es la misma.
-
-🛠️ HERRAMIENTA USADA: Canva (plantilla de mapa conceptual modificada)
-```
-
----
-
-## 📚 Recursos Adicionales
-
-**Para completar esta actividad, consulten:**
-- 📘 Slides Semana 1: `semana1-medidas-descriptivas-readable.md`
-- 📘 Slides Semana 1: `semana1-pruebas-hipotesis-readable.md`
-- 📗 Slides Semana 2: `semana2-chi-cuadrada-anova-readable.md`
-- 📗 Slides Semana 2: `semana2-regresion-correlacion-readable.md`
-- 💻 Workshop 1: `workshop1_plantilla.ipynb`
-- 💻 Workshop 2: `workshop2_plantilla.ipynb`
-- 📝 Quiz realizado (para refrescar conceptos)
-
-**Pueden preguntarme dudas en:**
-- Horario de oficina antes de la fecha de entrega
-- Foro de dudas en Canvas
-- Por correo electrónico
-
----
-
-**¡Mucha suerte, equipos!** 🚀📊🗺️
-
-Esta actividad no solo les ayudará para el examen, sino que creará un **recurso de estudio personalizado** que refleja cómo USTEDES entienden los conceptos. ¡Aprovechen este momento para consolidar su aprendizaje!
