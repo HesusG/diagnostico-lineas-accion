@@ -198,42 +198,6 @@ Explica qué aporta cada concepto y cómo se relacionan.
 
 ---
 
-## 📊 Rúbrica de Evaluación
-
-### Criterio 1: Cobertura de conceptos (25%)
-
-| Nivel | Indicadores observables |
-|-------|------------------------|
-| **Completo** | Incluye los 4 conceptos obligatorios mínimos de cada sección (A, B, C, D). Agrega conceptos adicionales relevantes más allá del mínimo. Cada concepto tiene una etiqueta clara que muestra comprensión (no solo el nombre). |
-| **Parcial** | Incluye la mayoría de los conceptos obligatorios (al menos 3 de cada sección) pero omite algunos. Los conceptos incluidos están etiquetados correctamente. No agrega conceptos adicionales. |
-| **Insuficiente** | Faltan múltiples conceptos obligatorios (menos de 3 por sección). Algunos conceptos tienen etiquetas incorrectas o confusas. La cobertura es desigual (ej: mucho de Semana 1, casi nada de Semana 2). |
-
-### Criterio 2: Calidad de las conexiones (30%)
-
-| Nivel | Indicadores observables |
-|-------|------------------------|
-| **Completo** | Todas las flechas tienen etiquetas que explican la relación (ej: "se extiende a", "requiere como supuesto"). Incluye conexiones horizontales (dentro de una semana), verticales (entre semanas) y aplicadas (teoría a workshops). Las relaciones son conceptualmente correctas. |
-| **Parcial** | La mayoría de las flechas tienen etiquetas. Hay conexiones entre conceptos pero predomina un solo tipo (ej: solo horizontales, sin conectar semanas entre sí). Alguna relación puede ser incorrecta o forzada. |
-| **Insuficiente** | Las flechas no tienen etiquetas o las etiquetas son genéricas ("se relaciona con"). Los conceptos están listados sin conexiones claras. No hay conexiones entre las secciones del mapa. |
-
-### Criterio 3: Zona de dudas (20%)
-
-| Nivel | Indicadores observables |
-|-------|------------------------|
-| **Completo** | Incluye al menos 2 dudas específicas con preguntas concretas (ej: "¿Cómo decidir entre Chi-Cuadrada y ANOVA cuando tengo una variable categórica y una numérica?"). Las dudas reflejan reflexión genuina sobre conceptos del curso. |
-| **Parcial** | Incluye 1-2 dudas pero son genéricas (ej: "No entendemos bien ANOVA") sin formular una pregunta específica que permita respuesta. |
-| **Insuficiente** | La zona de dudas está vacía, dice "no tenemos dudas", o contiene dudas no relacionadas con el contenido del curso. |
-
-### Criterio 4: Presentación y legibilidad (25%)
-
-| Nivel | Indicadores observables |
-|-------|------------------------|
-| **Completo** | Las 4 secciones se distinguen visualmente (colores, áreas, formas). El texto es legible sin hacer zoom. La jerarquía es clara (conceptos generales arriba/centro, específicos abajo/periferia). Incluye el texto de entrega con decisiones de diseño y conexión más importante. |
-| **Parcial** | El mapa es legible pero las secciones no se distinguen claramente. O bien: las secciones se distinguen pero el texto es pequeño o hay elementos solapados. Falta parte del texto de entrega. |
-| **Insuficiente** | El mapa es ilegible (texto muy pequeño, colores confusos, elementos solapados). No hay distinción entre secciones. No incluye el texto de entrega requerido. |
-
----
-
 ## 🤔 Preguntas Frecuentes
 
 ### ¿Podemos incluir más conceptos además de los obligatorios?

@@ -248,31 +248,13 @@ Puede ser uno de estos (o cualquier otro):
 
 ## 📊 Rúbrica de Evaluación
 
-**Total: 10 puntos**
+| Criterio | Puntos | Descripción |
+|----------|--------|-------------|
+| **Afirmaciones 1-3** | 6 pts | Respuestas individuales razonadas (1 pt c/u) + Conclusiones grupales coherentes (1 pt c/u) |
+| **Pregunta 4 (Aplicaciones)** | 2 pts | Ejemplos concretos y creativos en diferentes contextos |
+| **Pregunta 5 (Metacognición)** | 2 pts | Reflexión honesta y conclusión grupal constructiva |
 
-### Criterio 1: Afirmaciones 1-3 — Razonamiento sobre pruebas de hipótesis (6 pts)
-
-| Nivel | Puntos | Indicadores observables |
-|-------|--------|------------------------|
-| **Completo** | 6-5 | Cada integrante responde con nombre propio. Las justificaciones explican el razonamiento estadístico (ej: "p>0.05 no prueba H₀, solo falta evidencia"). Las conclusiones grupales sintetizan las perspectivas individuales y agregan un argumento nuevo o un ejemplo. |
-| **Parcial** | 4-3 | Respuestas individuales presentes pero algunas justificaciones son vagas ("porque así lo vimos en clase") o repiten lo que dijo otro compañero. Las conclusiones grupales existen pero no agregan valor más allá de las respuestas individuales. |
-| **Insuficiente** | 2-0 | Faltan respuestas individuales de uno o más integrantes. Las justificaciones son tipo sí/no sin razonamiento. No hay conclusiones grupales o son de una línea sin explicación. |
-
-### Criterio 2: Pregunta 4 — Aplicaciones en otros contextos (2 pts)
-
-| Nivel | Puntos | Indicadores observables |
-|-------|--------|------------------------|
-| **Completo** | 2 | Cada ejemplo menciona una pregunta específica de investigación y la prueba que usarían (ej: "En medicina: ¿El nuevo tratamiento reduce la presión arterial? → prueba t pareada"). La conclusión grupal elige un ejemplo y explica por qué es interesante. |
-| **Parcial** | 1 | Los ejemplos son genéricos ("en medicina se usan estadísticas") sin mencionar una pregunta de investigación concreta ni la prueba apropiada. |
-| **Insuficiente** | 0 | No responden la pregunta o los ejemplos no se relacionan con pruebas de hipótesis. |
-
-### Criterio 3: Pregunta 5 — Reflexión metacognitiva (2 pts)
-
-| Nivel | Puntos | Indicadores observables |
-|-------|--------|------------------------|
-| **Completo** | 2 | Cada integrante identifica un concepto específico que le costó (ej: "Confundo cuándo usar bilateral vs unilateral") y explica por qué fue difícil. La conclusión grupal identifica patrones comunes y propone una estrategia de estudio. |
-| **Parcial** | 1 | Las reflexiones son genéricas ("todo estuvo difícil") sin identificar conceptos específicos. La conclusión grupal existe pero no propone estrategia. |
-| **Insuficiente** | 0 | No hay reflexión individual o la conclusión grupal está vacía. |
+**Total:** 10 puntos
 
 ---
 

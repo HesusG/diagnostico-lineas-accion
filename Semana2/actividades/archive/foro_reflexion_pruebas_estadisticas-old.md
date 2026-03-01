@@ -92,25 +92,22 @@ Imagina que eres el **analista de datos** de una ONG que trabaja con educación.
 
 ---
 
-## 🎯 Rúbrica de Evaluación
+## 🎯 Criterios de Evaluación
 
-**Total: 10 puntos**
+### Publicación Inicial (6 puntos):
 
-### Publicación Inicial (6 puntos) — Por cada pregunta (A, B, C): 2 pts
+| Criterio | Puntos | Descripción |
+|----------|--------|-------------|
+| **Pregunta A** | 2 pts | Prueba correcta (1 pt) + Justificación clara (0.5 pt) + Función Python correcta (0.5 pt) |
+| **Pregunta B** | 2 pts | Prueba correcta (1 pt) + Justificación clara (0.5 pt) + Función Python correcta (0.5 pt) |
+| **Pregunta C** | 2 pts | Prueba correcta (1 pt) + Justificación clara (0.5 pt) + Función Python correcta (0.5 pt) |
 
-| Nivel | Puntos (por pregunta) | Indicadores observables |
-|-------|----------------------|------------------------|
-| **Completo** | 2 | Identifica la prueba correcta (ej: "prueba t pareada" para Pregunta A). Justifica con el criterio estadístico relevante (ej: "son las mismas personas medidas antes/después, por eso es pareada, no independiente"). Menciona la función Python correcta con parámetros clave. |
-| **Parcial** | 1 | Identifica la prueba correcta pero la justificación es vaga ("porque es la que aplica") o incompleta. O bien: justificación sólida pero prueba incorrecta (demuestra razonamiento aunque yerre). La función Python es correcta o razonablemente cercana. |
-| **Insuficiente** | 0 | Prueba incorrecta sin justificación, o no responde. La justificación no menciona tipo de datos, diseño del estudio ni número de grupos. |
+### Interacción con Compañeros (4 puntos):
 
-### Interacción con Compañeros (4 puntos)
-
-| Nivel | Puntos | Indicadores observables |
-|-------|--------|------------------------|
-| **Completo** | 4-3 | Responde a un compañero con un aporte técnico específico: corrige un error con explicación, agrega un supuesto estadístico relevante (ej: "habría que verificar normalidad"), o sugiere una alternativa con justificación. El tono es respetuoso y constructivo. |
-| **Parcial** | 2-1 | Responde a un compañero pero el aporte es superficial ("estoy de acuerdo, buen trabajo") sin agregar contenido técnico nuevo. O el aporte es técnico pero con errores conceptuales. |
-| **Insuficiente** | 0 | No interactúa con ningún compañero, o la interacción es solo un saludo o emoji sin contenido. |
+| Criterio | Puntos | Descripción |
+|----------|--------|-------------|
+| **Respuesta constructiva** | 2 pts | Comentario reflexivo, bien fundamentado |
+| **Aporte de valor** | 2 pts | Agrega información útil, hace una pregunta inteligente, o ayuda a clarificar |
 
 ---
 
